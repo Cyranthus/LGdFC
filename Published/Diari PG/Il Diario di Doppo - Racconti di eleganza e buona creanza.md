@@ -1,5 +1,4 @@
 
-
 ## Caro diario…
 
 …ho deciso di iniziare a scriverti per tenere memoria di tutte le fantastiche avventure che so mi porteranno un giorno in alto nella società e per avere audaci argomenti di conversazione con i cicisbei a corte
