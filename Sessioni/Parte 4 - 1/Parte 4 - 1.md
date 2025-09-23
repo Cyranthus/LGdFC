@@ -166,12 +166,12 @@ Le acque del lago sono leggermente increspate per la corrente dei due fiumi (uno
 Hints area:
 https://docs.google.com/document/d/1JeeyEtbfkwjD1UPpBFenZrHnD5TvpJCXb4unKExp6k0/edit?pli=1&tab=t.0#heading=h.u0i050edazx0
 
-I nostri eroi atterrano nei pressi di un lago, da cui partono due fiumi (verso ovest, il fiume prosegue a Ilvarandin e nel Sightless Sea; a est verso le Land of Black Blood).
+I nostri eroi atterrano nei pressi di un lago, da cui partono due fiumi (verso ovest, il fiume prosegue a **Ilvarandin** e nel **Sightless Sea**; a est verso le **Land of Black Blood**).
 
 Seguendo la visione dei medaglioni, gli eroi si dirigeranno verso Nord-Est, avvicinandosi alla montagna fumante di Nocthysax (la nave è oltre essa).
 
 Se s'incamminano lungo il fiume:
-- d100: < 20% incontro casuale.
+- d100: < 20% incontro casuale vicino alle rive del fiume.
 
 
 ## Le Cave di Ossidiana
@@ -186,9 +186,10 @@ Dopo qualche minuto altri 3 Gug verrà verso il fiume (con le vedette saranno 5)
 
 se gli eroi attaccheranno il campo, alcuni schiavi cercheranno di scappare e/o combattere (verranno uccisi altri 2 Gug dai Pech)
 
-- 3 draghi molto giovani https://golarion.altervista.org/wiki/Drago_delle_Ombre_Molto_Giovane
-- 2 Gug normali 
-- 3 Gug con armi Tek saranno nei campi (2 armi lunghe per Gug)
+- 2 draghi molto giovani https://golarion.altervista.org/wiki/Drago_delle_Ombre_Molto_Giovane
+- 4 Gug con armi Tek saranno nei campi
+	- 2 Gug con 4 armi da mischia per gli artigli
+	- 2 Gug con 2 armi lunghe da distanza
 
 - Se salveranno i Pech, i superstiti li porteranno a un loro villaggio nascosto (sopravviveranno circa una decina).
 - il "capo" dei suprestiti (l'unico che non sarà troppo spaventato per non provare a parlare con gli eroi) si chiama **Puthok**.

@@ -8,17 +8,51 @@
         "type": "tabs",
         "children": [
           {
+            "id": "413cc185aa1e11e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessioni/Parte 4 - 1/Parte 4 - 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parte 4 - 1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "95ed502d4d766773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e1fea33d9094240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessioni/Parte 4 - 1/Mostri e creature delle Montagne di Mezzanotte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mostri e creature delle Montagne di Mezzanotte"
+            }
+          },
+          {
             "id": "e4174af6372c770d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Published/Cronologia Eventi.md",
+                "file": "Mondo/Geografia/Underdark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cronologia Eventi"
+              "title": "Underdark"
             }
           }
         ]
@@ -78,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 241.5
   },
   "right": {
     "id": "6209ef6ca5687cb1",
@@ -248,8 +282,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e4174af6372c770d",
+  "active": "413cc185aa1e11e5",
   "lastOpenFiles": [
+    "Sessioni/Parte 4 - 1/Mostri e creature delle Montagne di Mezzanotte.md",
+    "Mondo/Geografia/Underdark.md",
+    "Sessioni/Parte 4 - 1/Parte 4 - 1.md",
+    "Sessioni/Parte 4 - 1/Appunti.md",
+    "Published/Cronologia Eventi.md",
     "Published/Diari PG/Il Diario di Topper.md",
     "Published/Diari PG/Il Diario di Doppo - Racconti di eleganza e buona creanza.md",
     "Published/Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
@@ -257,8 +296,6 @@
     "Published/Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
     "Published/Mondo/Ciuschi & co/Ciuschi Meravigliosi.md",
     "Published/Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
-    "Published/Cronologia Eventi.md",
-    "Sessioni/Parte 4 - 1/Appunti.md",
     "Published/La Storia fin'ora/Riassunto - Parte 4.md",
     "Published/La Storia fin'ora/Riassunto - Parte 3.md",
     "Published/La Storia fin'ora/Riassunto - Parte 2.md",
@@ -266,9 +303,7 @@
     "Published/La Storia fin'ora/Riassunto - Parte 1.md",
     "Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
     "Mondo/Cronologia Eventi.md",
-    "Sessioni/Parte 4 - 1/Mostri e creature delle Montagne di Mezzanotte.md",
     "Published/Mondo/NPC/S.A.P/S.A.P..md",
-    "Mondo/Geografia/Underdark.md",
     "Mondo/Geografia/Rebellion.md",
     "Published/Mondo/Apparizioni/Pistola rotta (Rattigan)/Scheda Pg - Rattigan.md",
     "Published/Mondo/Apparizioni/Pistola rotta (Rattigan)/Descrizione e Visione.md",
@@ -276,7 +311,6 @@
     "Published/Mondo/Apparizioni/Laccio di uno scudo spezzato (Gouffre)/Scuola Segreta della Lama Miracolosa.md",
     "Published/Mondo/Apparizioni/Lama dell'Ultima Cittadella spezzata (Valerin)/Scheda Pg - Valerin del Corvo Bianco.md",
     "Published/Mondo/Apparizioni/Manico di un_ascia (King Alphaeus)/Scheda Pg - King Alphaeus.md",
-    "Published/Mondo/Apparizioni/Maschera nera mezza strappata (Dav-Horn)/Scheda Pg - Dav-Horn.md",
     "Published/Mondo/NPC/Enemies/Archived/Vorlan Fogliagrigia (9)",
     "Published/Mondo/NPC/Enemies/Archived/Nymir Verdimanto (9)",
     "Published/Mondo/NPC/Enemies/Archived/Gruppo di Cercatori (lvl 8)",

@@ -1,4 +1,4 @@
-
+Vedi anche [[Underdark]]
 ### 1. Bestiario ufficiale (da _Down Through the Darklands!_)
 
 Una tabella di incontri casuali fornisce una serie di creature (livello 6–10) che i personaggi potrebbero affrontare mentre esplorano questa regione:
