@@ -22,7 +22,7 @@
 
 ==_Asmodeus è stato ucciso dagli eroi di Korvosa; Fondamentale è stato il contributo di Varkan e del suo potente Eidolon ricreato combinandolo con il potente drago Kazavon:_==
 
-[_https://image.gamer.ne.jp/news/2012/20120330/0026dc4c320dbfb4856b3949e255ffd26624/o/12.jpg_](https://image.gamer.ne.jp/news/2012/20120330/0026dc4c320dbfb4856b3949e255ffd26624/o/12.jpg)
+![[Kazavon_Varkhan_Eidolon.jpg]]
 
 ==_**4740 – 4744 – con la scomparsa di Asmodeus e la fine della sua chiesa, la Varisia entra militarmente nel Cheliax ponendo fine alla tirannia nel paese. Altre ribellioni interne sono state fomentate e aiutate dalle regioni adiacenti il Cheliax (tra essi vi era anche l’Andoran).**_==
 
