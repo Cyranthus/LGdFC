@@ -25,8 +25,7 @@ Esplorando i mausolei principali, gli eroi trovano un vecchio manico spezzato di
 > _Urli e ti lanci alla carica._
 > 
 > ![embedded image](https://assets.legendkeeper.com/337aa9b9-b114-4436-b2fc-a0806e746085.png "Attachment")
-> 
-> _<buio>_
+> *Buio*
 
 Dopo aver ripulito gli esterni della necropoli, i nostri valorosi salvatori si avvicinano a quella che sembra essere l'entrata per le cripte sotterranee; sopra l'ingresso campeggia un'antica scritta che il gruppo non riesce a decifrare, intuendo soltanto che dovrebbe trattarsi di antico Thassiloniano.
 
@@ -110,9 +109,8 @@ Durante l'incontro con Krylbo e i suoi, l'attenzione del gruppo viene attirata d
 
 > _TUMP! TUMP! TUMP!_
 > 
-> _Il portone, anche se di metallo, non reggerà ancora per molto… La grande stanza in cui vi siete rifugiati non ha altre vie d’uscita! Sei in trappola… Siete in trappola! Ti guardi attorno e vedi la tua famiglia, i tuoi figli, che cercano in tutti i modi di nascondersi, di mimetizzarsi con l’ambiente… Nemmeno in forma di mobile riescono a smettere di tremare dalla paura… Ti volti verso i tuoi compagni, che stanno cercando di tenere la porta bloccata assieme a te; inveiscono e urlano in preda alla rabbia e alla disperazione! “Oh, per Tyrel, è veramente finita! Oh, Tyrel! Non dovevi essere tu la rinascita della speranza?? Non dovevi essere tu a salvarci tutti??” Un intenso bagliore comincia a provenire da un punto sulla porta; quel punto diventa sempre più caldo, il metallo comincia a sciogliersi… La luce si muove sulla porta, disegnando un arco di metallo fuso… La porta diventa sempre più calda, bruciante, dovete allontanarvi… L’arco di metallo cade nella stanza con un gran boato e, dopo interminabili secondi di silenzio, inorridisci vedendo un enorme getto di fuoco invadere l’intera stanza._
-> 
-> _<Buio>_
+> *Il portone, anche se di metallo, non reggerà ancora per molto… La grande stanza in cui vi siete rifugiati non ha altre vie d’uscita! Sei in trappola… Siete in trappola! Ti guardi attorno e vedi la tua famiglia, i tuoi figli, che cercano in tutti i modi di nascondersi, di mimetizzarsi con l’ambiente… Nemmeno in forma di mobile riescono a smettere di tremare dalla paura… Ti volti verso i tuoi compagni, che stanno cercando di tenere la porta bloccata assieme a te; inveiscono e urlano in preda alla rabbia e alla disperazione! “Oh, per Tyrel, è veramente finita! Oh, Tyrel! Non dovevi essere tu la rinascita della speranza?? Non dovevi essere tu a salvarci tutti??” Un intenso bagliore comincia a provenire da un punto sulla porta; quel punto diventa sempre più caldo, il metallo comincia a sciogliersi… La luce si muove sulla porta, disegnando un arco di metallo fuso… La porta diventa sempre più calda, bruciante, dovete allontanarvi… L’arco di metallo cade nella stanza con un gran boato e, dopo interminabili secondi di silenzio, inorridisci vedendo un enorme getto di fuoco invadere l’intera stanza.
+> Buio.*
 
 Gli intrepidi decidono quindi di tentare una sortita tramite le fogne (cosa che, come il tentato attacco frontale, ha costretto il DM a buttare via pagine e pagine di possibili approcci stealth, intrighi e raggiri ai danni delle tre tribù...) e si accordano con i WereFurnitures per incontrarsi il giorno seguente davanti alla chiesa-rifugio dove i Tiefling hanno stabilito la loro base.
 
@@ -142,10 +140,9 @@ Dopo uno scontro in una sorta di slargo tra i condotti fognari, gli eroi trovano
 > _Rumori di passi, zampe… ululati graffianti come artigli sulla lavagna… sniff sniff, il tuo fine olfatto non mente: Akata, sono almeno una dozzina… ti nascondi dietro a un mucchio di rifiuti, controlli le pistole, il serbatoio di acido alle tue spalle… è ancora bello pieno, dovrebbe bastare!_  
 > _Non puoi condurli al rifiugio e i civili sono ancora troppo vicini… devi farli fuori tutti qui, ora!_  
 > _Li senti vicino, sono a portata, esci allo scoperto urlando e sparando, ti riempi di furia mentre stai falcidiando i primi e non esiti nemmeno per un secondo, anche quando ti rendi conto di aver contato male._
-> 
 > ![embedded image](https://assets.legendkeeper.com/295b51c7-bd74-4fa8-a0a8-5167f940dcf5.jpg "Attachment")
 > 
-> _<Buio>_
+> *Buio*
 
 L'accesso alla piramide si rivela essere una sorta di scarico in cui sono stati gettati migliaia di corpi e resti organici...
 
@@ -252,7 +249,7 @@ Nello studio di Doppler (anche questo ulteriormente nascosto), il gruppo fa dive
 > _In una frazione di secondo, con un silenzio assordante, riesci a vedere praticamente tutta la piazza, anzi, buona parte del centro città, la creatura e i tuoi amici svanire nel nulla, terreno compreso._
 > 
 > _E subito dopo, un’esplosione di luce e caos ti investe._  
-> <_Buio>_
+> *Buio*
 
 Assieme alla strana maschera vi è una vecchissima mappa di una regione molto lontana che riconoscete essere la Varisia. Vi sono vari appunti e segni sulla mappa, scritti sempre in infernale:  
 le poche righe presenti stilano una sorta di elenco per punti:  

@@ -125,19 +125,12 @@ L'esperimento di Neg da seguito ad altre prove simili fatte dai suoi compagni (m
     Simon faceva parte di un gruppo composto da:
     
     *   Quarantena (apparizione del bastone spezzato)
-        
     *   Rattigan (la pistola non funzionante)
-        
     *   Arthur (apparizione della piuma bianca)
-        
     *   Gouffree (apparizione del laccio dello scudo)
-        
     *   un certo Frankie
-        
     *   una certa Brittany
-        
     *   un bambino di nome Tyrel, considerato la reincarnazione di un dio.
-        
     
     Simon conservava un ricordo molto vivido del suo legame con Rattigan: negli ultimi anni di resistenza contro gli Invasori, i due avevano combattuto spesso fianco a fianco, soprattutto dopo la rottura e la separazione dagli altri membri del gruppo. Non fidandosi dei Nuovi Arrivati (il cui loro aspetto ricorda molto quello di Feisty) Simon e Rattigan preferirono rifugiarsi nel sottosuolo con i volontari e i pochi che ancora resistevano, per riorganizzare le difese.
     

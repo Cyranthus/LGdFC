@@ -60,8 +60,7 @@ Durante la discussione, Blu viene attrattə da una serie di decorazioni e ninnol
 > _Cerchi di formulare nella tua mente un'ultima preghiera, un'ultima..._
 > 
 > _Il soldato preme il grilletto._
-> 
-> _<Buio>_
+> *Buio*
 
 Un particolare della visione non sfugge a Blu: i "compagni" a terra, vicino al cadavere di una ragazza chiamata Brittany, sono umanoidi molto simili a Feisty.
 

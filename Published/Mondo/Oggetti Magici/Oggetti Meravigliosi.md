@@ -56,11 +56,3 @@ Inoltre, il libro concede +5 alle prove di sapienza magica e conoscenze arcane s
 
 ## Il Sacchetto delle Evocazioni
 -----------------------------------------------------------------------------------------------------------
-
-
-## Mantello Maledetto di Balena Blu Joe
------------------------------------------------------------------------------------------------------------
-Maledizione: la pelle del portatore del mantello diventa blu.
-+ +4 a tutti i TS di resistenza
-+ volo giornaliero attivabile a volontà
-+ il mantello non può più essere tolto

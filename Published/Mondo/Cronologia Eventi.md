@@ -1,0 +1,69 @@
+
+**Eventi storici più recenti, dal 4720 a oggi (5720)**
+------------------------------------------------------
+
+==_4708 – Caduta e morte di Ileosa Arabasti e fine della sua tirannia._==
+
+==_4709 - la Regina Cressida Kroft insieme agli eroi responsabili della caduta di Ileosa, creano un'organizzazione di spionaggio (e contro-spionaggio) ufficialmente non affiliata a Korvosa, chiamata S.A.P.. L'eroina Gurnys ne è a capo. Gli scopi principali dell'organizzazione sono due: contrastare le interferenze del Cheliax, cercare informazioni sulle reliquie di Kazavon._==
+
+==_4712 – gli Eroi di Korvosa recuperano tutte le parti di Kazavon, l'eroe Varkhan ne diviene l’unico custode._==
+
+==_**4712 - 4725 – Korvosa, sotto la guida di Cressida Kroft, espande sempre di più la sua influenza nella Varisia; sempre più città stato si uniscono a Korvosa; si crea così il Regno della Varisia (con capitale Korvosa)**_==
+
+==_4726 - 4730 – La Varisia, stanca delle continue incursioni e interferenze del Nidal e del Cheliax, rafforza i controlli di frontiera e la rete antispionaggio. Gli ordini religiosi di Asmodeus e Zon Kuton vengono banditi dalla Varisia._==
+
+==_4731 - 4733 – Per contrastare le sempre più invadenti incursioni Cheliaxiane, il Regno di Varisia fomenta e sostiene sempre più rivolte all’interno del regno del Cheliax, tra le più famose quella della città di Kintargo._==
+
+==_4734 - L'eroe Davhorn, tra tutti, viene sempre più spesso braccato da diavoli e seguaci di Asmodeus._==
+
+==_4734 – Varisia e Cheliax sono oramai sull'orlo di una guerra; Cressida chiede aiuto agli Eroi di Korvosa per sconfiggere il Cheliax una volta per tutte evitando una guerra aperta: gli eroi di Korvosa decidono di fare ancora di più: detronizzare Asmodeus e prendere il controllo degli Inferi, distruggendo così il pilastro fondamentale della tirannia Cheliaxiana._==
+
+4736 – Scompare Asmodus; i suoi seguaci perdono ogni potere, gli Inferi diventano inaccessibili, le evocazioni degli infernali impossibili.
+
+==_Asmodeus è stato ucciso dagli eroi di Korvosa; Fondamentale è stato il contributo di Varkan e del suo potente Eidolon ricreato combinandolo con il potente drago Kazavon:_==
+
+[_https://image.gamer.ne.jp/news/2012/20120330/0026dc4c320dbfb4856b3949e255ffd26624/o/12.jpg_](https://image.gamer.ne.jp/news/2012/20120330/0026dc4c320dbfb4856b3949e255ffd26624/o/12.jpg)
+
+==_**4740 – 4744 – con la scomparsa di Asmodeus e la fine della sua chiesa, la Varisia entra militarmente nel Cheliax ponendo fine alla tirannia nel paese. Altre ribellioni interne sono state fomentate e aiutate dalle regioni adiacenti il Cheliax (tra essi vi era anche l’Andoran).**_==
+
+*   ==_Kintargo e Vyre diventano estensioni della Varisia (aree limitrofe annesse)._==
+
+==_4748 – L'arcimago Vickster e i suoi sottoposti, con il supporto della corona, libera l'Acadamae dalla precedente direzione e diventa il nuovo rettore della famosa scuola di magia._==
+
+==_4760 – La Regina Cressida, con l'aiuto dei maghi dell'Acadame, crea una rete di portali tra le più grandi città della Varisia, denominata il Pilastro._==
+
+==_4821 - 4830 - Le ricerche condotte da Vickster e i maghi dell'Acadamae, fanno fare un balzo tecnologico notevole alla città di Korvosa. Vengono recuperati e studiati nuovi tipi di armi, Golem-robot e armature/esoscheletri primordiali._==
+
+==_4831 – La rete di spionaggio della S.A.P. scopre l'esistenza di un piano dei Cercatori per attaccare Korvosa._==  
+  
+==_**4832 – I Cercatori dell'Alba attaccano tutte le grandi città della Varisia, distruggendo e requisendo la tecnologia Korvosiana, massacrando chiunque è a conoscenza di tale tecnologia.**_==
+
+*   ==_**Un misterioso cataclisma fa crollare il regno della Varisia, colpendo principalmente la capitale Korvosa.==**_
+
+==_**4832 - 4850**_ _– L’intera zona di Korvosa è sconvolta e scorticata da un enorme quantità di magia. Flora e fauna crescono in modo caotico e incontrollato, creando uno stranissimo ecosistema in continuo mutamento. l'Intera area è colpita da sacche di magia selvaggia e tempeste magiche improvvise. Impossibile raggiungere Korvosa._==
+
+**483\* -** Proprio come Aroden più 200 anni fa, la dea Pharasma sparisce, I suoi chierici e seguaci non ricevono più nessuna risposta dalla dea.
+
+==_**4835 – 4860**_ _– Il Nidal approfittò della scomparsa di Korvosa per espandersi nella Varisia: questo assieme alla perdita del potere centrale, portarono allo sgretolamento del regno nuovamente in città indipendenti o controllate indirettamente dal Nidal._==
+
+**520\*** – Spariscono anche le divinità Norgorber, Irori, Iomedae e Cayden Cailean; anch’essi smettono di rispondere ai rispettivi seguaci.
+
+**522\*** – la sparizione di Pharasma e di altre divinità ha causato un aumento dell’attività di non morti in tutta Golarion.
+
+**5427 – 5467** Orde di morti attaccano diverse città del nord dell'Andoran. Dopo le sconfitte e ritirate iniziali, le orde vengono finalmente sconfitte grazie alle forze del Consorzio e ai Cercatori dell’Alba.
+
+==_**5400**_ _– la zona di magia selvaggia di Korvosa rallenta il suo continuo mutamento. Diventa meta di alcune spedizioni e studi per via delle innumerevoli piante e creature strane che si sono sviluppate. In pochissimi fanno ritorno da quella zona._==
+
+==_**5430**_ _\- Un nostro gruppo di esplorazione riesce a raggiungere Korvosa, confermando il punto di origine del cataclisma; viene anche accertato che praticamente metà della città è stata letteralmente fatta svanire nel nulla._==
+
+**5470** – nei pressi del vulcano Droskar's Crag, I Cercatori dell’Alba scovano e sconfiggono la base principale di un gruppo di negromanti chiamato Pallida Notte, probabile causa dell’orda di morti degli anni precedenti.
+
+**5480** – Grazie all’impresa e la formidabile difesa dimostrata contro l’orda di morti, il Consorzio di Legname raccoglie sempre più consenso; sempre più città dell’Andoran eleggono uomini del Consorzio come loro rappresentanti nel Concilio del Popolo.
+
+**550\*** – il Consorzio del Legname ora si chiama semplicemente il Consorzio: esso è diventato una fazione politica ed economica molto potente ed influente nel paese, tanto da guadagnarsi il pieno appoggio di quasi un terzo dei comuni del regno.
+
+**5640 - 5660** – Le tensioni tra i druidi della foresta di Arthfell e gli Andoriani sfociano in feroci scontri e attentati.
+
+**5690** – i Liberti (la fazione politica opposta al Consorzio), in collaborazione con membri della Gilda dei Cercatori dell’Alba, ottengono una tregua con i druidi di Arthfell.
+
+**5720 – oggi**

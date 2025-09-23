@@ -12,7 +12,9 @@
 - [[#Lago sotto la cascata|Lago sotto la cascata]]
 - [[#Le Cave di Ossidiana|Le Cave di Ossidiana]]
 - [[#Rifugio Sotterraneo dei Pech|Rifugio Sotterraneo dei Pech]]
-
+- [[#Monte Ugothogo / Cittadella di Nocthysax|Monte Ugothogo / Cittadella di Nocthysax]]
+	- [[#Monte Ugothogo / Cittadella di Nocthysax#Incontro con Nocthysax|Incontro con Nocthysax]]
+- [[#Caverna della Rebellion|Caverna della Rebellion]]
 
 Il sottosuolo - il percorso verso il lago
 -----------------------------------------
@@ -224,5 +226,8 @@ dopo circa 8 ore di cammino, arrivate davanti a quella sembra un'anonima parete 
 - proporrà agli eroi di collaborare con lui... se accetteranno, gli fornirà informazioni su dove trovare una fonte di alimentazione molto potente... all'interno di una base segreta della SAP, la base da cui lui è scappato.
 
 
-
 ## Caverna della Rebellion
+
+Ci saranno Gug di guardia all'ingresso della caverna e un drago d'ombra.
+
+nelle profondità 

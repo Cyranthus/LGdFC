@@ -3,10 +3,6 @@ Funzionamento Base
 
 I Korvosiani hanno sviluppato una tecnologia che permette d'immagazzinare l'energia arcana sfruttando le proprietà del Noqual.
 
-Secret
-
-Il Noqual è un materiale trovato in grandi quantità sulla Rebellion (e poi acquisito soprattutto da Riddleport e dalla Numeria)
-
 La tecnologia Korvosiana può essere ricaricata **solamente** tramite il carica-batterie di magia primordiale e tramite il consumo di slot di magia arcana o divina: **1 lvl di spell ricaricano 1 carica di batteria.**
 
 Il Noqual permette di registrare degli spell che, una volta caricati con energia magica primordiale, si sprigionano con urti violenti, oppure, quelli con durata, di registrare effetti (o combinazioni di effetti e incantesimi) in modo da ripeterli anche solo immettendo energia primordiale attraverso il Noqual, senza doverli ripetere.
@@ -21,7 +17,6 @@ Numero di poli (se presenti):
 3 poli: °°°
 
 *   **Carica-batterie magia primordiale**: assorbe gli slot spell arcani/divini consumati e li converte in magia primordiale.
-
 
 *   **R.A.M. (Revolver Arcano Multifunzione)**: batteria da 12 cariche, è una revolver normalissima in apparenza, ma quando spara (usando le cariche), dall'impugnatura partono delle linee luminose azzurre che passano per il tamburo e la canna, attivando lo spell memorizzato nel proiettile di Noqual.  
     Gli spell utilizzabili sono:  

@@ -347,8 +347,9 @@ e un [bracciale in pelle nera](https://app.legendkeeper.com/a/worlds/clzzlnouk3f
 > 
 > ![embedded image](https://assets.legendkeeper.com/a6991312-b658-4362-b06f-98c4ec49aeb7.png "Attachment")
 > 
-> _Dall’ombra vedi emergere due occhi vuoti, due abissi oscuri pervasi da una strana luminescenza bluastra e malevola..._  
-> _<Buio>_
+> _Dall’ombra vedi emergere due occhi vuoti, due abissi oscuri pervasi da una strana luminescenza bluastra e malevola...
+> Buio.
+
 
 Oltre a questo, altri importanti ritrovamenti includono il _Libro della Pallida Notte_ (una raccolta di rituali necromantici scritti e tramandati dall'omonima setta) e il famigerato _Libro del Demone Seraptis_.
 
@@ -367,13 +368,9 @@ Un dettaglio non sfugge all'occhio attento di Neg: al collo della marchesa, dura
 Da quel momento, la situazione va decisamente fuori controllo:
 
 *   La guardia baciata da Serafina ha condiviso l'amore tentacolare di quest'ultima con altre guardie, camerieri e invitati, creando un'infezione diffusa di parassiti alieni.
-    
 *   Le vittime dell'incantesimo della marchesa D'Salle attaccano indiscriminatamente tutti i viventi, inclusi gli esseri infettati dai parassiti.
-    
 *   Topper ritiene che la soluzione migliore sia dare fuoco a tutto e a tutti.
-    
 *   Un gruppo di ladri guidati da Berril (il losco criminale che aveva avvicinato Doppo in prigione) aveva pensato bene di approfittare della festa organizzata dal conte per intrufolarsi in casa e svaligiarla... molto presto, però, cambiano idea e fuggono a gambe levate.
-    
 
 Dopo aver sterminato quasi tutta la nobiltà di Olf Den, ucciso innumerevoli persone infettate dai parassiti e dato fuoco all'intera villa, il nostro manipolo di eroi decide di affrontare finalmente il problema della "coscienza" parassitante di Doppo: dopo una strenua resistenza da parte sua nel separarsi dal suo intimo "amico", il gruppo riesce finalmente a estirpare la viscida aberrazione da dentro Doppo, uccidendola e ponendo (forse?) fine al problema dei parassiti alieni.
 
@@ -389,7 +386,7 @@ Ah, e un golem di sangue armato di fucile laser:
 
 Durante le ricerche all'interno della villa, i nostri eroi rinvengono un altro oggetto singolare che attira la loro attenzione: il [laccio di uno scudo spezzato](https://app.legendkeeper.com/a/worlds/clzzlnouk3fsl0jlc5n9b3d65/Laccio di uno scudo spezzato \(Gouffre\)/). Toccandolo, appare l'ennesima visione:
 
-> _<Splorch!>_  
+>  
 > _Sollevi lo scudo dalla testa, ormai spappolata, dell’umanoide ai tuoi piedi._
 > 
 > ![embedded image](https://assets.legendkeeper.com/234afc7c-0bc4-40cb-ba75-cd8d434d50dd.jpg "Attachment")
@@ -403,7 +400,6 @@ Durante le ricerche all'interno della villa, i nostri eroi rinvengono un altro o
 > _Un boato assordante ti fa sobbalzare, la terra inizia a tremare in modo innaturale... Alzi lo sguardo, l’altra metà del pianeta... sembra completamente in fiamme e... sta diventando sempre più grande..._  
 > _Anzi... sempre più vicina..._  
 > _"Oh, per Tyrel..."_  
-> _<Buio>_
 
 Al piano superiore, il manipolo di eroi trova una tiefling completamente nuda e legata alla scrivania dello studio. La povera vittima era soggiogata da un incantesimo e aveva una vistosa cicatrice sul ventre. Gli intrepidi capiscono subito la situazione e riescono a immobilizzare la tiefling senza ucciderla. Inoltre, grazie ai finissimi sensi di Blu, scoprono che all'interno della ragazza, di nome Lenas, vi è una sorta di trappola esplosiva...  
 Con attenzione e pazienza, il gruppo riesce a disinnescare l'ordigno.
@@ -418,11 +414,8 @@ Negli altri documenti ci sono appunti e scarabocchi, liste di materiali vari. Mo
 Tra gli elenchi vi è anche la richiesta di corpi di numerosi umanoidi, vivi e morti... in uno di questi compaiono addirittura dei nomi specifici, tre dei quali vi sono noti:
 
 *   Alotta Bang Bang
-    
 *   Enlok Giacardi
-    
 *   Viktor Gold (noto solo a Daienne, ovviamente)
-    
 
 Lenas racconta quel poco che ricorda del suo rapimento:
 
