@@ -215,8 +215,12 @@ dopo circa 8 ore di cammino, arrivate davanti a quella sembra un'anonima parete 
 
 ## Monte Ugothogo / Cittadella di Nocthysax
 
-- lungo la strada della cima,
-- Area esterna l'ingresso del cono del vulcano: 
+*La catena montuosa, uniforme nelle sue cime di altezza simile, viene bruscamente interrotta dalla possente figura del monte Ugothogo. Dalla sua vetta si levano volute di fumo nero, simili a quelle che uscirebbero dal camino di un vulcano... se non fosse per l’inaspettata luce biancastra che proviene dal cratere. Non dovrebbe essere rossa???*
+
+Attorno al monte Ugothogo volano in ronda diversi draghi d'ombra; non ci sono sentinelle Gug a terra ma solo pattuglie volanti (Percezione contro Furtività +19 per individuarli)
+
+- Ingresso al cono del vulcano
+  Un enorme caverna si apre sulla parete della montagna
 
 - Cono del vulcano: all'interno del cono, c'è l'enorme cittadella di Nocthysax in costruzione
 
@@ -227,8 +231,24 @@ dopo circa 8 ore di cammino, arrivate davanti a quella sembra un'anonima parete 
 - proporrà agli eroi di collaborare con lui... se accetteranno, gli fornirà informazioni su dove trovare una fonte di alimentazione molto potente... all'interno di una base segreta della SAP, la base da cui lui è scappato.
 
 
-## Caverna della Rebellion
+## Caverna della UGP Rebellion
 
 Ci saranno Gug di guardia all'ingresso della caverna e un drago d'ombra.
 
-nelle profondità 
+- 4 Gug armati con armi Tek
+- 2 Draghi d'ombra giovani
+
+
+ La 
+
+
+
+
+Dentro la UGP Rebellion
+
+Laboratorio
+- Verga Planare (gemella) di Vickster
+
+Centro di Comando
+- Corpo Frankie (con loot)
+- Oggetto Frankie (mantello perennemente in movimento)

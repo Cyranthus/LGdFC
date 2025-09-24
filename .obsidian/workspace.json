@@ -13,16 +13,65 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Published/Cronologia Eventi.md",
+                "file": "Mondo/Fazioni/Fazioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cronologia Eventi"
+              "title": "Fazioni"
             }
           },
           {
-            "id": "e4174af6372c770d",
+            "id": "0dcecdadcb775b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Space Ships/UGP Rebellion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UGP Rebellion"
+            }
+          },
+          {
+            "id": "97df32fbb8395e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessioni/Parte 4 - 1/Parte 4 - 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parte 4 - 1"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "58b8816ac7f6a1fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5601a45413c90237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessioni/Parte 4 - 1/Appunti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Appunti"
+            }
+          },
+          {
+            "id": "8e1ae6e917367609",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,7 +84,8 @@
               "title": "Underdark"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,25 +322,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4e1fea33d9094240",
+  "active": "97df32fbb8395e3f",
   "lastOpenFiles": [
+    "Mondo/Geografia/Underdark.md",
+    "Sessioni/Parte 4 - 1/Mostri e creature delle Montagne di Mezzanotte.md",
+    "Sessioni/Parte 4 - 1/Appunti.md",
+    "Sessioni/Parte 4 - 1/Parte 4 - 1.md",
+    "Mondo/Fazioni/Fazioni.md",
+    "Published/Cronologia Eventi.md",
+    "Mondo/Space Ships/UGP Rebellion.md",
+    "Rebellion.pdf",
+    "Mondo/NPC/Le Corde Dorate_Maleducate/Le Corde Dorate -Maleducate-.md",
+    "Mondo/Geografia/Rebellion.md",
+    "Mondo/NPC/Le Corde Dorate_Maleducate/Elowen -Cacciastelle- Kaela.md",
+    "Mondo/Space Ships",
+    "TODO.md",
+    "Mondo/Fazioni",
+    "README.md",
     "Published/La Storia fin'ora/Riassunto - Parte 1.md",
     "Published/La Storia fin'ora/Riassunto - Parte 2.md",
     "Published/Diari PG/Il Diario di Doppo - Racconti di eleganza e buona creanza.md",
     "Published/Diari PG/Il Diario di Topper.md",
-    "Mondo/Geografia/Underdark.md",
     "Published/z_Images/Doppo_2.jpg",
     "Published/z_Images/Serafina 1.jpg",
     "Published/z_Images/Serafina 2.jpg",
     "Published/z_Images/Doppo_3.jpg",
     "Published/z_Images/Doppo-1.webp",
     "Published/z_Images/scribble1-1.webp",
-    "Sessioni/Parte 4 - 1/Mostri e creature delle Montagne di Mezzanotte.md",
-    "Published/Cronologia Eventi.md",
     "Published/z_Images/Kazavon_Varkhan_Eidolon.jpg",
     "Published/La Storia fin'ora/Riassunto - Parte 4.md",
-    "Sessioni/Parte 4 - 1/Parte 4 - 1.md",
-    "Sessioni/Parte 4 - 1/Appunti.md",
     "Published/Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
     "Published/Diari PG",
     "Published/Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
@@ -300,22 +360,12 @@
     "Published/Lega Gloriosa dei Fervidi Cercatori/La Storia fin'ora/Riassunto - Parte 1 1.md",
     "Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
     "Mondo/Cronologia Eventi.md",
-    "Published/Mondo/NPC/S.A.P/S.A.P..md",
-    "Mondo/Geografia/Rebellion.md",
-    "Published/Mondo/Apparizioni/Pistola rotta (Rattigan)/Scheda Pg - Rattigan.md",
-    "Published/Mondo/Apparizioni/Pistola rotta (Rattigan)/Descrizione e Visione.md",
-    "Mondo/Apparizioni/Laccio di uno scudo spezzato (Gouffre)/Scuola Segreta della Lama Miracolosa.md",
-    "Published/Mondo/Apparizioni/Laccio di uno scudo spezzato (Gouffre)/Scuola Segreta della Lama Miracolosa.md",
-    "Published/Mondo/Apparizioni/Lama dell'Ultima Cittadella spezzata (Valerin)/Scheda Pg - Valerin del Corvo Bianco.md",
     "Published/Mondo/NPC/Enemies/Archived/Vorlan Fogliagrigia (9)",
     "Published/Mondo/NPC/Enemies/Archived/Nymir Verdimanto (9)",
     "Published/Mondo/NPC/Enemies/Archived/Gruppo di Cercatori (lvl 8)",
     "Published/Mondo/NPC/S.A.P/Yavanna Sunleaf - Oracolo (6)",
     "Published/Mondo/NPC/Enemies/Cercatori - giocatori",
     "Published/Mondo/NPC/Enemies/Archived",
-    "Published/Mondo/NPC/S.A.P",
-    "Published/Mondo/NPC/Neutrali",
-    "Published/Mondo/NPC/Le Corde Dorate_Maleducate",
     "Published/z_Images/blueDragon.webp",
     "Published/z_Images/DoppoDragon.webp",
     "Published/z_Images/giacomino.webp"
