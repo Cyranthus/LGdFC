@@ -14,7 +14,7 @@
 - [[#Rifugio Sotterraneo dei Pech|Rifugio Sotterraneo dei Pech]]
 - [[#Monte Ugothogo / Cittadella di Nocthysax|Monte Ugothogo / Cittadella di Nocthysax]]
 	- [[#Monte Ugothogo / Cittadella di Nocthysax#Incontro con Nocthysax|Incontro con Nocthysax]]
-- [[#Caverna della Rebellion|Caverna della Rebellion]]
+- [[#Caverna della UGP Rebellion|Caverna della UGP Rebellion]]
 
 Il sottosuolo - il percorso verso il lago
 -----------------------------------------
@@ -239,7 +239,7 @@ Ci saranno Gug di guardia all'ingresso della caverna e un drago d'ombra.
 - 2 Draghi d'ombra giovani
 
 
- La 
+ La caverna, prosegue 
 
 
 

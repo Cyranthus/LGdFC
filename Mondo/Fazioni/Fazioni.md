@@ -13,13 +13,16 @@ Nemici
 Amici
 -----
 
-*   **S.A.P., Setta Anarchica delle Profondità (Attualmente segreti)**  
-    scopo: contrastare i Cercatori dell’Alba per quanto riguarda le loro idee limitanti sulle antiche tecnologie, scoprire la verità su cosa è successo a Korvosa e che parte hanno avuto i Cercatori (la S.A.P. sa che i cercatori erano coinvolti nell’attacco alla Varisia).
+* **S.A.P., Setta Anarchica delle Profondità (Attualmente segreti)**
+  Scopo: contrastare i Cercatori dell’Alba per quanto riguarda le loro idee limitanti sulle antiche tecnologie, scoprire la verità su cosa è successo a Korvosa e che parte hanno avuto i Cercatori (la S.A.P. sa che i cercatori erano coinvolti nell’attacco alla Varisia).
+
+- **Mondi Fantasma**
+  I mondi fantasma sono modi isolati sull'orlo esterno della galassia
+
+* **Liberatori Galattici del Fuoco Celeste**
+  Scopo: gruppo di resistenza che lotta per la libertà dei popoli magici (sparsi su vari pianeti-piantagione), attualmente non esiste più alcun gruppo organizzato, le sue forze sono state sconfitte millenni fà.
     
-*   **Liberatori Galattici del Fuoco Celeste**  
-    scopo: gruppo di resistenza che lotta per la libertà dei popoli magici (sparsi su vari pianeti-piantagione), attualmente non esiste più alcun gruppo organizzato, le sue forze sono state sconfitte millenni fà.
-    
-*   **M.O.T.H.E.R. (**Multiversal Overseer for Total Harmony, Existence, and Rebirth**)**  
-    scopo: preservazione della vita nell'universo, lotta contro la non morte (e altre innaturali abomini), lotta contro lo sfruttamento planetario delle creature magiche perpetrato dai terrestri.  
-    Ha creato la razza di Feisty, è anche il suo pianeta natale.  
-    M.O.T.H.E.R. è raggiungibile solamente se guidati dai membri della razza di Feisty.
+* **M.O.T.H.E.R. (**Multiversal Overseer for Total Harmony, Existence, and Rebirth**)**
+  Scopo: preservazione della vita nell'universo, lotta contro la non morte (e altre innaturali abomini), lotta contro lo sfruttamento planetario delle creature magiche perpetrato dai terrestri.  
+  Ha creato la razza di Feisty, è anche il suo pianeta natale.
+  M.O.T.H.E.R. è raggiungibile solamente se guidati dai membri della razza di Feisty.
