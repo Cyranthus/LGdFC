@@ -233,11 +233,7 @@ Attorno al monte Ugothogo volano in ronda diversi draghi d'ombra; non ci sono se
 
 ## Caverna della UGP Rebellion
 
-Ci saranno Gug di guardia all'ingresso della caverna e un drago d'ombra.
-
-- 4 Gug armati con armi Tek
-- 2 Draghi d'ombra giovani
-
+Nei pressi dell'ingresso della caverna ci saranno diversi cadaveri di Gug e quello di un drago d'ombra giovane
 
  La caverna, prosegue 
 
