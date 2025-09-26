@@ -6,31 +6,9 @@
       {
         "id": "95ed502d4d766773",
         "type": "tabs",
-        "dimension": 45.53172475424486,
         "children": [
           {
             "id": "4e1fea33d9094240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Descrizione e Visione"
-            }
-          }
-        ]
-      },
-      {
-        "id": "58b8816ac7f6a1fc",
-        "type": "tabs",
-        "dimension": 54.46827524575514,
-        "children": [
-          {
-            "id": "637cde65c823ff4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Parte 4 - 1"
+            }
+          },
+          {
+            "id": "79179ac03b5052df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessioni/Parte 4 - 1/Mostri e creature delle Montagne di Mezzanotte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mostri e creature delle Montagne di Mezzanotte"
             }
           }
         ]
@@ -292,9 +284,16 @@
   },
   "active": "4e1fea33d9094240",
   "lastOpenFiles": [
+    "Sessioni/Parte 4 - 1/Mostri e creature delle Montagne di Mezzanotte.md",
     "Sessioni/Parte 4 - 1/Parte 4 - 1.md",
-    "Published/z_Images/Gurnys1.jpg",
+    "Sessioni/Parte 4 - 1/Appunti.md",
+    "Mondo/Geografia/Underdark.md",
+    "Mondo/Space Ships/UGP Rebellion.md",
+    "Starfinder Rules/Wound.md",
     "Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione.md",
+    "Starfinder Rules",
+    "Untitled.md",
+    "Published/z_Images/Gurnys1.jpg",
     "Mondo/Apparizioni/Pistola rotta (Rattigan)/Descrizione e Visione.md",
     "Mondo/Apparizioni/Pistola rotta (Rattigan)/Scheda Pg - Rattigan.md",
     "Mondo/Fazioni/Fazioni.md",
@@ -302,16 +301,12 @@
     "Mondo/Apparizioni/Maschera nera mezza strappata (Dav-Horn)/Descrizione e Visione.md",
     "Mondo/Appunti DM.md",
     "Mondo/Apparizioni/Carta Mazzo Apprensura (Fortunata)",
-    "Mondo/Geografia/Underdark.md",
     "Mondo/NPC/Le Corde Dorate_Maleducate/Le Corde Dorate -Maleducate-.md",
     "Mondo/Apparizioni/Mantello Blu Magico (Frankie)/Descrizione e Visione.md",
-    "Sessioni/Parte 4 - 1/Appunti.md",
     "Mondo/NPC/Le Corde Dorate_Maleducate/Elowen -Cacciastelle- Kaela.md",
-    "Mondo/Space Ships/UGP Rebellion.md",
     "Mondo/Apparizioni/_Main_.md",
     "Mondo/Apparizioni/Sap di Gurnys (Gurnys)",
     "Mondo/NPC/Enemies/Imperatore Decadente - Neothelid CR 15.md",
-    "Sessioni/Parte 4 - 1/Mostri e creature delle Montagne di Mezzanotte.md",
     "Published/Cronologia Eventi.md",
     "Rebellion.pdf",
     "Mondo/Geografia/Rebellion.md",
@@ -329,12 +324,10 @@
     "Published/z_Images/Doppo-1.webp",
     "Published/z_Images/scribble1-1.webp",
     "Published/z_Images/Kazavon_Varkhan_Eidolon.jpg",
-    "Published/La Storia fin'ora/Riassunto - Parte 4.md",
     "Published/Diari PG",
     "Published/Mondo/NPC/Enemies/Archived/Vorlan Fogliagrigia (9)",
     "Published/Mondo/NPC/Enemies/Archived/Nymir Verdimanto (9)",
     "Published/Mondo/NPC/Enemies/Archived/Gruppo di Cercatori (lvl 8)",
-    "Published/Mondo/NPC/S.A.P/Yavanna Sunleaf - Oracolo (6)",
     "Published/z_Images/blueDragon.webp",
     "Published/z_Images/DoppoDragon.webp"
   ]

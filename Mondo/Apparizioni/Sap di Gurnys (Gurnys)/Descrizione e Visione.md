@@ -7,8 +7,8 @@
 > Vickster "hai notato la scritta sul lato?"
 > Gurnys "no, di che diavolo..."
 > 
-> P.H.A.R.A.S.M.A. 
-> 
+> **P.HA.R.A.S.M.A.** 
+> **Planetar HArvester for Reaping And Soul Mass Assimilation**
 > Ma che diavolo centra la divinità di Pharasma con questo colosso di metallo?
 > 
 > Vickster comanda soldati e maghi da terra per attaccare la creatura

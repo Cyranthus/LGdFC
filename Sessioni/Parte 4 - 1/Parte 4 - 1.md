@@ -186,10 +186,12 @@ Dopo qualche minuto altri 3 Gug verrà verso il fiume (con le vedette saranno 5)
 
 se gli eroi attaccheranno il campo, alcuni schiavi cercheranno di scappare e/o combattere (verranno uccisi altri 2 Gug dai Pech)
 
-- 2 draghi molto giovani https://golarion.altervista.org/wiki/Drago_delle_Ombre_Molto_Giovane
+- 2 draghi molto giovani che si alternano le ronde in volo https://golarion.altervista.org/wiki/Drago_delle_Ombre_Molto_Giovane
 - 4 Gug con armi Tek saranno nei campi
-	- 2 Gug con 4 armi da mischia per gli artigli
-	- 2 Gug con 2 armi lunghe da distanza
+	- 1 Gug con 4 armi da mischia per gli artigli (4x Shell Knuckles, Tactical, +3d4 al danno)
+	- 1 Gug con 2 armi a due mani (2x Flame doshko, blaze, 2d8 Fuoco, critico [[Wound]])
+	- 1 Gug con 2 armi pesanti a distanza (2x Zero cannon, tactical, 3d8 freddo, linea 18m, critico staggered, 20 colpi)
+	- 1 Gug con 2 armi lunghe a distanza (2x Plasma rifle, yellow star, 2d10 E & F, linea 12m, critico Burn 1d8, 10 colpi)
 
 - Se salveranno i Pech, i superstiti li porteranno a un loro villaggio nascosto (sopravviveranno circa una decina).
 - il "capo" dei suprestiti (l'unico che non sarà troppo spaventato per non provare a parlare con gli eroi) si chiama **Puthok**.
@@ -199,13 +201,12 @@ se gli eroi attaccheranno il campo, alcuni schiavi cercheranno di scappare e/o c
 ![[Utrat.jpg]]
 
 
-
 ## Rifugio Sotterraneo dei Pech
 
 dopo circa 8 ore di cammino, arrivate davanti a quella sembra un'anonima parete rocciosa; un paio di Pech si mettono a modellare la pietra tramite le loro capacità magiche, rivelando quindi un'apertura nella roccia...
 
 - il percorso della grotta d'ingresso si apre in un'ampia caverna flebilmente illuminata da poche fonti di luce sparse per l'area. La caverna ha diversi dislivelli su cui su possono riconoscere le sagome di diverse edifici/costruzioni in pietra di forma sferica (sembrano praticamente delle case a forma di palla, tutte diverse e di varie dimensioni).
-  Il villaggio si affaccia su un lago sotterraneo, su cui si vedono diversi moli e postazioni da pesca usate da alcuni Pech.
+  Il villaggio si affaccia su un lago sotterraneo, su cui si vedono diversi moli e postazioni di pesca usate da alcuni Pech.
 
 - Capo gruppo dei rifugiati: la Pech di nome Perysha; Perysha parla comune e può parlare con gli avventurieri:
 - gli può spiegare la strada per il monte Ughotogho, ma non sa dov'è la nave.
@@ -220,7 +221,7 @@ dopo circa 8 ore di cammino, arrivate davanti a quella sembra un'anonima parete 
 Attorno al monte Ugothogo volano in ronda diversi draghi d'ombra; non ci sono sentinelle Gug a terra ma solo pattuglie volanti (Percezione contro Furtività +19 per individuarli)
 
 - Ingresso al cono del vulcano
-  Un enorme caverna si apre sulla parete della montagna
+  Un enorme caverna si apre sulla parete della montagna; anche senza entrare s'intravedono una luce biancastra e sagome di edifici scuri. All'ingresso vi sono 2 Gug di guardia e 2 draghi d'ombra giovani.
 
 - Cono del vulcano: all'interno del cono, c'è l'enorme cittadella di Nocthysax in costruzione
 
@@ -235,12 +236,20 @@ Attorno al monte Ugothogo volano in ronda diversi draghi d'ombra; non ci sono se
 
 Nei pressi dell'ingresso della caverna ci saranno diversi cadaveri di Gug e quello di un drago d'ombra giovane
 
- La caverna, prosegue 
+ La caverna, prosegue, lungo il percorso vengono attaccati da:
+2 Roper
 
 
 
 
-Dentro la UGP Rebellion
+2 Seugathi Savant https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/seugathi/seugathi-savant/
+4x Seugathi https://golarion.altervista.org/wiki/Seugathi
+
+
+
+
+## Dentro la UGP Rebellion
+
 
 Laboratorio
 - Verga Planare (gemella) di Vickster

@@ -41,16 +41,16 @@ Una tabella di incontri casuali fornisce una serie di creature (livello 6–10) 
 
 ## Riepilogo per una rapida consultazione
 
-|Creatura|Commento|
-|---|---|
-|Gug|Abitanti numerosi, adoratori di Ugothogo|
-|Umbral dragon (es. Ugothogo)|Drago delle ombre gigantesco e maestro della regione|
-|Mu spores (lune flottanti)|Massicce sfere fungine senzienti e luminose|
-|Morlock (incl. Morlock Hunter)|Umanoidi sotterranei adattati alle profondità|
-|Drider, Xulgath, Seugathi, Mulventok|Diversi mostri sotterranei e umanoidi aberranti|
-|Purple Worm (young), Black Pudding|Mostri giganteschi e melmosi|
-|Orvian Troll|Troll specifici di Orv|
-|Roper, Reality Warper, Irnakurse, etc.|Creature variopinte, spesso aberranti o magiche|
-|Roc, Titan Centipede, Shanrigol Behemoth|Creature bestiali e colossali|
-|Dire Corbies (e Trekaalk)|Razza rapace demoniaca organizzata in culto|
-|Neothelid|Vermi aberranti giganti, ostili ai gugs|
+| Creatura                                 | Commento                                             |
+| ---------------------------------------- | ---------------------------------------------------- |
+| Gug                                      | Abitanti numerosi, adoratori di Ugothogo             |
+| Umbral dragon (es. Ugothogo)             | Drago delle ombre gigantesco e maestro della regione |
+| Mu spores (lune flottanti)               | Massicce sfere fungine senzienti e luminose          |
+| Morlock (incl. Morlock Hunter)           | Umanoidi sotterranei adattati alle profondità        |
+| Drider, Xulgath, Seugathi, Mulventok     | Diversi mostri sotterranei e umanoidi aberranti      |
+| Purple Worm (young), Black Pudding       | Mostri giganteschi e melmosi                         |
+| Orvian Troll                             | Troll specifici di Orv                               |
+| Roper, Reality Warper, Irnakurse, etc.   | Creature variopinte, spesso aberranti o magiche      |
+| Roc, Titan Centipede, Shanrigol Behemoth | Creature bestiali e colossali                        |
+| Dire Corbies (e Trekaalk)                | Razza rapace demoniaca organizzata in culto          |
+| Neothelid                                | Vermi aberranti giganti, ostili ai gugs              |
