@@ -16,6 +16,27 @@ FASE 1
 
 il combattimento avviene principalmente contro la sua parte meccanizzata e tecnologica, la maggior parte degli attacchi è quindi con armi Tek.
 
+**HP** 122; **SP** 27; **Hardness** 8  
+**EAC** 30; **KAC** 33
+
+**Melee**
+- **AutoSpear**
+**Type** melee or ranged (when engaged only); **Special** reach, thrown (40 ft.)  
+TXC +26, **Damage** 9d6+13; **Damage Type** P; **Critical** —  
+**Slots** 2 (upper limb)
+
+**Ranged**
+- **Missile Battery**
+This array of micro-missiles fires in devastating salvos.  
+**Type** ranged; **Range** 200 ft.  
+TXC +19, **Damage** 10d4+12; **Damage Type** F&P; **Critical** —  
+**Slots** 1 (frame); **Capacity** 12  
+**Volley** When making a full attack entirely with the missile battery, the mech can fire two, three, or four missiles. It takes a –3 penalty to the attacks if it fires two missiles, a –4 penalty if it fires three missiles, or a –5 penalty if it fires four missiles.
+
+- **Laser Rifle**
+**Type** ranged; **Range** 250 ft.; **Special** automatic  
+TXC +19, **Damage** 6d6; **Damage Type** F; **Critical** burn  
+**Slots** 1 (frame); **Capacity** 20
 
 FASE 2
 
@@ -24,7 +45,7 @@ _Dopo qualche istante, la testa del possente drago si solleva e, con un grido po
 (Conoscenze Arcane/Planari CD 25, è in atto un potente effetto di evocazione)
 _In una frazione di secondo, tutto intorno a voi diventa nero, cupo… fumoso._  
 _I contorni degli oggetti, dei vostri stessi corpi e dell’intera stanza appaiono identici, ma indefiniti e completamente immersi nell’oscurità. Nessuna fonte di luce sembra in grado di penetrare l’ombra che vi avvolge… tranne una: Nocthysax._  
-_Si staglia davanti a voi, irradiato da un bagliore bianco-azzurrognolo. Non vi è più traccia delle parti metalliche, delle corazze o delle armi fittizie che lo ricoprivano: resta soltanto il deperito e macilento relitto di un drago. Le ali non sono che due moncherini sulla sua schiena; le zampe posteriori, la coda e un arto anteriore risultano parzialmente mozzati e scarnificati. Eppure, nonostante il suo stato, un bagliore cremisi arde negli occhi della creatura, che rimane in piedi unicamente grazie alla sua infinita rabbia._
+_Si staglia davanti a voi, irradiato da un bagliore bianco-azzurrognolo. Non vi è più traccia delle parti metalliche, delle corazze o delle armi fittizie che lo ricoprivano: resta soltanto il deperito e macilento relitto di un drago. Le ali non sono che due moncherini sulla sua schiena; le zampe posteriori, la coda e un arto anteriore risultano parzialmente mozzati e scarnificati. Eppure, nonostante il suo stato, un bagliore cremisi arde negli occhi della creatura, che rimane cosciente unicamente grazie alla sua infinita rabbia._
 
 In questa fase, Nocthysax combatterà con i soli poteri da drago + il soffio.
-quando sarà in punto di morte, cercherà di soffiare un'ultima volta, attingendo ancora al potere del nucleo; il suo soffio durerà più round ma lui stesso comincierà a venire consumato dal potere del nucleo, cominciando a subire 10 danni incrementali a round.
+quando sarà in punto di morte, cercherà di soffiare un'ultima volta, attingendo ancora al potere del nucleo; il suo soffio durerà più round ma lui stesso comincerà a venire consumato dal potere del nucleo, cominciando a subire 10 danni incrementali a round.

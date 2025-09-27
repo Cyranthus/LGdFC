@@ -13,4 +13,9 @@
 
 - Nochtysax, (dopo diversi scontri?) cercherà li inviterà cercando di convincerli ad sottomettersi a lui per combattere i Cercatori
 
-- 
+
+
+
+- SCRIVERE VISIONE DI GURNYS
+- SCRIVERE VISIONE DI VARKHAN e POTERE GUANTO
+- SCRIVERE VISIONE DI FORTUNATA e POTERE CARTA APPRENSURA

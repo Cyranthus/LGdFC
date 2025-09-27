@@ -15,6 +15,8 @@
 - [[#Monte Ugothogo / Cittadella di Nocthysax|Monte Ugothogo / Cittadella di Nocthysax]]
 	- [[#Monte Ugothogo / Cittadella di Nocthysax#Incontro con Nocthysax|Incontro con Nocthysax]]
 - [[#Caverna della UGP Rebellion|Caverna della UGP Rebellion]]
+- [[#Dentro la UGP Rebellion|Dentro la UGP Rebellion]]
+
 
 Il sottosuolo - il percorso verso il lago
 -----------------------------------------
@@ -228,8 +230,16 @@ Attorno al monte Ugothogo volano in ronda diversi draghi d'ombra; non ci sono se
 
 ### Incontro con Nocthysax
 
+L'ascensore si ferma in un'immensa sala, tutta rivestita di ossidiana.
+Numerose colonne si estendono in avanti raggiungendo l'enorme trono che si stava davanti a voi; ampie sezioni delle pareti esterne sono aperte verso il vuoto, delimitate da enormi arcate aperte sul vuoto.
+Il trono è occupato da una possente creatura, una creatura che sicuramente era un possente drago in passato...
+gran parte delle corpo dell'oscura figura è ricoperta e rimpiazzata da metallo e protesi di vario tipo.
+La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte più luminosa è proprio Nocthysax, il quale emette fasci luminosi verso l'alto, dal suo dorso; è questa la luce viene proiettata e amplificata dalle pareti di ossidiana, riverberando sulle nubi nere che si sollevano dal lago di lava alle spalle della torre
+
+
 - il possente drago convocherà il gruppo per un incontro: vorrà sapere con chi ha a che fare e qual'è il loro scopo lì.
-- proporrà agli eroi di collaborare con lui... se accetteranno, gli fornirà informazioni su dove trovare una fonte di alimentazione molto potente... all'interno di una base segreta della SAP, la base da cui lui è scappato.
+- proporrà agli eroi di collaborare con lui... se accetteranno, gli chiederà di eliminare certi fastidiosi vermi che hanno infestato una caverna di sua proprietà (quella della Rebellion)... Se accetteranno ed eseguiranno la missione, Nocthysax li ricompenserà lasciandogli prendere del Noqual dalla nave e gli darà le indicazioni per raggiungere una base segreta dei Cercatori, nei pressi di Almas.
+  Un gug accompagnerà gli eroi e avrà un comunicatore che ogni mezz'ora circa aggiorna il drago sulla situazione.
 
 
 ## Caverna della UGP Rebellion
@@ -237,10 +247,9 @@ Attorno al monte Ugothogo volano in ronda diversi draghi d'ombra; non ci sono se
 Nei pressi dell'ingresso della caverna ci saranno diversi cadaveri di Gug e quello di un drago d'ombra giovane
 
  La caverna, prosegue, lungo il percorso vengono attaccati da:
-2 Roper
+2 Roper lungo i condotti
 
-
-
+alla base della caverna, dove la stiva presenta un vasta apertura, un piccolo gruppo di Seugathi ha messo
 
 2 Seugathi Savant https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/seugathi/seugathi-savant/
 4x Seugathi https://golarion.altervista.org/wiki/Seugathi
@@ -250,10 +259,30 @@ Nei pressi dell'ingresso della caverna ci saranno diversi cadaveri di Gug e quel
 
 ## Dentro la UGP Rebellion
 
+Vano di carico (paratia divelta)
+- diversi materiali sono stati trafugati da qui, alcune quantità di Noqual e Adamantio sono ancora presenti
 
-Laboratorio
-- Verga Planare (gemella) di Vickster
 
-Centro di Comando
+*se gli eroi hanno ancora cariche di energia, toccando le porte le attiveranno, grazie ai medaglioni*
+
+Medaglione Krugol
+"Dottor Wittlewak, bentornato a bordo della Rebellion"
+
+Medaglione Vickster/SAP
+"Capo Ingegnere Kroviz, bentornato a bordo della Rebellion"
+
+### Tek Lab (Chiuso)
+ - Clone virtuale di Vickster: Inizialmente cercherà di spaventare gli eroi, utilizzando illusioni come effetti speciali.
+   "Chi osa disturbare il mio riposo????!???"
+   se gli eroi capiscono che è illusione, si congratula con loro e si rivela nel vero aspetto.
+   Vickster sarà molto contento di parlare con loro (dopotutto sono le prime vere persone che incontra da tipo 1000 anni)
+   Vickster conosce la storia ma solo fino a prima dell'attacco dei Cercatori a Korvosa (quindi cmq sa tutto di Varkhan e Fortunata).
+   Se si fiderà del gruppo, gli consegnerà la chiave chiedendogli di ritrovare il suo... padrone, o di capire che fine ha fatto.
+ - Chiave di Recupero - prototipo 00 (Nascosta da clone Vickster, dentro una cassaforte)
+
+### Centro di Comando (Chiuso)
 - Corpo Frankie (con loot)
 - Oggetto Frankie (mantello perennemente in movimento)
+
+
+
