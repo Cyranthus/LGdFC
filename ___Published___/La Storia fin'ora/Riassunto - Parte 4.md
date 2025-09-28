@@ -313,3 +313,28 @@ Solo a pochi secondi dall’impatto, Topper lancia caduta morbida, facendo atter
 L’umore non era così a terra dai tempi della morte di… Rugol… Krucol… ah no, Krugol, pace all’anima sua. Nonostante Giacomino sia entrato nel gruppo graffiando, azzannando e soffiando energia negativa, la sua presenza ha comunque lasciato un segno nel cuore dei nostri inclusivi eroi.
 
 ![[giacomino.webp]]
+
+
+## Le Montagne della Mezzanotte
+
+Dopo aver adeguatamente riposato e dato degna sepoltura a Giacomino, il gruppo riparte decidendo di seguire il percorso indicato dai medaglioni, dirigendosi in linea retta attraverso l'obbiettivo.
+il percorso si allontana dal lago e dal fiume e si dirige verso le catene montuose, oltre la grande montagna vulcanica.
+
+I nostri intrepidi esploratori cercano riparo tra gli alberi della foresta per un pò di meritato riposo... riposo che però viene interrotto da delle intriganti ninfe fungine: Candida, Tigna e Micelia.
+
+![[nymph.png]]
+
+Blu e Doppo inizialmente sembrano apprezzare le avvenenti signorine... ma a un certo punto, i maleducati, le ripudiano allontanandole in malo modo. Dopo un pò di riluttanza, anche Topper, Neg e Dayenne sono intervenuti a favore dei loro compagni profumai e chiudendo la faccenda incenerendo le povere creature micotiche.
+
+Il racconto precedente potrebbe non essere del tutto vero e le tre splendide ninfe potrebbero non essere state così avvenenti:
+
+![[Leshy.webp]]
+
+Da sottolineare l'immancabile ingestione di materia organica poco raccomandabile da parte di Doppo.
+
+
+
+
+
+Dopo la splendida "notte" di riposo, 
+

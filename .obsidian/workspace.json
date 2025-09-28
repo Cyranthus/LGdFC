@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "feb467094e883faa",
+        "id": "15a86ee16eb1b34c",
         "type": "tabs",
         "children": [
           {
-            "id": "71a4375a622f0bde",
+            "id": "467ff16fdf932193",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "___Published___/La Storia fin'ora/Riassunto - Parte 4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Riassunto - Parte 4"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 382.5
   },
   "right": {
     "id": "6209ef6ca5687cb1",
@@ -268,25 +272,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "71a4375a622f0bde",
+  "active": "467ff16fdf932193",
   "lastOpenFiles": [
+    "___Published___/z_Images/Leshy.webp",
+    "___Published___/z_Images/Leshy 1.webp",
+    "___Published___/z_Images/Kazavon_Varkhan_Eidolon.jpg",
+    "___Published___/z_Images/Gurnys1.jpg",
+    "___Published___/z_Images/gug.webp",
+    "___Published___/z_Images/giacomino.webp",
+    "___Published___/z_Images/galactic-exploration-journey-beyond-the-stars-9yogzzeonhojw70n (1).jpg",
+    "___Published___/z_Images/Doppo-1.webp",
+    "___Published___/z_Images/scribble1-1.webp",
+    "___Published___/z_Images/DoppoDragon.webp",
+    "___Published___/z_Images/dragonUmbral.webp",
+    "___Published___/La Storia fin'ora/Riassunto - Parte 4.md",
+    "Sessioni/Parte 4 - 1/Parte 4 - 1.md",
+    "Sessioni/Parte 4 - 1/Mostri e creature delle Montagne di Mezzanotte.md",
     "BG Personaggi/Blu.md",
     "Lega Gloriosa dei Fervidi Cercatori/_Main_.md",
     "INIZIATIVA e EXP.md",
     "Rebellion.pdf",
     "TODO.md",
     "Untitled.md",
-    "Sessioni/Parte 4 - 1/Parte 4 - 1.md",
     "Sessioni/Parte 4 - 1/Appunti.md",
-    "Sessioni/Parte 4 - 1/Mostri e creature delle Montagne di Mezzanotte.md",
     "Mondo/Geografia/Underdark.md",
     "Mondo/Apparizioni/Scudo magico a forma di mano (Varkhan)/Descrizione e Visione.md",
     "Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione.md",
     "Mondo/Apparizioni/_Main_.md",
     "Mondo/Apparizioni/Scudo magico a forma di mano (Varkhan)",
     "Mondo/NPC/Enemies/Nocthysax - CR 15.md",
-    "___Published___/z_Images/Nocthysax.jpg",
-    "___Published___/z_Images/galactic-exploration-journey-beyond-the-stars-9yogzzeonhojw70n (1).jpg",
     "Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
     "Mondo/Ciuschi & co/Ciuschi Meravigliosi.md",
     "Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
@@ -295,24 +309,14 @@
     "___Published___/Mondo/Ciuschi & co 1/Ciuschi Meravigliosi.md",
     "Starfinder Rules/Wound.md",
     "Starfinder Rules",
-    "___Published___/z_Images/Gurnys1.jpg",
     "Mondo/Apparizioni/Pistola rotta (Rattigan)/Descrizione e Visione.md",
     "Mondo/Apparizioni/Pistola rotta (Rattigan)/Scheda Pg - Rattigan.md",
     "Mondo/Fazioni/Fazioni.md",
     "Mondo/Apparizioni/Maschera nera mezza strappata (Dav-Horn)/Descrizione e Visione.md",
-    "Mondo/Appunti DM.md",
     "Mondo/Apparizioni/Carta Mazzo Apprensura (Fortunata)",
-    "Mondo/NPC/Le Corde Dorate_Maleducate/Le Corde Dorate -Maleducate-.md",
     "Mondo/Apparizioni/Sap di Gurnys (Gurnys)",
     "Mondo/Space Ships",
     "Mondo/Fazioni",
-    "___Published___/z_Images/Doppo_2.jpg",
-    "___Published___/z_Images/Serafina 1.jpg",
-    "___Published___/z_Images/Serafina 2.jpg",
-    "___Published___/z_Images/Doppo_3.jpg",
-    "___Published___/z_Images/Doppo-1.webp",
-    "___Published___/z_Images/scribble1-1.webp",
-    "___Published___/z_Images/Kazavon_Varkhan_Eidolon.jpg",
     "___Published___/Diari PG",
     "Published/Mondo/NPC/Enemies/Archived/Vorlan Fogliagrigia (9)",
     "Published/Mondo/NPC/Enemies/Archived/Nymir Verdimanto (9)"
