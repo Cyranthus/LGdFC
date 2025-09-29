@@ -334,7 +334,8 @@ Da sottolineare l'immancabile ingestione di materia organica poco raccomandabile
 
 
 
+Il ballo
 
-
-Dopo la splendida "notte" di riposo, 
+Dopo la splendida "notte" di riposo, il gruppo riprende il cammino avvicinandosi sempre più ai crinali delle montagne e allontanandosi dalla valle.
+Dopo qualche ora, gli occhi attenti dei nostri avventurieri
 
