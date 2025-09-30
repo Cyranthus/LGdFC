@@ -56,7 +56,7 @@ Inoltre, il libro concede +5 alle prove di sapienza magica e conoscenze arcane s
 
 ## Il Sacchetto delle Evocazioni
 -----------------------------------------------------------------------------------------------------------
-
+3 volte al giorno, si può estrarre una creatura casuale dal sacchetto. L'effetto magico funziona come evoca mostri, ma la creatura è casuale e il suo GS può variare come segue: da GS 1 a GS = lvl utilizzatore
 
 ## Mantello Maledetto di Balena Blu Joe
 -----------------------------------------------------------------------------------------------------------
