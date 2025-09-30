@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 274.5
   },
   "right": {
     "id": "6209ef6ca5687cb1",
@@ -272,8 +272,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "467ff16fdf932193",
+  "active": "a055b7c0f13f42d8",
   "lastOpenFiles": [
+    "___Published___/z_Images/ugothogo.png",
+    "BG Personaggi/Neg Cornetto Rothfus.md",
+    "___Published___/La Storia fin'ora/Riassunto - Parte 4.md",
+    "BG Personaggi/Daianne Jerous (Viktor Gold).md",
     "___Published___/z_Images/Leshy.webp",
     "___Published___/z_Images/Leshy 1.webp",
     "___Published___/z_Images/Kazavon_Varkhan_Eidolon.jpg",
@@ -284,8 +288,6 @@
     "___Published___/z_Images/Doppo-1.webp",
     "___Published___/z_Images/scribble1-1.webp",
     "___Published___/z_Images/DoppoDragon.webp",
-    "___Published___/z_Images/dragonUmbral.webp",
-    "___Published___/La Storia fin'ora/Riassunto - Parte 4.md",
     "Sessioni/Parte 4 - 1/Parte 4 - 1.md",
     "Sessioni/Parte 4 - 1/Mostri e creature delle Montagne di Mezzanotte.md",
     "BG Personaggi/Blu.md",
@@ -311,8 +313,6 @@
     "Starfinder Rules",
     "Mondo/Apparizioni/Pistola rotta (Rattigan)/Descrizione e Visione.md",
     "Mondo/Apparizioni/Pistola rotta (Rattigan)/Scheda Pg - Rattigan.md",
-    "Mondo/Fazioni/Fazioni.md",
-    "Mondo/Apparizioni/Maschera nera mezza strappata (Dav-Horn)/Descrizione e Visione.md",
     "Mondo/Apparizioni/Carta Mazzo Apprensura (Fortunata)",
     "Mondo/Apparizioni/Sap di Gurnys (Gurnys)",
     "Mondo/Space Ships",

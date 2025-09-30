@@ -317,25 +317,94 @@ L’umore non era così a terra dai tempi della morte di… Rugol… Krucol… a
 
 ## Le Montagne della Mezzanotte
 
-Dopo aver adeguatamente riposato e dato degna sepoltura a Giacomino, il gruppo riparte decidendo di seguire il percorso indicato dai medaglioni, dirigendosi in linea retta attraverso l'obbiettivo.
-il percorso si allontana dal lago e dal fiume e si dirige verso le catene montuose, oltre la grande montagna vulcanica.
+Dopo aver adeguatamente riposato e dato degna sepoltura a Giacomino, il gruppo riparte decidendo di seguire il percorso indicato dai medaglioni, dirigendosi in linea retta verso l'obbiettivo.
+il cammino si allontana dal lago e dal fiume, puntando verso le catene montuose, oltre la grande montagna vulcanica.
 
-I nostri intrepidi esploratori cercano riparo tra gli alberi della foresta per un pò di meritato riposo... riposo che però viene interrotto da delle intriganti ninfe fungine: Candida, Tigna e Micelia.
+I nostri intrepidi esploratori cercano riparo tra gli alberi della foresta per concedersi un po' di meritato riposo… riposo che però viene interrotto da delle intriganti ninfe fungine: Candida, Tigna e Micelia.
 
 ![[nymph.png]]
 
-Blu e Doppo inizialmente sembrano apprezzare le avvenenti signorine... ma a un certo punto, i maleducati, le ripudiano allontanandole in malo modo. Dopo un pò di riluttanza, anche Topper, Neg e Dayenne sono intervenuti a favore dei loro compagni profumai e chiudendo la faccenda incenerendo le povere creature micotiche.
+Blu e Doppo inizialmente sembrano apprezzare le avvenenti signorine... ma a un certo punto, i maleducati, le ripudiano allontanandole in malo modo. Dopo un po' di riluttanza, anche Topper, Neg e Daienne intervengono in difesa dei loro compagni profumai, ponendo fine alla faccenda incenerendo le povere creature micotiche.
 
-Il racconto precedente potrebbe non essere del tutto vero e le tre splendide ninfe potrebbero non essere state così avvenenti:
+Il racconto precedente potrebbe non essere del tutto fedele alla realtà e le tre splendide ninfe potrebbero non essere state così avvenenti:
 
 ![[Leshy.webp]]
 
 Da sottolineare l'immancabile ingestione di materia organica poco raccomandabile da parte di Doppo.
 
 
+## Un ballo mortale
 
-Il ballo
+Dopo la splendida "notte" di riposo, il gruppo riprende il cammino, avvicinandosi sempre più ai crinali delle montagne e allontanandosi dalla valle.
+Dopo qualche ora, gli occhi attenti dei nostri avventurieri scorgono una sorta di accampamento su un crinale alla loro sinistra, mentre le orecchie ancor più acute di Topper odono due grossi gug nascosti nella vegetazione che, a quanto pare, tenevano d'occhio il gruppo.
+Mentre i nostri ben poco furtivi amici discutono sul da farsi, i due gug si lanciano di gran lena in direzione del campo, emettendo versi gutturali di probabile allarme... versi che ricevono pronta risposta dalle luci sul crinale montano…
 
-Dopo la splendida "notte" di riposo, il gruppo riprende il cammino avvicinandosi sempre più ai crinali delle montagne e allontanandosi dalla valle.
-Dopo qualche ora, gli occhi attenti dei nostri avventurieri
+Il nostro formidabile trasformista Viktor prende in mano la situazione e, grazie alle sue incredibili capacità, riesce a trasformare quasi tutto il gruppo in perfetti e credibilissimi gug! I suoi compagni, però, non si dimostrano altrettanto utili e collaborativi, rivelandosi piuttosto carenti nelle loro capacità attoriali e interpretative.
+
+Il gruppo di neo-gug (più un mago invisibile e un halfling talmente bravo a nascondersi che il gruppo finisce spesso per dimenticarlo persino quando prenota i posti in taverna), decide di proseguire tenendosi lontano dal presunto campo sul crinale… ma oramai diversi gug sono sulle loro tracce e ben presto vengono raggiunti da un gruppetto di cinque esploratori, che appaiono decisamente confusi nel trovare altri quattro loro simili nella zona a loro assegnata per la perlustrazione…
+Viktor-gug, nonostante l'impegno e la sue incredibili doti attoriali (condite con un pizzico di magia), non riesce a risultare abbastanza convincente nel dialogo con il capo squadra dei gug. Poco prima di essere definitivamente smascherato, inscena prontamente una performance unica e irresistibile, capace di affascinare completamente la squadra dei cinque gug. I nostri insensibili eroi, dopo qualche secondo di esitazione, comprendono le intenzioni del loro compagno artista e sterminano in pochissimi istanti l'intero gruppo di poveri gug, completamente rapiti dalla mortale arte di Viktor.
+
+
+## Ascesa...
+
+Seminati (e trasformati in frattaglie sparse nel sottobosco) gli inseguitori, i nostri esploratori del sottosuolo decidono di evitare il più possibile le zone boschive e di raggiungere il valico davanti a loro tramite mezzi magici: il volo.
+
+Durante l'ascesa (e per il resto della giornata), i nostri svolazzanti amici hanno la netta sensazione di essere osservati da lontano... e dall'alto... 
+
+In pochi minuti riescono a raggiungere la cima del valico montano, avendo quindi un'ottima visuale della grande montagna fumosa che ora si staglia davanti a loro, con una sola grande valle che li separa da essa. 
+
+![[ugothogo.png]]
+(l'immagine non è esattissima, ma non sono riuscito ad ottenere nulla di meglio)
+
+Il gruppo, preso da un rarissimo raptus strategico, decide di sfruttare tutti gli incantesimi che posseggono per volare direttamente oltre il vulcano, superarlo e arrivare a destinazione.
+I pareri, per la prima volta, sono praticamente tutti concordi, il piano pare solido, ogni possibilità calcolata, ogni possibile errore e scenario immaginato…
+…
+…
+E quindi, dopo un'altra riposatina, gli intrepidi partono alla conquista dei cieli!
+
+
+## E Caduta
+
+L'ascesa procede senza intoppi fino a quando gli occhi da Tiefling di Blu non intravedono delle sagome nere svolazzare davanti a loro, nei pressi della grande montagna...
+Il gruppo decide di procedere senza ulteriori esitazioni, pronti ad affrontare qualunque minaccia!
+tranne...
+Tre draghi d'ombra, ognuno equipaggiato con doppio array lanciamissili e doppio fucile laser, piombano sui nostri incauti eroi, sparandogli una salva di missili dalla lunga distanza e una bella salva di coni di energia negativa oltrepassandoli...
+
+l'esito dell'attacco è tragico: Daienne, Feisty e Topper cominciano a precipitare, senza vita, con gran parte del corpo in completa necrosi per l'alta esposizione ai danni di energia negativa.
+
+
+## Viktor
+
+Buio.
+Senti un'incalcolabile numero di voci…
+Cominci a pensare di voler vedere cosa c'è attorno a te e a quel punto cominci a... vedere.
+Sei in una sorta d'immersione dentro tutte queste voci, voci che sono te e tu sei loro…
+Ti concentri, ricordi chi sei, ricordi di avere un corpo, ora lo vedi, ora le voci non le senti più… senti solo la tua…
+Ti viene in mente un luogo familiare, vuoi trovarti in un luogo familiare, accogliente…
+Sei nella tua vecchia casa, quella in cui vivevi con tua moglie e tua figlia… ripensi a loro, a come le ricordi…
+Ed eccole lì, davanti a te… ti vengono incontro, ti abbracciano, senti il loro tocco… era da moltissimi anni che non lo sentivi… ti senti bene, finalmente…
+Se non che…
+Non sai quanto tempo è passato, ma a un certo punto qualcosa ti cerca, qualcosa ti chiama, una chiamata a cui non puoi sottrarti… una chiamata che ti è familiare… che ti è cara, forse quasi quanto la tua famiglia...?
+
+
+
+Topper
+
+Buio.
+Senti un'incalcolabile numero di voci…
+Cominci a pensare di voler vedere cosa c'è attorno a te e a quel punto cominci a... vedere.
+Sei come sospeso nel vuoto, senza che però ci sia un "sopra" o un "sotto"...
+Ti concentri e
+
+
+
+
+
+
+
+
+I sopravvissuti, Doppo, Neg e Blu, cercano di recuperare i corpi dei compagni e trovare il modo per mettersi in salvo.
+Ma qualcosa d'inaspettato accade: Neg è il primo a muoversi, entra in contatto con il corpo di Daienne ed immediatamente 
+
+
 
