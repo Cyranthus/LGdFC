@@ -1,9 +1,7 @@
+**GS UCCISIONI**
 
-**MOSTRI UCCISI**
 
-3x GS 8    
-8x GS 10
+---
 
-18
 
 **INIZIATIVA**

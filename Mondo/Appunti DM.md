@@ -24,9 +24,7 @@ Acronimi
     \- intrattenimento attivo con eventi in cui "giocatori" terrestri si collegano neuralmente con i corpi dei cercatori  
     \- l'energia delle anime dei morti degli esseri viventi di Golarion vengono assorbite, immagazzinate e veicolate verso la dimensione creata dalle IA dove prosperare senza limiti (tale dimensione permette anche le comunicazioni istantanee e l'alimentazione di tutte le tecnologie terrestri)
     
+Varkhan e Kazavon sono stati sfruttati per alimentare uno dei Kaiju che i terrestri scateneranno su Golarion.
 
-PERCHE' GLI EROI DELLE LEGGENDE NON ARRIVANO MAI QUANDO AVVENGONO CATACLISMI O TRAGEDIE? SONO SEMPRE NUOVI AVVENTURIERI E NOVIZI CHE SI SOLLEVANO DALLA MASSA E REAGISCONO... MA QUANDO DIVENTANO LEGGENDE, POI SPARISCONO...
 
-Perchè gli umani, dopo averli sfruttati x le imprese compiute, li catturano e assimilano.
-
-*   M.O.T.H.E.R. è un unicum
+*   M.O.T.H.E.R. è un unicum 
