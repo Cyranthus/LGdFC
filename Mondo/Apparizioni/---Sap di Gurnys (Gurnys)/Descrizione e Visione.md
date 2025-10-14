@@ -48,3 +48,4 @@
 * 2 "punti energia":  come parte dell'azione di movimento, puoi muoverti tra le ombre, teletrasportandoti in qualsiasi punto che puoi vedere, purchè sia presente un'ombra e in linea di vista (distanza e portata come porta dimensionale).
 
 - 4 "punti energia": az standard, puoi evocare 1d4+1 operativi ladri fatti d'ombra (sono considerati come il phantom dello spiritista, quindi esterni, ma completamente fisici, fatti di ectoplasma) di lvl pari a metà lvl utilizzatore (arrotondato per difetto), l'evocazione dura un minuto per livello utilizzatore.
+  Le ombre sono sempre armate con un SAP e un pugnale o spada corta (a scelta). Tra i talenti delle ombre vi sono sempre **Adepto del Manganello** e **Maestro del Manganello** se l'ombra evocata è almeno di lvl 6!

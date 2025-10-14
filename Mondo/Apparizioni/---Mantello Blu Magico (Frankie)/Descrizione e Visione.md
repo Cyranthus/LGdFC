@@ -64,6 +64,20 @@ Ti rivolgi al tuo ufficiale scientifico **"Dr. Wittlewak, faccia evacuare la nav
 *Buio.*
 
 
+Capacità magiche Mantello di Balena Blu Joe
+- è sempre in movimento, come se fosse continuamente colpito da una brezza di vento
+- +4 ai ts
+- (maledetto): rende il portatore permanentemente con la pelle blu
+
 ### Poteri
 
-- 4 Punti energia: La vecchia nave di Frankie spunta all'orizzonte; al comando del capitano, i cannoni sparano diversi colpi esplosivi in una vasta area scelta dal portatore (funziona come sciame di meteore, anche nelle modalità di bersaglio ecc)
+- **1 Punto Energia**: - **Gergo dei Pirati (Str)**: Imprechi contro il bersaglio in modo "piratesco", come azione veloce fai effettuare un Tiro Salvezza su Volontà ( CD = 10 + 1/2 del livello + il mod. carat. mentale scelta) a una singola creatura vivente entro 9 metri; se fallisce, la creatura è Confusa per 1 round. 
+  Se il giocatore esclama davvero un insulto piratesco, la durata diventa 1d4 round.
+
+- **4 Punti Energia**: az standard, La vecchia nave di Frankie spunta all'orizzonte (la cosa funziona anche al chiuso, semplicemente le palle di cannone appaiono attraverso muri/soffitti); al comando del capitano, i cannoni sparano diversi colpi esplosivi in una vasta area scelta dal portatore; l'incantesimo funziona come sciame di meteore a parte quanto segue:
+  - si lanciano tante sfere quanto descritto di seguito
+     lvl 1-5: 1 sfera
+     lvl 6-10: 2 sfere
+     lvl 11-15: 3 sfere
+     lvl 16-20: 4 sfere
+ - il TS Riflessi dimezza è pari a 10 + 1/2 livello + mod carat. mentale scelta.
