@@ -274,7 +274,7 @@ Medaglione Vickster/SAP
 ### Tek Lab (Chiuso)
  - Clone virtuale di Vickster: Inizialmente cercherà di spaventare gli eroi, utilizzando illusioni come effetti speciali.
    "Chi osa disturbare il mio riposo????!???"
-   se gli eroi capiscono che è illusione, si congratula con loro e si rivela nel vero aspetto.
+   se gli eroi capiscono che è un illusione, si congratula con loro e si rivela nel vero aspetto.
    Vickster sarà molto contento di parlare con loro (dopotutto sono le prime vere persone che incontra da tipo 1000 anni)
    Vickster conosce la storia ma solo fino a prima dell'attacco dei Cercatori a Korvosa (quindi cmq sa tutto di Varkhan e Fortunata).
    Se si fiderà del gruppo, gli consegnerà la chiave chiedendogli di ritrovare il suo... padrone, o di capire che fine ha fatto.

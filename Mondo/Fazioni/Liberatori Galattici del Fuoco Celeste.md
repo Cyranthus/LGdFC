@@ -1,0 +1,2 @@
+
+Scopo: gruppo di resistenza che lotta per la libertà dei popoli magici (sparsi su vari pianeti-piantagione), attualmente non esiste più alcun gruppo organizzato, le sue forze sono state sconfitte millenni fà.

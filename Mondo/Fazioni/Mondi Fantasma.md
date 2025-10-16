@@ -1,0 +1,1 @@
+I mondi fantasma sono un sistema solare di mondi isolati sull'orlo esterno della galassia

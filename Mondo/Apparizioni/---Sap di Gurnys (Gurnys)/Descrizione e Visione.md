@@ -11,22 +11,22 @@
 > 
 > *"Cosa... cosa cazzo significa...???"*
 > *"Non ne ho la più pallida idea, per questo ho deciso di portarla via dalla città... sperando che il resto della città stia bene..."*
-> *"Ma che cazz, come portarla via?? dove siamo finiti? siamo sempre a Korv..."*
+> *"Ma che cazzo, come portarla via?? dove siamo finiti? siamo sempre a Korv..."*
 > *Solo ora noti che, a circa mezzo km, tutto attorno a voi, la città, il paesaggio, tutto... s'interrompe in un brusco nero senza fine...*
-> *"Ora non abbiamo decisamente tempo per una spiegazione, prima vediamo di abbattere quella cosa! Cercherò di intrattenerlo assieme ai pochi soldati rimasti, tu vedi di scalarlo e di trovare un possibile punto debole! Deve averne uno!"*
+> *"Ora non abbiamo decisamente tempo per una spiegazione, prima vediamo di abbattere quella cosa! Cercherò di distrarlo assieme ai pochi combattenti rimasti, tu vedi di trovare un possibile punto debole! Deve averne uno!"*
 > *Così dicendo Vickster chiama a se i pochi maghi, guerrieri e soldati rimasti e li sprona ad attaccare la creatura.*
 > *L'enorme costrutto comincia ad emettere raggi luminosi, proiettili esplosivi e a colpire gli edifici da cui i difensori di Korvosa lo attaccano.*
 > *Chiami a te 5 operativi e vi teleportate alla base della creatura e poi, attivando nuovamente l'armatura, vi spostate in un punto su quello che pare il dorso.*
 > 
-> *Grazie all'armatura magica, riuscite ad aderire al dorso del costrutto, trovi un passaggio per l'interno; l'apertura della botola attiva dei mini costrutti di difesa che attaccano i tuoi operativi.
-> *T'intrufoli dentro mentre i tuoi sottoposti tengono a bada i costrutti.*
-> *Attraversi agilmente uno stretto cunicolo e ti ritrovi in una specie di stanza con 5 tubi di vetro e una specie di pannello con diversi pulsanti luminose e leve; sopra al pannello capeggia una scritta:
+> *Sempre grazie all'armatura magica, riuscite ad aderire al dorso del costrutto... dopo poco trovi una sagomatura quadrata, una sorta di botola sigillata. Riesci ad aprirla rivelando uno stretto passaggio verso l'interno del costrutto; l'apertura della botola attiva una specie di allarme e diversi piccoli costrutti volanti calano dall'alto e attaccano i tuoi operativi.
+> T'intrufoli dentro mentre i tuoi sottoposti tengono a bada i costrutti.*
+> *Attraversi agilmente lo stretto cunicolo e ti ritrovi in una specie di stanza con pareti, pavimento e soffitto in metallo; le pareti e il soffitto sono coperti da tubi, cavi e un sacco di altra roba rumorosa e luminosa. al centro della stanza ci sono 5 cilindri di vetro verticali e una specie di pannello con diversi pulsanti luminosi e leve; al centro una superficie vetrata luminosa che mostra diversi diversi simboli e scritte che cambiano contiunamente... tranne una, una scritta nella parte superiore dello schermo rimane sempre uguale:
 > 
-> ***Planetar HArvester for Reaping And Soul Mass Assimilation***
+> ***Planetar HArvester for Reaping And Soul Mass Assimilation -  Power Source Control System***
 > 
-> *All'interno di due cilindri ci sono 2 corpi umanoidi praticamente consumati (ma che ancora si muovono) con numerosi tubi ad essi collegati; ai lati dei due corpi ci sono 2 targhette: **Acavna** e **Aroden***.
-> *Distruggi le teche e prova a rimuovere uno dei due corpi, strappando i tubi.*
-> *Il corpo urla e inizia ad emettere fasci luminosi dagli occhi, dalla bocca... una scarica di energia ti scaraventa contro le pareti, il corpo continua a dimenarsi e ad emettere energia*
+> *All'interno di due cilindri ci sono 2 corpi umanoidi che paiono come... consumati (ma che ancora si muovono) con numerosi tubi ad essi collegati; sotto il vetro dei due cilindri ci sono 2 targhette: **Acavna** e **Aroden***.
+> *Il tuo intuito ti suggerisce di rimuovere i corpi: distruggi uno dei cilindri, quello con la scritta "Aroden" e prendi il gracile corpo, strappandolo dai tubi.*
+> *L'umanoide sembra destarsi ma improvvisamente urla e inizia ad emettere fasci luminosi dagli occhi, dalla bocca... una scarica di energia ti scaraventa contro le pareti, il corpo continua a dimenarsi e ad emettere energia*
 > *Fuggi all'esterno e con i tuoi compagni ti allontani attivando il polo di teletrasporto sull'armatura leggera.*
 > *Il costrutto comincia a muoversi in modo incontrollato e a caricarsi di energia...*
 > *vicino l'enorme costrutto, strane linee traslucide incolori s'innalzano dalle persone; cittadini, soldati e combattenti cominciano a cadere a terra come pupazzi, senza vita.*
@@ -34,7 +34,7 @@
 ![[Gurnys1.jpg]]
 
 > *Le luminescenze traslucide convergono verso il costrutto mentre sempre più persone continuano a cadere, propagandosi a grande velocità...*
-> *Vickster comincia a salmodiare un incantesimo, guerrieri e maghi vicino a voi cadono a terra senza vita* 
+> *Vickster comincia a salmodiare un incantesimo, guerrieri e maghi vicino a voi cadono a terra senza vita*.
 > *Improvvisamente dal Costrutto si sprigiona una luce accecante e un'onda di energia v'investe*
 > *Buio*
 
