@@ -1,7 +1,7 @@
 ### Visione
 
 > Sei ancora disorientata per il potente effetto che ha distrutto la barriera planare che sostenevi.
-> Perception per riconoscere il comandante Vossnik
+> ***Perception per riconoscere il comandante Vossnik***
 > 
 > Buio
 

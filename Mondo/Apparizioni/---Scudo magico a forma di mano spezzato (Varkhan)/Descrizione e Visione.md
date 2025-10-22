@@ -3,7 +3,7 @@
 > Siedi sul tuo trono e ripensi alle parole che ti ha detto Vickster qualche giorno fa (anche se giorno non è proprio esatto come termine, visto che qui)
 > Appaiono i terrestri tramite enormi portali
 > assedio e attacco alla fortezza
-> Perception per riconoscere il comandante Vossnik
+> ***Perception per riconoscere il comandante Vossnik***
 > Buio
 
 ### Poteri
