@@ -62,5 +62,5 @@ Inoltre, il libro concede +5 alle prove di sapienza magica e conoscenze arcane s
 -----------------------------------------------------------------------------------------------------------
 Maledizione: la pelle del portatore del mantello diventa blu.
 + +4 a tutti i TS di resistenza
-+ volo giornaliero attivabile a volontà
++ volo giornaliero attivabile (1 v.g.)
 + il mantello non può più essere tolto

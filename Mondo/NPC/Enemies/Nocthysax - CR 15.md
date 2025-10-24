@@ -12,7 +12,12 @@ Ora, Nocthysax si è costruito un piccolo regno, sottomettendo i Gug e schiavizz
 Nocthysax intende estendere il suo dominio su tutta la regione delle Montagne della Mezzanotte, Sekamina e poi, una volta pronto, attaccare la superficie per vendicarsi della SAP.
 
 
-FASE 1
+**PREFIGHT**
+
+Combattimento contro suoi sottoposti
+
+
+**FASE 1**
 
 il combattimento avviene principalmente contro la sua parte meccanizzata e tecnologica, la maggior parte degli attacchi è quindi con armi Tek.
 
@@ -38,7 +43,7 @@ TXC +19, **Damage** 10d4+12; **Damage Type** F&P; **Critical** —
 TXC +19, **Damage** 6d6; **Damage Type** F; **Critical** burn  
 **Slots** 1 (frame); **Capacity** 20
 
-FASE 2
+**FASE 2**
 
 _Il corpo di Nocthysax, ormai in gran parte distrutto nelle sue componenti artificiali, cade a terra…_  
 _Dopo qualche istante, la testa del possente drago si solleva e, con un grido possente, attinge a una smisurata quantità di energia dal nucleo. Una luce abbagliante avvolge l’ambiente circostante: per alcuni secondi l’intera sala sembra svanire, divenendo un bianco assoluto, privo di profondità, con un’unica ombra nera di fronte a voi, il terribile drago d'ombra che continua a sprigionare energia.

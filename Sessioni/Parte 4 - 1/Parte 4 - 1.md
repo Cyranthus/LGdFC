@@ -225,7 +225,11 @@ Attorno al monte Ugothogo volano in ronda diversi draghi d'ombra; non ci sono se
 - Ingresso al cono del vulcano
   Un enorme caverna si apre sulla parete della montagna; anche senza entrare s'intravedono una luce biancastra e sagome di edifici scuri. All'ingresso vi sono 2 Gug di guardia e 2 draghi d'ombra giovani.
 
-- Cono del vulcano: all'interno del cono, c'è l'enorme cittadella di Nocthysax in costruzione
+- Cono del vulcano: all'interno del cono, c'è l'enorme cittadella di Nocthysax in costruzione (vedi mappa disegnata)
+
+nella piccola cittadella ci sono una 20 di guardie pronte al momento del loro ingresso
+
+Se gli avventurieri entrano di violenza
 
 
 ### Incontro con Nocthysax
@@ -236,9 +240,18 @@ Il trono è occupato da una possente creatura, una creatura che sicuramente era 
 gran parte delle corpo dell'oscura figura è ricoperta e rimpiazzata da metallo e protesi di vario tipo.
 La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte più luminosa è proprio Nocthysax, il quale emette fasci luminosi verso l'alto, dal suo dorso; è questa la luce viene proiettata e amplificata dalle pareti di ossidiana, riverberando sulle nubi nere che si sollevano dal lago di lava alle spalle della torre
 
+**Guardia di Nocthysax**
+- 1 Gug con 4 armi da mischia per gli artigli (4x Shell Knuckles, Tactical, +3d4 al danno)
+- 1 Gug con 2 armi pesanti a distanza (2x Zero cannon, tactical, 3d8 freddo, linea 18m, critico staggered, 20 colpi)
+- 1 Gug con 2 armi a due mani (2x Flame doshko, blaze, 2d8 Fuoco, critico [[Wound]])
+- Chierico Umano (GS 10) **KAC 27**, **EAC 21**  https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/fire-cleric-human-cleric-of-asmodeus-11/ con ## [Lashunta Ringwear, III](https://www.aonsrd.com/ArmorDisplay.aspx?ItemName=III&Family=Lashunta%20Ringwear) ( Environmental Field (Magic) battery 10, Usage 1/round (come spell # [Life Bubble](https://www.aonsrd.com/SpellDisplay.aspx?ItemName=Life%20Bubble&Family=None)) / Force Field (battery 20, TempHP 15, recharge 4)
+  ![[Lashunta RingwearIII.png]]
+  
+  
+
 
 - il possente drago convocherà il gruppo per un incontro: vorrà sapere con chi ha a che fare e qual'è il loro scopo lì.
-- proporrà agli eroi di collaborare con lui... se accetteranno, gli chiederà di eliminare certi fastidiosi vermi che hanno infestato una caverna di sua proprietà (quella della Rebellion)... Se accetteranno ed eseguiranno la missione, Nocthysax li ricompenserà lasciandogli prendere del Noqual dalla nave e gli darà le indicazioni per raggiungere una base segreta dei Cercatori, nei pressi di Almas.
+- proporrà agli eroi di diventare suoi sottoposti... se accetteranno, gli ordinerà di eliminare certi fastidiosi vermi che hanno infestato una caverna di sua proprietà (quella della Rebellion)... Se accetteranno ed eseguiranno la missione, Nocthysax li ricompenserà lasciandogli prendere del Noqual dalla nave e gli darà le indicazioni per raggiungere una base segreta dei Cercatori, nei pressi di Almas.
   Un gug accompagnerà gli eroi e avrà un comunicatore che ogni mezz'ora circa aggiorna il drago sulla situazione.
 
 
@@ -249,27 +262,24 @@ Nei pressi dell'ingresso della caverna ci saranno diversi cadaveri di Gug e quel
  La caverna, prosegue, lungo il percorso vengono attaccati da:
 2 Roper lungo i condotti
 
-alla base della caverna, dove la stiva presenta un vasta apertura, un piccolo gruppo di Seugathi ha messo
+alla base della caverna, dove la stiva presenta un vasta apertura, un piccolo gruppo di Seugathi ha creato una sorta di nido
 
 2 Seugathi Savant https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/seugathi/seugathi-savant/
-4x Seugathi https://golarion.altervista.org/wiki/Seugathi
+6x Seugathi https://golarion.altervista.org/wiki/Seugathi
 
 
 
 
 ## Dentro la UGP Rebellion
 
-Vano di carico (paratia divelta)
+Possibili ingressi:
+1) Vano di carico (paratia divelta)
 - diversi materiali sono stati trafugati da qui, alcune quantità di Noqual e Adamantio sono ancora presenti
 
-
+1) Porta principale
 *se gli eroi hanno ancora cariche di energia, toccando le porte le attiveranno, grazie ai medaglioni*
-
-Medaglione Krugol
-"Dottor Wittlewak, bentornato a bordo della Rebellion"
-
-Medaglione Vickster/SAP
-"Capo Ingegnere Kroviz, bentornato a bordo della Rebellion"
+- Medaglione Krugol: "Dottor Wittlewak, bentornato a bordo della UGP Rebellion"
+- Medaglione Vickster/SAP: "Capo Ingegnere Kroviz, bentornato a bordo della UGP Rebellion"
 
 ### Tek Lab (Chiuso)
  - Clone virtuale di Vickster: Inizialmente cercherà di spaventare gli eroi, utilizzando illusioni come effetti speciali.
@@ -278,11 +288,11 @@ Medaglione Vickster/SAP
    Vickster sarà molto contento di parlare con loro (dopotutto sono le prime vere persone che incontra da tipo 1000 anni)
    Vickster conosce la storia ma solo fino a prima dell'attacco dei Cercatori a Korvosa (quindi cmq sa tutto di Varkhan e Fortunata).
    Se si fiderà del gruppo, gli consegnerà la chiave chiedendogli di ritrovare il suo... padrone, o di capire che fine ha fatto.
- - Chiave di Recupero - prototipo 00 (Nascosta da clone Vickster, dentro una cassaforte)
+ - Chiave di Recupero - prototipo 00 (Nascosta da clone Vickster, dentro una cassaforte) oggetto con un'aura di evocazione molto potente. contiene una batteria Korvosiana, l'attivazione consuma la carica dell'intera batteria
 
 ### Centro di Comando (Chiuso)
-- Corpo Frankie (con loot)
-- Oggetto Frankie (mantello perennemente in movimento)
+- Corpo Frankie (con loot) (pg lvl 20)
+- Oggetto Frankie (mantello perennemente in movimento) -> visione
 
 
 

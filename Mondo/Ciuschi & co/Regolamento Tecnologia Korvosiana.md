@@ -60,9 +60,9 @@ Questo potente artefatto minore ha due utilizzi principali:
 - Ancora dimensionale ed effetti simili (non epici) non hanno effetto su questa verga e le sue capacità.
 
 Attualmente la verga ha i seguenti piani registrati:
-- Semipiano di Varkhan
-- Inferi, Palazzo di Fortunata
-- Porzione isolata di Korvosa
+- Semipiano di Varkhan (1 Nodo)
+- Inferi, Palazzo di Fortunata (2 Nodo)
+- Porzione isolata di Korvosa (Nodo criptato)
 
 ### Chiave di Recupero - prototipo 00
 

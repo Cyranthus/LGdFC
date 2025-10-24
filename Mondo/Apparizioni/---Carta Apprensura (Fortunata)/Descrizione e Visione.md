@@ -1,6 +1,9 @@
 ### Visione
 
-> Sei ancora disorientata per il potente effetto che ha distrutto la barriera planare che sostenevi.
+> Cadi in ginocchio, sei ancora disorientata per il potente effetto che ha distrutto la barriera planare che sostenevi.
+> Ti serve qualche secondo per riprenderti, allunghi la mano verso il tuo trono e ti rialzi...
+> Erano da parecchi anni che non ti alzavi da lì; dopo aver preso il posto di Asmodeus, la nostra idea di isolare definitivamente gli Inferi ha funzionato: gli altri arcidiavoli si sono parecchio indeboliti
+
 > ***Perception per riconoscere il comandante Vossnik***
 > 
 > Buio
