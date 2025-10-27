@@ -1,7 +1,6 @@
 
 https://golarion.altervista.org/wiki/Drago_delle_Ombre_Adulto_Maturo
 
-
 Nocthysax è un fuggitivo, un sopravvisuto allo sfruttamento dei Terrestri/SAP.
 In passato è stato sfruttato numerose volte per esperimenti, come nemesi per gruppi di avventurieri, minaccia regionale in varie trame organizzate sempre per l'intrattenimento dei Terrestri.
 
@@ -11,10 +10,10 @@ Riuscì a trovare rifugio nel sottosuolo, raggiungendo il Vault Orv; qui sopravv
 Ora, Nocthysax si è costruito un piccolo regno, sottomettendo i Gug e schiavizzando i Pech, richiamando a sé altri draghi d'ombra e raccogliendo ciuschi e antiche tecnologie un pò per tutto l'underdark. 
 Nocthysax intende estendere il suo dominio su tutta la regione delle Montagne della Mezzanotte, Sekamina e poi, una volta pronto, attaccare la superficie per vendicarsi della SAP.
 
-
 **PREFIGHT**
 
 Combattimento contro suoi sottoposti
+
 
 
 **FASE 1**
@@ -27,7 +26,7 @@ il combattimento avviene principalmente contro la sua parte meccanizzata e tecno
 **Melee**
 - **AutoSpear**
 **Type** melee or ranged (when engaged only); **Special** reach, thrown (40 ft.)  
-TXC +26, **Damage** 9d6+13; **Damage Type** P; **Critical** —  
+TXC +26, **Damage** 6d6+13; **Damage Type** P; **Critical** —  
 **Slots** 2 (upper limb)
 
 **Ranged**
@@ -42,6 +41,8 @@ TXC +19, **Damage** 10d4+12; **Damage Type** F&P; **Critical** —
 **Type** ranged; **Range** 250 ft.; **Special** automatic  
 TXC +19, **Damage** 6d6; **Damage Type** F; **Critical** burn  
 **Slots** 1 (frame); **Capacity** 20
+
+
 
 **FASE 2**
 
