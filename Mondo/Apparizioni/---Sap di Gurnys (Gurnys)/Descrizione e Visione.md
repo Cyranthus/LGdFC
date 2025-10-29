@@ -1,7 +1,7 @@
 ### Visione
 
 > *"Ma che cazzo hai combinato??" urli rivolgendoti a Vickster.*
-> *mai che quel mago da strapazzo avvisi sulle sue intenzioni! Fa sempre di testa sua!*
+> *Mai che quel mago da strapazzo avvisi sulle sue intenzioni! Fa sempre di testa sua!*
 > *Vickster ti guarda, non l'avevi mai visto così scosso e preoccupato...*
 > *"Non ho potuto fare diversamente, stavo lavorando a un'altra soluzione ma non mi aspettavo un attacco così presto! Ho dovuto improvvisare... hai notato la scritta sul fianco di quel bestione?"*
 > *Gurnys "no, di che diavolo..."*
