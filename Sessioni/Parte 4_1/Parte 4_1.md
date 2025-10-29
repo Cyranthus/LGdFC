@@ -262,13 +262,8 @@ La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte pi
 "*Certo è veramente incomprensibile che voi non mi conosciate e che nemmeno conosciate l'enorme estensione dei miei domini... Ma sono uno di mentalità aperta e che detesta gli sprechi... e quando vedo del talento lo voglio coltivare, se è possibile... Ho deciso di concedervi la possibilità di ottenere un onore riservato a pochissimi: diventare miei campioni! Voi potreste diventare l'Artiglio di Nocthysax! I diretti esecutori del mio Volere!*
 *Ovviamente, tanta onorificenza non posso elargirla così, ai primi di passaggio... vi siete fatti valere contro i miei seguaci, ma serve una vera sfida per vedere se avete la stoffa per diventare miei Campioni. Ho una missione per voi, se la porterete a termine, vi considererò degni. Una delle mie caverne, qui nelle vicinanze, è stata lordata dalla presenza di fetidi vermi troppo cresciuti... ho perso i contatti con i miei seguaci lì di guardia e stavo appunto per mandare qualcuno ad occuparsene... ma potreste appunto occuparvene voi... Ovviamente tutto quello che troverete all'interno della caverna è già di mia proprietà, quindi non vi azzardate a fare i furbi... lo saprei! Sarete scortati da due miei sottoposti.*"
 
-<<<<<<< HEAD:Sessioni/Parte 4 - 1/Parte 4 - 1.md
-2 gug accompagneranno gli eroi e avranno un comunicatore che ogni mezz'ora circa aggiorna il drago sulla situazione.
-Se accetteranno ed eseguiranno la missione, Nocthysax gli darà le indicazioni per raggiungere una base segreta dei Cercatori, nei pressi di Almas.
-=======
 - Se accetteranno ed eseguiranno la missione, Nocthysax gli darà le indicazioni per raggiungere una base segreta dei Cercatori, nei pressi di Almas.
   2 gug accompagneranno gli eroi e avranno un comunicatore che ogni mezz'ora circa aggiorna il drago sulla situazione.
->>>>>>> 61a45c3ce77556f240877df85a2c3e92549167fb:Sessioni/Parte 4_1/Parte 4_1.md
 
 - Se non accettano, combattimento: [[Nocthysax - CR 15]]
 
