@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "7fc360ba3ec6d1c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Space Ships/UGP Rebellion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UGP Rebellion"
+            }
+          },
+          {
             "id": "af072170da29aa06",
             "type": "leaf",
             "state": {
@@ -302,8 +316,9 @@
   },
   "active": "8c2e294bff09b8e2",
   "lastOpenFiles": [
-    "Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
+    "Mondo/Space Ships/UGP Rebellion.md",
     "Sessioni/Parte 4 - 1/Parte 4 - 1.md",
+    "Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
     "Mondo/NPC/Enemies/Nocthysax - CR 15.md",
     "Sessioni/Parte 4 - 1/Appunti.md",
     "Mondo/Appunti DM.md",
@@ -321,7 +336,6 @@
     "Lashunta RingwearIII.png",
     "Mondo/Ciuschi & co/Ciuschi Meravigliosi.md",
     "Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
-    "Mondo/Space Ships/UGP Rebellion.md",
     "Mondo/Space Ships/Rebellion.pdf",
     "Mondo/Fazioni/Cercatori dell'Alba.md",
     "Mondo/Fazioni/Terrestri.md",

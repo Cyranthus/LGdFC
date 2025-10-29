@@ -262,8 +262,8 @@ La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte pi
 "*Certo è veramente incomprensibile che voi non mi conosciate e che nemmeno conosciate l'enorme estensione dei miei domini... Ma sono uno di mentalità aperta e che detesta gli sprechi... e quando vedo del talento lo voglio coltivare, se è possibile... Ho deciso di concedervi la possibilità di ottenere un onore riservato a pochissimi: diventare miei campioni! Voi potreste diventare l'Artiglio di Nocthysax! I diretti esecutori del mio Volere!*
 *Ovviamente, tanta onorificenza non posso elargirla così, ai primi di passaggio... vi siete fatti valere contro i miei seguaci, ma serve una vera sfida per vedere se avete la stoffa per diventare miei Campioni. Ho una missione per voi, se la porterete a termine, vi considererò degni. Una delle mie caverne, qui nelle vicinanze, è stata lordata dalla presenza di fetidi vermi troppo cresciuti... ho perso i contatti con i miei seguaci lì di guardia e stavo appunto per mandare qualcuno ad occuparsene... ma potreste appunto occuparvene voi... Ovviamente tutto quello che troverete all'interno della caverna è già di mia proprietà, quindi non vi azzardate a fare i furbi... lo saprei! Sarete scortati da due miei sottoposti.*"
 
-Se accetteranno ed eseguiranno la missione, Nocthysax gli darà le indicazioni per raggiungere una base segreta dei Cercatori, nei pressi di Almas.
 2 gug accompagneranno gli eroi e avranno un comunicatore che ogni mezz'ora circa aggiorna il drago sulla situazione.
+Se accetteranno ed eseguiranno la missione, Nocthysax gli darà le indicazioni per raggiungere una base segreta dei Cercatori, nei pressi di Almas.
 
 
 ## Caverna della UGP Rebellion
@@ -271,15 +271,22 @@ Se accetteranno ed eseguiranno la missione, Nocthysax gli darà le indicazioni p
 Nei pressi dell'ingresso della caverna ci saranno diversi cadaveri di Gug e quello di un drago d'ombra giovane
 
  La caverna, prosegue, lungo il percorso vengono attaccati da:
-2 Roper lungo i condotti
+2 Roper (https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/roper/) lungo i condotti
 
 alla base della caverna, dove la stiva presenta un vasta apertura, un piccolo gruppo di Seugathi ha creato una sorta di nido
 
 2 Seugathi Savant https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/seugathi/seugathi-savant/
 6x Seugathi https://golarion.altervista.org/wiki/Seugathi
 
-
-
+a una certa, uno dei Seugathi Savant, pianta a terra una sorta di bacchetta di metallo la quale comincia immediatamente ad emettere vibrazioni ad ondate nella terra (perception 25 per percepirle).
+dopo 3 round appare un Great Purple Worm (CR 13), nel 3 round chi è a terra subisce 1d6 da fuoco.  
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/purple-worm/ 
+- Energy Attack (Fire): ogni 1d4 rounds, +4d6 da fuoco al prossimo attacco fisico che fa. Gli swallowed subiscono +1d6 da fuoco.
+  Se il verme scava, la parete/pavimento sotto cui sta diventa incandescente, fa 1d6 da fuoco. Breath weapon usable every 1d4 rounds (30-ft. cone, 8d6 damage, Reflex half DC 25).
+  Immunity to Fire. Every 3 damage of fire, heals 1 hp.
+- Improved tremorsense (360 feet)
+- [displacement](https://www.d20pfsrd.com/magic/all-spells/d/displacement) effect (20% [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment)) and SR 23.
+  
 
 ## Dentro la UGP Rebellion
 
