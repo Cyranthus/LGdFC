@@ -253,7 +253,7 @@ La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte pi
 - 1 Gug con 4 armi da mischia per gli artigli (4x Shell Knuckles, Tactical, +3d4 al danno)
 - 1 Gug con 2 armi pesanti a distanza (2x Zero cannon, tactical, 3d8 freddo, linea 18m, critico staggered, 20 colpi)
 - 1 Gug con 2 armi a due mani (2x Flame doshko, blaze, 2d8 Fuoco, critico [[Wound]])
-- Chierico Umano (GS 10) **KAC 27**, **EAC 21**  https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/fire-cleric-human-cleric-of-asmodeus-11/ con ## [Lashunta Ringwear, III](https://www.aonsrd.com/ArmorDisplay.aspx?ItemName=III&Family=Lashunta%20Ringwear) ( Environmental Field (Magic) battery 10, Usage 1/round (come spell # [Life Bubble](https://www.aonsrd.com/SpellDisplay.aspx?ItemName=Life%20Bubble&Family=None)) / Force Field (battery 20, TempHP 15, recharge 4)
+- 1 Chierico Umano (GS 10) **KAC 27**, **EAC 21**  https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/fire-cleric-human-cleric-of-asmodeus-11/ con ## [Lashunta Ringwear, III](https://www.aonsrd.com/ArmorDisplay.aspx?ItemName=III&Family=Lashunta%20Ringwear) ( Environmental Field (Magic) battery 10, Usage 1/round (come spell # [Life Bubble](https://www.aonsrd.com/SpellDisplay.aspx?ItemName=Life%20Bubble&Family=None)) / Force Field (battery 20, TempHP 15, recharge 4)
   ![[Lashunta RingwearIII.png]]
 
 
@@ -262,9 +262,10 @@ La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte pi
 "*Certo è veramente incomprensibile che voi non mi conosciate e che nemmeno conosciate l'enorme estensione dei miei domini... Ma sono uno di mentalità aperta e che detesta gli sprechi... e quando vedo del talento lo voglio coltivare, se è possibile... Ho deciso di concedervi la possibilità di ottenere un onore riservato a pochissimi: diventare miei campioni! Voi potreste diventare l'Artiglio di Nocthysax! I diretti esecutori del mio Volere!*
 *Ovviamente, tanta onorificenza non posso elargirla così, ai primi di passaggio... vi siete fatti valere contro i miei seguaci, ma serve una vera sfida per vedere se avete la stoffa per diventare miei Campioni. Ho una missione per voi, se la porterete a termine, vi considererò degni. Una delle mie caverne, qui nelle vicinanze, è stata lordata dalla presenza di fetidi vermi troppo cresciuti... ho perso i contatti con i miei seguaci lì di guardia e stavo appunto per mandare qualcuno ad occuparsene... ma potreste appunto occuparvene voi... Ovviamente tutto quello che troverete all'interno della caverna è già di mia proprietà, quindi non vi azzardate a fare i furbi... lo saprei! Sarete scortati da due miei sottoposti.*"
 
-Se accetteranno ed eseguiranno la missione, Nocthysax gli darà le indicazioni per raggiungere una base segreta dei Cercatori, nei pressi di Almas.
-2 gug accompagneranno gli eroi e avranno un comunicatore che ogni mezz'ora circa aggiorna il drago sulla situazione.
+- Se accetteranno ed eseguiranno la missione, Nocthysax gli darà le indicazioni per raggiungere una base segreta dei Cercatori, nei pressi di Almas.
+  2 gug accompagneranno gli eroi e avranno un comunicatore che ogni mezz'ora circa aggiorna il drago sulla situazione.
 
+- Se non accettano, combattimento: [[Nocthysax - CR 15]]
 
 ## Caverna della UGP Rebellion
 

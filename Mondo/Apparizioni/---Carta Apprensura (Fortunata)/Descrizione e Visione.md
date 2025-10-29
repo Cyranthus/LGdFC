@@ -2,7 +2,11 @@
 
 > Cadi in ginocchio, sei ancora disorientata per il potente effetto che ha distrutto la barriera planare che sostenevi.
 > Ti serve qualche secondo per riprenderti, allunghi la mano verso il tuo trono e ti rialzi...
-> Erano da parecchi anni che non ti alzavi da lì; dopo aver preso il posto di Asmodeus, la nostra idea di isolare definitivamente gli Inferi ha funzionato: gli altri arcidiavoli si sono parecchio indeboliti
+> Erano da parecchi anni che non ti alzavi da lì; dopo aver rimosso Asmodeus, la nostra idea di isolare definitivamente gli Inferi ha funzionato: gli altri arcidiavoli e tutti gli infernali si sono parecchio indeboliti...
+> 
+> 
+
+alzi la mano e con il solo tuo volere, appare una catena semitrasparente e intangibile per tutti... tranne che per te... senti il legame con la creatura infernale
 
 > ***Perception per riconoscere il comandante Vossnik***
 > 
