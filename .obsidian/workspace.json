@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessioni/Parte 4_1/Parte 4_1.md",
+                "file": "Mondo/Apparizioni/---Carta Apprensura (Fortunata)/Descrizione e Visione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parte 4_1"
+              "title": "Descrizione e Visione"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 742.5
+    "width": 499.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -182,5 +182,10 @@
     }
   },
   "active": "3733c0a86ce5410c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Mondo/Apparizioni/---Carta Apprensura (Fortunata)/Inferi.md",
+    "Mondo/Apparizioni/---Carta Apprensura (Fortunata)/Descrizione e Visione.md",
+    "Mondo/NPC/Enemies/Nocthysax - CR 15.md",
+    "Sessioni/Parte 4_1/Parte 4_1.md"
+  ]
 }
