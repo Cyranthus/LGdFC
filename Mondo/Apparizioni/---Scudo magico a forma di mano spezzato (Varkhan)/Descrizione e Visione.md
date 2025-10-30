@@ -1,12 +1,18 @@
 ### Visione
 
-> Siedi sul tuo trono e ripensi alle parole che ti ha detto Vickster qualche giorno fa (anche se giorno non è proprio esatto come termine, visto che qui)
-> Appaiono i terrestri tramite enormi portali
-> assedio e attacco alla fortezza
-> 
-> ***Perception per riconoscere il comandante Vossnik***
-> 
-> Buio
+Siedi sul tuo trono e ripensi alle parole che ti ha detto Vickster qualche giorno fa, anche se giorno non è proprio esatto come termine, visto dove ti trovi...
+Perchè mai un'organizzazione di avventurieri dovrebbe interessarsi alla Varisia?
+Mah, in ogni caso tu sarai pronto; quando e se Vickster ti avviserà, tu raggiungerai Korvosa con 
+All'improvviso, percepisci un'intrusione nel tuo piano, anzi no, sono molteplici intrusioni!
+Numerosi portali si aprono
+Appaiono i terrestri tramite enormi portali
+assedio e attacco alla fortezza
+
+Holyzavon
+
+***Perception per riconoscere il comandante Vossnik***
+
+Buio
 
 ### Poteri
   

@@ -198,9 +198,8 @@ se gli eroi attaccheranno il campo, alcuni schiavi cercheranno di scappare e/o c
 - Se salveranno i Pech, i superstiti li porteranno a un loro villaggio nascosto (sopravviveranno circa una decina).
 - il "capo" dei suprestiti (l'unico che non sarà troppo spaventato per non provare a parlare con gli eroi) si chiama **Puthok**.
 
-![[tumblr_238c919aaa7f5846ad18380bf8330146_ab74b486_500.jpg]]
-
-![[Utrat.jpg]]
+![[tumblr_238c919aaa7f5846ad18380bf8330146_ab74b486_500.jpg|300]]
+![[Utrat.jpg|300]]
 
 
 ## Rifugio Sotterraneo dei Pech
@@ -254,8 +253,7 @@ La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte pi
 - 1 Gug con 2 armi pesanti a distanza (2x Zero cannon, tactical, 3d8 freddo, linea 18m, critico staggered, 20 colpi)
 - 1 Gug con 2 armi a due mani (2x Flame doshko, blaze, 2d8 Fuoco, critico [[Wound]])
 - 1 Chierico Umano (GS 10) **KAC 27**, **EAC 21**  https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/fire-cleric-human-cleric-of-asmodeus-11/ con ## [Lashunta Ringwear, III](https://www.aonsrd.com/ArmorDisplay.aspx?ItemName=III&Family=Lashunta%20Ringwear) ( Environmental Field (Magic) battery 10, Usage 1/round (come spell # [Life Bubble](https://www.aonsrd.com/SpellDisplay.aspx?ItemName=Life%20Bubble&Family=None)) / Force Field (battery 20, TempHP 15, recharge 4)
-  ![[Lashunta RingwearIII.png]]
-
+  ![[Lashunta RingwearIII.png|300]]
 
 
 - il possente drago convocherà il gruppo per un incontro: vorrà sapere con chi ha a che fare e qual'è il loro scopo lì. gli chiederà se sono Cercatori.
@@ -308,7 +306,7 @@ Possibili ingressi:
 
    se gli eroi capiscono che è un illusione, si congratula con loro e si rivela nel vero aspetto:
  
-![[OldVickster.png]]
+![[OldVickster.png|300]]
 
    Vickster sarà molto contento di parlare con loro (dopotutto sono le prime vere persone che incontra da tipo 1000 anni)
    Vickster conosce la storia ma solo fino a prima dell'attacco dei Cercatori a Korvosa (quindi cmq sa tutto di Varkhan e Fortunata).
