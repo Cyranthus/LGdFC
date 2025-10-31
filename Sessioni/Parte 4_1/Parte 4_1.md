@@ -297,6 +297,11 @@ Possibili ingressi:
 *se gli eroi hanno ancora cariche di energia, toccando le porte le attiveranno, grazie ai medaglioni*
 - Medaglione Krugol: "Dottor Wittlewak, bentornato a bordo della UGP Rebellion"
 - Medaglione Vickster/SAP: "Capo Ingegnere Kroviz, bentornato a bordo della UGP Rebellion"
+- Quando Feisty sulla nave parzialmente alimentata, il computer la riconosce: "Unità AM22 con modulo F.A.I.T.H. T20K, bentornata a bordo" 
+
+
+A prescindere, Feisty trova il posto incredibilmente familiare.
+
 
 ### Tek Lab (Chiuso)
  - Clone virtuale di Vickster: Inizialmente cercherà di spaventare gli eroi; l'intera stanza apparirà come una radura utilizzando illusioni come effetti speciali.

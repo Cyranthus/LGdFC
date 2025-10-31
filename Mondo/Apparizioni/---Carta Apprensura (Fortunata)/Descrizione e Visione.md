@@ -1,47 +1,61 @@
 ### Visione
 
-Cadi in ginocchio, sei ancora disorientata per il potente effetto che ha oltrepassato la barriera planare che sostenevi.
-Ti serve qualche secondo per riprenderti... allunghi la mano verso il tuo trono e ti rialzi...
-Era da parecchi anni che non ti alzavi da lì; dopo aver rimosso Asmodeus, la vostra idea di isolare definitivamente gli Inferi dal piano materiale ha funzionato: gli  arcidiavoli e tutti gli infernali si sono parecchio indeboliti e il Cheliax finalmente è caduto...
+Cadi in ginocchio, ancora disorientata per il potente effetto che ha oltrepassato la barriera planare che stavi sostenendo.  
+Ti occorrono alcuni secondi per riprenderti… allunghi la mano verso il tuo trono e ti rialzi.
 
-Ti guardi la mano, quella che una vita fa ha influenzato così tanto la tua vita... un'entità incatenata a te che hai sempre odiato e detestato... la vita, a volte, ha davvero un incredibile senso dell'umorismo....
+Era da molti anni che non ti alzavi da lì. Dopo aver rimosso Asmodeus, la vostra decisione di isolare definitivamente gli Inferi dal Piano Materiale aveva funzionato: gli arcidiavoli e tutte le schiere infernali si erano indeboliti, e il Cheliax era infine caduto.
 
-Ti affacci dai terrazzi delle tue sale, appena in tempo per vedere numerosi portali aprirsi sopra di te, come se il cielo oscuro degli Inferi venisse squarciato da infinite lame di luce...
-I bagliori lasciano spazio a una profonda oscurità da cui escono enormi oggetti volanti, piombano a terra enormi macchine bipedi e una moltitudine di oggetti più piccoli che, una volta schiantatisi a terra, si aprono e da essi fuoriescono degli umanoidi corazzati.
+Ti osservi la mano — quella che, in un’altra vita, aveva influenzato così tanto il tuo destino. Un’entità incatenata a te, che hai sempre odiato e detestato… La vita, a volte, ha davvero un singolare senso dell’umorismo.
+
+Ti affacci dai terrazzi delle tue sale, giusto in tempo per vedere numerosi portali aprirsi sopra di te, come se il cielo oscuro degli Inferi venisse squarciato da infinite lame di luce.  
+I bagliori si dissolvono, lasciando spazio a una profonda oscurità da cui emergono enormi oggetti volanti. Dalle nubi si staccano gigantesche macchine bipedi che piombano al suolo, seguite da una moltitudine di oggetti più piccoli che, una volta schiantatisi, si aprono: da essi fuoriescono figure umanoidi corazzate; alcuni sono senza elmo e... sembrano umani.
 
 **--IMG esercito space marine--**
 
-Ti viene una forte inquietudine; rammenti che i tuoi vecchi compagni di Korvosa ti avevano contattato poco tempo fa; Gurnys e Vickster ti avevano parlato dei loro timori di un possibile attacco al regno della Varisia da parte della Società dei Cercatori, la famosa organizzazione di avventurieri... No, però questo sembra qualcos'altro... Loro non sono arrivati tramite il piano materiale, anzi non ti sembrano proprio esseri appartenenti al Grande Oltre... sembrano, qualcos'altro...
+Un senso di inquietudine ti pervade.  
+Ricordi che i tuoi vecchi compagni di Korvosa ti avevano contattato poco tempo fa: Gurnys e Vickster ti avevano espresso i loro timori riguardo a un possibile attacco al Regno di Varisia da parte della Società dei Cercatori — la celebre organizzazione di avventurieri.  
+No… però questo è diverso.  
+Loro non sono arrivati attraverso il Piano Materiale.  
+Anzi, nonostante il loro aspetto fisico, non ti sembrano affatto esseri appartenenti al Grande Oltre.
+Sembrano… qualcos’altro.
 
-Ti guardi la mano, quella che una vita fa ha influenzato così tanto la tua vita... con il tuo solo volere appare una catena luminescente e semitrasparente che si perde nei vasti piani degli inferi...
-Chiudi gli occhi e ti concentri; una moltitudine di catene appaiono nelle tue mani e molte altre appaiono partendo dalle tue spalle e scendendo lungo la schiena fino a terra come una sorta di mantello; le catene si estendono e si ramificano in tutte le direzioni...
-Li percepisci tutti; Geryon, Moloch, Baalzebul, Mefistofele... tutti gli 8 Arcidiavoli e tutti gli altri diavoli... senti il vincolo che lega tutte le creature infernali a te, la loro eterna Carceriera...
+Ti osservi la mano — quella che, in un’altra vita, aveva influenzato così tanto il tuo destino.  
+Con un semplice atto di volontà, una catena luminescente e semitrasparente si manifesta, estendendosi fino a perdersi nei vasti piani degli Inferi.
 
-Obbedendo al tuo comando, le creature dell'inferno cominciano a comparire nella radura davanti alla tua fortezza, sulle mura, in cielo...
+Chiudi gli occhi e ti concentri.  
+Una moltitudine di catene appare nelle tue mani, e molte altre si sprigionano dalle tue spalle, scendendo lungo la schiena fino a toccare il suolo, come un mantello vivo e pulsante.  
+Le catene si estendono, si ramificano in ogni direzione… e tu li percepisci tutti.
+Geryon. Moloch. Baalzebul. Mefistofele…  
+Tutti gli otto Arcidiavoli, e con loro ogni altra creatura infernale.
+Senti il vincolo che li lega a te.  
+Tu, la loro eterna **Carceriera**.
 
-Gli interi 9 gironi dell'inferno si scatenano sugli Invasori; inizia un vero e proprio massacro.
-
-Meteore metalliche cominciano a piovere sulla fortezza, qualcuna riesce a penetrare le difese; alcune sfondano le tue grandi sale e da esse escono diversi umanoidi, pesantemente corazzati e più grossi rispetto a quelli piombati nella radura...
+Obbedendo al tuo comando, le creature dell’Inferno cominciano a manifestarsi nella radura davanti alla tua fortezza, sulle mura, nel cielo stesso.  
+Gli interi Nove Gironi dell’Inferno si riversano sugli invasori: ha inizio un massacro di proporzioni immani.
+Dal cielo, meteore metalliche iniziano a precipitare sulla fortezza; alcune vengono disintegrate dalle difese, ma altre riescono a passare.  
+Alcune sfondano le tue grandi sale, e dai loro rottami incandescenti emergono figure umanoidi — pesantemente corazzate, più grandi e minacciose di quelle già piombate nella radura…
 
 **--IMG terminator--**
 
 ***Perception per riconoscere il comandante Vossnik tra i soldati in armatura terminator***
 
-Mefistofele, Baalzebul e gli altri diavoli al tuo fianco partono all'assalto
+Mefistofele, Baalzebul e gli altri diavoli al tuo fianco partono all'assalto.
 
 ![[Mephi.jpg|300]] ![[Baalzebul.jpg|300]]
 
-Lanci i tuoi incantesimi più potenti, investendo i nemici con ondate di fuoco infernale.
-Alcuni invasori cominciano a cadere, fatti a pezzi e bruciati sotto i vostri colpi... ma anche molti diavoli vengono distrutti.
-Uno degli umanoidi corazzati balza verso di te cercando di colpirti con un pesante martello luminescente: pari il colpo ma l'impatto è molto più devastante di quello che ti aspettavi...
-Vieni scaraventata a terra...
-Intontita, ti riprendi e cerchi il tuo aggressore, non lo vedi... ma al suo posto vedi gli Mefistofele cadere sotto i colpi degli invasori... invasori che non sembrano diminuire... anzi no! con orrore realizzi che alcuni che sembravano morti fino a qualche minuto fa, ora sono di nuovo in piedi...
-
-Esclami a mezza voce: "Impossibile! nessuno può tornare in vita se bruciato tra le fiamme infernali!"
-Una voce metallica alla tue spalle ti risponde: "Mi spiace deluderti, feccia aliena! Ma rallegrati, verrai utilizzata per scopi ben più concreti e utili!"
-
-Ti giri appena in tempo per vedere l'aggressore calare il pesante martello su di te.
-Buio.
+Lanci i tuoi incantesimi più potenti, investendo i nemici con ondate di fuoco infernale.  
+Alcuni invasori cadono, fatti a pezzi e inceneriti sotto i vostri colpi… ma anche molti diavoli vengono distrutti.
+Uno degli umanoidi corazzati balza verso di te, brandendo un pesante martello luminescente. Riesci a parare il colpo, ma l’impatto è molto più devastante di quanto avessi previsto: vieni scaraventata a terra.
+Intontita, ti rialzi e cerchi il tuo aggressore… ma non lo vedi.  
+Al suo posto, scorgi Mefistofele cadere sotto i colpi degli invasori — e ti accorgi, con orrore crescente, che il loro numero non sembra diminuire.  
+Anzi… no.  
+Con sgomento realizzi che alcuni, che solo un momento prima giacevano carbonizzati tra le fiamme, ora si stanno rialzando.
+Esclami a mezza voce:  
+«Impossibile! Nessuno può tornare in vita dopo essere bruciato tra le fiamme infernali!»
+Una voce metallica, fredda e distorta, risponde alle tue spalle:  
+«Mi spiace deluderti, feccia aliena. Ma rallegrati… verrai usata per scopi ben più concreti e utili.»
+Ti giri appena in tempo per vedere l’aggressore calare di nuovo il pesante martello su di te.
+**Buio.**
 
 
 Carta "Il Trono Vuoto" del seme Corona (carisma)
