@@ -2,20 +2,20 @@
 
 Siedi sul tuo trono, pensieroso, mentre vento e fiamme imperversano attorno a te... e ripensi alle parole che ti ha detto Vickster qualche giorno fa, anche se “giorno” non è proprio il termine più esatto, considerando dove ti trovi...  
 Perché mai un’organizzazione di avventurieri dovrebbe interessarsi alla Varisia?  
-Mah, in ogni caso tu sarai pronto: quando — e se — Vickster ti avviserà, raggiungerai i tuoi compagni a Korvosa con Uber-Khazavon e le altre evocazioni.
+Mah, in ogni caso tu sarai pronto: quando — e se — Vickster ti avviserà, raggiungerai i tuoi compagni a Korvosa con Zavon’Drath e le altre evocazioni.
 
 All’improvviso percepisci un’intrusione nel tuo piano... anzi, no: **molteplici** intrusioni!  
 Ti teletrasporti sulle mura dei cancelli della fortezza e ti concentri per individuare i punti d’ingresso... ma la risposta arriva da sé: numerosi portali si aprono nel cielo e nella pianura davanti alla fortezza. Da essi emergono enormi oggetti volanti — alcuni atterrano, altri restano sospesi in aria.
 
 ![[Kazavon_Varkhan_Eidolon.jpg]]
 
-La runa sulla tua fronte s’infiamma mentre richiami Uber-Khazavon, che emerge dalle tue spalle in tutta la sua colossale presenza. Numerosi tuoi servitori volanti — draghi, elementali e bestie alate d’ogni sorta — cominciano a radunarsi sopra la fortezza, in attesa di un tuo comando.  
+La runa sulla tua fronte s’infiamma mentre richiami Zavon’Drath, che emerge dalle tue spalle in tutta la sua colossale presenza. Numerosi tuoi servitori volanti — draghi, elementali e bestie alate d’ogni sorta — cominciano a radunarsi sopra la fortezza, in attesa di un tuo comando.  
 Anche le tue legioni terrestri si raccolgono davanti agli enormi oggetti volanti appena atterrati. Da essi, uno dopo l’altro, iniziano a uscire numerosi umanoidi corazzati… forse dei golem?  
 È strano: né gli umanoidi né gli oggetti volanti emanano alcuna aura magica… com’è possibile?
 
 Senza alcun tipo di comunicazione, gli oggetti volanti aprono improvvisamente il fuoco contro i tuoi servitori e contro la fortezza. Fasci di luce e proiettili esplosivi piovono ovunque, mentre le tue creature alate si lanciano all’assalto.  
 Contemporaneamente, il combattimento infuria anche tra le unità terrestri: nonostante il grande numero delle tue creature, le armi degli invasori si rivelano micidiali, e l’enorme volume di fuoco falcia molti dei tuoi servitori.  
-Il soffio di Uber-Khazavon colpisce in pieno uno degli oggetti volanti, facendolo esplodere in una cascata di luce e detriti incandescenti. A quel punto, gli altri concentrano il fuoco su di lui: nonostante la sua incredibile rapidità e resistenza, Uber-Khazavon viene investito da una tempesta di colpi, esplosioni e fasci di luce ardente…
+Il soffio di Zavon’Drath colpisce in pieno uno degli oggetti volanti, facendolo esplodere in una cascata di luce e detriti incandescenti. A quel punto, gli altri concentrano il fuoco su di lui: nonostante la sua incredibile rapidità e resistenza, Zavon’Drath viene investito da una tempesta di colpi, esplosioni e fasci di luce ardente…
 
 Un dolore lancinante ti attraversa la mente: ti accasci a terra, sopraffatto dalla sofferenza...  
 Nel frattempo, il tuo Eidolon comincia a precipitare: il suo corpo privo di vita si schianta contro la fortezza, distruggendone una vasta sezione in un’esplosione di pietra e fiamme.  

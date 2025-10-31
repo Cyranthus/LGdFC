@@ -11,10 +11,14 @@
             "id": "27aa31721ede1652",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Apparizioni/---Scudo magico a forma di mano spezzato (Varkhan)/Descrizione e Visione.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Descrizione e Visione"
             }
           }
         ]
