@@ -222,39 +222,41 @@ dopo circa 8 ore di cammino, arrivate davanti a quella sembra un'anonima parete 
 Attorno al monte Ugothogo volano in ronda diversi draghi d'ombra; non ci sono sentinelle Gug a terra ma solo pattuglie volanti (Percezione contro Furtività +19 per individuarli)
 
 - Ingresso al cono del vulcano
-  Un enorme caverna si apre sulla parete della montagna; anche senza entrare s'intravedono una luce biancastra e sagome di edifici scuri. All'ingresso vi sono 4 Gug di guardia e 2 draghi d'ombra giovani.
+  *Un enorme caverna si apre sulla parete della montagna; anche senza entrare s'intravedono una luce biancastra e sagome di statue ed edifici scuri. All'ingresso vi sono 2 Gug di guardia e 1 draghi d'ombra giovani.* 
   - Se gli avventurieri si presenteranno travestiti, se desteranno sospetti, verranno fermati e gli chiederanno da che miniera o accampamento stanno venendo.
 
 
 
-
-- Cono del vulcano
-  All'interno del cono, c'è l'enorme cittadella di Nocthysax in costruzione (vedi mappa disegnata).
-  
+- Cono del vulcano - Cittadella
+  *Procedete all'interno della caverna, superando l'ingresso. dopo qualche decina di metri arrivate all'ingresso della città; altri 2 Gug e un altro drago d'ombra giovane sono di guardia all'ingresso. Vi trovate all'inizio di quella che sembra la via principale; due file di statue rappresentanti draghi in varie posizioni (a guardar bene, in realtò, il drago rappresentato è sempre lo stesso) proseguono lungo il viale principale. In mezzo, una sorta di divisorio in pietra divide la strada in due lati, due enormi statue, sempre in pietra, si trovano al centro della strada. Ai lati, file di edifici proseguono lungo la via, in modo allo stesso tempo caotico e ordinato; gli edifici sono ammassi asimmetrici a più livelli di cubi e parallelepipedi.
+  Le vie sono principalmente frequentate da Gug, ogni tanto vi sono anche altri umanoidi, specialmente piccoli esseri grigi, quasi tutti sono con manette o catene.
+  In fondo alla via, di fronte a voi, vi è un enorme edificio che ricorda quasi una chiesa con una torre sopra di essa (assomiglia a san pietro, con la torre al posto della cupola), dalla cima della torre proviene la luce biancastra che illumina l'area e le nubi sopra di essa.
+  Dietro l'enorme chiesa-torre s'intravede un bagliore rossastro.
+  L'intera area risulta molto calda e pervasa dall'odore di fumo e zolfo.*
+  (vedi mappa disegnata).
 
 nella piccola cittadella ci sono circa 20 guardie pronte al momento del loro ingresso.
 
 Se gli avventurieri entrano di violenza
 - Combat 4 Gug e 2 draghi d'ombra giovani.
 
-Dopo il combat, arriveranno altri 2 Gug Tek e 4 Gug; uno comunicherà con voce metallica *"Fermate ogni ostilità! avete attirato la curiosità del sommo Nocthysax! Vi ordino di abbassare le armi e di seguirmi immediatamente!"*
-
+Dopo il combat, arriveranno altri 2 Gug Tek e 4 Gug normali; uno comunicherà con voce metallica *"Fermate ogni ostilità! Il sommo Nocthysax vuole vedervi! Vi ordino di abbassare le armi e di seguirci immediatamente!"*
 
 ### Incontro con Nocthysax
 
-L'ascensore si ferma in un'immensa sala, tutta rivestita di ossidiana.
-Numerose colonne si estendono in avanti raggiungendo l'enorme trono che si stava davanti a voi; ampie sezioni delle pareti esterne sono aperte verso il vuoto, delimitate da enormi arcate aperte sul vuoto.
-Il trono è occupato da una possente creatura, una creatura che sicuramente era un possente drago in passato...
-gran parte delle corpo dell'oscura figura è ricoperta e rimpiazzata da metallo e protesi di vario tipo.
-La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte più luminosa è proprio Nocthysax, il quale emette fasci luminosi verso l'alto, dal suo dorso; è questa la luce viene proiettata e amplificata dalle pareti di ossidiana, riverberando sulle nubi nere che si sollevano dal lago di lava alle spalle della torre.
+*L'ascensore si ferma in un'immensa sala, tutta rivestita di ossidiana.*
+*Numerose colonne si estendono in avanti raggiungendo l'enorme trono che si staglia davanti a voi; ampie sezioni delle pareti esterne sono aperte verso l'esterno, delimitate da enormi arcate aperte sul vuoto.*
+*Il trono è occupato da una possente creatura, una creatura che sicuramente era un possente drago in passato...*
+*gran parte delle corpo dell'oscura figura è ricoperta e rimpiazzata da metallo e protesi di vario tipo.*
+*La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte più luminosa è proprio Nocthysax, il quale emette fasci luminosi verso l'alto, dal suo dorso; è questa la luce viene proiettata e amplificata dalle pareti di ossidiana, riverberando sulle nubi nere che si sollevano dal lago di lava alle spalle della torre.*
 
 **Guardia di Nocthysax**
 - 1 Gug con 4 armi da mischia per gli artigli (4x Shell Knuckles, Tactical, +3d4 al danno)
 - 1 Gug con 2 armi pesanti a distanza (2x Zero cannon, tactical, 3d8 freddo, linea 18m, critico staggered, 20 colpi)
 - 1 Gug con 2 armi a due mani (2x Flame doshko, blaze, 2d8 Fuoco, critico [[Wound]])
 - 1 Chierico Umano (GS 10) **KAC 27**, **EAC 21**  https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/fire-cleric-human-cleric-of-asmodeus-11/ con ## [Lashunta Ringwear, III](https://www.aonsrd.com/ArmorDisplay.aspx?ItemName=III&Family=Lashunta%20Ringwear) ( Environmental Field (Magic) battery 10, Usage 1/round (come spell # [Life Bubble](https://www.aonsrd.com/SpellDisplay.aspx?ItemName=Life%20Bubble&Family=None)) / Force Field (battery 20, TempHP 15, recharge 4)
-  ![[Lashunta RingwearIII.png|300]]
 
+  ![[Lashunta RingwearIII.png|300]]
 
 - il possente drago convocherà il gruppo per un incontro: vorrà sapere con chi ha a che fare e qual'è il loro scopo lì. gli chiederà se sono Cercatori.
 "*Certo è veramente incomprensibile che voi non mi conosciate e che nemmeno conosciate l'enorme estensione dei miei domini... Ma sono uno di mentalità aperta e che detesta gli sprechi... e quando vedo del talento lo voglio coltivare, se è possibile... Ho deciso di concedervi la possibilità di ottenere un onore riservato a pochissimi: diventare miei campioni! Voi potreste diventare l'Artiglio di Nocthysax! I diretti esecutori del mio Volere!*
@@ -287,17 +289,31 @@ https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/purple-worm/
 - [displacement](https://www.d20pfsrd.com/magic/all-spells/d/displacement) effect (20% [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment)) and SR 23.
   
 
+*Dalla parete rocciosa emerge un enorme formazione stranamente regolare rispetto al resto. La superficie, in alcuni punti, risulta come metallica invece che rocciosa, ma non sembra il metallo che si potrebbe trovare naturalmente in una grotta: diverse concrezioni, stalattiti, stalagmiti si sviluppano su questa formazione.*
+*Su un lato, c'è una specie di insenatura o varco buio nella formazione rocciosa.*
+
 ## Dentro la UGP Rebellion
+
 
 Possibili ingressi:
 1) Vano di carico (paratia divelta)
-- diversi materiali sono stati trafugati da qui, alcune quantità di Noqual e Adamantio sono ancora presenti
+   *Il varco si apre su una specie di ampia grotta con pareti molto dritte e regolari; altre formazioni rocciose, funghi e concrezioni si estendono un pò ovunque su pavimento, soffitto e pareti.
+   Ai lati della stanza ci sono delle insenature, alcune hanno numerose scaffalature, altre sono vuote.
+   nel centro ci sono diversi cubi o quelli che sembrano dei contenitori, molti sono danneggiati o rovesciati.*
+   Perception 20 per trovare tracce di metalli e sostanze di vario tipo (anche Noqual e Adamantio)
+   5 casse sembrano ancora parzialmente piene di materiale.
+   (diversi materiali sono stati trafugati da qui, alcune quantità di Noqual e Adamantio sono ancora presenti)
 
-1) Porta principale
-*se gli eroi hanno ancora cariche di energia, toccando le porte le attiveranno, grazie ai medaglioni*
+2) Porta principale
+   *se gli eroi hanno ancora cariche di energia, toccando le porte le attiveranno, grazie ai medaglioni*
 - Medaglione Krugol: "Dottor Wittlewak, bentornato a bordo della UGP Rebellion"
 - Medaglione Vickster/SAP: "Capo Ingegnere Kroviz, bentornato a bordo della UGP Rebellion"
-- Quando Feisty sulla nave parzialmente alimentata, il computer la riconosce: "Unità AM22 con modulo F.A.I.T.H. T20K, bentornata a bordo" 
+- Quando Feisty sulla nave parzialmente alimentata, il computer la riconosce: "Unità AM22 con modulo F.A.I.T.H. T20K, bentornata a bordo"
+  
+  Dopo i "saluti", l'IA della nave ripeterà circa ogni 5 minuti il messaggio "Nucleo energetico danneggiato, impossibile ripristinarlo. Sostituire il nucleo energetico."
+  
+  *Superata la porta, vi ritrovate in un corridoio che dopo qualche metro s'immette in un altro corridoio più ampio. Qua e la vi sono formazioni rocciose e calcaree, come stalattiti e stalagmiti. Funghi e flora di caverna si trova un pò ovunque.
+  L'ambiente ricorda un pò la strana stanza con l'allarme che avete trovato settimane fa, sotto il Drosakar*
 
 
 A prescindere, Feisty trova il posto incredibilmente familiare.
