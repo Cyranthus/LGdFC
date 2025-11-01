@@ -321,9 +321,9 @@ A prescindere, Feisty trova il posto incredibilmente familiare.
 
 ### Tek Lab (Chiuso)
  - Clone virtuale di Vickster: Inizialmente cercherà di spaventare gli eroi; l'intera stanza apparirà come una radura utilizzando illusioni come effetti speciali.
-   "Chi osa disturbare il mio riposo????!???"
+   "Chi osa disturbare il mio riposo?!?"
 
-
+![[4be44bdd-b7a6-4a8f-beee-836bf514fa9b.jpeg]]
 
    se gli eroi capiscono che è un illusione, si congratula con loro e si rivela nel vero aspetto:
  
