@@ -10,7 +10,7 @@ Ti osservi la mano — quella che, in un’altra vita, aveva influenzato così t
 Ti affacci dai terrazzi delle tue sale, giusto in tempo per vedere numerosi portali aprirsi sopra di te, come se il cielo oscuro degli Inferi venisse squarciato da infinite lame di luce.  
 I bagliori si dissolvono, lasciando spazio a una profonda oscurità da cui emergono enormi oggetti volanti. Dalle nubi si staccano gigantesche macchine bipedi che piombano al suolo, seguite da una moltitudine di oggetti più piccoli che, una volta schiantatisi, si aprono: da essi fuoriescono figure umanoidi corazzate; alcuni sono senza elmo e... sembrano umani.
 
-**--IMG esercito space marine--**
+![[fortunata_1.jpg]]
 
 Un senso di inquietudine ti pervade.  
 Ricordi che i tuoi vecchi compagni di Korvosa ti avevano contattato poco tempo fa: Gurnys e Vickster ti avevano espresso i loro timori riguardo a un possibile attacco al Regno di Varisia da parte della Società dei Cercatori — la celebre organizzazione di avventurieri.  
@@ -35,7 +35,7 @@ Gli interi Nove Gironi dell’Inferno si riversano sugli invasori: ha inizio un 
 Dal cielo, meteore metalliche iniziano a precipitare sulla fortezza; alcune vengono disintegrate dalle difese, ma altre riescono a passare.  
 Alcune sfondano le tue grandi sale, e dai loro rottami incandescenti emergono figure umanoidi — pesantemente corazzate, più grandi e minacciose di quelle già piombate nella radura…
 
-**--IMG terminator--**
+![[fortunata2.jpg]]
 
 ***Perception per riconoscere il comandante Vossnik tra i soldati in armatura terminator***
 

@@ -7,9 +7,13 @@ Mah, in ogni caso tu sarai pronto: quando — e se — Vickster ti avviserà, ra
 All’improvviso percepisci un’intrusione nel tuo piano... anzi, no: **molteplici** intrusioni!  
 Ti teletrasporti sulle mura dei cancelli della fortezza e ti concentri per individuare i punti d’ingresso... ma la risposta arriva da sé: numerosi portali si aprono nel cielo e nella pianura davanti alla fortezza. Da essi emergono enormi oggetti volanti — alcuni atterrano, altri restano sospesi in aria.
 
+![[varkhan 1.jpg]]
+
+La runa sulla tua fronte s’infiamma mentre richiami Zavon’Drath, che emerge dalle tue spalle in tutta la sua colossale presenza. 
+
 ![[Kazavon_Varkhan_Eidolon.jpg]]
 
-La runa sulla tua fronte s’infiamma mentre richiami Zavon’Drath, che emerge dalle tue spalle in tutta la sua colossale presenza. Numerosi tuoi servitori volanti — draghi, elementali e bestie alate d’ogni sorta — cominciano a radunarsi sopra la fortezza, in attesa di un tuo comando.  
+Numerosi tuoi servitori volanti — draghi, elementali e bestie alate d’ogni sorta — cominciano a radunarsi sopra la fortezza, in attesa di un tuo comando.  
 Anche le tue legioni terrestri si raccolgono davanti agli enormi oggetti volanti appena atterrati. Da essi, uno dopo l’altro, iniziano a uscire numerosi umanoidi corazzati… forse dei golem?  
 È strano: né gli umanoidi né gli oggetti volanti emanano alcuna aura magica… com’è possibile?
 
@@ -25,7 +29,7 @@ Due fragorosi schianti risuonano davanti a te. Ti rialzi con fatica, mentre dal 
 
 ***Perception per riconoscere il comandante Vossnik***
 
---IMG space marine terminator --
+![[varkhan.jpg]]
 
 Evochi rapidamente alcuni dei tuoi servitori ed estrai l’arma.  
 Uno degli invasori, brandendo un pesante martello luminescente, si rivolge a te con voce distorta dal casco:  
