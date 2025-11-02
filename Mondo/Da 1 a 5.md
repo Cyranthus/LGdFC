@@ -72,3 +72,9 @@
 *   Quando Feisty fa critico qualcosa brucia (oggetti o cose)
 
 - Esiste un Demi-Kirkegaard (da interpretare)
+
+- Esiste il piano Puthanus, dove possono essere costruite prostitute/jigolò come li si desidera
+
+- I puntatori laser funzionano sui dinosauri come sui gatti
+
+

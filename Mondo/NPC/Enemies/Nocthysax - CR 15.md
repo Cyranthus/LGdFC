@@ -15,13 +15,12 @@ Nocthysax intende estendere il suo dominio su tutta la regione delle Montagne de
 Combattimento contro suoi sottoposti (vedi Sessione 4 - 1)
 
 
-
 **FASE 1**
 
 il combattimento avviene principalmente contro la sua parte meccanizzata e tecnologica, la maggior parte degli attacchi è quindi con armi Tek.
 
 **HP** 122; **SP** 27; **Hardness** 8  
-**EAC** 30; **KAC** 33
+**EAC** 32; **KAC** 27
 
 **Melee**
 - **AutoSpear**

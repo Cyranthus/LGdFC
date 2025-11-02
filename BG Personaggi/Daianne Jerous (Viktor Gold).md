@@ -26,4 +26,4 @@ Viktor Gold non esiste.
 
 Ricorda tutto. Ricorda gli occhi di Lucille che lo guardavano davvero. Ricorda le mani che lo afferrano e lo tirano in ogni direzione. Ricorda la sua casa. Ricorda le fiamme.
 
-Viktor però non ricorda più il suo nome. Non che ci abbia più provato. Per quel che gli interessa si e sempre chiamato Daienne Jerous .
+Viktor però non ricorda più il suo nome. Non che ci abbia più provato. Per quel che gli interessa si e sempre chiamato Daienne Jerous.

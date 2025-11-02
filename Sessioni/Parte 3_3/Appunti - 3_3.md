@@ -1,5 +1,5 @@
 *   Arrivo alla città sotterranea di Tahl’sindarra,città situata sul confine tra le zone di Sekamina e le Montagne della Mezzanotte
-    
+
 
 **Rhazinthor the Flame Tyrant**: Questo antico drago, per molte missioni passate, è stato usato come nemesi e minaccia per la città di OlfDen. (conoscenze storia: 25, in effetti c'è una leggenda nella regione che parla di un gruppo Cercatori che, assieme a un drago di bronzo, (conoscenze > 30, di nome Wataxshyl) riuscirono a scacciare un potente drago rosso e il suo culto che minacciava OlfDen e i suoi cittadini).  
 Lui ha ricordi abbastanza confusi del suo passato, l'unica cosa che ricorda è che era in prigionia da almeno due secoli.
