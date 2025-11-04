@@ -1,3 +1,6 @@
+
+![[F.jpg]]
+
 ### Visione
 
 Cadi in ginocchio, ancora disorientata per il potente effetto che ha oltrepassato la barriera planare che stavi sostenendo.  
@@ -41,7 +44,7 @@ Alcune sfondano le tue grandi sale, e dai loro rottami incandescenti emergono fi
 
 Mefistofele, Baalzebul e gli altri diavoli al tuo fianco partono all'assalto.
 
-![[Mephi.jpg|300]] ![[Baalzebul.jpg|300]]
+![[Mephi.jpg|300]]   ![[Baalzebul.jpg|300]]
 
 Lanci i tuoi incantesimi più potenti, investendo i nemici con ondate di fuoco infernale.  
 Alcuni invasori cadono, fatti a pezzi e inceneriti sotto i vostri colpi… ma anche molti diavoli vengono distrutti.
@@ -65,7 +68,7 @@ Carta "Il Trono Vuoto" del seme Corona (carisma)
 
 ### Poteri
 
-- se si è dello stesso allineamento di Fortunata, si ottiene un bonus passivo di fortuna di +2 al Carisma.
+- Possedendo la carta. si ottiene un bonus passivo di fortuna di +2 al Carisma.
 
 * 3 "punti energia":  puoi evocare un qualsiasi numero di diavoli per un totale di dadi vita uguali a quello del caster (ad esempio, se il caster ha 10 dadi vita, può evocare 1 diavolo da 10 dadi vita, o 2 diavoli da 5 dadi vita, o 1 diavolo da 8 e 1 da 2 dadi vita, ecc ecc). L'evocazione per il resto funziona come evoca mostri.
 

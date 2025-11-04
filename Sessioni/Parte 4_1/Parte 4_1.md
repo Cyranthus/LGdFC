@@ -297,12 +297,7 @@ https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/purple-worm/
 
 Possibili ingressi:
 1) Vano di carico (paratia divelta)
-   *Il varco si apre su una specie di ampia grotta con pareti molto dritte e regolari; altre formazioni rocciose, funghi e concrezioni si estendono un pò ovunque su pavimento, soffitto e pareti.
-   Ai lati della stanza ci sono delle insenature, alcune hanno numerose scaffalature, altre sono vuote.
-   nel centro ci sono diversi cubi o quelli che sembrano dei contenitori, molti sono danneggiati o rovesciati.*
-   Perception 20 per trovare tracce di metalli e sostanze di vario tipo (anche Noqual e Adamantio)
-   5 casse sembrano ancora parzialmente piene di materiale.
-   (diversi materiali sono stati trafugati da qui, alcune quantità di Noqual e Adamantio sono ancora presenti)
+
 
 2) Porta principale
    *se gli eroi hanno ancora cariche di energia, toccando le porte le attiveranno, grazie ai medaglioni*
@@ -318,16 +313,24 @@ Possibili ingressi:
 
 A prescindere, Feisty trova il posto incredibilmente familiare.
 
+### Stiva/Vano di carico (varco aperto sulla parete esterna)
 
+*Il varco si apre su una specie di ampia grotta con pareti molto dritte e regolari; altre formazioni rocciose, funghi e concrezioni si estendono un pò ovunque su pavimento, soffitto e pareti.
+Ai lati della stanza ci sono delle insenature, alcune hanno numerose scaffalature, altre sono vuote.
+Nel centro ci sono diversi cubi o quelli che sembrano dei contenitori, molti sono danneggiati o rovesciati.*
+Perception 20 per trovare tracce di metalli e sostanze di vario tipo (anche Noqual e Adamantio) 5 casse sembrano ancora parzialmente piene di materiale (2 adamantio, 3 Noqual).
+(diversi materiali sono stati trafugati da qui, alcune quantità di Noqual e Adamantio sono ancora presenti)
 ### Tek Lab (Chiuso)
- - Clone virtuale di Vickster: Inizialmente cercherà di spaventare gli eroi; l'intera stanza apparirà come una radura utilizzando illusioni come effetti speciali.
-   "Chi osa disturbare il mio riposo?!?"
+ - Clone virtuale di Vickster: Inizialmente cercherà di spaventare gli eroi; l'intera stanza apparirà come una città in rovina, illuminata da un'enorme luna rossa. Di fronte agli eroi si staglia una figura imponente e oscura, con un enorme spadone al suo fianco e due gigantesche ali da pipistrello che partono dalla sua schiena.
+   TS volontà per sgamare l'illusione 24: 
 
-![[4be44bdd-b7a6-4a8f-beee-836bf514fa9b.jpeg]]
+"Chi osa disturbare il mio riposo?!?"
+
+![[vv.jpeg]]
 
    se gli eroi capiscono che è un illusione, si congratula con loro e si rivela nel vero aspetto:
  
-![[OldVickster.png|300]]
+![[OldVickster.png|500]]
 
    Vickster sarà molto contento di parlare con loro (dopotutto sono le prime vere persone che incontra da tipo 1000 anni)
    Vickster conosce la storia ma solo fino a prima dell'attacco dei Cercatori a Korvosa (quindi cmq sa tutto di Varkhan e Fortunata).

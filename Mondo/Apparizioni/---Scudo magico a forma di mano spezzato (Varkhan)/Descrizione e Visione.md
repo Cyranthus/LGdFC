@@ -1,3 +1,6 @@
+
+![[V.jpg]]
+
 ### Visione
 
 Siedi sul tuo trono, pensieroso, mentre vento e fiamme imperversano attorno a te... e ripensi alle parole che ti ha detto Vickster qualche giorno fa, anche se “giorno” non è proprio il termine più esatto, considerando dove ti trovi...  
@@ -38,7 +41,9 @@ Appena termina la frase, il suo martello cala su di te con velocità fulminea.
 Buio.
 
 ### Poteri
-  
+
+- Possedere l'oggetto potenzia le creature evocate come per il talento "Aumentare Evocazione" (i bonus stackano con l'omonimo talento)
+
 * 3 "punti energia":  lanci evoca mostri/alleato naturale come un caster di pari livello (però non si possono evocare infernali o diavoli).
 
 - 6 "punti energia": az round completo, l'enorme Eidolon di Kazavon si materializza nel cielo sopra di voi ed esegue un devastante attacco ad area (sfera con 12m di raggio); metà del danno è fulmine e metà fuoco. Il danno supera parzialmente immunità o resistenza ai danni elementali:
