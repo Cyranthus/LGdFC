@@ -87,13 +87,13 @@ A un tratto, uno strano scintillio cattura la loro attenzione: un luccichio che 
 
 ![embedded image](https://assets.legendkeeper.com/7a758026-9d85-4c6b-9d4d-8158592f480a.jpg "Attachment")
 
-![embedded image](https://assets.legendkeeper.com/4178c0ad-9a44-4047-b6b7-8fd4bcee87e7.jpg "Attachment")
+![embedded image|500](https://assets.legendkeeper.com/4178c0ad-9a44-4047-b6b7-8fd4bcee87e7.jpg "Attachment")
 
 Nonostante qualche piccola difficoltà iniziale, il gruppo riesce a cavarsela e a gestire il problema alla vecchia maniera, portando a casa un bel gruzzolo in gemme.
 
 Inebriati dall’adrenalina della battaglia, decidono d'importunare ulteriormente la fauna locale, infastidendo alcune piccole ranocchiette a tre occhi, le quali, ovviamente, chiamano subito la madre, una creatura tanto grossa quanto infuriata:
 
-![embedded image](https://assets.legendkeeper.com/d158675a-e765-400d-a2ec-845c443b892b.webp "Attachment")
+![embedded image|500](https://assets.legendkeeper.com/d158675a-e765-400d-a2ec-845c443b892b.webp "Attachment")
 
 Dopo aver superato anche questo ostacolo — alterando irrimediabilmente il delicato equilibrio dell’ecosistema locale — i nostri irrispettosi eroi decidono di riposarsi prima di riprendere il cammino.
 
@@ -107,7 +107,7 @@ _Resistete, restate vivi e uniti, e non fatevi scovare dai Cercatori. Vi riconta
 
 La figura che gli sta parlando, inizialmente offuscata e poco nitida, verso fine messaggio si rivela essere questa:
 
-![embedded image](https://assets.legendkeeper.com/bdf98279-6e10-447b-a2c9-4911a846f67b.png "Attachment")
+![embedded image|500](https://assets.legendkeeper.com/bdf98279-6e10-447b-a2c9-4911a846f67b.png "Attachment")
 
   
 Al mattino, Viktor/Daienne informa i suoi compagni dello strano messaggio ricevuto in sogno e, durante la discussione, Neg ha un’idea brillante: provare a richiamare Alotta e mostrargli l’immagine della donna sognata da Daienne con un’illusione.  
@@ -239,7 +239,7 @@ Ovviamente, gli spavaldi non si trattengono dal toccare l’arma, la quale, inas
 
 Subito dopo la visione, una figura traslucida appare davanti al gruppo:
 
-![[Valerin.webp]]
+![[Valerin.webp|500]]
 
 Ma a differenza delle altre visioni, questa non svanisce: respinge con forza colui che aveva toccato la spada e assume una strana posa, pronto al combattimento. Contemporaneamente, altre quattro figure traslucide si sollevano dai corpi presenti nella sala e si dispongono anch’esse in posizioni marziali, ferme e vigili, come in attesa.
 
@@ -283,22 +283,22 @@ Esattamente sotto i nostri precipitosi (ba-dum tsss!) amici si apre un lago, ali
 
 Il gruppo viene destato dalla meraviglia in modo del tutto inaspettato: una mostruosa creatura dalle quattro braccia, con una bocca che si apre in verticale lungo il volto, piomba sul gruppo a cavallo di un drago d’ombra. A seguirlo, un piccolo stormo di draghi d'ombra più giovani.
 
-![[gug.webp]]
+![[gug.webp|500]]
 
-![[dragonUmbral.webp]]
+![[dragonUmbral.webp|500]]
 
 La lotta infuria durante la caduta: nonostante il netto svantaggio ambientale (e i numerosi rischi di rimetterci la pelle), i nostri eroi riescono a gestire la situazione.
 
 Blu, nel bel mezzo dello scontro (forse pervaso dall’adrenalina, forse cogliendo qualcosa di insondabile e imperscrutabile, annidato nell’animo del drago! forse nell’anima di ogni drago malvagio del mondo! Qualcosa che risuona in lui e nei suoi compagni! Qualcosa di sfuggente e intangibile come la fiamma di una solitaria candela nella notte più buia) prende un’incomprensibile decisione: cavalcare il drago d’ombra disarcionandone il mostruoso cavaliere.  
 Con incredibile agilità riesce davvero a buttarlo giù e a mettersi a cavalcioni del drago.
 
-![[blueDragon.webp]]
+![[blueDragon.webp|500]]
 
 Inutili, però, i suoi tentativi di domarlo: il drago non risponde, anzi continua a cercare di divorare i nostri eroi in caduta libera. Topper, imprecando in più lingue sconosciute improperi indirizzati a Blu, pone fine alla vita del drago con un precisissimo raggio rovente che fora il cranio del mostro.
 
 Blu, con mezza faccia imbrattata di sangue e cervella di drago, rimane sotto shock. Doppo e Feisty, profondamente colpiti dalle sue gesta, si stringono a lui; Feisty, commossa, decide di rianimare la creatura, offrendo a Blu e Doppo un’ultima occasione di redimere l'anima nera del drago.
 
-![[DoppoDragon.webp]]
+![[DoppoDragon.webp|500]]
 
 Purtroppo Giacomino, questo è nome scelto nei pochi secondi della sua nuova esistenza, non apprezza i tentativi del gruppo di domarlo: si dibatte furioso dalla stretta di Doppo, ringhiando, graffiando e opponendo resistenza a ogni tentativo di calmarlo.
 
@@ -312,7 +312,7 @@ Solo a pochi secondi dall’impatto, Topper lancia caduta morbida, facendo atter
 
 L’umore non era così a terra dai tempi della morte di… Rugol… Krucol… ah no, Krugol, pace all’anima sua. Nonostante Giacomino sia entrato nel gruppo graffiando, azzannando e soffiando energia negativa, la sua presenza ha comunque lasciato un segno nel cuore dei nostri inclusivi eroi.
 
-![[giacomino.webp]]
+![[giacomino.webp|500]]
 
 
 ## Le Montagne della Mezzanotte
@@ -322,13 +322,13 @@ il cammino si allontana dal lago e dal fiume, puntando verso le catene montuose,
 
 I nostri intrepidi esploratori cercano riparo tra gli alberi della foresta per concedersi un po' di meritato riposo… riposo che però viene interrotto da delle intriganti ninfe fungine: Candida, Tigna e Micelia.
 
-![[nymph.png]]
+![[nymph.png|500]]
 
 Blu e Doppo inizialmente sembrano apprezzare le avvenenti signorine... ma a un certo punto, i maleducati, le ripudiano allontanandole in malo modo. Dopo un po' di riluttanza, anche Topper, Neg e Daienne intervengono in difesa dei loro compagni profumai, ponendo fine alla faccenda incenerendo le povere creature micotiche.
 
 Il racconto precedente potrebbe non essere del tutto fedele alla realtà e le tre splendide ninfe potrebbero non essere state così avvenenti:
 
-![[Leshy.webp]]
+![[Leshy.webp|500]]
 
 Da sottolineare l'immancabile ingestione di materia organica poco raccomandabile da parte di Doppo.
 
@@ -436,3 +436,31 @@ Ora ricordi l'infinita superficie d'acqua sotto un caotico cielo stellato...
 Ora sei nuovamente sull'infinita superficie d'acqua sotto un caotico cielo stellato...
 Ricordi con apprensione e preoccupazione la tiefling morta per colpa tua, ripensi a com’era… ma la sua immagine non si manifesta in modo tangibile davanti a te…
 E questa piccola consapevolezza ti emoziona, ti rassicura, ti rende felice…
+
+
+## Ritorno a Tahl’sindarra
+
+Doppo, Neg e Blu raccolgono i corpi dei loro amici e i resti dei due draghi d'ombra, con ciuschi annessi; Blu attiva il dispositivo per aprire il portale e i nostri esausti eroi ritornano alla sede della S.A.P., a Tahl'sindarra.
+I membri della S.A.P. aiutano il gruppo e i corpi dei compagni caduti vengono portati in infermeria.
+
+
+dialogo tra capo sap e gruppo
+
+visioni con artur e viktor
+
+visioni con artur e topper
+
+gruppo riunito e notte di riposo
+
+gruppo si prepara e riparte ripetendo il percorso dell'andata
+
+il gruppo, appena arriva al lago, vede del movimento e uccide due Seugathi
+
+il gruppo, dopo un pò di bisticcio, decide di aggirare il vulcano
+
+uno strano messaggio viene recapitato tramite hacking di Dronape
+
+gli eroi vengono invitati nella città di Nocthysax
+
+Incontro (e scontro) con Nocthysax
+

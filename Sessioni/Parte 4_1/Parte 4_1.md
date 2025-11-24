@@ -251,10 +251,10 @@ Dopo il combat, arriveranno altri 2 Gug Tek e 4 Gug normali; uno comunicherà co
 *La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte più luminosa è proprio Nocthysax, il quale emette fasci luminosi verso l'alto, dal suo dorso; è questa la luce viene proiettata e amplificata dalle pareti di ossidiana, riverberando sulle nubi nere che si sollevano dal lago di lava alle spalle della torre.*
 
 **Guardia di Nocthysax**
-- 1 Gug con 4 armi da mischia per gli artigli (4x Shell Knuckles, Tactical, +3d4 al danno)
-- 1 Gug con 2 armi pesanti a distanza (2x Zero cannon, tactical, 3d8 freddo, linea 18m, critico staggered, 20 colpi)
-- 1 Gug con 2 armi a due mani (2x Flame doshko, blaze, 2d8 Fuoco, critico [[Wound]])
-- 1 Chierico Umano (GS 10) **KAC 27**, **EAC 21**  https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/fire-cleric-human-cleric-of-asmodeus-11/ con ## [Lashunta Ringwear, III](https://www.aonsrd.com/ArmorDisplay.aspx?ItemName=III&Family=Lashunta%20Ringwear) ( Environmental Field (Magic) battery 10, Usage 1/round (come spell # [Life Bubble](https://www.aonsrd.com/SpellDisplay.aspx?ItemName=Life%20Bubble&Family=None)) / Force Field (battery 20, TempHP 15, recharge 4)
+- ~~1 Gug con 4 armi da mischia per gli artigli (4x Shell Knuckles, Tactical, +3d4 al danno)~~
+- **1 Gug con 2 armi pesanti a distanza (2x Zero cannon, tactical, 3d8 freddo, linea 18m, critico staggered, 20 colpi)**
+- ~~1 Gug con 2 armi a due mani (2x Flame doshko, blaze, 2d8 Fuoco, critico [[Wound]])~~
+- ~~1 Chierico Umano (GS 10) **KAC 27**, **EAC 21**  https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/fire-cleric-human-cleric-of-asmodeus-11/ con ## [Lashunta Ringwear, III](https://www.aonsrd.com/ArmorDisplay.aspx?ItemName=III&Family=Lashunta%20Ringwear) ( Environmental Field (Magic) battery 10, Usage 1/round (come spell # [Life Bubble](https://www.aonsrd.com/SpellDisplay.aspx?ItemName=Life%20Bubble&Family=None)) / Force Field (battery 20, TempHP 15, recharge 4)~~
 
   ![[Lashunta RingwearIII.png|300]]
 
@@ -266,6 +266,17 @@ Dopo il combat, arriveranno altri 2 Gug Tek e 4 Gug normali; uno comunicherà co
   2 gug accompagneranno gli eroi e avranno un comunicatore che ogni mezz'ora circa aggiorna il drago sulla situazione.
 
 - Se non accettano, combattimento: [[Nocthysax - CR 15]]
+
+
+unica guardia rimasta:
+**1 Gug con 2 armi pesanti a distanza (2x Zero cannon, tactical, 3d8 freddo, linea 18m, critico staggered, 20 colpi)** -> cercherà di fuggire insieme ad altri Gug
+
+In città tutti i Gug, venendo a conoscenza della morte di Nocthysax, scapperanno, anche i draghi d'ombra cercheranno di scappare e volare via.
+(ci saranno delle uova cmq...)
+
+I prigionieri cercheranno 
+
+
 
 ## Caverna della UGP Rebellion
 
@@ -326,7 +337,7 @@ Perception 20 per trovare tracce di metalli e sostanze di vario tipo (anche Noqu
 
 "Chi osa disturbare il mio riposo?!?"
 
-![[vv.jpeg]]
+![[vv.jpeg|600]]
 
    se gli eroi capiscono che è un illusione, si congratula con loro e si rivela nel vero aspetto:
  
