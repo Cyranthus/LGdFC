@@ -443,6 +443,39 @@ E questa piccola consapevolezza ti emoziona, ti rassicura, ti rende felice…
 Doppo, Neg e Blu raccolgono i corpi dei loro amici e i resti dei due draghi d'ombra, con ciuschi annessi; Blu attiva il dispositivo per aprire il portale e i nostri esausti eroi ritornano alla sede della S.A.P., a Tahl'sindarra.
 I membri della S.A.P. aiutano il gruppo e i corpi dei compagni caduti vengono portati in infermeria.
 
+Rhaevan Varconis e Yavanna raggiungono l'infermeria e subito comprendono la gravità della situzione; Rhaevan chiede al gruppo di raccontare l'accaduto, rimanendo molto sorpreso nel vedere le tecnologie "ciuscose" (o tek, come le chiamano la S.A.P.) utilizzate e adattate a dei draghi d'ombra.
+Rhaevan chiede a Yavanna di recuperare i diamanti necessari per i rituali di resurrezione; fortuna vuole che l'apparizione di Arthur sia in grado di eseguirli, ma il sacrificio materiale va cmq eseguito.
+Nel frattempo, i nostri amici discutono e analizzano i resti dei draghi, comprendendo che la tecnologia è sicuramente simile a quella dei Cercatori, ma molto diversa a quella "abbozzata" usata sui non morti da Doppler (che stranamente non è stato interpellato o incluso nella discussione... 😏).
+
+Inoltre Rhaevan informa il gruppo sugli accadimenti di Piren's Bluff: "*beh, visto che siete qui, ne approfitto per aggiornarvi su un paio di questioni: l'incidente di Piren's Bluff ovviamente non poteva essere insabbiato... è stato decisamente troppo anche per loro... pertanto i Cercatori stanno diffondendo la notizia che la città è stata attaccata e distrutta da un'antica calamità, una Progenie di Rovagug... Definendo la cosa come il chiaro presagio di un'antica profezia sul risveglio appunto di queste Progenie e la fine del mondo... Ovviamente i Cercatori sono totalmente impegnati nello scongiurare la cosa e il realizzarsi di questa profezia...*"
+
+Yavanna ritorna portando diversi diamanti e polvere di diamante, il gruppo decide di resuscitare prima di tutto Feisty, anche se incerti sull'effettiva efficacia dell'incantesimo su di lei...
+Blu canalizza Arthur tramite la sua piuma e lancia l'incantesimo con successo, riportando in vita Feisty. Dopo aver festeggiato il ritorno della loro amica, Doppo prende la piuma bianca, richiama Arthur e lancia l'incantesimo di resurrezione su Viktor...
+
+## Viktor - 2
+
+Sembra passata un'eternità da quando hai sentito Neg richiamarti in lui, da allora hai rivisto e rivissuto momenti e ricordi con la tua famiglia... hai ripensato anche ai tuoi amici, ma tutti risultano meno tangibili e più fumosi, è molto difficile ricordarli nei dettagli... tranne che per Topper, lui ti appare nitido e tangibile, come tua moglie e tua figlia.
+Non sai da quanto sei a questa festa con tua moglie Lucille, state scherzando e ridendo tra voi, mentre ballate, circondati dalla musica e dal vociare degli altri invitati...
+A un certo punto, senti una mano alle tue spalle che ti tocca, una mano gentile che ti fa voltare: Davanti a te appare la figura di un ragazzo biondo, alto, di bell'aspetto che ti guarda con un caldo sorriso sul viso... La figura ti è familiare, l'hai già vista altre volte in passato, anche se mai in modo così concreto e tangibile...
+Ti rivolge la parola: "*I tuoi amici ti stanno cercando... ti vogliono molto bene, sai?... E hanno ancora molto bisogno di te... Posso riportarti da loro, se vuoi...*" E ti allunga una mano...
+Viktor: "*Ma...ma... Lucille...*".
+Il ragazzo biondo ti guarda e ti sorride nuovamente: "*tua moglie e tua figlia ti attenderanno, saranno sempre qui, con te*".
+Viktor: "*Ma l'ho appena ritrovata. No tu non capisci, anche lei è un'anomalia, è come noi, siamo tutti collegati! Dobbiamo riportare indietro anche loro, fa tutto parte di un disegno! Lucille! Cassandra!! Ti prego riportaci tutti insieme ti scongiuro! Se davvero esiste un dio che ci ama ti permetterà di farlo!*".
+Il ragazzo biondo, ora ricordi il nome, Arthur, ti guarda, lo vedi sinceramente triste per la tua sofferenza e ti risponde "*mi dispiace Viktor, non posso fare nulla per loro... loro non possono venire con noi...*".
+Viktor si volta indietro, guarda sua moglie e sua figlia per un istante. China il capo e porge la mano verso Arthur: "*Promettimi che torneremo a prenderle. Promettimelo!*"
+Arthur ti prende la mano, ti tira a sé, ti abbraccia (un abbraccio caldo e... reale... ti sembra passata un'eternità dall'ultima volta che hai sentito un abbraccio così nitido) e ti sussurra all'orecchio "*sai bene anche tu che non posso farti questa promessa.*"
+
+Viktor si risveglia gridando a gran voce un nome: Lucille.
+Doppo, Neg, Blue e Feisty piangono lacrime di gioia e abbracciano Viktor, felici di rivederlo in vita, ma quasi subito Viktor nota l'assenza del loro compagno più anziano, Topper; solo ora vede, accanto al suo letto, il corpo senza vita del vecchio gnomo burbero...
+Dopo qualche minuto, grazie anche all'aiuto dei suoi compagni, Viktor comincia a ricordare qualcosa dell'accaduto, si alza dal suo letto, prende la piuma di Arthur e inizia il rituale per riportare in vita Topper...
+
+
+## Topper - 3
+
+
+
+
+
 
 dialogo tra capo sap e gruppo
 

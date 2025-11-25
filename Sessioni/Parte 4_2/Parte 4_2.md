@@ -1,11 +1,9 @@
 
 
-Korvosa criptata
+## Korvosa Criptata
+
 
 *Appena entrano nella Korvosa criptata, il SAP di Gurnys triggera quella strana sensazione quando un oggetto richiamano le visioni*
-
-
-## Korvosa Criptata
 
 
 cadavere di Vickster (Verga Planare di Vickster)
@@ -25,6 +23,9 @@ Se uno degli eroi preme il nodo lampeggiante, Korvosa viene riportata nella zona
 
 
 ## Korvosa - Zona di Magia selvaggia
+
+
+Ogni uso di oggetto magico o magia lanciata triggera strambi effetti casuali
 
 
 ## Semipiano di Varkhan
