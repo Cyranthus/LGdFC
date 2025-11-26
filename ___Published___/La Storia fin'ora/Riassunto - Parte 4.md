@@ -497,7 +497,7 @@ Vedi che Arthur ti sorride di rimando, si sposta dietro di te, ti mette le mani 
 Topper si risveglia nell'infermeria, con il viso di Arthur sopra di lui, che poco dopo svanisce lasciando il posto a quello di Viktor.
 Il gruppo esulta per il ritorno di Topper, accogliendolo e festeggiandolo a modo suo:
 
-Foto gruppo
+![[amio.jpg]]
 
 Quasi nessuno aveva fatto caso a Doppler entrare nella stanza, diversi minuti fa... non appena ha visto Topper tornare in vita, Doppler esce dalla stanza, in silenzio...
 
@@ -511,7 +511,7 @@ Dopo qualche giorno di preparativi e di duro lavoro di Blu, il gruppo è finalme
 *Blu al lavoro!*
 
 
-Discesa, second try
+## Discesa, second try
 
 I nostri determinati eroi ripercorrono la strada verso il lago Nirthan in poche ore e senza intoppi; ignorano la cittadella abbandonata, dall'altra parte del lago, e decidono di buttarsi direttamente giù dalla cascata, con la nave e tutto il resto.
 Fortunatamente la caduta libera, inizialmente incontrollata, non provoca gravi problemi ai nostri eroi, oramai pronti e determinati a superare qualsiasi ostacolo o imprevisto!
@@ -519,8 +519,31 @@ Fortunatamente la caduta libera, inizialmente incontrollata, non provoca gravi p
 Se non che...
 
 
+Potere dal Basso e Lotta di Classe
+
+I nostri intrepidi, in caduta libera, hanno quasi raggiunto il placido laghetto dove è stato seppellito il povero Giacomino (pace all'anima sua), quando a un tratto, il vigile occhio di Doppo individua degli strani movimenti allontanarsi tra l'erba alta, dalla riva del lago.
+
+Doppo e Blu si scambiano uno sguardo d'intesa:
+
+![[92Ul.gif]]
+
+E senza ulteriori indugi si gettano all'inseguimento delle sconosciute creature!
+Avvicinandosi ad esse, i nostri determinati eroi intuiscono che le creature stanno strisciando tra l'erba come dei serpenti; Blu cerca d'intavolare una franca discussione sparandogli contro, mentre Doppo gli corre direttamente addosso.
+Le due disperate creature reagiscono all'aggressione difendendosi con le loro potenti abilità psichiche; Doppo blocca la sua corsa rimanendo stordito, campi di nebbia ammaliante si creano attorno ai nostri aggressivi avventurieri e visioni terribili li assalgono!
+Blu viene completamente soggiogato dagli aggrediti proletari aberranti; una chiamata sorge vigorosa dal suo cuore, una voce si leva sopra una moltitudine di oppressi! E' il momento della lotta! E' il momento della resistenza contro i potenti! E' il momento di lottare e morire nel nome dell'Imperatore Decadente, la nostra somma guida verso un futuro prospero, libero e giusto per tutti!
+E con questo nobile sentimento a guidargli la mano, Blu spara a Doppo alle spalle.
+
+Nonostante la confusione e il trambusto iniziale, i nostri eroi riescono infine ad abbattere le due povere creature.
+Topper identifica le creature come delle aberrazioni note con il nome di Seugathi; si narra che queste creature siano seguaci dell'antico Imperatore Decadente, leggendaria creatura (si pensa sia un'antico Neothelid) a capo di un'organizzazione segreta chiamata "il Sindacato", impegnata nella lotta di classe in difesa delle povere aberrazioni vermiformi contro lo sfruttamento e la caccia perpetrata dalle altre razze.
+Questa scoperta colpisce profondamente il gruppo, specialmente Doppo e Blu, il quale in prima persona ha sentito l'importanza di questa causa; i nostri valenti combattenti si ripromettono di  quindi di portare avanti la causa dei Compagni Seugathi e del grande Compagno Imperatore Decadente.
 
 
+## Seguendo nuovamente la visione...
+
+Il gruppo riprende il cammino seguendo il fiume. Una volta arrivati nei pressi della montagna vulcanica, il gruppo discute animatamente sul da farsi... durante la discussione, uno strano messaggio viene riprodotto tramite il dronape di Blu, una sorta di invito per il gruppo di presentarsi al cospetto del Sommo Nocthysax, incontrastato dominatore delle Montagne di Mezzanotte.
+
+
+## ...Anzi no, andiamo da Nocthysax!
 
 
 

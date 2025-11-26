@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 764.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -181,10 +181,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "37f0ea15dbea55b2",
+  "active": "7efad9318cdbf09f",
   "lastOpenFiles": [
-    "___Published___/z_Images/macgyver GIF.gif",
+    "Mondo/Da 1 a 5.md",
+    "INIZIATIVA e EXP.md",
+    "TODO.md",
     "___Published___/La Storia fin'ora/Riassunto - Parte 4.md",
+    "___Published___/z_Images/Gurnys1.jpg",
+    "___Published___/z_Images/OldVickster.png",
+    "___Published___/z_Images/giacomino.webp",
+    "___Published___/z_Images/galactic-exploration-journey-beyond-the-stars-9yogzzeonhojw70n (1).jpg",
+    "___Published___/z_Images/fortunata2.jpg",
+    "___Published___/z_Images/fortunata_1.jpg",
+    "___Published___/z_Images/F.jpg",
+    "___Published___/z_Images/dragonUmbral.webp",
+    "___Published___/z_Images/DoppoDragon.webp",
+    "___Published___/z_Images/Doppo_2.jpg",
     "___Published___/Cronologia Eventi.md",
     "Sessioni/Parte 4_2/Parte 4_2.md",
     "Sessioni/Parte 4_2/Appunti - 4_2.md",
@@ -207,18 +219,6 @@
     "Mondo/NPC/S.A.P/Yavanna Sunleaf - Oracolo (6).md",
     "Mondo/Fazioni/S.A.P..md",
     "Mondo/NPC/S.A.P/S.A.P..md",
-    "Dialoghi Roleplay da Telegram.md",
-    "___Published___/La Storia fin'ora/Riassunto - Parte 3.md",
-    "Mondo/Apparizioni/Lama dell'Ultima Cittadella spezzata (Valerin)/Descrizione e Visione.md",
-    "___Published___/z_Images/F.jpg",
-    "___Published___/z_Images/varkhan 1.jpg",
-    "___Published___/z_Images/varkhan 2.jpg",
-    "___Published___/z_Images/fortunata_1.jpg",
-    "___Published___/z_Images/fortunata2.jpg",
-    "___Published___/z_Images/varkhan.jpg",
-    "___Published___/z_Images/varkhan_1.jpeg",
-    "___Published___/z_Images/V.jpg",
-    "___Published___/z_Images/vv.jpeg",
-    "___Published___/z_Images/Nocthysax.jpg"
+    "Dialoghi Roleplay da Telegram.md"
   ]
 }
