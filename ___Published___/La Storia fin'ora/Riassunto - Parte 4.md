@@ -452,6 +452,7 @@ Inoltre Rhaevan informa il gruppo sugli accadimenti di Piren's Bluff: "*beh, vis
 Yavanna ritorna portando diversi diamanti e polvere di diamante, il gruppo decide di resuscitare prima di tutto Feisty, anche se incerti sull'effettiva efficacia dell'incantesimo su di lei...
 Blu canalizza Arthur tramite la sua piuma e lancia l'incantesimo con successo, riportando in vita Feisty. Dopo aver festeggiato il ritorno della loro amica, Doppo prende la piuma bianca, richiama Arthur e lancia l'incantesimo di resurrezione su Viktor...
 
+
 ## Viktor - 2
 
 Sembra passata un'eternità da quando hai sentito Neg richiamarti in lui, da allora hai rivisto e rivissuto momenti e ricordi con la tua famiglia... hai ripensato anche ai tuoi amici, ma tutti risultano meno tangibili e più fumosi, è molto difficile ricordarli nei dettagli... tranne che per Topper, lui ti appare nitido e tangibile, come tua moglie e tua figlia.
@@ -472,20 +473,58 @@ Dopo qualche minuto, grazie anche all'aiuto dei suoi compagni, Viktor comincia a
 
 ## Topper - 3
 
+Sorridi calorosamente, genuinamente felice e con non poco trasporto emotivo alla vista indefinita della Tiefling che tanto speravi si fosse infine salvata "*Una cosa buona sono riuscitito a farla alla fine, eh? razza di un vecchio pervertito che non sono altro....*" ridi fra le lacrime "*lei è salva... non è una maga, non conosce l'arcano... ma è salva*".
+Il vortice di voci e immagini sfocate continuano a turbinare attorno a te che ora cerchi di valutare la situazione con più calma e serenità; con estrema fatica esclami "*questa non è può essere la morte, forse... la sua anticamera? i suoi cancelli? chi muore dovrebbe finire in un dato luogo in base al suo agire moralistico/divino che lo premiano o puniscono per ciò che ha fatto o che era... ma di questo luogo, non ho mai sentito parlare prima...*".
+Ti lisci la barba con fare concentrato, desiderando ardentemente un sigaro "*...posso dedurre che la nostra innata abilità di evocare le vite di alcuni predestinati e di poterci evocare l'un l'altro come prima Doppo ha fatto con me, abbia a tutti gli effetti una corrispondenza intrinseca nella spiegazione di cosa stia succedendo, ma il modo e sopratutto il motivo mi sfuggono del tutto...*" sospiri "*visto che Blu, Doppo e Neg sono certamente vivi, avendoli visti indefiniti, è assai probabile che tenteranno di usare Arthur per riportare Daienne e me in vita... ma qui si pone un dilemma: e se da qui, da dove sono ora, potessi finalmente capire qualcosa del modo di vivere e rinascere di quei pezzi di merda flogocitanti stronzi putrefatti dei cercatori? se potessi carpire anche sono un cazzo di -capello- in più che ci dia una risposta una guida un FOTTUTO QUALCOSA! E potessi farlo avere ai miei compagni tramite evocazione... non sarebbe la cosa migliore da fare in assoluto?*"
+Nonostante la tua allenata disciplina mentale, fai una gran fatica a mantenere insieme questo ragionamento... Inoltre, a parte l'emozione legata alla Tiefling, la rabbia e concitazione verso i Cercatori sono sempre più... Annacquati diciamo.
+Durante il tuo flusso di coscienza, ti ritrovi in uno studio, il tuo vecchio studio, dove per innumerevoli ore hai studiato i misteri dell'arcano e padroneggiato il potere della Fiamma... E ti appare un sigaro in mano... Non riesci a dare una dimensione temporale al tutto... A un certo punto però, la porta d'ingresso alle tue spalle si apre... Ti volti e vedi davanti a te un ragazzo alto, biondo, di bell'aspetto e... Nitido e incredibilmente tangibile. Ti sorride, entra nello studio e mentre si guarda intorno ti parla: "*Ciao Topper, sono venuto a prenderti, i tuoi amici e compagni ti stanno cercando, hanno bisogno di te*" e così dicendo ti allunga la mano...
+Ci metti un pò a riconoscerlo, il giovane davanti a te è Arthur: "*Ah! Arthur, immaginavo il tuo arrivo...*" Ti guardo attorno "*dunque sono morto davvero*".
+Arthur ti guarda sempre sorridendoti e ti risponde semplicemente "*sì*".
+Il giovane ragazzo biondo si siede nella poltrona di fronte alla scrivania e ti guarda, attendendo una tua decisione...
+Rispondi: "*Sono in un dilemma Arthur... I miei amici possono evocarmi, quindi avrei modo di comunicare cose che potrei scoprire solo... Da questa parte dello specchio. Per la prima volta, sono lo gnomo giusto al posto giusto: tutte le conoscenze ottenute dagli scritti di Vickster, le informazioni di Feisty, gli antichi libri dei Sap e ciò che ho visto e sentito coi miei occhi sui cercatori... Da dove, se non dal regno dei morti, posso tentare di aggirare le loro bugie, le pareti difensive che proteggono la verità, e poter dire ai miei amici "ecco la verità" e metterli in tempo in guardia contro cosa sta succedendo*".
+Arthur ti guarda e risponde: "*Le fiamme sono da sempre un elemento che separa, che crea divisione e distanza... luce e ombra, caldo e freddo. Non mi stupisce che sia proprio ciò a cui ti sei aggrappato per tutta la vita. Sei stato spesso allontanato dagli altri e hai scelto, perfezionandolo, l’elemento che meglio rappresenta la separazione. Sono i tuoi sensi di colpa, la tua difficoltà nel fidarti e nell’affidarti agli altri — che mascheri come senso del dovere — a farti dire queste parole? ...Ti mancano i tuoi compagni?*"
+I tuoi occhi si fanno acquosi: "*Sì... Ma io sono buono solo a distruggere! Non mi ricapiterà un occasione in cui posso aiutarli davvero, prima che sia troppo tardi!*", dici sbattendo il pugno sulla poltrona.
+Arthur ti risponde: "*Forse Topper, nonostante la tua vasta conoscenza, l'argomento in cui sei più ignorante sei proprio tu... Sei capace di costruire, di fare tanto di più... Semplicemente fin'ora hai scelto -o sei stato portato a scegliere- la strada che conosci meglio, quella facile, quella del distruggere... Ma hai dimostrato di poter fare anche altro... Ad esempio con la ragazza Tiefling.*"
+Man mano che Arthur ti parla, ti rendi conto che in lui c'è anche altro; ha sempre la sua aria rassicurante, ma a un certo punto è come si si fossero aggiunte almeno una, forse due altre voci, di sottofondo, alla sua...
+"*Perché non darti un'altra possibilità, per conoscerti meglio...? Per farti conoscere dai tuoi amici?... Come hai detto tu, le tue capacità le avrebbero potute sfruttare anche senza riportarti da loro... Anche senza il tuo permesso... Ma hanno scelto di riaverti con loro, hanno scelto di riavere Topper... Tu ora, cosa scegli...?*"
+Sorridi amaramente "*Sai che hai ragione Arthur? Vorrei aver conosciuto Vickster...*" Gli occhi brillano e tutto a un tratto, terminando il tuo sigaro in un sol colpo, salti giù dalla sedia ed esclami "*So che cosa devo fare! LORO LO MERITANO!*"
+Le voci scrivono nella tua mente formule arcane sconosciute, formule che non erano tue, ma che ora sono tue... oppure... forse sono sempre state tue...?
+Vedi che Arthur ti sorride di rimando, si sposta dietro di te, ti mette le mani sulle spalle, si china e ti sussurra all'orecchio "*noi siamo, noi viviamo, noi ricordiamo*" Questa frase la senti nitidamente anche se detta da un numero incalcolabile di voci, tra le quali ti rendi conto esserci pure la tua; "*noi siamo, noi viviamo, noi ricordiamo*".
+
+
+## Il gruppo finalmente riunito
+
+Topper si risveglia nell'infermeria, con il viso di Arthur sopra di lui, che poco dopo svanisce lasciando il posto a quello di Viktor.
+Il gruppo esulta per il ritorno di Topper, accogliendolo e festeggiandolo a modo suo:
+
+Foto gruppo
+
+Quasi nessuno aveva fatto caso a Doppler entrare nella stanza, diversi minuti fa... non appena ha visto Topper tornare in vita, Doppler esce dalla stanza, in silenzio...
+
+I nostri redivivi eroi si concedono finalmente una notte di meritato riposo, accompagnati nel sonno dalle dolci melodie che Viktor intona dopo aver trovato almeno cinque ottimi motivi per continuare a vivere… e aver finalmente ritrovato i colori della sua prima, vera maschera: quella di Viktor.
+
+L'indomani, il gruppo comincia i preparativi per tornare alle Montagne della Mezzanotte con un solo obbiettivo in mente: la vendetta (e proseguire la ricerca della visione, certo... anche quello).
+
+Dopo qualche giorno di preparativi e di duro lavoro di Blu, il gruppo è finalmente pronto a partire!
+
+![[macgyver GIF.gif]]
+*Blu al lavoro!*
+
+
+Discesa, second try
+
+I nostri determinati eroi ripercorrono la strada verso il lago Nirthan in poche ore e senza intoppi; ignorano la cittadella abbandonata, dall'altra parte del lago, e decidono di buttarsi direttamente giù dalla cascata, con la nave e tutto il resto.
+Fortunatamente la caduta libera, inizialmente incontrollata, non provoca gravi problemi ai nostri eroi, oramai pronti e determinati a superare qualsiasi ostacolo o imprevisto!
+
+Se non che...
 
 
 
 
 
-dialogo tra capo sap e gruppo
 
-visioni con artur e viktor
 
-visioni con artur e topper
 
-gruppo riunito e notte di riposo
-
-gruppo si prepara e riparte ripetendo il percorso dell'andata
 
 il gruppo, appena arriva al lago, vede del movimento e uccide due Seugathi
 
