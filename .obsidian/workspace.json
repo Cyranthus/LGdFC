@@ -11,10 +11,14 @@
             "id": "7b02642377e0a902",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/NPC/Vickster Falconsflight (clone).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vickster Falconsflight (clone)"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532.5
+    "width": 403.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -179,6 +183,7 @@
   },
   "active": "7b02642377e0a902",
   "lastOpenFiles": [
+    "Mondo/NPC/Vickster Falconsflight (clone).md",
     "___Published___/Mondo/Ciuschi & co 1/Regolamento Tecnologia Korvosiana.md",
     "Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
     "Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
@@ -214,7 +219,6 @@
     "Mondo/Appunti DM.md",
     "Mondo/Space Ships/UGP Rebellion.md",
     "Mondo/Space Ships/Rebellion.pdf",
-    "Mondo/NPC/Enemies/Cercatori - giocatori/Comandante Regionale Vossnik.md",
-    "Mondo/Fazioni/Le Corde Dorate -Maleducate-.md"
+    "Mondo/NPC/Enemies/Cercatori - giocatori/Comandante Regionale Vossnik.md"
   ]
 }
