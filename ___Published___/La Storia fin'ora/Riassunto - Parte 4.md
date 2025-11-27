@@ -545,17 +545,33 @@ Il gruppo riprende il cammino seguendo il fiume. Una volta arrivati nei pressi d
 
 ## ...Anzi no, andiamo da Nocthysax!
 
+I nostri intrepidi raggiungono facilmente la caverna d'ingresso per la città di Nocthysax; la caverna d'ingresso porta all'interno dell'enorme cratere del vulcano dalla luce pallida.
+La città si rivela costruita interamente di ossidiana; gli edifici sono tutti parallelepipedi di diverse dimensioni, accalcati in modo caotico. Numerose statue raffiguranti un possente drago si trovano lungo le strade della città, la maggior parte lungo il viale principale che conduce a quella che sembra un'enorme cattedrale (simile a San Pietro) anch'essa interamente fatta di ossidiana, con un'alta torre sulla sommità dell'edificio che sovrasta l'intera città.
+La maggior parte degli abitanti sembrano gug, ma in giro vi sono anche altri umanoidi in catene, specialmente simili a degli gnomi.
+La pallida luce bianca che illumina l'intera area e le nubi emesse dal vulcano proviene proprio dalla cima della torre.
+Alcuni Gug armati di ciuschi, guidati da un drow (il cui nome è Lashunta) in armatura ciuscosa, accolgono gli avventurieri e li scortano lungo la via principale, per portarli al cospetto del grande Nocthysax.
+
+![[Lashunta RingwearIII.png|350]]
 
 
 
+## L'incontro con Nocthysax
 
-il gruppo, appena arriva al lago, vede del movimento e uccide due Seugathi
+Il gruppo viene portato all'interno dell'enorme cattedrale d'ossidiana; le navate laterali del piano terra ospitano diverse uova e cuccioli di drago d'ombra, sorvegliati e nutriti da alcuni Gug e schiavi umanoidi. Diversi altari ai lati della zona centrale riportano effigi draconiche e statue sempre raffigurante Nochtysax.
+L'area centrale è occupata da una specie di enorme ascensore, Lashunta fa salire i nostri valorosi eroi sulla piattaforma e attiva l'ascensore...
+Il marchingegno si ferma all'ultimo piano della torre, in un'ampia sala con vaste aperture sul vuoto.
+Un ampio tappeto rosso si estende di fronte agli eroi, fino a un'enorme trono sul quale siede il Grande e Magnifico Nocthysax.
+Gran parte delle corpo dell'oscura figura è ricoperta e rimpiazzata da metallo e protesi di vario tipo.
+La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte più luminosa è proprio l'enorme figura di Nocthysax, il quale emette fasci luminosi verso l'alto, dal suo dorso; è questa la luce viene proiettata e amplificata dalle pareti di ossidiana, riverberando sulle nubi nere che si sollevano dal lago di lava alle spalle della torre.
 
-il gruppo, dopo un pò di bisticcio, decide di aggirare il vulcano
+Nonostante l'aria minacciosa, il drago accoglie il nostro gruppo di eroi in modo cordiale e gentile, offrendo addirittura a loro il più grande degli onori: diventare diretti esecutori della volontà del Magnifico Nocthysax.
+I nostri promettenti candidati sembrano quasi persuasi dall'offerta magnanima dello splendido Nocthysax...
+L'unica cosa che devono fare per entrare nelle grazie del drago era eseguire una semplice missione di sterminio, pratica alquanto familiare ai nostri cari protagonisti; Nocthysax ha proprio occhio per questo genere di talento...
+Se non fosse che...
+Sfortunatamente, la suddetta missione di eliminazione ha come bersaglio un piccolo e innocente gruppo di Seugathi, insediatisi in una delle caverne nelle vicinanze...
 
-uno strano messaggio viene recapitato tramite hacking di Dronape
+Se c'è una cosa che non manca al nostro gruppo di neo-difensori del proletariato nematoide è l'integrità e la totale dedizione nella salvaguardia dei diritti delle aberrazioni vermiformi; persino la possibilità di dover combattere contro un possente dragone mezzo meccanizzato è sufficiente a dissuaderli...
 
-gli eroi vengono invitati nella città di Nocthysax
+Il gruppo si getta contro il grande dragone e i suoi seguaci, senza esitazione.
 
-Incontro (e scontro) con Nocthysax
-
+I combattimento infuria
