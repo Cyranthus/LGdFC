@@ -440,17 +440,21 @@ E questa piccola consapevolezza ti emoziona, ti rassicura, ti rende felice…
 
 ## Ritorno a Tahl’sindarra
 
-Doppo, Neg e Blu raccolgono i corpi dei loro amici e i resti dei due draghi d'ombra, con ciuschi annessi; Blu attiva il dispositivo per aprire il portale e i nostri esausti eroi ritornano alla sede della S.A.P., a Tahl'sindarra.
-I membri della S.A.P. aiutano il gruppo e i corpi dei compagni caduti vengono portati in infermeria.
+Doppo, Neg e Blu raccolgono i corpi dei loro amici e i resti dei due draghi d’ombra, con ciuschi annessi; Blu attiva il dispositivo per aprire il portale e i nostri esausti eroi fanno ritorno alla sede della S.A.P., a Tahl’sindarra.
+I membri della S.A.P. aiutano il gruppo, e i corpi dei compagni caduti vengono portati in infermeria.
 
-Rhaevan Varconis e Yavanna raggiungono l'infermeria e subito comprendono la gravità della situzione; Rhaevan chiede al gruppo di raccontare l'accaduto, rimanendo molto sorpreso nel vedere le tecnologie "ciuscose" (o tek, come le chiamano la S.A.P.) utilizzate e adattate a dei draghi d'ombra.
-Rhaevan chiede a Yavanna di recuperare i diamanti necessari per i rituali di resurrezione; fortuna vuole che l'apparizione di Arthur sia in grado di eseguirli, ma il sacrificio materiale va cmq eseguito.
-Nel frattempo, i nostri amici discutono e analizzano i resti dei draghi, comprendendo che la tecnologia è sicuramente simile a quella dei Cercatori, ma molto diversa a quella "abbozzata" usata sui non morti da Doppler (che stranamente non è stato interpellato o incluso nella discussione... 😏).
+Rhaevan Varconis e Yavanna raggiungono l’infermeria e comprendono subito la gravità della situazione; Rhaevan chiede al gruppo di raccontare l’accaduto, rimanendo molto sorpreso nel vedere le tecnologie “ciuscose” (o tek, come le chiama la S.A.P.) utilizzate e adattate a dei draghi d’ombra.
+Rhaevan chiede quindi a Yavanna di recuperare i diamanti necessari per i rituali di resurrezione; fortuna vuole che l’apparizione di Arthur sia in grado di eseguirli, ma il sacrificio materiale va comunque compiuto.
 
-Inoltre Rhaevan informa il gruppo sugli accadimenti di Piren's Bluff: "*beh, visto che siete qui, ne approfitto per aggiornarvi su un paio di questioni: l'incidente di Piren's Bluff ovviamente non poteva essere insabbiato... è stato decisamente troppo anche per loro... pertanto i Cercatori stanno diffondendo la notizia che la città è stata attaccata e distrutta da un'antica calamità, una Progenie di Rovagug... Definendo la cosa come il chiaro presagio di un'antica profezia sul risveglio appunto di queste Progenie e la fine del mondo... Ovviamente i Cercatori sono totalmente impegnati nello scongiurare la cosa e il realizzarsi di questa profezia...*"
+Nel frattempo, i nostri amici discutono e analizzano i resti dei draghi, comprendendo che la tecnologia è simile a quella dei Cercatori, ma molto diversa da quella “abbozzata” usata sui non morti da Doppler (che, stranamente, non è stato interpellato né incluso nella discussione… 😏).
 
-Yavanna ritorna portando diversi diamanti e polvere di diamante, il gruppo decide di resuscitare prima di tutto Feisty, anche se incerti sull'effettiva efficacia dell'incantesimo su di lei...
-Blu canalizza Arthur tramite la sua piuma e lancia l'incantesimo con successo, riportando in vita Feisty. Dopo aver festeggiato il ritorno della loro amica, Doppo prende la piuma bianca, richiama Arthur e lancia l'incantesimo di resurrezione su Viktor...
+Inoltre, Rhaevan informa il gruppo sugli accadimenti di Piren’s Bluff:  
+*"Beh, visto che siete qui, ne approfitto per aggiornarvi su un paio di questioni: l’incidente di Piren’s Bluff ovviamente non poteva essere insabbiato… è stato decisamente troppo, anche per loro. Pertanto, i Cercatori stanno diffondendo la notizia che la città è stata attaccata e distrutta da un’antica calamità: una Progenie di Rovagug.  
+Stanno definendo l’evento come il chiaro presagio di un’antica profezia, secondo cui queste Progenie si risveglieranno, portando alla fine del mondo… Ovviamente, i Cercatori sono ora completamente impegnati nel tentativo di scongiurare il realizzarsi di questa profezia...
+Stiamo continuando a raccogliere informazioni per cercare di capire quali saranno le loro prossime mosse..."*
+
+Yavanna ritorna portando diversi diamanti e polvere di diamante. Il gruppo decide di resuscitare prima di tutto Feisty, pur essendo incerti sull’effettiva efficacia dell’incantesimo su di lei.  
+Blu canalizza Arthur tramite la sua piuma e lancia l’incantesimo con successo, riportando Feisty in vita. Dopo aver festeggiato il ritorno della loro amica, Doppo prende la piuma bianca, richiama Arthur e lancia l’incantesimo di resurrezione su Viktor…
 
 
 ## Viktor - 2
@@ -499,13 +503,13 @@ Il gruppo esulta per il ritorno di Topper, accogliendolo e festeggiandolo a modo
 
 ![[amio.jpg]]
 
-Quasi nessuno aveva fatto caso a Doppler entrare nella stanza, diversi minuti fa... non appena ha visto Topper tornare in vita, Doppler esce dalla stanza, in silenzio...
+Quasi nessuno aveva fatto caso a Doppler quando era entrato nella stanza, diversi minuti prima... Non appena vede Topper tornare in vita, Doppler esce dalla stanza, in silenzio...
 
-I nostri redivivi eroi si concedono finalmente una notte di meritato riposo, accompagnati nel sonno dalle dolci melodie che Viktor intona dopo aver trovato almeno cinque ottimi motivi per continuare a vivere… e aver finalmente ritrovato i colori della sua prima, vera maschera: quella di Viktor.
+I nostri redivivi eroi si concedono finalmente una notte di meritato riposo, accompagnati nel sonno dalle dolci melodie che Viktor intona dopo aver trovato almeno cinque ottimi motivi per continuare a vivere… e dopo aver finalmente ritrovato i colori della sua prima, vera maschera: quella di Viktor.
 
-L'indomani, il gruppo comincia i preparativi per tornare alle Montagne della Mezzanotte con un solo obbiettivo in mente: la vendetta (e proseguire la ricerca della visione, certo... anche quello).
+L’indomani, il gruppo comincia i preparativi per tornare alle Montagne della Mezzanotte con un solo obiettivo in mente: la vendetta (e proseguire la ricerca della visione, certo... anche quello).
 
-Dopo qualche giorno di preparativi e di duro lavoro di Blu, il gruppo è finalmente pronto a partire!
+Dopo qualche giorno di preparativi e del duro lavoro di Blu, il gruppo è finalmente pronto a partire
 
 ![[macgyver GIF.gif]]
 *Blu al lavoro!*
@@ -513,65 +517,84 @@ Dopo qualche giorno di preparativi e di duro lavoro di Blu, il gruppo è finalme
 
 ## Discesa, second try
 
-I nostri determinati eroi ripercorrono la strada verso il lago Nirthan in poche ore e senza intoppi; ignorano la cittadella abbandonata, dall'altra parte del lago, e decidono di buttarsi direttamente giù dalla cascata, con la nave e tutto il resto.
-Fortunatamente la caduta libera, inizialmente incontrollata, non provoca gravi problemi ai nostri eroi, oramai pronti e determinati a superare qualsiasi ostacolo o imprevisto!
+I nostri determinati eroi ripercorrono la strada verso il lago Nirthan in poche ore e senza intoppi; ignorano la cittadella abbandonata dall’altra parte del lago e decidono di buttarsi direttamente giù dalla cascata, con la nave e tutto il resto.
+Fortunatamente la caduta libera, inizialmente incontrollata, non provoca gravi problemi ai nostri eroi, ormai pronti e determinati a superare qualsiasi ostacolo o imprevisto!
 
-Se non che...
+Se non che…
 
+## Potere dal Basso e Lotta di Classe
 
-Potere dal Basso e Lotta di Classe
-
-I nostri intrepidi, in caduta libera, hanno quasi raggiunto il placido laghetto dove è stato seppellito il povero Giacomino (pace all'anima sua), quando a un tratto, il vigile occhio di Doppo individua degli strani movimenti allontanarsi tra l'erba alta, dalla riva del lago.
+I nostri intrepidi, in caduta libera, hanno quasi raggiunto il placido laghetto dove è stato seppellito il povero Giacomino (pace all’anima sua), quando, a un tratto, il vigile occhio di Doppo individua degli strani movimenti che si allontanano tra l’erba alta, dalla riva del lago.
 
 Doppo e Blu si scambiano uno sguardo d'intesa:
 
 ![[92Ul.gif]]
 
-E senza ulteriori indugi si gettano all'inseguimento delle sconosciute creature!
-Avvicinandosi ad esse, i nostri determinati eroi intuiscono che le creature stanno strisciando tra l'erba come dei serpenti; Blu cerca d'intavolare una franca discussione sparandogli contro, mentre Doppo gli corre direttamente addosso.
-Le due disperate creature reagiscono all'aggressione difendendosi con le loro potenti abilità psichiche; Doppo blocca la sua corsa rimanendo stordito, campi di nebbia ammaliante si creano attorno ai nostri aggressivi avventurieri e visioni terribili li assalgono!
-Blu viene completamente soggiogato dagli aggrediti proletari aberranti; una chiamata sorge vigorosa dal suo cuore, una voce si leva sopra una moltitudine di oppressi! E' il momento della lotta! E' il momento della resistenza contro i potenti! E' il momento di lottare e morire nel nome dell'Imperatore Decadente, la nostra somma guida verso un futuro prospero, libero e giusto per tutti!
+E, senza ulteriori indugi, si gettano all’inseguimento delle sconosciute creature!  
+Avvicinandosi a esse, i nostri determinati eroi intuiscono che le creature stanno strisciando tra l’erba come serpenti; Blu cerca d’intavolare una franca discussione sparando loro contro, mentre Doppo gli corre direttamente addosso.
+
+Le due disperate creature reagiscono all’aggressione difendendosi con le loro potenti abilità psichiche: Doppo blocca la sua corsa, rimanendo stordito; campi di nebbia ammaliante si formano attorno ai nostri aggressivi avventurieri e visioni terribili li assalgono!
+
+Blu viene completamente soggiogato dagli aggrediti proletari aberranti; una chiamata sorge vigorosa dal suo cuore, una voce si leva sopra una moltitudine di oppressi! È il momento della lotta! È il momento della resistenza contro i potenti! È il momento di lottare e morire nel nome dell’Imperatore Decadente, la nostra somma guida verso un futuro prospero, libero e giusto per tutti!  
+
 E con questo nobile sentimento a guidargli la mano, Blu spara a Doppo alle spalle.
 
-Nonostante la confusione e il trambusto iniziale, i nostri eroi riescono infine ad abbattere le due povere creature.
-Topper identifica le creature come delle aberrazioni note con il nome di Seugathi; si narra che queste creature siano seguaci dell'antico Imperatore Decadente, leggendaria creatura (si pensa sia un'antico Neothelid) a capo di un'organizzazione segreta chiamata "il Sindacato", impegnata nella lotta di classe in difesa delle povere aberrazioni vermiformi contro lo sfruttamento e la caccia perpetrata dalle altre razze.
-Questa scoperta colpisce profondamente il gruppo, specialmente Doppo e Blu, il quale in prima persona ha sentito l'importanza di questa causa; i nostri valenti combattenti si ripromettono di  quindi di portare avanti la causa dei Compagni Seugathi e del grande Compagno Imperatore Decadente.
+Nonostante la confusione e il trambusto iniziale, i nostri eroi riescono infine ad abbattere le due povere creature.  
+Topper identifica le creature come aberrazioni note con il nome di **Seugathi**; si narra che siano seguaci dell’antico Imperatore Decadente, leggendaria creatura — si pensa un antico Neothelid — a capo di un’organizzazione segreta chiamata “Il Sindacato”, impegnata nella lotta di classe in difesa delle povere aberrazioni vermiformi contro lo sfruttamento e la caccia perpetrati dalle altre razze.
+Questa scoperta colpisce profondamente il gruppo, specialmente Doppo e Blu, il quale in prima persona ha sentito l’importanza di questa causa; i nostri valenti combattenti si ripromettono quindi di portare avanti la causa dei Compagni Seugathi e del grande Compagno Imperatore Decadente.
 
 
 ## Seguendo nuovamente la visione...
 
-Il gruppo riprende il cammino seguendo il fiume. Una volta arrivati nei pressi della montagna vulcanica, il gruppo discute animatamente sul da farsi... durante la discussione, uno strano messaggio viene riprodotto tramite il dronape di Blu, una sorta di invito per il gruppo di presentarsi al cospetto del Sommo Nocthysax, incontrastato dominatore delle Montagne di Mezzanotte.
+Il gruppo riprende il cammino seguendo il fiume. Una volta arrivati nei pressi della montagna vulcanica, il gruppo discute animatamente sul da farsi... Durante la discussione, uno strano messaggio viene riprodotto tramite il dronape di Blu: una sorta di invito affinché il gruppo si presenti al cospetto del Sommo Nocthysax, incontrastato dominatore delle Montagne della Mezzanotte.
 
 
 ## ...Anzi no, andiamo da Nocthysax!
 
-I nostri intrepidi raggiungono facilmente la caverna d'ingresso per la città di Nocthysax; la caverna d'ingresso porta all'interno dell'enorme cratere del vulcano dalla luce pallida.
-La città si rivela costruita interamente di ossidiana; gli edifici sono tutti parallelepipedi di diverse dimensioni, accalcati in modo caotico. Numerose statue raffiguranti un possente drago si trovano lungo le strade della città, la maggior parte lungo il viale principale che conduce a quella che sembra un'enorme cattedrale (simile a San Pietro) anch'essa interamente fatta di ossidiana, con un'alta torre sulla sommità dell'edificio che sovrasta l'intera città.
-La maggior parte degli abitanti sembrano gug, ma in giro vi sono anche altri umanoidi in catene, specialmente simili a degli gnomi.
-La pallida luce bianca che illumina l'intera area e le nubi emesse dal vulcano proviene proprio dalla cima della torre.
-Alcuni Gug armati di ciuschi, guidati da un drow (il cui nome è Lashunta) in armatura ciuscosa, accolgono gli avventurieri e li scortano lungo la via principale, per portarli al cospetto del grande Nocthysax.
+I nostri intrepidi raggiungono facilmente l’ingresso della città di Nocthysax: un'ampia caverna che conduce all’interno dell’enorme cratere del vulcano dalla luce pallida.  
+La città si rivela costruita interamente in ossidiana: gli edifici sono tutti parallelepipedi di diverse dimensioni, accalcati in modo caotico. Numerose statue raffiguranti un possente drago si trovano lungo le strade della città, soprattutto lungo il viale principale che conduce a quella che sembra un’enorme cattedrale (simile a San Pietro), anch’essa interamente fatta di ossidiana, con un’alta torre sulla sommità dell’edificio che sovrasta l’intera città.
+
+La maggior parte degli abitanti sembra essere composta da Gug, ma in giro vi sono anche altri umanoidi in catene; in particolare, sono molto numerosi dei piccoli umanoidi simili a gnomi.  
+La pallida luce bianca che illumina l’intera area e le nubi emesse dal vulcano proviene proprio dalla cima della torre.
+
+Alcuni Gug armati di ciuschi, guidati da un drow (il cui nome è Lashunta) in armatura ciuscosa, accolgono gli avventurieri e li scortano lungo la via principale per portarli al cospetto del grande Nocthysax.
 
 ![[Lashunta RingwearIII.png|350]]
 
 
-
 ## L'incontro con Nocthysax
 
-Il gruppo viene portato all'interno dell'enorme cattedrale d'ossidiana; le navate laterali del piano terra ospitano diverse uova e cuccioli di drago d'ombra, sorvegliati e nutriti da alcuni Gug e schiavi umanoidi. Diversi altari ai lati della zona centrale riportano effigi draconiche e statue sempre raffigurante Nochtysax.
-L'area centrale è occupata da una specie di enorme ascensore, Lashunta fa salire i nostri valorosi eroi sulla piattaforma e attiva l'ascensore...
-Il marchingegno si ferma all'ultimo piano della torre, in un'ampia sala con vaste aperture sul vuoto.
-Un ampio tappeto rosso si estende di fronte agli eroi, fino a un'enorme trono sul quale siede il Grande e Magnifico Nocthysax.
-Gran parte delle corpo dell'oscura figura è ricoperta e rimpiazzata da metallo e protesi di vario tipo.
-La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte più luminosa è proprio l'enorme figura di Nocthysax, il quale emette fasci luminosi verso l'alto, dal suo dorso; è questa la luce viene proiettata e amplificata dalle pareti di ossidiana, riverberando sulle nubi nere che si sollevano dal lago di lava alle spalle della torre.
+Il gruppo viene portato all’interno dell’enorme cattedrale d’ossidiana; le navate laterali del piano terra ospitano diverse uova e cuccioli di drago d’ombra, sorvegliati e nutriti da alcuni Gug e da schiavi umanoidi. Diversi altari ai lati della zona centrale riportano effigi draconiche e statue raffiguranti sempre Nocthysax.
 
-Nonostante l'aria minacciosa, il drago accoglie il nostro gruppo di eroi in modo cordiale e gentile, offrendo addirittura a loro il più grande degli onori: diventare diretti esecutori della volontà del Magnifico Nocthysax.
-I nostri promettenti candidati sembrano quasi persuasi dall'offerta magnanima dello splendido Nocthysax...
-L'unica cosa che devono fare per entrare nelle grazie del drago era eseguire una semplice missione di sterminio, pratica alquanto familiare ai nostri cari protagonisti; Nocthysax ha proprio occhio per questo genere di talento...
-Se non fosse che...
-Sfortunatamente, la suddetta missione di eliminazione ha come bersaglio un piccolo e innocente gruppo di Seugathi, insediatisi in una delle caverne nelle vicinanze...
+L’area centrale è occupata da una sorta di enorme ascensore. Lashunta fa salire i nostri valorosi eroi sulla piattaforma e attiva il meccanismo…
+Il marchingegno si ferma all’ultimo piano della torre, in un’ampia sala con vaste aperture sul vuoto. 
+Un ampio tappeto rosso si estende di fronte agli eroi fino a un enorme trono sul quale siede il Grande e Magnifico Nocthysax.
 
-Se c'è una cosa che non manca al nostro gruppo di neo-difensori del proletariato nematoide è l'integrità e la totale dedizione nella salvaguardia dei diritti delle aberrazioni vermiformi; persino la possibilità di dover combattere contro un possente dragone mezzo meccanizzato è sufficiente a dissuaderli...
+Gran parte del corpo dell’oscura figura è ricoperta e rimpiazzata da metallo e protesi di vario tipo.  
+La stanza è illuminata da una soffusa luce biancastra-azzurrognola; la fonte più luminosa è proprio l’enorme figura di Nocthysax, che emette fasci luminosi verso l’alto dal suo dorso. È questa la luce che viene proiettata e amplificata dalle pareti d’ossidiana, riverberando sulle nubi nere che si sollevano dal lago di lava alle spalle della torre.
 
-Il gruppo si getta contro il grande dragone e i suoi seguaci, senza esitazione.
+Nonostante l’aria minacciosa, il drago accoglie il nostro gruppo di eroi in modo cordiale e gentile, offrendo addirittura loro il più grande degli onori: diventare diretti esecutori della volontà del Magnifico Nocthysax.  
+I nostri promettenti candidati sembrano quasi persuasi dall’offerta magnanima dello splendido Nocthysax…
+L’unica cosa che devono fare per entrare nelle grazie del drago è eseguire una semplice missione di sterminio, pratica alquanto familiare ai nostri cari protagonisti; Nocthysax ha proprio occhio per questo genere di talento…  
 
-I combattimento infuria
+Se non fosse che…
+
+Sfortunatamente, la suddetta missione di eliminazione ha come bersaglio un piccolo e innocente gruppo di Seugathi, insediatosi in una delle caverne nelle vicinanze…  
+Se c’è una cosa che non manca al nostro gruppo di neo-difensori del proletariato nematoide è l’integrità e la totale dedizione nella salvaguardia dei diritti delle aberrazioni vermiformi; persino la possibilità di dover combattere contro un possente dragone mezzo meccanizzato non è sufficiente a dissuaderli!
+Il gruppo si getta contro il grande dragone e i suoi seguaci, facendosela un pò sotto.
+
+Il combattimento infuria nella grande sala: a discapito di qualche difficoltà iniziale, il nostro ormai esperto manipolo di combattenti sfrutta a dovere (finalmente) tutte le capacità in loro possesso, riuscendo a eliminare le guardie personali di Nocthysax e a fare a pezzi gran parte dei suoi armamenti e delle protesi tecnologiche.  
+Il possente drago sembra sul punto di cadere, finalmente… Spogliato di tutte le sue parti metalliche, Nocthysax appare come il residuo macilento di quello che una volta era un possente drago: ali spezzate, zampe posteriori e coda strappate, e un arto anteriore mozzato…
+
+Spinto dalla rabbia e dalla disperazione, Nocthysax richiama tutte le energie che gli rimangono (sfruttando in qualche modo la sfera luminosa che ora appare chiaramente nel petto) e lancia un ruggito di rabbia pura: l’intera area piomba in un’oscurità innaturale che annulla e opprime ogni fonte di luce… tranne quella che sprigiona Nocthysax tramite la sfera luminosa…
+
+L’intera area pare di conformazione diversa: è sempre la cima della torre, ma la stanza circostante sembra molto più ampia. Dietro al trono di Nocthysax, vicino alle aperture sul vuoto, s’intravede una serie di macchinari collegati a tre cilindri di vetro; da essi partono diversi cavi che si collegano a quello che sembra una sorta di piedistallo.
+
+Il drago, nel frattempo, continua a raccogliere energia, infine sprigionando un soffio di plasma (fulmine misto a fuoco) che investe i nostri coraggiosi sindacalisti. Il drago continua a soffiare, ben oltre i limiti di un normale soffio draconico, attingendo sempre più energia dalla sfera, energia che comincia a consumarlo dall’interno…
+
+Ma i nostri indomiti cacciatori di oppressori non si fanno intimidire: continuano il loro assalto al drago, riuscendo infine a ucciderlo decapitandolo male (nel senso letterario del termine).
+
+Non appena il grande Nocthysax cade, la sala del trono comincia a ritornare al suo aspetto precedente: l’oscurità si ritira, cala il silenzio e solo il bagliore della sfera illumina l’area…
+
+Blu prova a raccoglierla, sentendo subito l’immenso potenziale di quell’energia pervaderlo, energia che pare dello stesso tipo che i nostri intrepidi uccisori di draghi utilizzano per richiamare le apparizioni o per ricaricare i misteriosi oggetti ciuscosi.
+![[white_energy_ball_3_by_venjix5_dcs91cy.png|center]]
