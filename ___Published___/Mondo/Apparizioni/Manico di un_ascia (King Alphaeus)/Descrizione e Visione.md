@@ -15,7 +15,7 @@
 > 
 > ![embedded image](https://assets.legendkeeper.com/337aa9b9-b114-4436-b2fc-a0806e746085.png "Attachment")
 > 
-> _<buio>_
+> buio
 
 ### Poteri
 
