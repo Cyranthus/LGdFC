@@ -11,5 +11,7 @@
 
 - Verranno a sapere che ci sono disordini a Falcon's hollow, provocati da dei mannari (il ripetersi degli eventi iniziali)
 
-- Nochtysax, (dopo diversi scontri?) cercherà li inviterà cercando di convincerli ad sottomettersi a lui per combattere i Cercatori
+- preparare storia diario della Rebellion
+
+- Feisty: nascosto nella sua memoria ha le coordinate per raggiungere M.O.T.H.E.R.
 
