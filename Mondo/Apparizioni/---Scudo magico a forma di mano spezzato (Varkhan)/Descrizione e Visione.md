@@ -26,7 +26,7 @@ Il soffio di Zavon’Drath colpisce in pieno uno degli oggetti volanti, facendol
 
 Un dolore lancinante ti attraversa la mente: ti accasci a terra, sopraffatto dalla sofferenza...  
 Nel frattempo, il tuo Eidolon comincia a precipitare: il suo corpo privo di vita si schianta contro la fortezza, distruggendone una vasta sezione in un’esplosione di pietra e fiamme.  
-Pochi istanti dopo, il corpo di Khazavon inizia a dissolversi, svanendo lentamente mentre ritorna al suo piano d’origine...
+Pochi istanti dopo, il corpo di Zavon’Drath inizia a dissolversi, svanendo lentamente mentre ritorna al suo piano d’origine...
 
 Due fragorosi schianti risuonano davanti a te. Ti rialzi con fatica, mentre dal fumo emergono nuove figure: umanoidi in pesanti armature, usciti da enormi uova di ferro cadute dal cielo. Alcuni sono senza elmo… e, con tuo orrore, ti accorgi che sembrano umani!
 
@@ -46,7 +46,7 @@ Buio.
 
 * 3 "punti energia":  lanci evoca mostri/alleato naturale come un caster di pari livello (però non si possono evocare infernali o diavoli).
 
-- 6 "punti energia": az round completo, l'enorme Eidolon di Kazavon si materializza nel cielo sopra di voi ed esegue un devastante attacco ad area (sfera con 12m di raggio); metà del danno è fulmine e metà fuoco. Il danno supera parzialmente immunità o resistenza ai danni elementali:
+- 6 "punti energia": az round completo, l'enorme Eidolon di Zavon’Drath si materializza nel cielo sopra di te ed esegue un devastante attacco ad area (sfera con 12m di raggio); metà del danno è fulmine e metà fuoco. Il danno supera parzialmente immunità o resistenza ai danni elementali:
 	- Le immunità elementali dimezzano il danno specifico (es: creatura immune al fuoco, subisce 40 danni da questo spell: 20 danni sono da fuoco, 20 da fulmine -> i danni subiti sono 30 (i danni da fuoco sono dimezzati))
 	- Le resistenze elementali valgono la metà: (es: creatura ha resistenza 10 al fuoco, subisce 40 danni da questo spell: 20 danni sono da fuoco, 20 da fulmine -> i danni subiti sono 35 (i danni da fuoco sono ridotti di 5 anzichè di 10)).
   Il danno è equivalente a 1d8 x lvl dell'utilizzatore, Riflessi dimezza (CD 10+1/2 livello utilizzatore+Mod Caratteristica mentale scelta).

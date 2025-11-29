@@ -12,20 +12,29 @@ Attualmente la verga ha i seguenti piani registrati:
 - Inferi, Palazzo di Fortunata (2 Nodo), colore rosso
 - Porzione isolata di Korvosa (Nodo criptato), colore viola, lampeggiante
 
-cadavere di Gurnys ()
+cadavere di Gurnys 
+ - si attiva la visione del SAP
+ - artefatto maggiore - arma: Daga del Silenzio Eterno (pugnale +3 del Ferimento)
+   - la lama può emettere **silenzio permanente** in un raggio di 3 metri attorno a sé (attivabile/disattivabile a volontà)
+   - La lama di questo pugnale è lucida e brillante. Anche quando imbrattata del sangue di una vittima, pochi istanti dopo appare pulita e asciutta, come se fosse stata appena ripulita.
+   Quando attacca una creatura che sta ancora sanguinando a causa della proprietà [Ferimento](https://golarion.altervista.org/wiki/Armi_Magiche#Ferimento "Armi Magiche") del pugnale sanguinario, il pugnale infligge 1 danno addizionale per ogni ferita da sanguinamento posseduta dalla creatura (massimo +10). Ogni volta che chi impugna un pugnale sanguinario conferma un colpo critico con esso, può scegliere di infliggere 1d6 danni addizionali per ogni ferita da sanguinamento posseduta dal bersaglio (massimo +5d6 danni)
+
+   
 
 combattimento contro resti di P.H.A.R.A.S.M.A. (https://www.aonsrd.com/AlienDisplay.aspx?ItemName=Siege%20Robot&Family=Robot)
+https://hephaistos.azurewebsites.net/ x le armi
 
 
+- si attiva quando tornano nel mondo materiale o se gli eroi lo toccano
 
-Se uno degli eroi preme il nodo lampeggiante, Korvosa viene riportata nella zona di magia selvaggia.
+- Se uno degli eroi preme il nodo lampeggiante, Korvosa viene riportata nella zona di magia selvaggia.
 
 
 
 ## Korvosa - Zona di Magia selvaggia
 
 
-Ogni uso di oggetto magico o magia lanciata triggera strambi effetti casuali
+Ogni uso di oggetto magico o magia lanciata triggera strambi effetti casuali (dado da 10000?)
 
 
 ## Semipiano di Varkhan
@@ -42,4 +51,9 @@ All'interno della reggia tutto è stato devastato, chiunque sia passato si è be
 Nella sala del trono, l'unica cosa che attira l'attenzione è uno scudo a forma di mano, spezzato.
 ## Inferi
 
-Caratteristiche del piano:
+
+Vi ritrovate all'interno di una grande sala in rovina, 
+resti della roccaforte di Fortunata
+aria caldo vi investe
+vari resti di creature umanoidi di taglia grande.
+vicino al trono in rovina, c'è una carta (Fortunata) 

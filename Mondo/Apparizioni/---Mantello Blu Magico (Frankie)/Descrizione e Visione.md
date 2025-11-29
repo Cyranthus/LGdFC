@@ -58,9 +58,7 @@ Ti rivolgi al tuo ufficiale scientifico **"Dr. Wittlewak, faccia evacuare la nav
 
 *Ti alzi dalla tua seduta e ti metti alla guida della nave, mentre Zora e Denor presidiano gli armamenti. Continuate a sparare, coprendo la fuga della scialuppa su cui il tuo equipaggio sta scappando, colpendo senza tregua e attirando il fuoco delle navi nemiche.*
 
-*Finalmente puoi lasciarti andare. Una sonora risata ti sfugge, travolto dall’euforia della battaglia… oh e ridi proprio di gusto, fino all’ultimo siluro lanciato.*  
-*Fino allo schianto.*
-
+*Finalmente puoi lasciarti andare. Una sonora risata ti sfugge, travolto dall’euforia della battaglia… oh e ridi proprio di gusto, fino all’ultimo siluro lanciato, mentre la nave è in caduta libera, fino allo schianto.*
 *Buio.*
 
 

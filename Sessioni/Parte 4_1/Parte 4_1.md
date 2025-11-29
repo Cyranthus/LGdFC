@@ -306,6 +306,20 @@ https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/purple-worm/
 ## Dentro la UGP Rebellion
 
 
+Interazioni con il Computer:
+- se l'alimentazione è attiva, il Computer potrà dare qualche risposta in più:
+  se si richiede cos'è successo con addosso il medaglione: "Dati del diario di bordo danneggiati o corrotti. Ricostruzione in corso, attendere...
+  attendere...
+  attendere...
+  Elenco voci recuperate: - Missione UGP numero 234: mobilitazione da "
+	Viaggio verso mondo 
+
+
+
+
+
+Vickster li spierà, potrebbe far notare agli eroi una sorta di persona che li guida verso il laboratorio.
+
 Possibili ingressi:
 1) Vano di carico (paratia divelta)
 
@@ -328,10 +342,13 @@ A prescindere, Feisty trova il posto incredibilmente familiare.
 
 *Il varco si apre su una specie di ampia grotta con pareti molto dritte e regolari; altre formazioni rocciose, funghi e concrezioni si estendono un pò ovunque su pavimento, soffitto e pareti.
 Ai lati della stanza ci sono delle insenature, alcune hanno numerose scaffalature, altre sono vuote.
-Nel centro ci sono diversi cubi o quelli che sembrano dei contenitori, molti sono danneggiati o rovesciati.*
+Nel centro ci sono diversi cubi o quelli che sembrano dei contenitori, molti sono danneggiati o rovesciati.
+In un angolo della stanza, notate una struttura familiare che non c'entra veramente nulla con il resto della stanza: un cerchio di metallo nero con scanalature e simboli sopra; al suo lato, un piedistallo nero con sopra una sorta di pannello: é la macchina per il portale molto simile a quella di Thal'Sindarra*.
+
 Perception 20 per trovare tracce di metalli e sostanze di vario tipo (anche Noqual e Adamantio) 5 casse sembrano ancora parzialmente piene di materiale (2 adamantio, 3 Noqual).
 (diversi materiali sono stati trafugati da qui, alcune quantità di Noqual e Adamantio sono ancora presenti)
-### Tek Lab (Chiuso)
+
+### Tek Lab/Science Lab (Chiuso)
  - Clone virtuale di Vickster: Inizialmente cercherà di spaventare gli eroi; l'intera stanza apparirà come una città in rovina, illuminata da un'enorme luna rossa. Di fronte agli eroi si staglia una figura imponente e oscura, con un enorme spadone al suo fianco e due gigantesche ali da pipistrello che partono dalla sua schiena.
    TS volontà per sgamare l'illusione 25: 
 
@@ -348,18 +365,55 @@ L'enorme figura si volta verso di voi: "Chi osa disturbarmi?!? Chi osa varcare l
 
 ![[vv.jpeg|600]]
 
-   se gli eroi capiscono che è un illusione, si congratula con loro e si rivela nel vero aspetto:
+Se gli eroi capiscono che è un illusione, si congratula con loro e si rivela nel vero aspetto:
  
 ![[OldVickster.png|500]]
 
-   Vickster sarà molto contento di parlare con loro (dopotutto sono le prime vere persone che incontra da tipo 1000 anni)
-   Vickster conosce la storia ma solo fino a prima dell'attacco dei Cercatori a Korvosa (quindi cmq sa tutto di Varkhan e Fortunata).
-   Se si fiderà del gruppo, gli consegnerà la chiave chiedendogli di ritrovare il suo... padrone, o di capire che fine ha fatto.
+Vickster sarà molto contento di parlare con loro (dopotutto sono le prime vere persone che incontra da tipo 1000 anni)
+Vickster conosce la storia ma solo fino a prima dell'attacco dei Cercatori a Korvosa (quindi cmq sa tutto di Varkhan e Fortunata).
+Se si fiderà del gruppo, gli consegnerà la chiave chiedendogli di ritrovare il suo... padrone, o di capire che fine ha fatto.
  - Chiave di Recupero - prototipo 00 (Nascosta da clone Vickster, dentro una cassaforte) oggetto con un'aura di evocazione molto potente. contiene una batteria Korvosiana, l'attivazione consuma la carica dell'intera batteria
+
+- **Tek Lab**: nella stanza vi sono 2 tavoli con diversi strumenti e oggetti strani, molti altri oggetti sono appesi alle pareti di fronte, un altro tavolo è al centro della stanza e diverse scansie ai lati della stanza contengono materiali di diverso tipo. (Blu potrebbe riconoscere cacciaviti ecc)
+- **Science Lab**: strumentazione di vario tipo è presente in questa stanza, molti oggetti ricordano quelli di un laboratorio alchemico (Topper li riconosce), 3 tavoli sono presenti e diversi armadietti ai lati della stanza. Sui tavoli ci sono pezzi incompleti di bacchette, verghe armi e armature, riconoscete anche diversi pezzi minerali che sembrano cristalli verde pallido: Noqual.
+  dentro a un cassetto di uno dei tavoli c'è la **Chiave di Recupero**.
 
 ### Centro di Comando (Chiuso)
 - Corpo Frankie (con loot) (pg lvl 20)
-- Oggetto Frankie (mantello perennemente in movimento) -> visione
+  Anello di Protezione +4
+  Stivali della Velocità
+  Giaco di maglia in Mithral +4
+  Cintura del vigore +4
+  Amuleto dell’Armatura Naturale +4
+  Perla delle Profondità (permette di respirare sott'acqua)
+  Scimitarra+4, affilata, fulminante (+1d6), esplosione fulminante (critico +1d10)
+  Cappello del Capitano (+6 al carisma)
+- Oggetto Frankie (mantello perennemente in movimento) -> visione!
+
+*La sala è di forma semi rettangolare, con il lato di fronte a voi ad arco.*
+*Diversi piedistalli rettangolari si trovano ai lati della stanza e al centro di essa, una sorta di poltrona si trova poco davanti a voi, su una piattaforma leggermente sopraelevata, parrebbe quasi un trono.*
+*Di fronte al trono, c'è una sorta di sostegno metallico che parte dal pavimento, a cui è attaccato un qualcosa che sembra di decisamente fuori posto: il timone di una nave.*
+
+*Nella stanza ci sono i resti di due umanoidi, simili a Feisty, uno di essi pare molto danneggiato e senza un braccio.*
+(per riportarli in vita serve almeno Rianimare Morti e 6 punti energia l'uno).
 
 
+### Sala Macchine (Chiuso)
 
+*All'interno di questa sala buia ci sono un sacco di strutture metalliche e tubi di varie dimensioni, la maggior parte dei quali sembrano concentrarsi nella struttura centrale, che ricorda vagamente una clessidra metallica, a tutta altezza; le sezioni coniche terminano verso il centro senza mai toccarsi, un pò come se fossero due vulcani, uno sopra l'altro, con le bocche dei crateri che si guardano.*
+
+*dall'interno delle due parti coniche proviene una lampeggio luminoso, lento e ritmico.*
+
+(Feisty qui nel caso interviene e inserisce il nucleo tra le due parti coniche)
+
+*Non appena la sfera viene messa tra i due coni, essa immediatamente rimane sospesa a mezz'aria, una sorta di flusso luminoso comincia a sprigionarsi dalla sfera e fluire all'interno dei due coni; una specie di campo di energia si forma attorno alla clessidra e il flusso di luce diventa ancora più violento e accecante.*
+*un'altra sorta di barriera semitrasparente si chiude partendo sia dal pavimento che dal soffitto, sigillando la clessidra (e limitando l'effetto di accecamento, riuscite a guardare di nuovo verso la clessidra).*
+*Tutta la stanza attorno a voi sembra prender vita, punti di luce cominciano a baluginare ed accendersi, anche nel corridoio, una sorta di ronzio di sottofondo si diffonde per tutta la caverna.*
+
+La voce femminile esclama "Nucleo energetico ripristinato con successo. Rigenerazione scafo esterno avviata, riparazione sistemi principali avviata, tutti gli altri processi temporaneamente sospesi" (ci vorranno circa 10 giorni)
+
+
+### Medical Lab (Distrutto - Chiuso)
+
+
+### Mech Bay (Distrutto - under construction)
