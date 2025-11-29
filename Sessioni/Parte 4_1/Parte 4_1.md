@@ -314,7 +314,7 @@ Possibili ingressi:
    *se gli eroi hanno ancora cariche di energia, toccando le porte le attiveranno, grazie ai medaglioni*
 - Medaglione Krugol: "Dottor Wittlewak, bentornato a bordo della UGP Rebellion"
 - Medaglione Vickster/SAP: "Capo Ingegnere Kroviz, bentornato a bordo della UGP Rebellion"
-- Quando Feisty sulla nave parzialmente alimentata, il computer la riconosce: "Unità AM22 con modulo F.A.I.T.H. T20K, bentornata a bordo"
+- Quando Feisty sulla nave parzialmente alimentata, il computer la riconosce: "Unità AM22 con modulo F.A.I.T.H. T20K, bentornata a bordo della UGP Rebellion"
   
   Dopo i "saluti", l'IA della nave ripeterà circa ogni 5 minuti il messaggio "Nucleo energetico danneggiato, impossibile ripristinarlo. Sostituire il nucleo energetico."
   
@@ -333,9 +333,18 @@ Perception 20 per trovare tracce di metalli e sostanze di vario tipo (anche Noqu
 (diversi materiali sono stati trafugati da qui, alcune quantità di Noqual e Adamantio sono ancora presenti)
 ### Tek Lab (Chiuso)
  - Clone virtuale di Vickster: Inizialmente cercherà di spaventare gli eroi; l'intera stanza apparirà come una città in rovina, illuminata da un'enorme luna rossa. Di fronte agli eroi si staglia una figura imponente e oscura, con un enorme spadone al suo fianco e due gigantesche ali da pipistrello che partono dalla sua schiena.
-   TS volontà per sgamare l'illusione 24: 
+   TS volontà per sgamare l'illusione 25: 
 
-"Chi osa disturbare il mio riposo?!?"
+*Sotto una luna immensa e sanguigna, così vicina da sembrare sul punto di precipitare sul mondo, si erge una figura colossale.*  
+*Non è semplicemente un guerriero: è una **presenza**, un’ombra vivente che reclama l’intero orizzonte.*
+
+*La luce rossa della luna incendia il cielo e rimbalza sulla sua armatura nera. Ogni lastra sembra viva, pulsante, come se fosse stata forgiata nel cuore di un vulcano e temprata nel sangue di un dio sconfitto.*  
+*Dalle sue spalle si aprono ali nere e membranose, oscurità che non sfida più il cielo, ma lo maledice.*
+
+*Nella mano sinistra stringe una spada impossibile: lunga quanto una torre. La lama è affondata nella terra bruciata ai suoi piedi, incrinando il suolo come se il mondo stesso tremasse sotto quel contatto. Ogni incisione sul metallo brilla di un riverbero oscuro, come se la spada custodisse al suo interno un pezzo della notte più antica.*
+*Attorno a lui, le rovine fumanti di una città dimenticata: guglie spezzate, mura divorate dal fuoco, colonne ridotte a spettri di pietra.*
+
+L'enorme figura si volta verso di voi: "Chi osa disturbarmi?!? Chi osa varcare le porte del mio regno!?!?"
 
 ![[vv.jpeg|600]]
 

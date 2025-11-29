@@ -13,5 +13,8 @@
 
 - preparare storia diario della Rebellion
 
-- Feisty: nascosto nella sua memoria ha le coordinate per raggiungere M.O.T.H.E.R.
+- Feisty: nascosto nella sua memoria ci sono le coordinate per raggiungere M.O.T.H.E.R.
 
+- finire descrizione nave
+
+- finire conoscenze vickster
