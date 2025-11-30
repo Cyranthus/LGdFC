@@ -35,14 +35,11 @@ Premi a punti
 
 *   **Effetto**:
     
-    *   _Fulmine_ a volontà (8d6 danni, CD 18).
-        
+    *   _Fulmine_ a volontà (8d6 danni, CD 20).
     *   _Pelle di fulmine_ (Resistenza all'elettricità 20 per 10 minuti, 3/giorno).
-        
     *   _Evoca un Elementale dell’Aria Grande_ 1 volta al giorno.
         
 *   **Costo**: Allineato agli oggetti leggendari per campagne epiche.
-    
 
 Hallowed chalice \[200gp\]  
 Instrument of the divine \[200gp\]  

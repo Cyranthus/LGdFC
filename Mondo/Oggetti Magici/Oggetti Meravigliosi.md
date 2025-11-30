@@ -14,9 +14,7 @@ Primo Step:
 Ottiene il primo potere del dominio del Caos  
 Ottiene slot di dominio del Caos, uguale a chierico di pari dadi vita  
 Sei molto più incline a infrangere le regole e a scendere a compromessi
-
 ...
-
 ...
 
 Libro della Pallida Notte

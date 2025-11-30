@@ -10,11 +10,3 @@
 - I Cercatori (terrestri) copriranno l'esplosione di Piren's Bluff diffondendo la notizia che la città è stata attaccata da una delle scaglie di Rovagug, il quale è un indiscusso segno dell'avvicinarsi dell'Apocalisse
 
 - Verranno a sapere che ci sono disordini a Falcon's hollow, provocati da dei mannari (il ripetersi degli eventi iniziali)
-
-- preparare storia diario della Rebellion
-
-- Feisty: nascosto nella sua memoria ci sono le coordinate per raggiungere M.O.T.H.E.R.
-
-- finire descrizione nave
-
-- finire conoscenze vickster

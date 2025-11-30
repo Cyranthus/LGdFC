@@ -1,5 +1,3 @@
-**GS UCCISIONI**
-
 
 ---
 
