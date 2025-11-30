@@ -10,7 +10,7 @@ Alotta e il suo link neurale Ziam, pensano di averne trovata una creatura che sp
 
 Le corde dorate hanno recentemente scoperto l'esistenza della SAP e stanno collaborando con loro per poter creare l'allenza più ampia possibile per contrastare i Cercatori e gli Umani.
 
-Sono a conoscenza dell'esistenza del Portale in orbita attorno al pianeta, il quale permette il viaggio istantaneo in tutto l'impero umano (sempre sfruttando la dimensione del vuoto).  
+Sono a conoscenza dell'esistenza del Portale in orbita attorno al pianeta, il quale permette il viaggio istantaneo in tutto l'impero umano (sempre sfruttando la dimensione del vuoto) e i collegamenti remoti istantanei.  
 L'obbiettivo primario è distruggerlo.
 
 _"Le anomalie, a quanto pare, tentano sempre d'incontrarsi, prima o poi"_

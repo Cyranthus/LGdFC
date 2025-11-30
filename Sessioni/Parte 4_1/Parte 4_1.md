@@ -291,14 +291,10 @@ alla base della caverna, dove la stiva presenta un vasta apertura, un piccolo gr
 6x Seugathi https://golarion.altervista.org/wiki/Seugathi
 
 a una certa, uno dei Seugathi Savant, pianta a terra una sorta di bacchetta di metallo la quale comincia immediatamente ad emettere vibrazioni ad ondate nella terra (perception 25 per percepirle).
-dopo 3 round appare un Great Purple Worm (CR 13), nel 3 round chi è a terra subisce 1d6 da fuoco.  
-https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/purple-worm/ 
-- Energy Attack (Fire): ogni 1d4 rounds, +4d6 da fuoco al prossimo attacco fisico che fa. Gli swallowed subiscono +1d6 da fuoco.
-  Se il verme scava, la parete/pavimento sotto cui sta diventa incandescente, fa 1d6 da fuoco. Breath weapon usable every 1d4 rounds (30-ft. cone, 8d6 damage, Reflex half DC 25).
-  Immunity to Fire. Every 3 damage of fire, heals 1 hp.
-- Improved tremorsense (360 feet)
-- [displacement](https://www.d20pfsrd.com/magic/all-spells/d/displacement) effect (20% [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment)) and SR 23.
-  
+dopo 3 round appare un Neothelid
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/neothelid/
+
+
 
 *Dalla parete rocciosa emerge un enorme formazione stranamente regolare rispetto al resto. La superficie, in alcuni punti, risulta come metallica invece che rocciosa, ma non sembra il metallo che si potrebbe trovare naturalmente in una grotta: diverse concrezioni, stalattiti, stalagmiti si sviluppano su questa formazione.*
 *Su un lato, c'è una specie di insenatura o varco buio nella formazione rocciosa.*
@@ -308,27 +304,32 @@ https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/purple-worm/
 
 Interazioni con il Computer:
 - se l'alimentazione è attiva, il Computer potrà dare qualche risposta in più:
-  se si richiede cos'è successo con addosso il medaglione: "Dati del diario di bordo danneggiati o corrotti. Ricostruzione in corso, attendere...
-  attendere...
-  attendere...
-  Elenco voci recuperate: - Missione UGP numero 234: mobilitazione da "
-	Viaggio verso mondo 
+  - se si richiede cos'è successo con addosso il medaglione: "Dati del diario di bordo danneggiati o corrotti. Ricostruzione in corso, attendere... attendere... attendere...
+  Elenco voci recuperate:
+  - Anno Astrale 20149, 5 Brinario, missione UGP 234, nome in codice "Fuoco Celeste": Partenza dall'orbita di Thalmeris assieme alla seconda flotta della UGP, destinazione il pianeta M52 (tempo stimato di viaggio tramite la Deriva, 1 mese e 2 settimane), obbiettivo primario della missione, fermare l'invasione in corso da parte dei Terrestri. In caso di fallimento, infiltrarsi nel pianeta, cercare un contatto con le popolazioni locali e prepararli alla resistenza."
+  - Anno Astrale 20149, 28 Fiorile, missione UGP 234, obiettivo primario fallito, I terrestri hanno riunito le due metà del pianeta, uccidendo gran parte degli esseri viventi presenti sul pianeta. numerose perdite tra l'equipaggio tra cui il capitano. Inizio missione secondaria.
+  - Anno Astrale 20150, 12 Calisto, nominato un nuovo capitano, Frankie Joe, detto lo "Stoppaccioso".
+  - Anno Astrale 20151, 9 Gemmano, raccolta dati di missione spionaggio completata; il portale è stato ultimato dai Terrestri. Navi nemiche in diminuzione, continua il divieto d'invio o ricezione di qualunque tipo di trasmissione, la presenza della nave sul pianeta non è ancora stata scoperta.
+  - Anno Astrale 20151, 2 Inverno Primo, missione UGP 235, Obiettivo della missione, distruzione del portale orbitale
+  - Fine diario."
 
+- se richiedono la data odierna: "Datazione attuale sconosciuta, procedere alla disattivazione del protocollo fantasma e riabilitare le comunicazioni?
+  - se si: attenzione, presenza di una nave nemica in orbita attorno al pianeta, richiesta conferma del capitano per la disattivazione del protocollo fantasma.
+  - se no: procedo con una stima basata sulla simulazione del movimento dei corpi celesti dalle ultime posizioni note fino al raggiungimento della conformazione attuale... attendere... attendere... ... ... simulazione completata, data stimata tra l'anno astrale 46500 e il 47000"
 
-
-
+- Progetto T01, T02, T03, T04 sospesi, necessario attendere la ricostruzione dei settori B1 e B2.
+- se chiedono una possibile destinazione: "Mappe stellari del settore in aggiornamento, unico faro di Deriva conosciuto, Thalmeris"
 
 Vickster li spierà, potrebbe far notare agli eroi una sorta di persona che li guida verso il laboratorio.
 
 Possibili ingressi:
 1) Vano di carico (paratia divelta)
 
-
 2) Porta principale
    *se gli eroi hanno ancora cariche di energia, toccando le porte le attiveranno, grazie ai medaglioni*
 - Medaglione Krugol: "Dottor Wittlewak, bentornato a bordo della UGP Rebellion"
 - Medaglione Vickster/SAP: "Capo Ingegnere Kroviz, bentornato a bordo della UGP Rebellion"
-- Quando Feisty sulla nave parzialmente alimentata, il computer la riconosce: "Unità AM22 con modulo F.A.I.T.H. T20K, bentornata a bordo della UGP Rebellion"
+- Quando Feisty sulla nave parzialmente alimentata, il computer la riconosce: "Unità AM22, bentornata a bordo della UGP Rebellion"
   
   Dopo i "saluti", l'IA della nave ripeterà circa ogni 5 minuti il messaggio "Nucleo energetico danneggiato, impossibile ripristinarlo. Sostituire il nucleo energetico."
   
@@ -336,7 +337,9 @@ Possibili ingressi:
   L'ambiente ricorda un pò la strana stanza con l'allarme che avete trovato settimane fa, sotto il Drosakar*
 
 
+**Feisty**
 A prescindere, Feisty trova il posto incredibilmente familiare.
+Una volta che la corrente sarà riabilitata, ricorderà di avere in memoria le coordinate segrete per raggiungere M.O.T.H.E.R.
 
 ### Stiva/Vano di carico (varco aperto sulla parete esterna)
 
