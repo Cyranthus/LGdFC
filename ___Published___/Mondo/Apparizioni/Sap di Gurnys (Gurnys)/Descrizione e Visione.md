@@ -1,3 +1,6 @@
+
+![[Gurnys.jpg|600]]
+
 ### Visione
 
 > *"Ma che cazzo hai combinato??" urli rivolgendoti a Vickster.*

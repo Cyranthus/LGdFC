@@ -1,6 +1,5 @@
 
-![[V.jpg]]
-
+![[Varkhan.jpg]]
 ### Visione
 
 Siedi sul tuo trono, pensieroso, mentre vento e fiamme imperversano attorno a te... e ripensi alle parole che ti ha detto Vickster qualche giorno fa, anche se “giorno” non è proprio il termine più esatto, considerando dove ti trovi...  
