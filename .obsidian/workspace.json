@@ -72,7 +72,8 @@
               "title": "Parte 4_2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 244.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -235,10 +236,10 @@
   },
   "active": "d3140756878f78f1",
   "lastOpenFiles": [
-    "___Published___/La Storia fin'ora/Riassunto - Parte 4.md",
+    "Sessioni/Parte 4_2/Parte 4_2.md",
     "___Published___/La Storia fin'ora/Riassunto - Parte 5.md",
     "Sessioni/Parte 4_1/Parte 4_1.md",
-    "Sessioni/Parte 4_2/Parte 4_2.md",
+    "___Published___/La Storia fin'ora/Riassunto - Parte 4.md",
     "___Published___/Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione.md",
     "Mondo/Apparizioni/---Scudo magico a forma di mano spezzato (Varkhan)/Descrizione e Visione.md",
     "Varkhan.jpg",
