@@ -18,17 +18,47 @@ Ritorno in città
 --------------------------
 
 Terminato il giro di perlustrazione, i nostri uccisori di draghi cyborg, decidono di ritornare in città utilizzando il portale, in modo da poter mettere al sicuro le uova di drago.
-Inutile sottolineare l'enorme sorpresa da parte dei membri della SAP nel vederli tornare con creature così rare e straordinarie.
-
+Inutile sottolineare l'enorme sorpresa da parte dei membri della SAP nel vederli tornare con uova di creature così rare e straordinarie. I cari Doppisax, Viktosax, Negsax, Blusax, Festysax, Uguweweweenietieweweugewugenosax, Catzatzatx, Ho anche perso le tette a conosax alle cazzax cazzox tettex, Dronapesax e Seraptisax vengono lasciati quindi alle dolci cure di Yavanna e della SAP (o anche detti Specialisti Accudenti Puericultori).
+I nostri eroi inoltre aggiornano Rhaevan sui recenti accadimenti, la caduta di Nocthysax e la posizione della strana città da cui governava.
+Rhaevan, su suggerimento dei nostri impavidi, ordina l'organizzazione di una piccola spedizione per eseguire un'esplorazione più approfondita della città.
 
 Nuovamente in viaggio
 --------------------------
 
-
+I nostri intrepidi, ritornano nella città di ossidiana e, dopo l'ennesima discussione sul da farsi, decidono di riprendere il cammino verso la loro meta originale (la grotta mostrata dalla visione dei medaglioni), ignorando la curiosità di Blu verso quegli strani macchinari intravisti nel piano delle ombre...
 
 La strana grotta
 --------------------------
 
+Durante il viaggio, i nostri esploratori hanno modo di studiare un pò meglio la misteriosa sfera luminosa che era in possesso di Nochtysax; non solo pare una fonte inesauribile di punti "ciuschi", ma sembra vi sia attivo, su di essa, anche una specie di effetto che ricorda un incantesimo di evocazione molto potente, sia arcano che divino. L'utilizzo di tale energia, però, pare non sia del tutto sicuro; un utilizzo prolungato, sembra consumare e danneggiare la persona che attinge dalla sua energia.
+
+Dopo circa una mezza giornata di cammino, il gruppo arriva davanti all'ingresso di una grotta; diversi corpi di gug, draghi d'ombra giovani e seugathi si trovano davanti all'ingresso, evidenti sono i segni di una feroce colluttazione tra loro.
+
+Varcato l'ingresso, al gruppo è subito evidente la strana conformazione della grotta: la sua forma è perfettamente regolare e prosegue dritta, in discesa, davanti a loro (ricorda molto una galleria moderna).
+Blu decide di sfruttare il suo dronape per eseguire una perlustrazione della grotta; dopo aver incontrato alcune deviazioni e vicoli ciechi, il dronape viene assalito da delle orribili aberrazioni tipiche delle caverne, due roper:
+
+![[roper.png]]
+
+A parte qualche piccola incoscienza di Blu (quel ragazzə è ormai unə spericolatə), il gruppo riesce a gestire la situazione con successo.
+Dopo il breve scontro, gli inarrestabili eroi tornano sui loro passi decidendo di proseguire lungo la caverna principale, quella con le pareti innaturalmente regolari.
+Dopo mezzoretta di cammino, si ritrovano davanti a un'apparente vicolo cieco, ma ben presto si rendono conto di essere finalmente dinnanzi a quella strana "porta" davanti al quale la visione terminava.
+La superficie della porta risulta incredibilmente liscia e di un materiale che ricorda più un metallo e non la roccia; l'intera parete in realtà, che prosegue ai lati della caverna, sembra altrettanto regolare e innaturale.
+
+Non appena i nostri eroi toccano la strana porta, tutti le sue energie ciuscose vengono risucchiate e una serie di rumori e ronzii si sentono attraverso tutta la strana parete.
+Quando, uno degli impavidi, in possesso di uno dei medaglioni, si avvicina alla porta, essa comincia ad emettere strani suoni e ad aprirsi, rivelando quella che sembra una piccola stanza, rivestita di materiali metallici, misteriose condutture e un'altra porta esattamente di fronte a quella appena apertasi.
+Anche quest'ultima si apre non appena gli eroi si avvicinano ad essa; superata la porta, il gruppo si ritrova in un corridoio con pareti lisce che, nonostante qua e la vi siano formazioni rocciose e calcaree come stalattiti e stalagmiti, ricorda molto la strana stanza con l'allarme che avevano trovato settimane fa, sotto il monte Drosakar, a nord di Falcon's Hollow.
+
+Una strana voce femminile accoglie gli stupiti eroi; non appena il possessore del medaglione di Krugol entra nel corridoio, la voce dice "*Dottor Wittlewak, bentornato a bordo della UGP Rebellion*"; con l'ingresso del possessore del medaglione ottenuto dalla SAP (e in passato in possesso di Vickster) dice "*Capo Ingegnere Kroviz, bentornato a bordo della UGP Rebellion*"; per ultimo, l'ingresso di Feisty attiva la frase "*Unità AM22, bentornata a bordo della UGP Rebellion*".
+
+Feisty, trova molto familiare l'ambiente in cui sono entrati, non ricorda il perchè, ma questo luogo, per lei, ha un enorme significato, anche affettivo... è quasi come se fosse casa, per lei.
+
+La strana voce pare non dire altro, se non un messaggio che viene ripetuto circa ogni 5 minuti: "*Nucleo energetico danneggiato, impossibile ripristinarlo. Sostituire il nucleo energetico.*"
+
+
+Il Capitano
+--------------------------
+
+Il meravigliato gruppo
 
 Un solitario inquilino
 --------------------------

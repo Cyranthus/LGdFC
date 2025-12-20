@@ -6,7 +6,7 @@
       {
         "id": "47ea1b34c7e2156d",
         "type": "tabs",
-        "dimension": 46.967559943582515,
+        "dimension": 46.96755994358252,
         "children": [
           {
             "id": "ff7411ed57e5b7f6",
@@ -42,7 +42,7 @@
       {
         "id": "71706b82d3744e17",
         "type": "tabs",
-        "dimension": 53.032440056417485,
+        "dimension": 53.03244005641748,
         "children": [
           {
             "id": "b411b8b15dabd775",
@@ -129,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 289.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -237,20 +237,24 @@
   "lastOpenFiles": [
     "Sessioni/Parte 4_1/Parte 4_1.md",
     "___Published___/La Storia fin'ora/Riassunto - Parte 5.md",
-    "___Published___/La Storia fin'ora/Riassunto - Parte 4.md",
+    "___Published___/z_Images/roper.png",
     "Sessioni/Parte 4_2/Parte 4_2.md",
+    "Mondo/NPC/Enemies/Nocthysax - CR 15.md",
+    "___Published___/La Storia fin'ora/Riassunto - Parte 4.md",
+    "Mondo/Ciuschi & co/Ciuschi Meravigliosi.md",
+    "___Published___/Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
+    "___Published___/Mondo/Ciuschi & co/Ciuschi Meravigliosi.md",
+    "Mondo/NPC/S.A.P/Rhaevan Varconis.md",
+    "Mondo/NPC/S.A.P/Guerriero Rowan Greymark (6).md",
     "___Published___/Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione.md",
     "Mondo/Apparizioni/---Scudo magico a forma di mano spezzato (Varkhan)/Descrizione e Visione.md",
     "Varkhan.jpg",
     "___Published___/Mondo/Apparizioni/Carta Apprensura (Fortunata)/Descrizione e Visione.md",
     "___Published___/Mondo/Apparizioni/Braccialetto in pelle nera (Alotta Bang Bang)/Descrizione e Visione.md",
     "Gurnys.jpg",
-    "___Published___/Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
     "___Published___/Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
-    "___Published___/Mondo/Ciuschi & co/Ciuschi Meravigliosi.md",
     "Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
     "Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
-    "Mondo/Ciuschi & co/Ciuschi Meravigliosi.md",
     "INIZIATIVA e EXP.md",
     "Mondo/Da 1 a 5.md",
     "Mondo/Apparizioni/---Scudo magico a forma di mano spezzato (Varkhan)/Semipiano di Varkhan.md",
@@ -265,11 +269,7 @@
     "___Published___/z_Images/Baalzebul.jpg",
     "___Published___/z_Images/fortunata2.jpg",
     "___Published___/z_Images/theEmptyThrone.webp",
-    "Mondo/NPC/Vickster Falconsflight (clone).md",
-    "Mondo/Fazioni/Le Corde Dorate -Maleducate-.md",
     "___Published___/z_Images/galactic-exploration-journey-beyond-the-stars-9yogzzeonhojw70n (1).jpg",
-    "___Published___/z_Images/ship.jpg",
-    "Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
     "Mondo/Space Ships/Rebellion.pdf"
   ]
 }
