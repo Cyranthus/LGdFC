@@ -54,22 +54,46 @@ Feisty, trova molto familiare l'ambiente in cui sono entrati, non ricorda il per
 
 La strana voce pare non dire altro, se non un messaggio che viene ripetuto circa ogni 5 minuti: "*Nucleo energetico danneggiato, impossibile ripristinarlo. Sostituire il nucleo energetico.*"
 
-
 Il Capitano
 --------------------------
 
-Il meravigliato gruppo
+Il meravigliato gruppo inizia l'esplorazione della misteriosa caverna da una delle prime porte a loro vicino; anch'essa si apre automaticamente con l'avvicinarsi dei portatori dei medaglioni.
+La porta si apre su una stanza molto ampia, con diversi tavoli e sedute sia ai lati della stanza che al centro. Una seduta in particolare attira l'attenzione del gruppo; la poltrona pare quasi un trono, leggemente sopraelevato rispetto alle altre postazioni, con un anticlimatico timone in legno davanti ad essa... i resti di un corpo umanoide si trovano davanti alla poltrona, con un singolare mantello che si muove e fluttua nell'aria come se fosse perennemente colpito da una brezza costante...
+Il contatto con il mantello scatena una [[___Published___/Mondo/Apparizioni/Mantello Blu Magico (Frankie)/Descrizione e Visione|Visione]] ...
+
+Oltre all'oggetto legato a un'apparizione, diversi oggetti magici molto potenti vengono rinvenuti sul corpo dell'umano...
+
+Viktor prova ad indossare il mantello dopo averlo studiato, ma un effetto insidioso era sfuggito alla sua analisi, il misterioso mantello infatti è un oggetto maledetto che rende completamente blu la pelle del suo portatore... e diventa impossibile rimuoverlo (salvo l'utilizzo di magie specifiche per rimuovere le maledizioni).
+
+Oltre al ritrovamento del corpo di colui che probabilmente era il capitano della nave, il nostro gruppo rinviene altri due corpi di creature molto simili a Feisty; quest'ultima, si avvicina ai due corpi, la sensazione di familiarità e di affetto verso di loro diventa sempre più presente e forte in lei...
+
+ Nel mentre Blu, con la coda dell'occhio, si accorgono di una figura scura che pare uscire dalla stanza e dirigersi nel corridoio da cui sono venuti; immediatamente i nostri eroi si allertano e inseguono l'ombra, pronti, come prassi oramai, a sterminare qualunque essere vivente gli si pari davanti (Seugathi esclusi, ovviamente).
+ La strana figura s'intrufola in una stanza, la quale, si rivela essere un'ambiente alquanto... singolare... tanto quanto il suo inquilino:
+
+![[vv.jpeg]]
 
 Un solitario inquilino
 --------------------------
 
+Ben presto, però l'improbabile figura oscura e l'ambiente apocalittico si rivelano essere una formidabile illusione creata da un singolare umano sulla quarantina:
 
-![[OldVickster.png|500]]7
+![[OldVickster.png|500]]
 
+L'uomo, si rivela ben presto essere Vickster Falconsflight, il potente mago che fu preside dell'Acadamae, la leggendaria scuola di magia di Korvosa.
+In realtà, la figura si scopre essere una sorta di duplicato corporeo intangibile del suddetto mago, creato probabilmente con una qualche combinazione di incantesimi di illusione e dell'incantesimo Clone.
 
 E io lo premo!
 --------------------------
 
+La singolare copia di Vickster (che d'ora in pò, per praticità chiameremo... Vickster) si rivela fin da subito collaborativo e molto incuriosito dai nostri cari avventurieri (d'altronde sono anche i primi umanoidi decenti con cui può parlare dopo 1000 anni); Vickster racconta che il sè stesso originale non l'ha più visto da circa un migliaio di anni e che l'unico modo di provare a raggiungerlo forse è un'insolita piccola verga con tecnologia korvosiana su di essa.
+Nel mentre Vickster star per spiegare il suo funzionamento e utilizzo, il nostro caro Doppo con incomprensibile impulsività (la sua totale incapacità di apprendere dagli errori passati è oramai evidente), decide di attivare la verga, facendo sparire l'intero gruppo dalla misteriosa grotta...
+
+
+La Città Perduta
+--------------------------
+
+
+[[___Published___/Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione|Visione]]
 
 
 Tra le Fiamme
@@ -81,6 +105,9 @@ La Carceriera
 --------------------------
 
 
+[[___Published___/Mondo/Apparizioni/Carta Apprensura (Fortunata)/Descrizione e Visione|Visione]]
+
 
 Ritorno alla strana caverna
 --------------------------
+
