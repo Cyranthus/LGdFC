@@ -44,15 +44,21 @@ Numero di poli (se presenti):
 
 Batteria: 12 cariche
 6 nodi planari configurabili, max 1 "criptabile" (nodi in Noqual).
-- attivazione nodi normali: 1 carica.
-- attivazione nodi "criptati": 2 cariche.
+- registrazione/attivazione nodi normali: 1 carica.
+- registrazione/attivazione nodi "criptati": 2 cariche.
 
-Questo potente artefatto minore ha due utilizzi principali:
+Questo potente oggetto (similmente a un artefatto minore) ha due utilizzi principali:
 - Permette di registrare posizioni fisse nei piani e spostarsi in essi senza possibilità di errore, tornando esattamente nel punto in cui si è registrata la posizione (da qualsiasi piano di partenza).
-- Permette di isolare una porzione delimitata di piano-spazio-tempo, strappandola fisicamente dal piano di esistenza in cui si attiva questa capacità; l'area massima asportabile è una sfera con raggio di 600m; l'utilizzatore della verga e la verga stessa devono essere all'interno della sfera. La verga crea un nuovo semipiano indipendente e in continuo "movimento" sul piano astrale, rendendo impossibile lasciare o raggiungere il luogo isolato (sia con mezzi magici che non) in quanto il tracciamento e l'ancoraggio di esso è impossibile... tranne che in un modo; utilizzare la chiave di recupero legata alla verga.
+- La verga protegge i soggetti traspostati dagli effetti ambientali dei piani registrati; quindi l'effetto non è sempre attivo in automatico, va registrato il piano per permettere di attivare la protezione. 
+- Permette di isolare una porzione delimitata di piano-spazio-tempo, strappandola letteralmente dal piano di esistenza in cui si attiva questa capacità; l'area massima asportabile è una sfera con raggio di 600m; l'utilizzatore della verga e la verga stessa devono essere all'interno della sfera. La verga crea un nuovo semipiano indipendente e in continuo "movimento" sul piano astrale, rendendo impossibile lasciare o raggiungere il luogo isolato (sia con mezzi magici che non) in quanto il tracciamento e l'ancoraggio di esso è impossibile... tranne che in un modo; utilizzare la chiave di recupero legata alla verga.
   L'effetto di "criptazione" planare è permanente e può essere disattivato solo tramite la verga.
   Il suddetto semipiano mantiene le stesse proprietà del piano di origine, ma se si lancia anche "creare semipiano" si possono alterare le sue proprietà. L'attivazione di questa capacità attualmente può avere effetto imprevedibili e potenzialmente devastanti sul piano in cui viene lanciato.
-- Ancora dimensionale ed effetti simili (non epici) non hanno effetto su questa verga e le sue capacità.
+- Ancora dimensionale ed effetti simili (non epici) non hanno effetto su questa verga e le sue capacità, nemmeno desiderio o miracolo.
+
+Attualmente la verga ha 3 nodi registrati:
+- **Nodo 1, colore verde**
+- **Nodo 2, colore rosso**
+- **Nodo "criptato", colore viola lampeggiante**
 
 ### Chiave di Recupero - prototipo 00
 

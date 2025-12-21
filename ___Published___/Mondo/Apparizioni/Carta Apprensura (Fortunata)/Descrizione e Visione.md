@@ -1,5 +1,5 @@
 
-![[F.jpg]]
+![[F.jpg|600]]
 
 ### Visione
 
@@ -58,7 +58,7 @@ Esclami a mezza voce:
 Una voce metallica, fredda e distorta, risponde alle tue spalle:  
 «Mi spiace deluderti, feccia aliena. Ma rallegrati… verrai usata per scopi ben più concreti e utili.»
 Ti giri appena in tempo per vedere l’aggressore calare di nuovo il pesante martello su di te.
-**Buio.**
+Buio.
 
 
 Carta "Il Trono Vuoto" del seme Corona (carisma)
