@@ -108,27 +108,27 @@ Nel mentre, non appena arrivati in questa misteriosa città in rovina, anche il 
 E io lo tocco!
 --------------------------
 
-Non pago di avventura e imprevisti, il nostro allegro omone di città si avvicina incuriosito al testone del costrutto e lo tocca con la mano...
-Senza avere il minimo controllo sulla cosa, Doppo sente tutte le energie "ciuscose" prosciugarsi e venire assorbite dall'enorme costrutto! il braccio comincia a muoversi e l'enorme testa si alza, un'occhio senz'anima s'illumina e guarda il gruppo di malcapitati...
-il quale decide di usare immediatamente la verga appena trovata, premendo il pulsante verde...
+Non pago di avventura e imprevisti, il nostro allegro omone di città si avvicina incuriosito al testone del costrutto e lo tocca con la mano…  
+Senza avere il minimo controllo sulla cosa, Doppo sente tutte le energie “ciuscose” prosciugarsi e venire assorbite dall’enorme costrutto! Il braccio comincia a muoversi e l’enorme testa si alza; un occhio senz’anima si illumina e fissa il gruppo di malcapitati…  
+A questo punto, senza pensarci troppo, Viktor decide di usare immediatamente la verga appena trovata, premendo il pulsante verde…
 
 Tra le Fiamme
 --------------------------
 
-il gruppo si ritrova in un'ambiente totalmente diverso; davanti a loro si estende una radura di terra e roccia con diversi ruderi e resti di una battaglia...
-Oltre il campo di battaglia si vede una roccaforte in rovina, anch'essa con evindenti segni di una battaglia o un assedio; una parte della fortezza è visibilmente crollata.
-Ah e l'intera area è continuamente tempestata da un vento infuocato (ricorda un pò l'inferno di Constantine), ma a quanto pare la verga protegge i soggetti trasportati da questo effetto...
+Il gruppo si ritrova in un ambiente totalmente diverso; davanti a loro si estende una radura di terra e roccia, con numerosi resti di mezzi meccanici e creature, chiari segni di una battaglia…  
+Oltre il campo di battaglia si scorge un’enorme roccaforte in rovina, anch’essa con evidenti segni di un conflitto o di un assedio; una parte della fortezza è visibilmente crollata.  
+Ah, e l’intera area è continuamente percorsa da un vento infuocato (ricorda un po’ l’inferno di Constantine), ma a quanto pare la verga protegge i soggetti trasportati da questo effetto.
 
-Visto l'ambiente ben poco ospitale, i nostri viaggiatori planari decidono di premere un altro pulsante della verga, quello rosso...
+Visto l’ambiente ben poco ospitale, i nostri viaggiatori planari decidono di premere un altro pulsante della verga, quello rosso…
 
 La Carceriera
 --------------------------
 
-L'ambiente in cui arrivano i nostri intrepidi è sicuramente diverso dal precedente, ma di certo non più ospitale (almeno non ci sono più venti infuocati ad investirli...).
-L'enorme struttura, che ricorda molto una cattedrale di proporzioni immani, nonostante sia in rovina, trasmette ancora un'aria di solennità, riverenza e... inquietudine.
-Al di fuori della cattedrale, l'ambiente è molto aspro e inospitale; fiumi di lava e montagne aspre di roccia nera si estendono in tutte le direzioni...
-Due enormi figure umanoidi giacciono non troppo lontano da quello che pare il trono di un implacabile Re... o di una Regina...
-Sul trono, una carta singolare attira l'attenzione dei nostri amici
+L’ambiente in cui arrivano i nostri intrepidi è sicuramente diverso dal precedente, ma di certo non più ospitale (almeno non ci sono più venti infuocati a investirli…).  
+L’enorme struttura, che ricorda molto una cattedrale di proporzioni immani, nonostante sia in rovina trasmette ancora un’aria di solennità, riverenza e… inquietudine.  
+Al di fuori della cattedrale, l’ambiente è molto aspro e inospitale: fiumi di lava e montagne aspre di roccia nera si estendono in tutte le direzioni…  
+Due enormi figure umanoidi giacciono non troppo lontano da quello che pare il trono di un implacabile Re… o di una Regina…  
+Sul trono, una carta singolare attira l’attenzione dei nostri amici:
 
 ![[theEmptyThrone.webp|300]]
 
@@ -137,21 +137,22 @@ Sul trono, una carta singolare attira l'attenzione dei nostri amici
 Ritorno a Tahl'sindarra
 --------------------------
 
-Grazie alle visioni, i nostri confusi amici cominciano a comprendere dove diavolo (ahahahah) fossero finiti... ma essendo provati da tutte queste scoperte, i nostri impavidi decidono di tornare sul piano materiale e di dirigersi nuovamente a Tahl'sindarra, per fare un pò il punto della situazione e di ritornare poi alla strana grotta per terminare l'esplorazione (e il dialogo interrotto con Vickster).
+Grazie alle visioni, i nostri confusi amici cominciano a comprendere dove diavolo (ahahahah) fossero finiti… ma, essendo provati da tutte queste scoperte, i nostri impavidi decidono di tornare sul piano materiale e di dirigersi nuovamente a Tahl’sindarra, per fare un po’ il punto della situazione e poi tornare alla strana grotta, così da completare l’esplorazione (e il dialogo interrotto con Vickster).
 
-Le sconvolgenti scoperte del gruppo colpiscono non poco i membri della SAP; lo stesso Rhaevan rimane totalmente basito e quasi senza parole, specialmente quando gli viene mostrata l'apparizione di Gurnys in persona, la leggendaria fondatrice della SAP.
-Alcuni avvenimenti sono stati compresi meglio, ma ancora molte domande sono senza risposta:
-Cosa si nasconde nel misterioso piano tempestato dalla fiamme?
-Che cos'era quell'enorme struttura metallica nel cielo? sarà ancora lì?
-Cos'era quindi esattamente... P.HA.R.A.S.M.A. ?
-Che fine ha fatto Fortunata?
-E soprattutto, che diavolo ha fatto Davhorn "quella notte"?
+Le sconvolgenti scoperte del gruppo colpiscono non poco i membri della SAP; lo stesso Rhaevan rimane totalmente basito e quasi senza parole, specialmente quando gli viene mostrata l’apparizione di Gurnys in persona, la leggendaria fondatrice della SAP.  
+Alcuni avvenimenti sono stati compresi meglio, ma molte domande rimangono ancora senza risposta:
+Cosa si nasconde nel misterioso piano tempestato dalle fiamme?  
+Che cos’era quell’enorme struttura metallica nel cielo? Sarà ancora lì?  
+Cos’era esattamente… P.HA.R.A.S.M.A.?  
+Che fine ha fatto Fortunata?  
+E soprattutto, che diavolo ha fatto Dav’horn “quella notte”?
 
 
 Ritorno alla strana grotta
 --------------------------
 
-Ecco, a quest'ultima domanda (assolutamente non richiesta) il nostro gruppo di scarpinanti eroi ha ricevuto da Vickster, quando sono finalmente tornati nella strana grotta (avvenimento accolto da quest'ultimo con enorme gioia, il più possibile trattenuta): "*Davhorn ha molto in comune con il vostro incosciente compagno Doppo, anche lui faceva un sacco di cose senza pensare, specialmente sotto effetti di multiple sostanze stupefacenti... Durante quella notte, già sotto l'effetto di diversi alcoli e veleni, Davhorn irruppe in un laboratorio alchemico e, attratto da una misteriosa pozione magica, decise di berla... la pozione, evidentemente ancora in fase sperimentale, cominciò letteralmente a spostarlo tra i piani in modo casuale, ogni 6 secondi circa... L'esperienza fu molto ilare per lui, persino quando finì tra le braccia di Asmodeus, durante una delle sue sontuose celebrazioni per sè stesso, e gli diede un cazzotto sul mento (assolutamente inefficace, vi assicuro) per poi sparire subito dopo... eeeh solo molto più tardi capimmo come mai diavoli e infernali cominciarono a dargli la caccia... E noi che inizialmente pensavamo fossero attacchi e incursioni che il Kheliax intentava contro di noi... tsk...
-Sì, in effetti si potrebbe dire che anche questa è stata una concausa involontaria alla guerra che abbiamo scatenato (e vinto) contro il Kheliax*"
+Ecco, a quest’ultima domanda (assolutamente non richiesta) il nostro gruppo di scarpinanti eroi ha ricevuto risposta da Vickster, quando sono finalmente tornati nella strana grotta (avvenimento accolto da quest’ultimo con enorme gioia, quanto più possibile trattenuta):
+"*Davhorn ha molto in comune con il vostro incosciente compagno Doppo; anche lui faceva un sacco di cose senza pensare, specialmente sotto l’effetto di multiple sostanze stupefacenti… Durante quella notte, già sotto l’influenza di diversi alcoli e veleni, Davhorn irruppe in un laboratorio alchemico e, attratto da una misteriosa pozione magica, decise di berla… La pozione, evidentemente ancora in fase sperimentale, cominciò letteralmente a spostarlo tra i piani in modo casuale, ogni sei secondi circa… L’esperienza fu molto ilare per lui, persino quando finì tra le braccia di Asmodeus, durante una delle sue sontuose celebrazioni per sé stesso, e gli diede un cazzotto sul mento (assolutamente inefficace, vi assicuro) per poi sparire subito dopo… Eeeh, solo molto più tardi capimmo perché diavoli e infernali cominciarono a dargli la caccia… E noi che inizialmente pensavamo fossero attacchi e incursioni che il Kheliax intentava contro di noi… tsk…  
+Sì, in effetti si potrebbe dire che anche questa è stata una concausa involontaria della guerra che abbiamo scatenato (e vinto) contro il Kheliax.*"
 
-Oltre a questo, il gruppo (specialmente Viktor) si rende ben presto conto della triste condizione di solitudine che ha dovuto patire Vickster (dovendo passare circa 1000 anni quasi in completa solitudine)... e delle enormi conoscenze da lui possedute (può insegnare al gruppo qualsiasi incantesimo arcano esistente e le prove di conoscenze magia, religioni e sapienza magica in sua presenza hanno un bonus di +5).
+Oltre a questo, il gruppo (specialmente Viktor) si rende ben presto conto di due cose: della triste condizione di solitudine che Vickster ha dovuto sopportare, dovendo trascorrere quasi mille anni in completa solitudine e delle enormi conoscenze da lui possedute: questo clone di Vickster infatti conosce e può insegnare qualsiasi incantesimo arcano esistente, e le prove di conoscenze magiche, religiose e sapienza arcana effettuate in sua presenza ottengono un bonus di +5.

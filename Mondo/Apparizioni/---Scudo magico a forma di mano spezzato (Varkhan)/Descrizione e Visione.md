@@ -1,5 +1,5 @@
 
-![[Varkhan.jpg]]
+![[Varkhan 2.jpg]]
 ### Visione
 
 Siedi sul tuo trono, pensieroso, mentre vento e fiamme imperversano attorno a te... e ripensi alle parole che ti ha detto Vickster qualche giorno fa, anche se “giorno” non è proprio il termine più esatto, considerando dove ti trovi...  
@@ -31,7 +31,7 @@ Due fragorosi schianti risuonano davanti a te. Ti rialzi con fatica, mentre dal 
 
 ***Perception per riconoscere il comandante Vossnik***
 
-![[varkhan.jpg]]
+![[Varkhan 2.jpg]]
 
 Evochi rapidamente alcuni dei tuoi servitori ed estrai l’arma.  
 Uno degli invasori, brandendo un pesante martello luminescente, si rivolge a te con voce distorta dal casco:  

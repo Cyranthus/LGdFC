@@ -4,104 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "47ea1b34c7e2156d",
+        "id": "441c1861d5e1822e",
         "type": "tabs",
-        "dimension": 46.96755994358252,
         "children": [
           {
-            "id": "ff7411ed57e5b7f6",
+            "id": "fd1262e832cb167a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___Published___/La Storia fin'ora/Riassunto - Parte 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Riassunto - Parte 4"
-            }
-          },
-          {
-            "id": "d3140756878f78f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "___Published___/La Storia fin'ora/Riassunto - Parte 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Riassunto - Parte 5"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "71706b82d3744e17",
-        "type": "tabs",
-        "dimension": 53.03244005641748,
-        "children": [
-          {
-            "id": "b411b8b15dabd775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessioni/Parte 4_1/Parte 4_1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parte 4_1"
-            }
-          },
-          {
-            "id": "46ecf90d82d11dd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessioni/Parte 4_2/Parte 4_2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parte 4_2"
-            }
-          },
-          {
-            "id": "29cd1a1a78da95fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "___Published___/Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione.md",
+                "file": "___Published___/Mondo/Apparizioni/Mantello Blu Magico (Frankie)/Descrizione e Visione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Descrizione e Visione"
             }
-          },
-          {
-            "id": "c67b4398449d6b2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "___Published___/Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento Tecnologia Korvosiana"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 263.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -262,14 +182,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d3140756878f78f1",
+  "active": "fd1262e832cb167a",
   "lastOpenFiles": [
+    "___Published___/z_Images/Varkhan 2.jpg",
+    "Mondo/Apparizioni/---Scudo magico a forma di mano spezzato (Varkhan)/Descrizione e Visione.md",
+    "___Published___/Mondo/Apparizioni/Pistola rotta (Rattigan)/Descrizione e Visione.md",
     "___Published___/Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione.md",
+    "___Published___/z_Images/varkhan.jpg",
+    "___Published___/z_Images/varkhan 1.jpg",
+    "___Published___/z_Images/Gurnys.jpg",
+    "___Published___/z_Images/Gurnys1.jpg",
     "___Published___/La Storia fin'ora/Riassunto - Parte 5.md",
-    "___Published___/Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
+    "___Published___/Mondo/Apparizioni/Maschera nera mezza strappata (Dav-Horn)/Descrizione e Visione.md",
     "___Published___/La Storia fin'ora/Riassunto - Parte 4.md",
-    "Sessioni/Parte 4_1/Parte 4_1.md",
     "Sessioni/Parte 4_2/Parte 4_2.md",
+    "Sessioni/Parte 4_1/Parte 4_1.md",
+    "___Published___/Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
     "___Published___/Mondo/Apparizioni/Carta Apprensura (Fortunata)/Descrizione e Visione.md",
     "Mondo/NPC/Vickster Falconsflight (clone).md",
     "___Published___/Mondo/Apparizioni/_Main_.md",
@@ -282,24 +210,15 @@
     "___Published___/Mondo/Ciuschi & co/Ciuschi Meravigliosi.md",
     "Mondo/NPC/S.A.P/Rhaevan Varconis.md",
     "Mondo/NPC/S.A.P/Guerriero Rowan Greymark (6).md",
-    "Mondo/Apparizioni/---Scudo magico a forma di mano spezzato (Varkhan)/Descrizione e Visione.md",
-    "Varkhan.jpg",
     "___Published___/Mondo/Apparizioni/Braccialetto in pelle nera (Alotta Bang Bang)/Descrizione e Visione.md",
-    "Gurnys.jpg",
     "___Published___/Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
     "Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
     "Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
     "INIZIATIVA e EXP.md",
     "Mondo/Da 1 a 5.md",
     "Mondo/Apparizioni/---Scudo magico a forma di mano spezzato (Varkhan)/Semipiano di Varkhan.md",
-    "Sessioni/Parte 4_1/Appunti - 4_1.md",
-    "Mondo/NPC/S.A.P/Pistolero Cailynn Farrow (6).md",
-    "Sessioni/Parte 3_3/Appunti - 3_3.md",
     "___Published___/z_Images/fortunata_1.jpg",
     "___Published___/z_Images/Mephi.jpg",
-    "___Published___/z_Images/F.jpg",
-    "___Published___/z_Images/Baalzebul.jpg",
-    "___Published___/z_Images/fortunata2.jpg",
     "Mondo/Space Ships/Rebellion.pdf"
   ]
 }
