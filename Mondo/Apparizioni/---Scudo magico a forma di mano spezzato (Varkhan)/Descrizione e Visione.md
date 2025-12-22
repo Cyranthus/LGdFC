@@ -3,7 +3,7 @@
 ### Visione
 
 Siedi sul tuo trono, pensieroso, mentre vento e fiamme imperversano attorno a te... e ripensi alle parole che ti ha detto Vickster qualche giorno fa, anche se “giorno” non è proprio il termine più esatto, considerando dove ti trovi...  
-Perché mai un’organizzazione di avventurieri dovrebbe interessarsi alla Varisia?  
+Perché mai i Cercatori dovrebbe interessarsi alla Varisia?  
 Mah, in ogni caso tu sarai pronto: quando — e se — Vickster ti avviserà, raggiungerai i tuoi compagni a Korvosa con Zavon’Drath e le altre evocazioni.
 
 All’improvviso percepisci un’intrusione nel tuo piano... anzi, no: **molteplici** intrusioni!  
@@ -27,11 +27,11 @@ Un dolore lancinante ti attraversa la mente: ti accasci a terra, sopraffatto dal
 Nel frattempo, il tuo Eidolon comincia a precipitare: il suo corpo privo di vita si schianta contro la fortezza, distruggendone una vasta sezione in un’esplosione di pietra e fiamme.  
 Pochi istanti dopo, il corpo di Zavon’Drath inizia a dissolversi, svanendo lentamente mentre ritorna al suo piano d’origine...
 
-Due fragorosi schianti risuonano davanti a te. Ti rialzi con fatica, mentre dal fumo emergono nuove figure: umanoidi in pesanti armature, usciti da enormi uova di ferro cadute dal cielo. Alcuni sono senza elmo… e, con tuo orrore, ti accorgi che sembrano umani!
+Due fragorosi schianti risuonano davanti a te. Ti rialzi con fatica, mentre dal fumo emergono nuove figure: umanoidi in pesanti armature, usciti da enormi uova di ferro cadute dal cielo. Alcuni sono senza elmo… e, con tuo stupore, ti accorgi che sembrano... umani!
 
 ***Perception per riconoscere il comandante Vossnik***
 
-![[Varkhan 2.jpg]]
+![[varkhan.jpg]]
 
 Evochi rapidamente alcuni dei tuoi servitori ed estrai l’arma.  
 Uno degli invasori, brandendo un pesante martello luminescente, si rivolge a te con voce distorta dal casco:  
