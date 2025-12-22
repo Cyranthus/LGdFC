@@ -62,7 +62,7 @@ Il Capitano
 
 Il meravigliato gruppo inizia l’esplorazione della misteriosa caverna da una delle prime porte a loro vicine; anch’essa si apre automaticamente con l’avvicinarsi dei portatori dei medaglioni.  
 La porta si apre su una stanza molto ampia, con diversi tavoli e sedute disposti sia ai lati della sala sia al centro. Una seduta in particolare attira l’attenzione del gruppo: la poltrona pare quasi un trono, leggermente sopraelevato rispetto alle altre postazioni, con un anticlimatico timone in legno davanti ad essa…  
-I resti di un corpo umanoide si trovano davanti alla poltrona, accompagnati da un singolare mantello che si muove e fluttua nell’aria come se fosse perennemente colpito da una brezza costante… Mantello che attira particolarmente l'attenzione dei nostri eroi; toccandolo si scatena una [[___Published___/Mondo/Apparizioni/Mantello Blu Magico (Frankie)/Descrizione e Visione|Visione]] ...
+I resti di un corpo umanoide si trovano davanti alla poltrona, accompagnati da un singolare mantello che si muove e fluttua nell’aria come se fosse perennemente colpito da una brezza costante… Mantello che attira particolarmente l'attenzione dei nostri eroi; toccandolo si scatena una visione  ([[./Mondo/Apparizioni/Mantello Blu Magico (Frankie)/Descrizione e Visione]])...
 
 Oltre all’oggetto legato a un’apparizione, sul corpo dell’umano vengono rinvenuti diversi oggetti magici molto potenti…
 Viktor prova a indossare il mantello dopo averlo studiato, ma un effetto insidioso era sfuggito alla sua analisi: il misterioso mantello, infatti, è un oggetto maledetto che rende completamente blu la pelle del suo portatore… e diventa impossibile rimuoverlo (salvo l’utilizzo di magie specifiche per la rimozione delle maledizioni).
@@ -102,7 +102,7 @@ La cosa che attira immediatamente l'attenzione è l’enorme ammasso metallico d
 
 Davanti ai nostri spaesati avventurieri si trovano anche due corpi di umanoidi, evidentemente morti da tempo; sotto di essi vengono rinvenuti due oggetti magici molto potenti: un pugnale estremamente affilato (che si rivelerà essere un artefatto) e una verga con un’aura magica potentissima, con evidente tecnologia korvosiana applicata su di essa; la verga gemella di cui parlava Vickster pochi istanti prima.
 
-Nel mentre, non appena arrivati in questa misteriosa città in rovina, anche il leggendario SAP di Gurnys comincia ad attirare l’attenzione dei nostri anomali avventurieri; toccandolo, anch'esso mostra una [[___Published___/Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione|Visione]]...
+Nel mentre, non appena arrivati in questa misteriosa città in rovina, anche il leggendario SAP di Gurnys comincia ad attirare l’attenzione dei nostri anomali avventurieri; toccandolo, anch'esso mostra una visione ([[./Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione]])...
 
 
 E io lo tocco!
@@ -132,7 +132,7 @@ Sul trono, una carta singolare attira l’attenzione dei nostri amici:
 
 ![[theEmptyThrone.webp|300]]
 
- E il contatto con essa, provoca l'ennesima [[___Published___/Mondo/Apparizioni/Carta Apprensura (Fortunata)/Descrizione e Visione|Visione]]...
+ E il contatto con essa, provoca l'ennesima visione ([[./Mondo/Apparizioni/Carta Apprensura (Fortunata)/Descrizione e Visione]])...
  
 Ritorno a Tahl'sindarra
 --------------------------
