@@ -277,7 +277,6 @@ In città tutti i Gug, venendo a conoscenza della morte di Nocthysax, scapperann
 I prigionieri cercheranno 
 
 
-
 ## Caverna della UGP Rebellion
 
 Nei pressi dell'ingresso della caverna ci saranno diversi cadaveri di Gug e quello di un drago d'ombra giovane
@@ -295,7 +294,6 @@ dopo 3 round appare un Neothelid
 https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/neothelid/
 
 
-
 *Dalla parete rocciosa emerge un enorme formazione stranamente regolare rispetto al resto. La superficie, in alcuni punti, risulta come metallica invece che rocciosa, ma non sembra il metallo che si potrebbe trovare naturalmente in una grotta: diverse concrezioni, stalattiti, stalagmiti si sviluppano su questa formazione.*
 *Su un lato, c'è una specie di insenatura o varco buio nella formazione rocciosa.*
 
@@ -306,7 +304,7 @@ Interazioni con il Computer:
 - se l'alimentazione è attiva, il Computer potrà dare qualche risposta in più:
   - se si richiede cos'è successo con addosso il medaglione: "Dati del diario di bordo danneggiati o corrotti. Ricostruzione in corso, attendere... attendere... attendere...
   Elenco voci recuperate:
-  - Anno Astrale 20149, 5 Brinario, missione UGP 234, nome in codice "Fuoco Celeste": Partenza dall'orbita di Thalmeris assieme alla seconda flotta della UGP, destinazione il pianeta M52 (tempo stimato di viaggio tramite la Deriva, 1 mese e 2 settimane), obbiettivo primario della missione, fermare l'invasione in corso da parte dei Terrestri. In caso di fallimento, infiltrarsi nel pianeta, cercare un contatto con le popolazioni locali e prepararli alla resistenza."
+  - Anno Astrale 20149, 5 Brinario, missione UGP 234, nome in codice "Fuoco Celeste": Partenza dall'orbita di Thalmeris assieme alla seconda flotta della UGP, destinazione il pianeta M52 (tempo stimato di viaggio tramite la Deriva, 1 mese e 2 settimane), obbiettivo primario della missione, fermare l'invasione in corso da parte dei Terrestri; obbiettivo secondario della missione, infiltrarsi nel pianeta, cercare un contatto con le popolazioni locali e preparare alla resistenza."
   - Anno Astrale 20149, 28 Fiorile, missione UGP 234, obiettivo primario fallito, I terrestri hanno riunito le due metà del pianeta, uccidendo gran parte degli esseri viventi presenti sul pianeta. numerose perdite tra l'equipaggio tra cui il capitano. Inizio missione secondaria.
   - Anno Astrale 20150, 12 Calisto, nominato un nuovo capitano, Frankie Joe, detto lo "Stoppaccioso".
   - Anno Astrale 20151, 9 Gemmano, raccolta dati di missione spionaggio completata; il portale è stato ultimato dai Terrestri. Navi nemiche in diminuzione, continua il divieto d'invio o ricezione di qualunque tipo di trasmissione, la presenza della nave sul pianeta non è ancora stata scoperta.
