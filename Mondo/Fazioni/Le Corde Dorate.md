@@ -1,8 +1,10 @@
-Sono un gruppo segreto di 7 bardi addestrati e scelti dagli umani ribelli dei Mondi Fantasma.
+Sono un gruppo segreto di 7 bardi addestrati e scelti dagli abtanti dei Mondi Fantasma.
 
-Solo negli ultimi decenni (dopo la scomparsa di Pharasma che ha permesso la nascita di potenziali anomalie) una comunità di umani naturali (preservata da M.O.T.H.E.R. dal dominio delle IA) ha iniziato ad organizzare una sorta di rinascita della resistenza nell'unico pianeta (Golarion) che, in millenni di dominazione, ha recentemente registrato la nascita di anomalie.
+Solo negli ultimi decenni (dopo la scomparsa di Pharasma che ha permesso la nascita di potenziali anomalie) un gruppo clandestino discendente da quelli che erano una volta i Liberatori Galattici del Fuoco Celeste ha iniziato ad organizzare una sorta di rinascita della resistenza nell'unico pianeta (Golarion) che, in millenni di dominazione, ha recentemente registrato la nascita di anomalie.
 
 Le Corde non sono altro che Cercatori "Hackerati" al cui link neurale non viene soppressa la volontà dell'ospite ma anzi hanno accettato di collaborare con gli umani naturali.
+
+Le Corde Dorate riescono a collegarsi 
 
 Da decenni sono alla ricerca delle anomalie...
 

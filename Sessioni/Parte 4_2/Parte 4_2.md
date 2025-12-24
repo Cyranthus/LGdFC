@@ -33,9 +33,7 @@ https://hephaistos.azurewebsites.net/ x le armi
 
 ## Korvosa - Zona di Magia selvaggia
 
-
 Ogni uso di oggetto magico o magia lanciata triggera strambi effetti casuali (dado da 10000?)
-
 
 ## Semipiano di Varkhan
 
@@ -49,8 +47,8 @@ resti di mezzi meccanizzati, e creature bestiali sono sparsi ovunque.
 Un'enorme reggia si trova dall'altra parte del campo di battaglia.
 All'interno della reggia tutto è stato devastato, chiunque sia passato si è ben assicurato di non lasciare nulla...
 Nella sala del trono, l'unica cosa che attira l'attenzione è uno scudo a forma di mano, spezzato.
-## Inferi
 
+## Inferi
 
 Vi ritrovate all'interno di una grande sala in rovina, 
 resti della roccaforte di Fortunata

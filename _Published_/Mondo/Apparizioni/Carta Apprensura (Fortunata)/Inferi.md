@@ -1,6 +1,0 @@
-
-Caratteristiche del piano:
-
-
-
-

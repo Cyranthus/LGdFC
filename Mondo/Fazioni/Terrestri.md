@@ -1,4 +1,0 @@
-
-scopo: mantenere il livello tecnologico stabile tramite lo sfruttamento dei Cercatori dell’Alba, orchestrare gli eventi del mondo in modo da creare intrattenimento per i terrestri, organizzare eventi speciali con cui i terrestri possono "interagire" nel mondo, gestire la mietitura.  
-I Terrestri, tramite i Cercatori, sfruttano i popoli magici superficialmente come fonte di energia, ma segretamente sono anche fondamentali per l'accesso alle dimensioni planari (e al mantenimento delle IA nella loro dimensione): il flusso Ark è l'unico che permette la creazione e la manipolazione planare.  
-Molti terrestri, i più facoltosi, possono prendere direttamente il controllo di un cercatore dell'Alba per giocare di ruolo.

@@ -300,7 +300,7 @@ https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/neothelid/
 ## Dentro la UGP Rebellion
 
 
-Interazioni con il Computer:
+#### **Interazioni con il Computer:**
 - se l'alimentazione è attiva, il Computer potrà dare qualche risposta in più:
   - se si richiede cos'è successo con addosso il medaglione: "Dati del diario di bordo danneggiati o corrotti. Ricostruzione in corso, attendere... attendere... attendere...
   Elenco voci recuperate:
@@ -316,7 +316,7 @@ Interazioni con il Computer:
   - se no: procedo con una stima basata sulla simulazione del movimento dei corpi celesti dalle ultime posizioni note fino al raggiungimento della conformazione attuale... attendere... attendere... ... ... simulazione completata, data stimata tra l'anno astrale 46500 e il 47000"
 
 - Progetto T01, T02, T03, T04 sospesi, necessario attendere la ricostruzione dei settori B1 e B2.
-- se chiedono una possibile destinazione: "Mappe stellari del settore in aggiornamento, unico faro di Deriva conosciuto, Thalmeris"
+- se chiedono una possibile destinazione: "Mappe stellari del settore non aggiornate, aggiornamento necessario. Unico faro di Deriva raggiungibile, Thalmeris"
 
 Vickster li spierà, potrebbe far notare agli eroi una sorta di persona che li guida verso il laboratorio.
 
@@ -335,9 +335,10 @@ Possibili ingressi:
   L'ambiente ricorda un pò la strana stanza con l'allarme che avete trovato settimane fa, sotto il Drosakar*
 
 
-**Feisty**
+##### **Feisty**
 A prescindere, Feisty trova il posto incredibilmente familiare.
-Una volta che la corrente sarà riabilitata, ricorderà di avere in memoria le coordinate segrete per raggiungere M.O.T.H.E.R.
+Una volta alimentata la corrente, Feisty comincierà come poter riattivare i suoi due simili: serviranno 10 cariche di energia ciusca e un incantesimo di rianimare morti/resurrezione qualsiasi.
+
 
 ### Stiva/Vano di carico (varco aperto sulla parete esterna)
 
@@ -411,7 +412,7 @@ Se si fiderà del gruppo, gli consegnerà la chiave chiedendogli di ritrovare il
 *un'altra sorta di barriera semitrasparente si chiude partendo sia dal pavimento che dal soffitto, sigillando la clessidra (e limitando l'effetto di accecamento, riuscite a guardare di nuovo verso la clessidra).*
 *Tutta la stanza attorno a voi sembra prender vita, punti di luce cominciano a baluginare ed accendersi, anche nel corridoio, una sorta di ronzio di sottofondo si diffonde per tutta la caverna.*
 
-La voce femminile esclama "Nucleo energetico ripristinato con successo. Rigenerazione scafo esterno avviata, riparazione sistemi principali avviata, tutti gli altri processi temporaneamente sospesi" (ci vorranno circa 10 giorni)
+La voce femminile esclama "Nucleo energetico ripristinato con successo. Rigenerazione scafo esterno avviata, riparazione sistemi principali avviata, tutti gli altri processi temporaneamente sospesi" (ci vorranno circa 10 giorni).
 
 
 ### Medical Lab (Distrutto - Chiuso)
