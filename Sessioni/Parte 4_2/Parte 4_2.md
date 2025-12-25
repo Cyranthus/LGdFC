@@ -1,5 +1,7 @@
 
 
+
+
 ## Korvosa Criptata
 
 
@@ -19,7 +21,6 @@ cadavere di Gurnys
    - La lama di questo pugnale è lucida e brillante. Anche quando imbrattata del sangue di una vittima, pochi istanti dopo appare pulita e asciutta, come se fosse stata appena ripulita.
    Quando attacca una creatura che sta ancora sanguinando a causa della proprietà [Ferimento](https://golarion.altervista.org/wiki/Armi_Magiche#Ferimento "Armi Magiche") del pugnale sanguinario, il pugnale infligge 1 danno addizionale per ogni ferita da sanguinamento posseduta dalla creatura (massimo +10). Ogni volta che chi impugna un pugnale sanguinario conferma un colpo critico con esso, può scegliere di infliggere 1d6 danni addizionali per ogni ferita da sanguinamento posseduta dal bersaglio (massimo +5d6 danni)
 
-   
 
 combattimento contro resti di P.H.A.R.A.S.M.A. (https://www.aonsrd.com/AlienDisplay.aspx?ItemName=Siege%20Robot&Family=Robot)
 https://hephaistos.azurewebsites.net/ x le armi
@@ -33,7 +34,8 @@ https://hephaistos.azurewebsites.net/ x le armi
 
 ## Korvosa - Zona di Magia selvaggia
 
-Ogni uso di oggetto magico o magia lanciata triggera strambi effetti casuali (dado da 10000?)
+- Ogni uso di oggetto magico o magia lanciata triggera strambi effetti casuali ( https://perchance.org/random-magical-effect )
+- In alcune zone, nell'aria è percepibile un riverbero (percezione 20), avvicinandosi troppo ad essi, si triggera un incantesimo vivente casuale (vedi https://chatgpt.com/c/694d17fb-c4ec-832f-8cec-0ba2065aa7c5)
 
 ## Semipiano di Varkhan
 

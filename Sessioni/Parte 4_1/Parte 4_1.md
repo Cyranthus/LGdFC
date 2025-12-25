@@ -16,6 +16,14 @@
 	- [[#Monte Ugothogo / Cittadella di Nocthysax#Incontro con Nocthysax|Incontro con Nocthysax]]
 - [[#Caverna della UGP Rebellion|Caverna della UGP Rebellion]]
 - [[#Dentro la UGP Rebellion|Dentro la UGP Rebellion]]
+		- [[#Incontro con Nocthysax#**Interazioni con il Computer:**|**Interazioni con il Computer:**]]
+			- [[#**Interazioni con il Computer:**#**Feisty**|**Feisty**]]
+	- [[#Dentro la UGP Rebellion#Stiva/Vano di carico (varco aperto sulla parete esterna)|Stiva/Vano di carico (varco aperto sulla parete esterna)]]
+	- [[#Dentro la UGP Rebellion#Tek Lab/Science Lab (Chiuso)|Tek Lab/Science Lab (Chiuso)]]
+	- [[#Dentro la UGP Rebellion#Centro di Comando (Chiuso)|Centro di Comando (Chiuso)]]
+	- [[#Dentro la UGP Rebellion#Sala Macchine (Chiuso)|Sala Macchine (Chiuso)]]
+	- [[#Dentro la UGP Rebellion#Medical Lab (Distrutto - Chiuso)|Medical Lab (Distrutto - Chiuso)]]
+	- [[#Dentro la UGP Rebellion#Mech Bay (Distrutto - under construction)|Mech Bay (Distrutto - under construction)]]
 
 
 Il sottosuolo - il percorso verso il lago
