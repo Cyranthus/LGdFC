@@ -7,6 +7,9 @@
 
 *   Vickster e i suoi maghi, grazie agli studi sulla magia primordiale e sulle tecnologie della Rebellion trova un modo per sfruttare la magia degli incantatori come ricarica per le batterie (tecnologia Korvosiana).
 
+FUTURI PLOT
 - I Cercatori (terrestri) copriranno l'esplosione di Piren's Bluff diffondendo la notizia che la città è stata attaccata da una delle scaglie di Rovagug, il quale è un indiscusso segno dell'avvicinarsi dell'Apocalisse
 
 - Verranno a sapere che ci sono disordini a Falcon's hollow, provocati da dei mannari (il ripetersi degli eventi iniziali)
+
+- Le corde dorate li contatteranno 
