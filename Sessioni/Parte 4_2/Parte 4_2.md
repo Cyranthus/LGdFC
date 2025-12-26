@@ -4,7 +4,6 @@
 
 ## Korvosa Criptata
 
-
 *Appena entrano nella Korvosa criptata, il SAP di Gurnys triggera quella strana sensazione quando un oggetto richiamano le visioni*
 
 
@@ -21,7 +20,6 @@ cadavere di Gurnys
    - La lama di questo pugnale è lucida e brillante. Anche quando imbrattata del sangue di una vittima, pochi istanti dopo appare pulita e asciutta, come se fosse stata appena ripulita.
    Quando attacca una creatura che sta ancora sanguinando a causa della proprietà [Ferimento](https://golarion.altervista.org/wiki/Armi_Magiche#Ferimento "Armi Magiche") del pugnale sanguinario, il pugnale infligge 1 danno addizionale per ogni ferita da sanguinamento posseduta dalla creatura (massimo +10). Ogni volta che chi impugna un pugnale sanguinario conferma un colpo critico con esso, può scegliere di infliggere 1d6 danni addizionali per ogni ferita da sanguinamento posseduta dal bersaglio (massimo +5d6 danni)
 
-
 combattimento contro resti di P.H.A.R.A.S.M.A. (https://www.aonsrd.com/AlienDisplay.aspx?ItemName=Siege%20Robot&Family=Robot)
 https://hephaistos.azurewebsites.net/ x le armi
 
@@ -30,12 +28,11 @@ https://hephaistos.azurewebsites.net/ x le armi
 
 - Se uno degli eroi preme il nodo lampeggiante, Korvosa viene riportata nella zona di magia selvaggia.
 
-
-
 ## Korvosa - Zona di Magia selvaggia
 
 - Ogni uso di oggetto magico o magia lanciata triggera strambi effetti casuali ( https://perchance.org/random-magical-effect )
 - In alcune zone, nell'aria è percepibile un riverbero (percezione 20), avvicinandosi troppo ad essi, si triggera un incantesimo vivente casuale (vedi https://chatgpt.com/c/694d17fb-c4ec-832f-8cec-0ba2065aa7c5)
+- bestie magiche casuali (****)
 
 ## Semipiano di Varkhan
 
@@ -59,3 +56,22 @@ vari resti di creature umanoidi di taglia grande.
 vicino al trono in rovina, c'è una carta (Fortunata).
 
 SE il gruppo decide di esplorare gli Inferi per molto tempo, a un certo punto troveranno che il terreno s'interrompe in una sorta di vuoto nero... il terreno riprende diversi metri più avanti, oltre la spaccatura...
+
+
+- Se gli eroi decideranno di andare ad Almas, potrebbero voler usare il portale attivo di Souston.
+
+## Souston
+
+Souston è un piccolo villaggio di pescatori andoreniano affacciato sul Mare Interno, situato a circa 240 miglia esattamente a est della capitale, Almas. L’abitato è composto da piccole baracche dai colori vivaci, addossate alla costa dolcemente digradante.
+
+L’insediamento ha ben poco che lo distingua, eppure è stato più volte bersaglio di incursioni di pirati o di razziatori di schiavi. Durante questi attacchi, gli abitanti si barricano nelle proprie cantine o si rifugiano nelle grotte vicine, attendendo che la minaccia si allontani. Souston è stata rasa al suolo tre volte nel corso di tali assalti e, ogni volta, i suoi residenti hanno ricostruito il villaggio. Le razzie potrebbero essere alimentate da una persistente voce secondo cui la capitana Souston avrebbe nascosto un prezioso tesoro all’interno dell’abitato, ma nessuno ne ha mai trovato la minima traccia.
+#### Storia
+Secondo le leggende locali, il villaggio fu fondato da una capitana chelaxiana di nome Erin Souston, quando la sua nave si schiantò contro gli scogli vicini durante una fitta nebbia. L’ancora che ancora oggi segna l’ingresso del porto di Souston si dice provenga proprio dal relitto della sua nave.
+#### Economia
+La maggior parte dei meno di 1.000 abitanti di Souston trae sostentamento dal mare oppure pratica un’agricoltura di pura sussistenza.
+
+
+- Gli eroi noteranno che c'è una discreta tensione in città, in quanto gli abitanti sono stati recentemente minacciati dal temibile pirata [[Durgan -Catena Rossa- Kreed - CR 10]].
+I temibile pirata ha minacciato la cittadina di trovare e consegnargli entro l'alba il tesoro del Capitano Souston, altrimenti il villaggio verrà raso al suolo e gli abitanti verranno fatti tutti prigionieri.
+
+- Due gruppi di Cercatori (tutto Terrestri Giocanti CR 9) sono stati mandati in aiuto al villaggio, passeranno la notte alla taverna (un paio di loro farà delle ronde di guardia per la città e per il porto).

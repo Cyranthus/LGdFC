@@ -9,6 +9,13 @@
 I Terrestri, tramite i Cercatori, sfruttano i popoli magici come fonte di energia e intrattenimento, ma, segretamente, sono fondamentali per l'accesso alle dimensioni planari (specialmente la Deriva/Piano Astrale), i portali e le comunicazioni a tempo zero tra i sistemi.
 Il flusso Ark è l'unico che permette tutto questo.  
 
+#### Caratteristiche fisiche
+
+I terrestri sono praticamente identici agli umani di Golarion, ad eccezion fatta per le seguenti cose:
+- I Terrestri hanno sangue blu
+* I Terrestri hanno il parassita cruciforme sul loro corpo (quasi tutti in una zona del petto o del busto, ma non è una regola fissa)
+* Grazie al cruciforme, sono immortali (dopo 3 giorni ritornano in vita da qualsiasi trauma)
+* Gli space marine e i militari in generale sono più grossi di un umano normale (sono quasi di taglia grande), per via degli aumenti tecnologici e biologici applicati ai loro corpi.
 
 #### Fondamenti della loro tecnologia.
 
