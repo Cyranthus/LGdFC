@@ -1,8 +1,7 @@
 
 
 
-
-## Korvosa Criptata
+## Korvosa - Criptata
 
 *Appena entrano nella Korvosa criptata, il SAP di Gurnys triggera quella strana sensazione quando un oggetto richiamano le visioni*
 
@@ -58,6 +57,10 @@ vicino al trono in rovina, c'è una carta (Fortunata).
 SE il gruppo decide di esplorare gli Inferi per molto tempo, a un certo punto troveranno che il terreno s'interrompe in una sorta di vuoto nero... il terreno riprende diversi metri più avanti, oltre la spaccatura...
 
 
+
+- Nella prima notte di riposo, Viktor riceve questo messaggio in sogno, da parte di Elowen: *"Daienne, spero stiate tutti bene, abbiamo trovato un collegamento sicuro e stabile, per ora. Incontriamoci al Fienile di Totter, ad Almas. Vi attenderemo lì."*
+
+
 - Se gli eroi decideranno di andare ad Almas, potrebbero voler usare il portale attivo di Souston.
 
 ## Souston
@@ -71,7 +74,10 @@ Secondo le leggende locali, il villaggio fu fondato da una capitana chelaxiana d
 La maggior parte dei meno di 1.000 abitanti di Souston trae sostentamento dal mare oppure pratica un’agricoltura di pura sussistenza.
 
 
-- Gli eroi noteranno che c'è una discreta tensione in città, in quanto gli abitanti sono stati recentemente minacciati dal temibile pirata [[Durgan -Catena Rossa- Kreed - CR 10]].
-I temibile pirata ha minacciato la cittadina di trovare e consegnargli entro l'alba il tesoro del Capitano Souston, altrimenti il villaggio verrà raso al suolo e gli abitanti verranno fatti tutti prigionieri.
+## Avvenimenti a Souston
+
+- Gli eroi noteranno che c'è una discreta tensione in città, in quanto gli abitanti sono stati recentemente minacciati dal temibile pirata [[Durgan -Catena Rossa- Kreed - E Ciurma]].
+Il temibile pirata ha minacciato la cittadina di trovare e consegnargli entro l'alba il tesoro del Capitano Souston, altrimenti il villaggio verrà raso al suolo e gli abitanti verranno fatti tutti prigionieri.
 
 - Due gruppi di Cercatori (tutto Terrestri Giocanti CR 9) sono stati mandati in aiuto al villaggio, passeranno la notte alla taverna (un paio di loro farà delle ronde di guardia per la città e per il porto).
+

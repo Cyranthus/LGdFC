@@ -20,3 +20,7 @@ Le Corde non sono altro che Cercatori "Hackerati" al cui link neurale non viene 
 _"Le anomalie, a quanto pare, tentano sempre d'incontrarsi, prima o poi"_
 
 _“Daienne, non mi conosci, ma hai incrociato una di noi, una delle Corde Dorate. Purtroppo il tempo a mia disposizione è pochissimo e la connessione è instabile: non abbiamo ancora trovato un canale sicuro e duraturo per comunicare. Ziam — o, come la conoscevi tu, Alotta Bang Bang — era convinta di aver individuato un’anomalia… e da quel che ho potuto constatare, aveva ragione. Anzi, non ne aveva scoperta una sola: le anomalie, prima o poi, finiscono sempre per incontrarsi. Resistete, restate vivi e uniti e non fatevi scovare dai Cercatori. Vi ricontatterò non appena otterremo un accesso sicuro.”_
+
+
+
+*"Daienne, spero stiate tutti bene, abbiamo trovato un collegamento sicuro e stabile, per ora. Incontriamoci al Fienile di Totter, ad Almas. Vi attenderemo lì."*
