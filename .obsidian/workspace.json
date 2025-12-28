@@ -4,11 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "7c1dcb4eff62b488",
+        "id": "0020c38d67f87298",
         "type": "tabs",
+        "dimension": 72.95409181636727,
         "children": [
           {
-            "id": "a90b1bb72770f48b",
+            "id": "63784cd8e7e13c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Space Ships/UGP Rebellion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UGP Rebellion"
+            }
+          },
+          {
+            "id": "78667dc78022be65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Fazioni/Egemonia Terran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Egemonia Terran"
+            }
+          },
+          {
+            "id": "4e04e82f57c76732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Fazioni/Le Corde Dorate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Le Corde Dorate"
+            }
+          },
+          {
+            "id": "d8a36a35de877e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessioni/Parte 4_1/Parte 4_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parte 4_1"
+            }
+          },
+          {
+            "id": "db497b4e5e357852",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +76,42 @@
               },
               "icon": "lucide-file",
               "title": "Parte 4_2"
+            }
+          },
+          {
+            "id": "2363eb73f59b0f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Geografia/Almas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Almas"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "7f4acfc5ec6b5040",
+        "type": "tabs",
+        "dimension": 27.045908183632733,
+        "children": [
+          {
+            "id": "5e4bd4212b1cce1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INIZIATIVA e UCCISIONI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INIZIATIVA e UCCISIONI"
             }
           }
         ]
@@ -78,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 359.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -182,41 +275,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a90b1bb72770f48b",
+  "active": "2363eb73f59b0f90",
   "lastOpenFiles": [
+    "Sessioni/Parte 4_2/Parte 4_2.md",
+    "Sessioni/Parte 4_1/Parte 4_1.md",
+    "INIZIATIVA e UCCISIONI.md",
+    "Mondo/Geografia/Almas.md",
+    "Mondo/Space Ships/UGP Rebellion.md",
+    "Mondo/Fazioni/Egemonia Terran.md",
+    "Mondo/Fazioni/Le Corde Dorate.md",
+    "Mondo/Apparizioni/---Scudo magico a forma di mano spezzato (Varkhan)/Descrizione e Visione.md",
+    "Sessioni/Parte 3_3/Parte 3_3.md",
+    "Mondo/Fazioni/Mondi Fantasma.md",
+    "Mondo/Fazioni/Liberatori Galattici del Fuoco Celeste.md",
+    "Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
+    "_Published_/Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
+    "_Published_/Mondo/Apparizioni/Carta Apprensura (Fortunata)/Descrizione e Visione.md",
+    "Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
+    "Mondo/Ciuschi & co/Ciuschi Meravigliosi.md",
+    "Mondo/Space Ships/Rebellion.pdf",
+    "Sessioni/Parte 3_3/Appunti - 3_3.md",
+    "_Published_/Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
+    "TODO.md",
+    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Comandante Regionale Vossnik.md",
+    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 2 - CR 9/Asha Morneve Half-Orc Barbarian 10 - CR 9.md",
+    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 2 - CR 9/Nyssara Gnome Illusionist 10 - CR 9.md",
+    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9/Korvin Human Wizard 10 - CR 9.md",
+    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9/Seraphine Human Paladin 10 - CR 9.md",
+    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9/Keldric Human Rogue 7_Assassin 3 - CR 9.md",
+    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 2 - CR 9/Rovik Human Paladin 10 - CR 9.md",
     "Shedu.jpeg",
     "_Published_/z_Images/Veldenar.png",
     "_Published_/z_Images/bolla.jpg",
-    "Mondo/Fazioni/Le Corde Dorate.md",
-    "Mondo/NPC/Le Corde Dorate_npc/Elowen -Cacciastelle- Kaela.md",
-    "Sessioni/Parte 4_2/Parte 4_2.md",
-    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 2 - CR 9/Human Paladin 10 - CR 9.md",
-    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 2 - CR 9/Half-Orc Barbarian 10 - CR 9.md",
-    "Mondo/NPC/Enemies_npc/pirati/Pirata Base - CR 3.md",
-    "Mondo/NPC/Enemies_npc/pirati/Pirata Elite - CR 7.md",
-    "Mondo/NPC/Enemies_npc/pirati/Capitano Durgan -Catena Rossa- Kreed - CR 10.md",
-    "Mondo/NPC/Enemies_npc/pirati/Pirate Enforcer - CR 9.md",
-    "Mondo/NPC/Enemies_npc/pirati/Pirate Grenadier - CR 9.md",
-    "Mondo/NPC/Enemies_npc/pirati/Pirate Queen - CR 9.md",
-    "Mondo/NPC/Enemies_npc/pirati/Pirate Sharpshooter - CR 9.md",
-    "Mondo/NPC/Enemies_npc/pirati/Witch - CR 8.md",
-    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 2 - CR 9/Gnome Illusionist 10 - CR 9.md",
-    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 2 - CR 9/Plague Human Cleric 10 - CR 9.md",
-    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9/Human Rogue 7_Assassin 3 - CR 9.md",
-    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9/Gnome Druid 10 - CR 9.md",
-    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9/Human Wizard 10 - CR 9.md",
-    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9/Human Paladin 10 - CR 9.md",
-    "Mondo/NPC/Enemies_npc/Archived/Nymir Verdimanto (9)/Human Ranger (9).md",
     "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 2 - CR 9",
     "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9",
-    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Oracolo (7).md",
     "Mutant-Captain.jpg",
     "Absalom-Map.png",
-    "Sessioni/Parte 4_2/Appunti - 4_2.md",
-    "TODO.md",
     "Mondo/NPC/Enemies_npc/pirati",
-    "Sessioni/Parte 4_1/Parte 4_1.md",
-    "Mondo/Geografia/Almas.md",
     "_Published_/z_Images/varkhan.jpg",
     "_Published_/z_Images/vv.jpeg",
     "_Published_/z_Images/V.jpg",
@@ -224,8 +319,6 @@
     "_Published_/z_Images/varkhan 1.jpg",
     "Mondo/Apparizioni/Sap di Gurnys (Gurnys)",
     "Mondo/Apparizioni/Carta Apprensura (Fortunata)",
-    "Mondo/Apparizioni/Mantello Blu Magico (Frankie)",
-    "_Published_/z_Images/Gurnys.jpg",
-    "Mondo/Space Ships/Rebellion.pdf"
+    "Mondo/Apparizioni/Mantello Blu Magico (Frankie)"
   ]
 }

@@ -10,6 +10,8 @@
 - [[#Avvenimenti a Souston|Avvenimenti a Souston]]
 - [[#La Notte|La Notte]]
 - [[#L'Alba|L'Alba]]
+- [[#Almas|Almas]]
+
 
 ## Korvosa - Criptata
 
@@ -39,6 +41,11 @@ https://hephaistos.azurewebsites.net/ x le armi
 
 ## Korvosa - Zona di Magia selvaggia
 
+Il panorama davanti a voi, a differenza del pezzo di città in qui eravate, è decisamente diverso; delle rovine di Korvosa non è rimasto molto, specialmente vicino alla vostra posizione, si notano i segni evidenti dell'esplosione che avete visto nella visione di Dav'horn: gli edifici sono cumuli di macerie, praticamente rasi al suolo. notate a fatica anche la sagoma di quella che doveva essere un'enorme piramide.
+In lontananza, ai confini della città, vedete sempre edifici in rovina, ma decisamente in uno stato migliore.
+
+A un primo sguardo, la natura non sembra avere nulla di strano; prati verdi e vegetazione rigogliosa... ma se ci si concentra sui dettagli (conoscenze natura 20), si notano variazioni anomale e piante mai viste prima
+
 - Ogni uso di oggetto magico o magia lanciata triggera strambi effetti casuali ( https://perchance.org/random-magical-effect )
 - In alcune zone, nell'aria è percepibile un riverbero (percezione 20), avvicinandosi troppo ad essi, si triggera un incantesimo vivente casuale (vedi https://chatgpt.com/c/694d17fb-c4ec-832f-8cec-0ba2065aa7c5)
   
@@ -49,9 +56,6 @@ https://hephaistos.azurewebsites.net/ x le armi
   ![[Veldenar.png]]
 - 6x Shedu CR 9: https://aonprd.com/MonsterDisplay.aspx?ItemName=Shedu
   ![[Shedu.jpeg]]
-- 
-
-
 
 
 ## Semipiano di Varkhan
@@ -77,10 +81,7 @@ vicino al trono in rovina, c'è una carta (Fortunata).
 
 SE il gruppo decide di esplorare gli Inferi per molto tempo, a un certo punto troveranno che il terreno s'interrompe in una sorta di vuoto nero... il terreno riprende diversi metri più avanti, oltre la spaccatura...
 
-
-
 - Nella prima notte di riposo, Viktor riceve questo messaggio in sogno, da parte di Elowen: *"Daienne, spero stiate tutti bene, abbiamo trovato un collegamento sicuro e stabile, per ora. Incontriamoci al Fienile di Totter, ad Almas. Vi attenderemo lì."*
-
 
 - Se gli eroi decideranno di andare ad Almas, potrebbero voler usare il portale attivo di Souston.
 
