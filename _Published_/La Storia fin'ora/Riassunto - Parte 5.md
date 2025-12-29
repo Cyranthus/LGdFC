@@ -156,3 +156,44 @@ Ecco, a quest’ultima domanda (assolutamente non richiesta) il nostro gruppo di
 Sì, in effetti si potrebbe dire che anche questa è stata una concausa involontaria della guerra che abbiamo scatenato (e vinto) contro il Kheliax.*"
 
 Oltre a questo, il gruppo (specialmente Viktor) si rende ben presto conto di due cose: della triste condizione di solitudine che Vickster ha dovuto sopportare, dovendo trascorrere quasi mille anni in completa solitudine e delle enormi conoscenze da lui possedute: questo clone di Vickster infatti conosce e può insegnare qualsiasi incantesimo arcano esistente, e le prove di conoscenze magiche, religiose e sapienza arcana effettuate in sua presenza ottengono un bonus di +5.
+
+
+## Perlustrazione ultimata
+
+Il gruppo riprende la perlustrazione delle stanze della strana struttura; 
+
+
+## Recupero dei metalli stellari
+
+
+
+
+## Accensione
+
+
+"Dati del diario di bordo danneggiati o corrotti. Ricostruzione in corso, attendere... attendere... attendere...
+  Elenco voci recuperate:
+  - Anno Astrale 20149, 5 Brinario, missione UGP 234, nome in codice "Fuoco Celeste": Partenza dall'orbita di Thalmeris assieme alla seconda flotta della UGP, destinazione il pianeta M52 (tempo stimato di viaggio tramite la Deriva, 1 mese e 2 settimane), obbiettivo primario della missione, fermare l'invasione in corso da parte dei Terrestri; obbiettivo secondario della missione, infiltrarsi nel pianeta, cercare un contatto con le popolazioni locali e preparare alla resistenza."
+  - Anno Astrale 20149, 28 Fiorile, missione UGP 234, obiettivo primario fallito, I terrestri hanno riunito le due metà del pianeta, uccidendo gran parte degli esseri viventi presenti sul pianeta. numerose perdite tra l'equipaggio tra cui il capitano. Inizio missione secondaria.
+  - Anno Astrale 20150, 12 Calisto, nominato un nuovo capitano, Frankie Joe, detto lo "Stoppaccioso".
+  - Anno Astrale 20151, 9 Gemmano, raccolta dati di missione spionaggio completata; il portale è stato ultimato dai Terrestri. Navi nemiche in diminuzione, continua il divieto d'invio o ricezione di qualunque tipo di trasmissione, la presenza della nave sul pianeta non è ancora stata scoperta.
+  - Anno Astrale 20151, 2 Inverno Primo, missione UGP 235, Obiettivo della missione, distruzione del portale orbitale
+  - Fine diario."
+
+
+## Di nuovo tra le fiamme
+
+sdvd
+
+## I resti di P.HA.R.A.S.M.A.
+
+
+
+## Riflessioni e Pianificazioni
+
+
+## Sogni
+
+
+
+*"Daienne, spero stiate tutti bene, abbiamo trovato un collegamento sicuro e stabile, per ora. Incontriamoci al Fienile di Totter, ad Almas. Vi attenderemo lì."*
