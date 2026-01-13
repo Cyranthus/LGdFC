@@ -128,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 294.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -192,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mondo/NPC/Le Corde Dorate_Maleducate/Elowen -Cacciastelle- Kaela.md",
+                "file": "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elowen -Cacciastelle- Kaela"
+              "title": "Outline of Riassunto - Parte 5"
             }
           },
           {
@@ -212,11 +212,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 330.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -228,8 +228,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "calendarium:Open Calendarium": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a7608848049f6974",
