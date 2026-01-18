@@ -158,18 +158,25 @@ Sì, in effetti si potrebbe dire che anche questa è stata una concausa involont
 Oltre a questo, il gruppo (specialmente Viktor) si rende ben presto conto di due cose: della triste condizione di solitudine che Vickster ha dovuto sopportare, dovendo trascorrere quasi mille anni in completa solitudine e delle enormi conoscenze da lui possedute: questo clone di Vickster infatti conosce e può insegnare qualsiasi incantesimo arcano esistente, e le prove di conoscenze magiche, religiose e sapienza arcana effettuate in sua presenza ottengono un bonus di +5.
 
 
-## Perlustrazione ultimata
-
-Il gruppo riprende la perlustrazione delle stanze della strana struttura; 
-
-
 ## Recupero dei metalli stellari
 
+Mentre i nostri amici si confrontano con Fake-Vickster, Feisty recupera i due corpi dei suoi simili e li porta nei laboratori, cominciando a ripararli per poterli poi rianimare.
 
+I nostri eroi nel frattempo ritornano nella stanza con il noqual e l'adamantio e riattivano la piattaforma korvosiana che permette l'apertura di un portale direttamente a Tahl'sindarra; solamente ora il gruppo si rende conto che sullo strano pannello delle piattaforme, sono presenti numerose altre destinazioni selezionabili (attualmente quasi tutte disattivate o cmq non più accessibili).
+
+Raevan e i suoi uomini ringranziano i nostri eroi per aver compiuto la missione e aver trovato un notevole quantitativo di metalli stellari; tramite il portale, cominciano a recuperarli e a portarli in città.
+
+## Perlustrazione ultimata
+
+Il gruppo riprende la perlustrazione delle stanze della strana struttura; tra le stanze accessibili, trovano diverse camere da letto, 6 delle quali erano private (di qui una era sicuramente del capitano), altre tre erano dormitori comuni per più persone.
+Un'altra stanza particolare ha un enorme tavolo con superficie vetrata al centro della stanza, con diverse sedute attorno ad esso e alle pareti; sembra una sorta di sala per ritrovi e riunioni.
+L'ultima stanza si rivela essere la sede del "nucleo danneggiato" così tanto decantato dalla voce femminile.
+All'interno di questa sala buia ci sono un sacco di strutture metalliche e tubi di varie dimensioni, la maggior parte dei quali sembrano concentrarsi nella struttura centrale, che ricorda vagamente una clessidra metallica, a tutta altezza; le sezioni coniche terminano verso il centro senza mai toccarsi, un pò come se fossero due vulcani, uno sopra l'altro, con li crateri che si "guardano".
+Blu si avvicina alla struttura e inserisce la sfera luminosa  nello spazio tra le due metà della clessidra: la sfera viene catturata da una forza invisibile che la trattiene a mezz'aria, linee luminose cominciano a fuoriuscire dalla sfera e a vorticare all'interno dei due coni, una sorta di cilindro trasparente racchiude il tutto, nel mentre la luminosità della sfera cresce d'intensità, rendendo impossibile guardarla direttamente ad occhio nudo; nel mentre, la superficie trasparente cambia diventando oscurante rendendo nuovamente visibile la sfera.
+Luci si accendono per tutta la struttura, nuovi suoni si odono ovunque; dopo qualche secondo, la voce femminile dice "Nucleo energetico ripristinato con successo. Rigenerazione scafo esterno avviata, riparazione sistemi principali avviata, tutti gli altri processi temporaneamente sospesi".
 
 
 ## Accensione
-
 
 "Dati del diario di bordo danneggiati o corrotti. Ricostruzione in corso, attendere... attendere... attendere...
   Elenco voci recuperate:

@@ -71,7 +71,8 @@
               "title": "Parte 4_2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,12 +233,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a7608848049f6974",
+  "active": "37f0ea15dbea55b2",
   "lastOpenFiles": [
-    "Mondo/Fazioni/Le Corde Dorate.md",
-    "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
     "Sessioni/Parte 4_1/Parte 4_1.md",
     "Sessioni/Parte 4_2/Parte 4_2.md",
+    "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
+    "Mondo/Fazioni/Le Corde Dorate.md",
     "Sessioni/Parte 4_2/Appunti - 4_2.md",
     "Sessioni/Parte 4_1/Appunti - 4_1.md",
     "Mondo/Apparizioni/_Main_.md",
