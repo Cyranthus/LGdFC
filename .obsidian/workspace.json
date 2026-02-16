@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0020c38d67f87298",
+        "id": "64de60fc0b8e2d67",
         "type": "tabs",
         "children": [
           {
-            "id": "a7608848049f6974",
+            "id": "b179285dd5e2667d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Riassunto - Parte 5"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5,
-    "collapsed": true
+    "width": 465.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -184,10 +179,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a7608848049f6974",
+  "active": "b179285dd5e2667d",
   "lastOpenFiles": [
-    "Sessioni/Parte 4_2/Parte 4_2.md",
     "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
+    "Sessioni/Parte 4_2/Parte 4_2.md",
     "_Published_/Mondo/Apparizioni/Scudo magico a forma di mano spezzato (Varkhan)/Descrizione e Visione.md",
     "Sessioni/Parte 4_1/Parte 4_1.md",
     "Mondo/Fazioni/Le Corde Dorate.md",
