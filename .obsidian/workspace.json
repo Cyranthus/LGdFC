@@ -156,14 +156,65 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "8c8e40bc8b035144",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_bb8bd91a5a69",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 13,
+                    "month": 5,
+                    "year": 5720
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 10,
+                    "month": 5,
+                    "year": 5720
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_daaaba68ab18",
+                "child": "ID_0a9bfaea4bf9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
+      },
+      {
+        "id": "95ef7d26878cb06e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c4855f06109eb08",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_bb8bd91a5a69",
+                "id": "ID_0a9bfaea4bf9",
+                "parent": "ID_daaaba68ab18"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +230,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b179285dd5e2667d",
+  "active": "8c8e40bc8b035144",
   "lastOpenFiles": [
     "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
     "Sessioni/Parte 4_2/Parte 4_2.md",
