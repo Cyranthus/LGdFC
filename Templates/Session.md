@@ -20,9 +20,8 @@ _What scenes might occur in the game? Keep a loose grip on these. The game can g
 
 _What ten secrets and clues]might the characters uncover? Secrets might be related to the characters, NPCs, locations, bits of history, or quests. Drop in secrets as appropriate during the game._
 
-- Secret 1
-- Secret 2
-- Secret 3
+- Marnis Vordane: possiede una metà della chiave che apre l'accesso segreto del covo del Capitano Souston
+- Selka Vordane: possiede una metà della chiave che apre l'accesso segreto del covo del Capitano Souston
 
 ### Fantastic Locations
 
