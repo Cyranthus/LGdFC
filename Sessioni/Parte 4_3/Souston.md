@@ -1,6 +1,6 @@
 
 (Attract, Conceal)
-Souston è un piccolo villaggio di pescatori (300 abitanti circa) andoreniano affacciato sul Mare Interno, situato a circa 240 miglia esattamente a est della capitale, Almas. L’abitato è composto da piccole baracche dai colori vivaci, addossate alla costa dolcemente digradante.
+Souston è un piccolo villaggio di pescatori (500 abitanti circa) andoreniano affacciato sul Mare Interno, situato a circa 240 miglia esattamente a est della capitale, Almas. L’abitato è composto da piccole baracche dai colori vivaci, addossate alla costa dolcemente digradante.
 
 ### Problemi
 

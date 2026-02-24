@@ -20,8 +20,9 @@ _What scenes might occur in the game? Keep a loose grip on these. The game can g
 
 _What ten secrets and clues]might the characters uncover? Secrets might be related to the characters, NPCs, locations, bits of history, or quests. Drop in secrets as appropriate during the game._
 
-- Marnis Vordane: possiede una metà della chiave che apre l'accesso segreto del covo del Capitano Souston
-- Selka Vordane: possiede una metà della chiave che apre l'accesso segreto del covo del Capitano Souston
+- [ ] Secret 1
+- [ ] Secret 2
+- [ ] Secret 3
 
 ### Fantastic Locations
 
@@ -34,7 +35,8 @@ _What fantastic locations might the characters explore? Think of these like the 
 
 _What NPCs might the characters interact with? Give them an interesting name and use an archetype from a movie for their mannerisms. Make these new pages if you want to keep track of more information or add pictures._
 
-- **NPC 1
+- **NPC 1**
+    
     - Name:
     - Appearance
     - Role/Occupation
@@ -43,8 +45,9 @@ _What NPCs might the characters interact with? Give them an interesting name and
     - Relevant Secrets/Motivations
     - Additional Information
         - Text
-            
+
 - **NPC 2**
+    
     - Name:
     - Appearance
     - Role/Occupation
@@ -53,6 +56,7 @@ _What NPCs might the characters interact with? Give them an interesting name and
     - Relevant Secrets/Motivations
     - Additional Information
         - Text
+
 
 ### Monsters
 
