@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessioni/Parte 4_3/Sessione 4_3.md",
+                "file": "Mondo/NPC/Neutrali/Doppak -Colui che Non Muore di Sete-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sessione 4_3"
+              "title": "Doppak -Colui che Non Muore di Sete-"
+            }
+          },
+          {
+            "id": "a4c0fc16bcc0d46a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/NPC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NPC"
             }
           },
           {
@@ -155,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 453.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -313,15 +327,19 @@
   },
   "active": "2050f5770a43481a",
   "lastOpenFiles": [
-    "Templates/Session.md",
+    "Templates/NPC.md",
+    "Mondo/NPC/Neutrali/Doppak -Colui che Non Muore di Sete-.md",
+    "Mondo/NPC/Enemies_npc/Imperatore Decadente - Neothelid CR 15.md",
+    "Mondo/NPC/Enemies_npc/pirati/Witch - CR 8.md",
+    "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Comandante Regionale Vossnik.md",
+    "TODO.md",
     "Sessioni/Parte 4_3/Sessione 4_3.md",
+    "Templates/Session.md",
     "Sessioni/Parte 4_2/Parte 4_2.md",
     "Sessioni/Parte 4_3/Souston.md",
     "Templates/Session 1.md",
-    "Templates/NPC.md",
     "Sessioni/Parte 4_2/Appunti - 4_2.md",
     "Sessioni/Parte 4_3",
-    "TODO.md",
     "BG Personaggi/Doppo la Serpe.md",
     "Templates/Location.md",
     "Templates/_General Template.md",
@@ -340,10 +358,6 @@
     "Sessioni/Parte 4_1/Appunti - 4_1.md",
     "Mondo/Apparizioni/_Main_.md",
     "_Published_/Mondo/Apparizioni/_Main_.md",
-    "Mondo/Geografia/Almas.md",
-    "Mondo/Space Ships/UGP Rebellion.md",
-    "Mondo/Fazioni/Egemonia Terran.md",
-    "Sessioni/Parte 3_3/Parte 3_3.md",
     "Mondo/Space Ships/Rebellion.pdf",
     "_Published_/z_Images/Veldenar.png",
     "_Published_/z_Images/bolla.jpg",
