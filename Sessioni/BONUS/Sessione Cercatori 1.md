@@ -205,7 +205,7 @@ In caso di successo, individua **ingredienti rari** per un valore di **10 mo**, 
 *Una parete di questa stanza è completamente occupata da una **libreria alta 9 metri (30 piedi)**, con una solida scala su rotaia che consente di raggiungere gli scaffali superiori. Sia la scala che i libri sono chiaramente dimensionati per creature di grande taglia.*
 *Sull’altro lato si trovano quelli che sembrano essere **banchi da lettura e sedie**, coperti da teli grigi di polvere. Al centro della stanza, vicino all’ingresso, si erge un **blocco irregolare di materiale giallo caldo**, all’interno del quale si intravede una creatura.*
 
-Questa biblioteca era un luogo tranquillo in cui i ciclopi conducevano le loro ricerche. Qualsiasi PG che si prenda il tempo di esaminare i titoli della libreria e che conosca il ciclopico, oppure che superi una **prova di Società CD 14** (**CD 17 ai Livelli 3–4**) utilizzando il manuale di Eando, nota un tema ricorrente nei libri. Alcuni titoli non possono essere completamente tradotti, poiché contengono nomi propri di persone e luoghi ormai perduti nella storia, ma è chiaro che si tratta di:
+Questa biblioteca era un luogo tranquillo in cui i ciclopi conducevano le loro ricerche. Qualsiasi PG che si prenda il tempo di esaminare i titoli della libreria e che conosca il ciclopico, oppure che superi una **prova di Società CD 14** utilizzando il manuale di Eando, nota un tema ricorrente nei libri. Alcuni titoli non possono essere completamente tradotti, poiché contengono nomi propri di persone e luoghi ormai perduti nella storia, ma è chiaro che si tratta di:
 
 - Trattati alchemici
 - Libri di ricerca magica
