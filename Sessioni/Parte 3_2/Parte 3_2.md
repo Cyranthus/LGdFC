@@ -189,7 +189,7 @@ SITUAZIONE GENERALE
     Un post it attaccato sopra specifica che la trama va rivista in quanto il recente attacco avvenuto fuori stagione.  
     \- Norgortha: il fascicolo parla di una'antica necropoli dominata da un potente non morto che si fa chiamare Re dei Lich.  
     il dungeon è strutturato su più livelli che scendono nelle profondità della cripta, nel fondo del quale il Re dei Lich attenderà gli eroi che riusciranno a raggiungerlo.  
-    \- Piren's Bluff: l'invasione dello sciame nella cittadina di Piren's bluff fa parte del primo ciclo di eventi finali che precedono il Reset.  
+    \- Piren's Bluff: l'invasione dello sciame nella cittadina di Piren's bluff fa parte del primo ciclo di eventi finali che precedono il **Protocollo Reseeding**.  
     \- OlfDen / Almas: sopra il fascicolo c'è una scritta "Da Finire", sembra una sorta di seguito degli eventi di Piren's Bluff; nonostante l'uccisione della Regina di Piren's Bluff, altre invasioni avvengono nelle città di Olf Den e Almas; su Olf Den si pensa di dare un tocco più trhiller all'invasione, Almas invece sarà più verso i toni di un'epica battaglia campale con tanto di assedio.
     
     Tra le scartoffie ci sono anche diverse scatolette con dentro dei chip da impianto; sono chip di background per npc particolari o mostri.

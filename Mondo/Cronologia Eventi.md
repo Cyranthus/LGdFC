@@ -1,7 +1,35 @@
 Secret
 
-**Nel passato - Aroden scopre la verità sui terrestri e sulle antiche civiltà. Prova ad organizzare una ribellione, ma quest’ultima viene sedata e Aroden viene consumato da P.H.A.R.A.S.M.A. Nel cataclisma muoiono quasi il 90% degli esseri intelligenti.**  
-**La memoria storica delle razze senzienti viene resettata, ancora una volta, rimuovendo tutto quello che riguardava la rivolta.**
+**Anno Astrale 20148** - Inizio invasione dei Terrestri del Mondo Arcano M52.
+
+**Anno Astrale 20149** - Inizio missione UGP 234, nome in codice Fuoco Celeste.
+
+**Anno Astrale 20151** - Inizio missione UGP 235, distruzione del portale orbitale.
+
+**Anno Astrale 20152** - I Terrestri eliminano completamente le forze di resistenza rimaste.
+
+**Anno Astrale 20155** - Viene eseguita la 1a grande Raccolta di Arkana e Protocollo Reseeding  del mondo M52: la Raccolta lascia in vita circa tra l'1% e il 5% di ogni essere vivente presente sul pianeta.
+
+**Anno Astrale 23500** - 2a Raccolta e Reseeding
+
+**Anno Astrale 25167 - Prima Visione di Alystrin!!!**
+
+**Anno Astrale 27500** - 3a Raccolta e Reseeding
+
+**Anno Astrale 33500** - 4a Raccolta e Reseeding
+
+**Anno Astrale 39500** - 5a Raccolta e Reseeding  (-> si sperimenta fino allo sviluppo tecnologico avanzato, ambientazione sci-fi) 
+
+**Anno Astrale 44499** - **Prima Visione dagli Eroi!!!**
+
+**Anno Astrale 44500** - 6a Raccolta e Reseeding, anticipata per difficoltà nel controllo delle popolazioni altamente tecnologiche (-> sviluppo massimo consentito d'ora in poi era steampunk magico).
+
+**Anno Astrale 50500** - 7a Raccolta e Reseeding
+
+**Anno Astrale 56500** - 8a Raccolta e Reseeding
+
+**Anno Astrale 59121 (4606) - Aroden scopre la verità sui terrestri e si rivelò essere un'anomalia molto potente,, forse la prima nel suo genere (come gli Eroi). Provò ad organizzare una ribellione, ma quest’ultima venne sedata sul nascere e Aroden venne utilizzato per potenziare P.H.A.R.A.S.M.A.**  
+**La memoria storica degli eventi venne alterata e coperta grazie alla potente posizione dei Cercatori.**
 
 ~~4713 – Varkhan, Vickster e Fortunata riescono a vincolare la volontà di Kazavon a Varkhan, fondendolo col suo Eidolon.~~
 
@@ -139,4 +167,4 @@ _**5430**_ _\- Un nostro gruppo di esplorazione riesce a raggiungere Korvosa, co
 
 **5690** – i Liberti (la fazione politica opposta al Consorzio), in collaborazione con membri della Gilda dei Cercatori dell’Alba, ottengono una tregua con i druidi di Arthfell.
 
-**5720 – oggi**
+#### **Anno Astrale 60235 | 5720 – oggi**
