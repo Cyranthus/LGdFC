@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
+                "file": "Sessioni/Parte 4_3/Sessione 4_3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oggetti Meravigliosi"
+              "title": "Sessione 4_3"
             }
           },
           {
@@ -143,7 +143,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora risorse"
             }
           },
           {
@@ -322,22 +322,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "bases:Crea nuova Base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "b2c69948358f71e3",
   "lastOpenFiles": [
-    "TODO.md",
     "Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
+    "TODO.md",
     "_Published_/Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
     "_Published_/Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
     "Mondo/Cronologia Eventi.md",
