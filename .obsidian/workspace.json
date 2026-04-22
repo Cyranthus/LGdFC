@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79b75a09d351780b",
+            "id": "3018cf36ad2d0180",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mondo/Appunti DM.md",
+                "file": "_Published_/Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appunti DM"
+              "title": "Regolamento Tecnologia Korvosiana"
             }
           },
           {
-            "id": "e49039d7586f86f4",
+            "id": "cd6a5a715635f22b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +34,93 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "b2c69948358f71e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oggetti Meravigliosi"
+            }
+          },
+          {
+            "id": "79b75a09d351780b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/NPC/Le Corde Dorate_npc/Elowen -Cacciastelle- Kaela.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elowen -Cacciastelle- Kaela"
+            }
+          },
+          {
+            "id": "1227a3b0dd238a6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Fazioni/Mondi Fantasma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mondi Fantasma"
+            }
+          },
+          {
+            "id": "e9f64178017aab40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Fazioni/Liberatori Galattici del Fuoco Celeste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liberatori Galattici del Fuoco Celeste"
+            }
+          },
+          {
+            "id": "e49039d7586f86f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Cronologia Eventi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cronologia Eventi"
+            }
+          },
+          {
+            "id": "352faf07b9e0db7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/NPC/Le Corde Dorate_npc/Reed - Deldrin Baleson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reed - Deldrin Baleson"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,12 +334,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e49039d7586f86f4",
+  "active": "b2c69948358f71e3",
   "lastOpenFiles": [
+    "TODO.md",
+    "Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
+    "_Published_/Mondo/Ciuschi & co/Regolamento Tecnologia Korvosiana.md",
+    "_Published_/Mondo/Oggetti Magici/Oggetti Meravigliosi.md",
     "Mondo/Cronologia Eventi.md",
-    "Mondo/Appunti DM.md",
-    "INIZIATIVA e UCCISIONI.md",
+    "Mondo/NPC/Le Corde Dorate_npc/Reed - Deldrin Baleson.md",
     "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
+    "Mondo/NPC/Le Corde Dorate_npc/Elowen -Cacciastelle- Kaela.md",
+    "Mondo/Fazioni/Mondi Fantasma.md",
+    "Mondo/Fazioni/Liberatori Galattici del Fuoco Celeste.md",
+    "Mondo/Appunti DM.md",
+    "_Published_/La Storia fin'ora/Riassunto - Parte 1.md",
+    "Mondo/NPC/Le Corde Dorate_npc/Ziam - Alotta Bang Bang.md",
+    "Mondo/Fazioni/Le Corde Dorate.md",
+    "INIZIATIVA e UCCISIONI.md",
     "Mondo/Fazioni/Egemonia Terran.md",
     "_Published_/Cronologia Eventi.md",
     "Sessioni/Parte 3_2/Parte 3_2.md",
@@ -271,17 +366,6 @@
     "Templates/Session.md",
     "Sessioni/Parte 4_3/Sessione 4_3.md",
     "Sessioni/BONUS",
-    "Sessioni/Parte 4_3/Souston.md",
-    "Sessioni/Parte 4_2/Parte 4_2.md",
-    "Mondo/Fazioni/Le Corde Dorate.md",
-    "Mondo/Geografia/Almas.md",
-    "Mondo/NPC/Enemies_npc/pirati/Capitano Durgan -Catena Rossa- Kreed - CR 11.md",
-    "Mondo/NPC/Enemies_npc/pirati/Pirate Enforcer - CR 9.md",
-    "Mondo/NPC/Neutrali/Doppak -Colui che Non Muore di Sete-.md",
-    "Mondo/NPC/Enemies_npc/pirati/Pirate Grenadier - CR 9.md",
-    "Templates/NPC.md",
-    "Templates/Location.md",
-    "Mondo/NPC/Enemies_npc/pirati/Druid - CR 13.md",
     "Capitano_Durgan.jpg",
     "Sessioni/Parte 4_3",
     "Absalom-Map.png",

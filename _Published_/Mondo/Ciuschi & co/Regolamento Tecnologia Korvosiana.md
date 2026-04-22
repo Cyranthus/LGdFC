@@ -3,7 +3,17 @@ Funzionamento Base
 
 I Korvosiani hanno sviluppato una tecnologia che permette d'immagazzinare l'energia arcana sfruttando le proprietà del Noqual.
 
-La tecnologia Korvosiana può essere ricaricata **solamente** tramite il carica-batterie di magia primordiale e tramite il consumo di slot di magia arcana o divina: **1 lvl di spell ricaricano 1 carica di batteria.**
+La tecnologia Korvosiana può essere ricaricata **solamente** tramite il carica-batterie di magia primordiale e tramite il consumo di slot di magia arcana o divina: **1 lvl di spell ricaricano 1 carica di batteria. Ogni CARICA del caricatore, si può caricare fino a 9 livelli d'incantesimo (quindi un caricatore da 5 può arrivare ad avere 5 cariche di 9 lvl di spell); la ricarica dei livelli spendibili può avvenire anche consumando slot di livello più basso (quindi per un 9 lvl puoi spendere uno di 4 lvl + 1 di 5 lvl, oppure 9 di 1 lvl).
+
+Esempio: Blu vuole ricaricare una batteria da 5 cariche per poter usare una pistola che 2 nodi Noqual con memorizzati 2 incantesimi:
+- palla di fuoco (3 lvl)
+- raggio rovente (2 lvl)
+per poter lanciare almeno 5 palle da fuoco, deve ricaricare ogni carica fino al lvl 3 di incantesimo.
+Viktor e Topper gli ricaricano completamente il caricatore usando:
+- 2 slot di livello 3
+- 2 slot di livello 2
+- 5 slot di livello 1
+ora Blu può sparare fino a 5 palle di fuoco O 5 raggi roventi, oppure 2 raggi roventi e 3 palle di fuoco, ecc., a sua discrezione (ovviamente il lancio dei raggi roventi, in questo caso, comporterà sempre uno spreco di 1 lvl d'incantesimo...)
 
 Il Noqual permette di registrare degli spell che, una volta caricati con energia magica primordiale, si sprigionano con urti violenti, oppure, quelli con durata, di registrare effetti (o combinazioni di effetti e incantesimi) in modo da ripeterli anche solo immettendo energia primordiale attraverso il Noqual, senza doverli ripetere.
 
@@ -24,17 +34,15 @@ Numero di poli (se presenti):
     \- contatto in mischia (il bersaglio colpito subisce lo spell)  
     \- contatto a distanza (lo spell parte direttamente dalla canna della pistola, come se fosse lanciato dal tiratore)  
 
-*   **Bacchetta con "Sure Casting"**: batteria da 5 cariche, ogni spell lanciato con questa bacchetta riceve i benefici di sure casting (+5 superare RI)  
-
-*   **AR.P. (Armatura Potenziata) (+1 -> +5) (°, °°, °°°)**: batteria da 20 cariche (1 carica alimenta x 1 ora l'armatura, ogni carica ulteriore può attivare uno spell memorizzato o una proprietà dell'armatura), la carica base che alimenta queste armature permette di utilizzarle senza avere competenza (i relativi malus però al nascondersi o al fallimento incantesimi cmq permangono). Inoltre, molte di queste armature permettono di immagazzinare 1 o proprietà magiche per armature oppure 1 o più spell di potenziamento e di attivarli a discrezione dell'utilizzatore (es protezioni dall'energia, volare, pelle di pietra, forza del toro ecc.).  
-    Questi sistemi si possono applicare anche su armature già incantate (non si può cmq superare il bonus massimo totale di +10).  
+*   **AR.P. (Armatura Potenziata) (+1 -> +3) (°, °°, °°°)**: batteria da 20 cariche (1 carica alimenta x 1 ora l'armatura, ogni carica ulteriore può attivare uno spell memorizzato o una proprietà dell'armatura), la carica base che alimenta queste armature permette di utilizzarle senza avere competenza (i relativi malus però al nascondersi o al fallimento incantesimi cmq permangono). Inoltre, molte di queste armature permettono di immagazzinare 1 o proprietà magiche per armature oppure 1 o più spell di potenziamento e di attivarli a discrezione dell'utilizzatore (es protezioni dall'energia, volare, pelle di pietra, forza del toro ecc.).  
+    Questi sistemi si possono applicare anche su armature già incantate (non si può cmq superare il bonus massimo totale da regolamento).  
     I potenziamenti possono essere cambiati/preparati lanciando semplicemente lo spell richiesto per la capacità (vedi il capitolo capacità magiche armature di Pathfinder).  
 
-*   **A.M.P. (Armi da Mischia Potenziate) (+1 -> +5) (°, °°, °°°)**: batterie da 5 cariche (armi piccole) o 10 (armi medie/grandi), ogni carica abilita per un'ora una proprietà magica per armi o un incantesimo lanciata su uno dei poli di memoria in Noqual disponibili.  
+*   **A.M.P. (Armi da Mischia Potenziate) (+1 -> +3) (°, °°, °°°)**: batterie da 5 cariche (armi piccole) o 10 (armi medie/grandi), ogni carica abilita per un'ora una proprietà magica per armi o un incantesimo lanciata su uno dei poli di memoria in Noqual disponibili.  
     Gli spell utilizzabili sono:  
     \- area (lo spell si attiva nel punto d'impatto), coni e fulmini partono dal punto d'impatto propagandosi alle spalle del bersaglio  
     \- contatto in mischia (il bersaglio colpito subisce lo spell)  
-    Questi sistemi si possono applicare anche su armi già incantate (non si può cmq superare il bonus massimo totale di +10).  
+    Questi sistemi si possono applicare anche su armi già incantate (non si può cmq superare il bonus massimo totale da regolamento).  
     I potenziamenti possono essere cambiati/preparati lanciando semplicemente lo spell richiesto per la capacità (vedi il capitolo capacità magiche armi di Pathfinder).
 
 
