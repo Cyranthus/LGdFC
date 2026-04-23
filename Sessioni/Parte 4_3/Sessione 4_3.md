@@ -22,8 +22,29 @@
   
   Nelle case, ci sono i corpi dei cittadini morti, nei modi più orribili.
   La scia di morti porta gli eroi a 4 case più distante, quella che si rivela essere di Marnis e Selka Vordane; il gruppo di Cercatori sta torturando e interrogando i due fratelli: addosso a uno dei due hanno trovato una metà della chiave....
+  
+  Possibile combat contro 8 cercatori:
+  
+  Squadra 1:
+  - Chierico CR 9: [High Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=3447)
+  - Caster CR 9: [Mirror Seer](https://2e.aonprd.com/NPCs.aspx?ID=3541)
+  - gg
+  - vv
+
+  Squadra 2:
+  - Chierico CR 9: [Traveling Priest of Desna](https://2e.aonprd.com/NPCs.aspx?ID=3448)
+  - fff
+  - gg
+  - gg
+
 
 - **L'Alba (Arrivo dei pirati)**
+  possibile Combat contro i pirati (Moderate 160xp):
+  - 1x Capitano Creed, CR 11: https://2e.aonprd.com/NPCs.aspx?ID=966
+  - 1x Mage Knight, CR 10: https://2e.aonprd.com/NPCs.aspx?ID=3531
+  - 6x Pirates (assassin), CR 8: https://2e.aonprd.com/NPCs.aspx?ID=3434
+
+
 
 - Grotta del tesoro nascosto
 

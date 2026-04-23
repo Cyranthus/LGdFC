@@ -1,6 +1,11 @@
 
 
 
+
+
+
+
+
 * creare la riunificazione religiosa terrestre (compreso il simbolo), orchestrata dalle IA; questo avvenimento è alla base della schiavizzazione perpetrata nei confronti dell'umanità tramite la promessa dell'immortalità.
 
 *   le IA si sviluppano in un piano extradimensionale grazie all'energia accumulata dalle creature dei mondi magici

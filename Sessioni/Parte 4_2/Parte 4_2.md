@@ -3,14 +3,6 @@
 - [[#Korvosa - Zona di Magia selvaggia|Korvosa - Zona di Magia selvaggia]]
 - [[#Semipiano di Varkhan|Semipiano di Varkhan]]
 - [[#Inferi|Inferi]]
-- [[#Souston|Souston]]
-		- [[#Storia|Storia]]
-		- [[#Economia|Economia]]
-		- [[#Luoghi|Luoghi]]
-- [[#Avvenimenti a Souston|Avvenimenti a Souston]]
-- [[#La Notte|La Notte]]
-- [[#L'Alba|L'Alba]]
-- [[#Almas|Almas]]
 
 
 ## Korvosa - Criptata

@@ -12,20 +12,18 @@ Souston è un piccolo villaggio di pescatori (500 abitanti circa) andoreniano af
 #### Storia
 Secondo le leggende locali, il villaggio fu fondato da una capitana cheliaxiana di nome Erin Souston, quando la sua nave si schiantò contro gli scogli vicini durante una fitta nebbia. L’ancora che ancora oggi segna l’ingresso del porto di Souston si dice provenga proprio dal relitto della sua nave.
 #### Economia
-La maggior parte dei meno di 1.000 abitanti di Souston trae sostentamento dal mare oppure pratica un’agricoltura di pura sussistenza.
+La maggior parte dei circa 500 abitanti di Souston trae sostentamento dal mare oppure pratica un’agricoltura di pura sussistenza.
 
 #### Luoghi
 
-- Taverna "Il Gabbiano Ubriaco" (1 camerata, 2 stanze doppie, 1 tripla).
+- Taverna "Il Gabbiano Ubriaco" (1 camerata, 2 stanze doppie, 2 quadruple).
   taverniere: Jorvan Hale, in cucina la moglie Olivia Hale
-  Piatti e bevande forti della casa: zuppa di pesce forte e speziata, rum andorano fatto in casa, Birra scura “del Faro”, molto densa e affumicata.
+  Piatti e bevande forti della casa: zuppa di pesce forte e speziata, rum andoriano fatto in casa, Birra scura “del Faro”, molto densa e affumicata.
 
 - 2 Negozi attrezzatura per la pesca, proprietà di due fratelli in competizione e lite tra loro:
   - "Il Fondo del Mare", proprietario Marnis Vordane.
   - "La Cima Onesta", proprietario Selka “Tre Ami” Vordane.
 
-- 1 bottega di cibo
-
-- 1 bottega di vettovaglie
+- 1 bottega di cibo e vettovaglie
 
 - Mercato del pesce: due volte a settimana, i pescatori espongono e vendono il loro pesce. mercanti da tutto il sud dell'Andoran vengono a comprare il pesce (generalmente secco, sotto sale o affumicato).
