@@ -27,13 +27,13 @@
   
   Squadra 1:
   - Chierico CR 9: [High Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=3447)
-  - Caster CR 9: [Mirror Seer](https://2e.aonprd.com/NPCs.aspx?ID=3541)
+  - Caster CR 9: [Yabin the Just (Level 9)](https://2e.aonprd.com/NPCs.aspx?ID=1448)
   - gg
   - vv
 
   Squadra 2:
   - Chierico CR 9: [Traveling Priest of Desna](https://2e.aonprd.com/NPCs.aspx?ID=3448)
-  - fff
+  - Caster CR 9: [Bhazrade And Klanthor](https://2e.aonprd.com/NPCs.aspx?ID=4073)
   - gg
   - gg
 
