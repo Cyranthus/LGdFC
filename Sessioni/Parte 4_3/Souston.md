@@ -27,3 +27,45 @@ La maggior parte dei circa 500 abitanti di Souston trae sostentamento dal mare o
 - 1 bottega di cibo e vettovaglie
 
 - Mercato del pesce: due volte a settimana, i pescatori espongono e vendono il loro pesce. mercanti da tutto il sud dell'Andoran vengono a comprare il pesce (generalmente secco, sotto sale o affumicato).
+
+
+### Secret and Clues
+
+- [ ] Si vocifera che il Capitano Souston era un fervente credente di un'antica divinità dei mari (Dagon); si vocifera che vi sono ancora dei credenti della stessa divinità in città.
+- [ ] Marnis Vordane: possiede una metà della chiave che apre l'accesso segreto del covo del Capitano Souston
+- [ ] Selka Vordane: possiede una metà della chiave che apre l'accesso segreto del covo del Capitano Souston
+- [ ] I due fratelli Vordane hanno due chip background.
+
+### Fantastic Locations
+
+- **[[Souston]]**: è un piccolo villaggio di pescatori (500 abitanti circa) andoreniano affacciato sul Mare Interno, situato a circa 240 miglia esattamente a est della capitale, Almas. L’abitato è composto da piccole baracche dai colori vivaci, addossate alla costa dolcemente digradante.
+- **Location 2**: feature, feature, feature
+
+### NPCs
+
+- **Marnis Vordane**
+    - Appearance: Anziano molto cordiale, guercio da un occhio
+    - Role/Occupation: venditore
+    - Notable Traits/Quirks: ridacchia tipo alla fine di ogni frase
+    - Roleplaying Tips
+    - Relevant Secrets/Motivations: 
+      - possiede una metà della chiave del covo del Capitano Souston
+      - è un adoratore di Dagon
+      - ha un chip per il bg
+      
+- **Selka Vordane**
+    - Appearance Anziano burbero e scontroso
+    - Role/Occupation
+    - Notable Traits/Quirks: è sordo e s'incazza se glielo si fa notare
+    - Roleplaying Tips
+    - Relevant Secrets/Motivations:
+      - possiede una metà della chiave del covo del Capitano Souston
+      - è un adoratore di Dagon
+      - ha un chip per il bg
+
+- **Jorvan Hale**
+    - Appearance: uomo di mezz'età
+    - Role/Occupation
+    - Notable Traits/Quirks: accogliente e cordiale
+    - Roleplaying Tips: preoccupato per i pirati, nel caso comunica agli avventurieri della minaccia dei pirati
+    - Relevant Secrets/Motivations: ha un chip pwe il bg

@@ -1,4 +1,12 @@
 
+- [[#Avvenimenti a Souston|Avvenimenti a Souston]]
+	- [[#Avvenimenti a Souston#Scenes|Scenes]]
+- [[#Almas|Almas]]
+		- [[#Scenes#A. Goal and Method|A. Goal and Method]]
+		- [[#Scenes#B. Performance Hooks (limit to two)|B. Performance Hooks (limit to two)]]
+		- [[#Scenes#C. Active Problem|C. Active Problem]]
+
+
 - Nella prima notte di riposo, Viktor riceve questo messaggio in sogno, da parte di Elowen: *"Daienne, spero stiate tutti bene, abbiamo trovato un collegamento sicuro e stabile, per ora. Incontriamoci al Fienile di Totter, ad Almas. Vi attenderemo lì."*
 
 - Se gli eroi decideranno di andare ad Almas, potrebbero voler usare il portale attivo di Souston (nel seminterrato di una catapecchia abbandonata).
@@ -21,91 +29,84 @@
   Uscendo, Perception 25: ci sono diverse orme, recenti, che escono dalla taverna (dalla camerata) e che proseguono lungo la via, infilandosi nella prima casa... altre orme proseguono.
   
   Nelle case, ci sono i corpi dei cittadini morti, nei modi più orribili.
-  La scia di morti porta gli eroi a 4 case più distante, quella che si rivela essere di Marnis e Selka Vordane; il gruppo di Cercatori sta torturando e interrogando i due fratelli: addosso a uno dei due hanno trovato una metà della chiave....
+  La scia di morti porta gli eroi a 4 case più distante, quella che si rivela essere di Marnis e Selka Vordane; il gruppo di Cercatori (Squadra 1) sta torturando e interrogando i due fratelli: addosso a uno dei due hanno trovato una metà della chiave...
+  
+  Poco dopo la Squadra 2 raggiunge li gruppo, anche loro svegliati.
+  
+  Seraphine cercherà di calmare gli eroi e di eventualmente collaborare con loro per dividersi il bottino.
   
   Possibile combat contro 8 cercatori:
   
   Squadra 1:
-  - Chierico CR 9: [High Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=3447)
-  - Caster CR 9: [Yabin the Just (Level 9)](https://2e.aonprd.com/NPCs.aspx?ID=1448)
-  - gg
-  - vv
+  - Seraphine (umana) - Chierico CR 9: [High Priest of Pharasma](https://2e.aonprd.com/NPCs.aspx?ID=3447)
+  - Korvin (elfo)- Caster CR 9: [Yabin the Just (Level 9)](https://2e.aonprd.com/NPCs.aspx?ID=1448)
+  - Aldren Falcochiaro - Warrior CR 9: [Commander Arsiella Dei](https://2e.aonprd.com/NPCs.aspx?ID=3831)
+  - Asha (mezzelfo) - Mixed fighter CR 9: [Blade Mercenary](https://2e.aonprd.com/NPCs.aspx?ID=2551)
 
   Squadra 2:
-  - Chierico CR 9: [Traveling Priest of Desna](https://2e.aonprd.com/NPCs.aspx?ID=3448)
-  - Caster CR 9: [Bhazrade And Klanthor](https://2e.aonprd.com/NPCs.aspx?ID=4073)
-  - gg
-  - gg
+  - Darian Forgiachiara (nana) - Chierico CR 9: [Traveling Priest of Desna](https://2e.aonprd.com/NPCs.aspx?ID=3448)
+  - Nyssara - Caster CR 9: [Bhazrade And Klanthor](https://2e.aonprd.com/NPCs.aspx?ID=4073)
+  - Rovik (nano) - Warrior CR 9: [Valerie (Level 9)](https://2e.aonprd.com/NPCs.aspx?ID=2402)
+  - Keldric - Rogue CR 9: [Mercenary Assassin](https://2e.aonprd.com/NPCs.aspx?ID=2543)
 
 
 - **L'Alba (Arrivo dei pirati)**
-  possibile Combat contro i pirati (Moderate 160xp):
+  All'alba, come promesso, arriverà il Capitano Creed.
+  una scialuppa approderà sulla costa, con 8 uomini.
+  a circa 200 m dalla costa si vede la loro nave
+  
+  Combat contro i pirati (Moderate 160xp):
   - 1x Capitano Creed, CR 11: https://2e.aonprd.com/NPCs.aspx?ID=966
   - 1x Mage Knight, CR 10: https://2e.aonprd.com/NPCs.aspx?ID=3531
   - 6x Pirates (assassin), CR 8: https://2e.aonprd.com/NPCs.aspx?ID=3434
+   
+   Sulla nave:
+  - 6x pirata CR 3: [Elite Pirate](https://2e.aonprd.com/NPCs.aspx?ID=3599)
+  - 2x pirata CR 6: [Ship Captain](https://2e.aonprd.com/NPCs.aspx?ID=3604)
+
+Nella stiva ci sono Doppak e altri 40 schiavi, tutti appartenenti alla tribù di Doppo.
 
 
 
-- Grotta del tesoro nascosto
+- **Grotta del tesoro nascosto**
+  
+  
+  
 
-### Secret and Clues
-
-- [ ] Si vocifera che il Capitano Souston era un fervente credente di un'antica divinità dei mari (Dagon); si vocifera che vi sono ancora dei credenti della stessa divinità in città.
-- [ ] Marnis Vordane: possiede una metà della chiave che apre l'accesso segreto del covo del Capitano Souston
-- [ ] Selka Vordane: possiede una metà della chiave che apre l'accesso segreto del covo del Capitano Souston
-- [ ] I due fratelli Vordane hanno due chip background
-
-### Fantastic Locations
-
-- **[[Souston]]**: è un piccolo villaggio di pescatori (500 abitanti circa) andoreniano affacciato sul Mare Interno, situato a circa 240 miglia esattamente a est della capitale, Almas. L’abitato è composto da piccole baracche dai colori vivaci, addossate alla costa dolcemente digradante.
-- **Location 2**: feature, feature, feature
-
-### NPCs
-
-- **Marnis Vordane**
-    - Appearance
-    - Role/Occupation
-    - Notable Traits/Quirks
-    - Roleplaying Tips
-    - Relevant Secrets/Motivations
-    - Additional Information
-        - Text
-            
-- **Selka Vordane**
-    - Appearance
-    - Role/Occupation
-    - Notable Traits/Quirks
-    - Roleplaying Tips
-    - Relevant Secrets/Motivations
-    - Additional Information
-        - Text
-
-- **Jorvan Hale**
-    - Appearance
-    - Role/Occupation
-    - Notable Traits/Quirks
-    - Roleplaying Tips
-    - Relevant Secrets/Motivations
-    - Additional Information
-        - Text
-
-### Monsters
-
-_What monsters might the characters face?_
-
-- Monster 1:
-- Monster 2:
-- Monster 3:
-
-### Treasure
-
-_Choose some interesting_ [_treasure_](https://slyflourish.com/random_generators/5e_treasure.html) _and maybe a handful of_ [_relics_](https://slyflourish.com/random_generators/relics.html)_._
-
-- Gold, gems, etc
-- Relics
-- Items
 
 
 
 
 ## Almas
+
+
+Treat locations as active systems. Prep:
+- What the location tends to do (defend, attract, consume, conceal)
+- How that shows up (layout, hazards, inhabitants, conditions)
+- What is currently unstable or changing
+
+#### A. Goal and Method
+
+This determines behavior in play.
+
+- What does this faction want?
+- How does it normally try to get it?
+
+#### B. Performance Hooks (limit to two)
+
+Choose two cues that make this faction easy to run at the table. The goal is instant recall, not detail.
+
+Examples:
+- Physical habit or detail
+- Speech pattern or verbal habit
+- Emotional baseline
+- Repeated behavior
+
+#### C. Active Problem
+
+Define something that is currently going wrong. This problem exists whether the players interact with it or not.
+
+Questions to answer:
+- What pressure is the toy under right now?
+- What happens if nothing interferes?
+- How will this situation change over time?

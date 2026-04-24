@@ -1,6 +1,9 @@
 
 https://pathfinderwiki.com/wiki/Almas
 
+https://app.demiplane.com/nexus/starfinder2e/settlements/almas-rm
+
+![[01-36-AlmasMap-GM.jpg]]
 
 **Almas** (_pronunciato “AHL-mes”_) è la **capitale della nazione di Andoran**, una **metropoli democratica e cosmopolita** situata sulla **costa meridionale di Andoran**, dove l’estuario del **fiume Andoshen** sfocia nel **Mare Interno**. La città esemplifica gli ideali andorani di **libertà personale, uguaglianza e multiculturalismo**, ed è uno dei centri politici, economici e sociali più influenti dell’intera regione del Mare Interno. [Pathfinder FR](https://www.pathfinder-fr.org/Wiki/Golarion.Almas.ashx?utm_source=chatgpt.com)
 
@@ -88,8 +91,6 @@ Quartiere residenziale su una delle colline principali della città. [Pathfinder
 
 - Mix di **residenze abbienti e popolari**. [Pathfinder FR](https://www.pathfinder-fr.org/Wiki/Golarion.Almas.ashx?utm_source=chatgpt.com)
     
-- **Loggia degli Esploratori (Pathfinder Society lodge)** presente in zona. [World Anvil](https://www.worldanvil.com/w/golarion-theaaronw0/a/almas-settlement?utm_source=chatgpt.com)
-    
 - Punti di interesse sociali come ostelli, taverne e piccoli negozi. [Pathfinder FR](https://www.pathfinder-fr.org/Wiki/Golarion.Almas.ashx?utm_source=chatgpt.com)
     
 
@@ -104,6 +105,8 @@ Sede di **edifici governativi, monumenti ed attività sociali**. [Pathfinder FR]
 - Ristoranti, locande e spazi pubblici frequentati per dibattiti e assemblee. [Pathfinder FR](https://www.pathfinder-fr.org/Wiki/Golarion.Almas.ashx?utm_source=chatgpt.com)
     
 - Collegamento diretto con il porto e altri quartieri urbani. [Pathfinder FR](https://www.pathfinder-fr.org/Wiki/Golarion.Almas.ashx?utm_source=chatgpt.com)
+
+- **Loggia degli Esploratori (Pathfinder Society lodge)** presente in zona. [World Anvil](https://www.worldanvil.com/w/golarion-theaaronw0/a/almas-settlement?utm_source=chatgpt.com)
     
 
 ---
@@ -132,7 +135,7 @@ La **zona portuale**, fondamentale per il commercio esterno di Almas. [Pathfinde
 - Banchine affollate, magazzini e uffici di spedizione. [Pathfinder FR](https://www.pathfinder-fr.org/Wiki/Golarion.Almas.ashx?utm_source=chatgpt.com)
     
 - Punto di arrivo delle merci e delle navi commerciali dirette nei mari dell’Inner Sea. [Pathfinder FR](https://www.pathfinder-fr.org/Wiki/Golarion.Almas.ashx?utm_source=chatgpt.com)
-    
+- BASE SEGRETA CORDE DORATE
 
 ---
 
