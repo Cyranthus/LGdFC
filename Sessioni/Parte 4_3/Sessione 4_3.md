@@ -70,12 +70,12 @@ Nella stiva ci sono Doppak e altri 40 schiavi, tutti appartenenti alla tribù di
 
 - **Grotta del tesoro nascosto**
   
-  
-  
+  CR 15: [Somnalu](https://2e.aonprd.com/Monsters.aspx?ID=1737)
 
 
+## Viaggio per Almas
 
-
+il viaggio dura 3 giorni a piedi
 
 ## Almas
 

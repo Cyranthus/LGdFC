@@ -98,8 +98,7 @@
               "title": "Location"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 358.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -313,22 +312,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "338b16267753b1ba",
+  "active": "f2b1d62d6fd09a8c",
   "lastOpenFiles": [
+    "Mondo/Geografia/Almas.md",
     "Sessioni/Parte 4_3/Sessione 4_3.md",
+    "Templates/Location.md",
+    "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
     "Templates/_General Template.md",
     "Templates/Encounters - Monsters.md",
     "Templates/Session.md",
     "Templates/NPC.md",
-    "Templates/Location.md",
     "Templates/Faction.md",
     "Sessioni/Parte 4_3/Souston.md",
-    "Mondo/Geografia/Almas.md",
     "01-36-AlmasMap-GM.jpg",
     "Mondo/NPC/Neutrali/Doppak -Colui che Non Muore di Sete-.md",
     "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9/Keldric Human Rogue 7_Assassin 3 - CR 9.md",
     "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9/Aldren Falcochiaro Gnome Druid 10 - CR 9.md",
-    "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
     "Mondo/NPC/Enemies_npc/pirati/Capitano Durgan -Catena Rossa- Kreed - CR 11.md",
     "BG Personaggi/Alystrin Alistrèa Nimel.md",
     "_Published_/z_Images/elowen.webp",
