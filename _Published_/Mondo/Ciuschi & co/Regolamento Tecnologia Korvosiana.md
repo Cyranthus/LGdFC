@@ -28,7 +28,7 @@ Numero di poli (se presenti):
 
 *   **Carica-batterie magia primordiale**: assorbe gli slot spell arcani/divini consumati e li converte in magia primordiale.
 
-*   **R.A.M. (Revolver Arcano Multifunzione)**: batteria da 12 cariche, è una revolver normalissima in apparenza, ma quando spara (usando le cariche), dall'impugnatura partono delle linee luminose azzurre che passano per il tamburo e la canna, attivando lo spell memorizzato nel proiettile di Noqual.  
+*   **R.A.M. (Revolver Arcano Multifunzione)**: batteria da 10 cariche, è una revolver normalissima in apparenza, ma quando spara (usando le cariche), dall'impugnatura partono delle linee luminose azzurre che passano per il tamburo e la canna, attivando lo spell memorizzato nel proiettile di Noqual.  
     Gli spell utilizzabili sono:  
     \- area (lo spell si attiva nel punto d'impatto), coni e fulmini partono dal punto d'impatto propagandosi alle spalle del bersaglio  
     \- contatto in mischia (il bersaglio colpito subisce lo spell)  

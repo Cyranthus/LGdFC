@@ -53,13 +53,15 @@ Almas non è una massa urbana monolitica, ma una **rete di quartieri e distretti
 
 ## **2. Embassy District (Distretto delle Ambasciate)**
 
-Un distretto diplomatico di prestigio, situato nella parte nord del centro urbano. Vi hanno sede le ambasciate di nazioni come **Taldor, Isger, Druma, Kyonin, Razmiran, Lastwall e Nimrathas**. [pathfinder-rpg.wikidot.com](https://pathfinder-rpg.wikidot.com/almas?utm_source=chatgpt.com)
+Un distretto diplomatico di prestigio, situato nella parte nord del centro urbano. Vi hanno sede le ambasciate di nazioni come **Taldor, Isger, Druma, Kyonin, Razmiran, Lastwall e Nimrathas**.
+Da quasi un anno le ambasciate sono chiuse.
+[pathfinder-rpg.wikidot.com](https://pathfinder-rpg.wikidot.com/almas?utm_source=chatgpt.com)
 
 ### _Caratteristiche_
 
 - **Residenze cosmopolite:** residenze di diplomatici con influenze architettoniche provenienti da tutta Golarion. [pathfinder-rpg.wikidot.com](https://pathfinder-rpg.wikidot.com/almas?utm_source=chatgpt.com)
     
-- **Viale degli Dei (Avenue of the Gods):** strada adornata da **statue monumentali delle divinità principali di Andoran** (Abadar, Calistria, Cayden Cailean, Desna, Erastil, Gorum, Gozreh, Iomedae, Irori, Nethys, Pharasma, Sarenrae, Shelyn). Luogo di pellegrinaggio e culto aperto. [pathfinder-rpg.wikidot.com](https://pathfinder-rpg.wikidot.com/almas?utm_source=chatgpt.com)
+- **Viale degli Dei (Avenue of the Gods):** strada adornata da **statue monumentali delle divinità principali di Andoran** (Abadar, Calistria, Cayden Cailean, Desna, Erastil, Gorum, Gozreh, Iomedae, Irori, Nethys, Pharasma, Sarenrae, Shelyn). Luogo di pellegrinaggio e culto aperto. Alcune statue risultano visibilmente più trascurate di altre, senza offerte e omaggi ai piedi di esse (vedi le divinità scomparse) [pathfinder-rpg.wikidot.com](https://pathfinder-rpg.wikidot.com/almas?utm_source=chatgpt.com)
     
 
 L’Embassy District è considerato **upper class**, ben sorvegliato e con elevati standard di sicurezza. [pathfinder-rpg.wikidot.com](https://pathfinder-rpg.wikidot.com/almas?utm_source=chatgpt.com)
