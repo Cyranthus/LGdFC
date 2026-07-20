@@ -77,8 +77,9 @@ Nella stiva ci sono Doppak e altri 40 schiavi, tutti appartenenti alla tribù di
 
 il viaggio dura 3 giorni a piedi
 
-## Almas
+(probabili incontri causali, forse anche altri Cercatori di rinforzo)
 
+## Almas
 
 Treat locations as active systems. Prep:
 - What the location tends to do (defend, attract, consume, conceal)

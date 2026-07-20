@@ -35,9 +35,9 @@ Questions to answer:
 - Drenna: madre di Doppo, morta durante il parto di Runna
 - Fratelli/sorelle di Doppo
 
-Doppo II
+Doppo II       Morto
 Doppo III
-Korik
+Korik             Morto
 Korika
 Korik II
 Runna
