@@ -23,3 +23,11 @@ Sotto il Decemvirato ci sono:
 Gli unici a sapere i veri obbiettivi dei Cercatori sono il Decemvirato, i Generali e i Comandanti Regionali.
 
 Capitani di Ventura e avventurieri possono essere inconsapevoli o "avatar" di terrestri giocanti.
+
+
+#### Cosa sta facendo ora
+
+
+2 divinità per un mostro
+
+2 divinità per un mostro

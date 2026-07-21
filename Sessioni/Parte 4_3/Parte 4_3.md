@@ -81,33 +81,14 @@ il viaggio dura 3 giorni a piedi
 
 ## Almas
 
-Treat locations as active systems. Prep:
-- What the location tends to do (defend, attract, consume, conceal)
-- How that shows up (layout, hazards, inhabitants, conditions)
-- What is currently unstable or changing
 
-#### A. Goal and Method
+### Fienile di Totter - Incontro con le Corde
 
-This determines behavior in play.
+devono decidere in che modo scoprire quali sono le prossime mosse dei Cercatori
 
-- What does this faction want?
-- How does it normally try to get it?
+### Viale degli Dei
 
-#### B. Performance Hooks (limit to two)
+strada adornata da **statue monumentali delle divinità principali di Andoran** (Abadar, Calistria, ***Cayden Cailean*** rovinata), Desna, Erastil, Gorum, Gozreh, ***Iomedae*** (rovinata), ***Irori*** (rovinata), Nethys, ***Pharasma*** (rovinata), Sarenrae, Shelyn). Luogo di pellegrinaggio e culto aperto. Alcune statue risultano visibilmente più trascurate di altre, senza offerte e omaggi ai piedi di esse (vedi le divinità scomparse).
+- percezione 15: tutte le statue rovinate non hanno offerte o candele sotto di esse, tutti tranne una... una molto rovinata e mezza distrutta; la scritta alla base del piedistallo è quasi illeggibile, si riconoscono le lettere "P H - - A S - -.
+- raccogliere informazioni: si dice che ogni tanto è stata vista una figura ammantata di una tunica nera lasciare offerte sotto la statua; molto spesso è stata vista di notte.
 
-Choose two cues that make this faction easy to run at the table. The goal is instant recall, not detail.
-
-Examples:
-- Physical habit or detail
-- Speech pattern or verbal habit
-- Emotional baseline
-- Repeated behavior
-
-#### C. Active Problem
-
-Define something that is currently going wrong. This problem exists whether the players interact with it or not.
-
-Questions to answer:
-- What pressure is the toy under right now?
-- What happens if nothing interferes?
-- How will this situation change over time?
