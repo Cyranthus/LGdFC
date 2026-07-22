@@ -1,14 +1,14 @@
 
-
+![[cora.jpg|500]]
 
 https://2e.aonprd.com/Monsters.aspx?ID=2441
 
 ## Nome
-Cora Lorely
+Cora Lorely / Bocciolo Eterno (Boss dei Ratti dei Rovi) 
 
 ## Ruolo / Fazione
 Vampira Thaumaturge - lvl 20
-
+Il suo nascondiglio è a North End, nel Distretto del Teatro, all'interno di un vecchio teatro in rovina.
 
 ## Aspetto
 Capelli biondi lucenti

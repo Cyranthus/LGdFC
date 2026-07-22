@@ -81,14 +81,28 @@ il viaggio dura 3 giorni a piedi
 
 ## Almas
 
+### Punti d'interesse
+#### Fienile di Totter - Incontro con le Corde
+(Vedi Fazione e Elower)
+Devono decidere in che modo scoprire quali sono le prossime mosse dei Cercatori; il fatto che stiano cercando di attivare dei super Kaiju (le progenie di Rovagug)
 
-### Fienile di Totter - Incontro con le Corde
+- infiltrarsi nel quartier generale dei Cercatori di Almas.
+- rapire un comandante di alto grado; un comandante regionale, come ad esempio Vossnik (presente ad Almas).
+- infiltrarsi nel quartier generale dei Cercatori ad Absalom (difficilissimo).
+- altre idee?
 
-devono decidere in che modo scoprire quali sono le prossime mosse dei Cercatori
 
-### Viale degli Dei
+#### Viale degli Dei
 
 strada adornata da **statue monumentali delle divinità principali di Andoran** (Abadar, Calistria, ***Cayden Cailean*** rovinata), Desna, Erastil, Gorum, Gozreh, ***Iomedae*** (rovinata), ***Irori*** (rovinata), Nethys, ***Pharasma*** (rovinata), Sarenrae, Shelyn). Luogo di pellegrinaggio e culto aperto. Alcune statue risultano visibilmente più trascurate di altre, senza offerte e omaggi ai piedi di esse (vedi le divinità scomparse).
-- percezione 15: tutte le statue rovinate non hanno offerte o candele sotto di esse, tutti tranne una... una molto rovinata e mezza distrutta; la scritta alla base del piedistallo è quasi illeggibile, si riconoscono le lettere "P H - - A S - -.
+- percezione 15: tutte le statue rovinate non hanno offerte o candele sotto di esse, tutti tranne una... una molto rovinata e mezza distrutta; la scritta alla base del piedistallo è quasi illeggibile, si riconoscono le lettere "P H - - A S - -". Ai piedi di questa statua, c'è un piccolo mazzetto di rose nere, senza spine (Ricordare Conoscenze 30: Le rose nere senza spine erano una tipica offerta fatta a Pharasma dai suoi fedeli).
 - raccogliere informazioni: si dice che ogni tanto è stata vista una figura ammantata di una tunica nera lasciare offerte sotto la statua; molto spesso è stata vista di notte.
 
+#### Distretto del Teatro
+
+##### Teatro del Cigno
+L'ingresso del teatro è magico; a discrezione di Cora (o se si possiede una piccola spilla a forma di rosa nera senza spine), chi varca l'ingresso può entrare nel teatro fatiscente o nel nascondiglio dei Ratti dei Rovi.
+
+//Foto Teatro Fatiscente
+
+//Foto Base Ratti dei Rovi
