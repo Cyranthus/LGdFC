@@ -82,23 +82,26 @@ il viaggio dura 3 giorni a piedi
 ## Almas
 
 ### Punti d'interesse
-#### Fienile di Totter - Incontro con le Corde
+
+#### **East Hill**
+
+##### Fienile di Totter - Incontro con le Corde
 (Vedi Fazione e Elower)
 Devono decidere in che modo scoprire quali sono le prossime mosse dei Cercatori; il fatto che stiano cercando di attivare dei super Kaiju (le progenie di Rovagug)
+
+Ricordare Conoscenze su Progenie di Rovagug, CD 25: La leggenda narra che quando le Progenie si risveglieranno, esse cercheranno di riunirsi; una volta riunitesi, Rovagug verrà finalmente risvegliato ed inghiottirà il mondo. 
 
 - infiltrarsi nel quartier generale dei Cercatori di Almas.
 - rapire un comandante di alto grado; un comandante regionale, come ad esempio Vossnik (presente ad Almas).
 - infiltrarsi nel quartier generale dei Cercatori ad Absalom (difficilissimo).
 - altre idee?
 
-
-#### Viale degli Dei
-
+##### Viale degli Dei
 strada adornata da **statue monumentali delle divinità principali di Andoran** (Abadar, Calistria, ***Cayden Cailean*** rovinata), Desna, Erastil, Gorum, Gozreh, ***Iomedae*** (rovinata), ***Irori*** (rovinata), Nethys, ***Pharasma*** (rovinata), Sarenrae, Shelyn). Luogo di pellegrinaggio e culto aperto. Alcune statue risultano visibilmente più trascurate di altre, senza offerte e omaggi ai piedi di esse (vedi le divinità scomparse).
 - percezione 15: tutte le statue rovinate non hanno offerte o candele sotto di esse, tutti tranne una... una molto rovinata e mezza distrutta; la scritta alla base del piedistallo è quasi illeggibile, si riconoscono le lettere "P H - - A S - -". Ai piedi di questa statua, c'è un piccolo mazzetto di rose nere, senza spine (Ricordare Conoscenze 30: Le rose nere senza spine erano una tipica offerta fatta a Pharasma dai suoi fedeli).
 - raccogliere informazioni: si dice che ogni tanto è stata vista una figura ammantata di una tunica nera lasciare offerte sotto la statua; molto spesso è stata vista di notte.
 
-#### Distretto del Teatro
+#### **Distretto del Teatro**
 
 ##### Teatro del Cigno
 L'ingresso del teatro è magico; a discrezione di Cora (o se si possiede una piccola spilla a forma di rosa nera senza spine), chi varca l'ingresso può entrare nel teatro fatiscente o nel nascondiglio dei Ratti dei Rovi.
@@ -106,3 +109,55 @@ L'ingresso del teatro è magico; a discrezione di Cora (o se si possiede una pic
 //Foto Teatro Fatiscente
 
 //Foto Base Ratti dei Rovi
+
+
+
+#### **Campo della Concordia**
+
+##### Quartier Generale Regionale dei Cercatori
+
+edificio composto da:
+- 3 piani sopra la superficie
+- 1 piano sotterraneo (prigioni e accesso alla base segreta)
+- base sotterranea:
+  - piano -1: uffici, lettini di collegamento giocatori
+  - piano -2: portale di evacuazione d'emergenza, celle, armeria
+  - piano -3: dormitori, caserma, uffici ufficiali
+  - piano -4: laboratori - sezione R&D
+  - piano -5: hangar C-002 (Calamità 002)
+  
+Nell'ufficio del direttore della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità
+
+Appunti meeting 17 /06 / 5720
+
+In base ai sondaggi del pubblico, queste sono le location scelte, final target -> Andoran (Almas? da definire)
+
+The WorldWound:
+- Fase 1: Attacco finale delle orde demoniache alla città di Kenabres, attivazione C-002
+	le squadre guadagneranno punti resistendo il più possibile
+- Fase 2: Distruzione della città di Nerosyan
+	Solo intrattenimento passivo; droni dispiegati per riprese live sui vari Cercatori npc
+		(preparare tracce sonore per i momenti più drammatici e NO PUBBLICITA'!)
+
+Andoran:
+- Fase 1: Attivazione di C-003, attacco alla città di Almas
+	  Alcuni VIP hanno richiesto di partecipare, possibile stop minaccia -> arco narrativo di speranza?
+- Fase 2: se viva, C-002 prosegue nella distruzione verso nord
+
+Isger:
+- Fase 1: Attivazione di C-004 ed esercito della Setta, assedio di Elidir
+
+Cheliax
+- Fase 1: Città di Egorian, attivazione C-005
+
+Galt:
+- Fase 1: Attivazione C-006 da Boarwood, primo obiettivo Isarn.
+
+
+C-001: si attenderà la fase finale!
+
+
+
+
+
+##### Quartier Generale Cavalieri dell'Aquila

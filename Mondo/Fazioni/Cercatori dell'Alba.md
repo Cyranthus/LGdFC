@@ -30,12 +30,27 @@ Capitani di Ventura e avventurieri possono essere inconsapevoli o "avatar" di te
 - Le azioni degli eroi hanno spinto il Decemvirato ad accelerare la preparazione dell'evento apocalittico programmato, chiamato "il risveglio della Progenie di Rovagug".
 - La SAP (definita dai cercatori come Setta Anarchica della Progenie) viene indicata come principale minaccia e fautrice del tentativo di risveglio della progenie; anche gli eroi sono dei ricercati come membri della SAP, vivi o morti.
 
-3 Progenie sono in attivazione:
+6 Progenie sono in attivazione:
 
-- Tarrasque: (alimentato da Varkhan e Fortunata)
+| Nome                                                                            | GS  | Location                     |
+| ------------------------------------------------------------------------------- | --- | ---------------------------- |
+| [Kothogaz, Dance Of Disharmony](https://2e.aonprd.com/Monsters.aspx?ID=1730)    | 21  |                              |
+| [Sorvuth-Ka, Collector Of Despair](https://2e.aonprd.com/Monsters.aspx?ID=4560) | 24  |                              |
+| [Tarrasque, The Armageddon Engine](https://2e.aonprd.com/Monsters.aspx?ID=490)  | 25  | nel mare tra Absalom e Almas |
+| [Verex-That-Was](https://2e.aonprd.com/Monsters.aspx?ID=3409)                   | 24  |                              |
+| [Volnagur, The Endsinger](https://2e.aonprd.com/Monsters.aspx?ID=4559)          | 22  |                              |
+| [Xotani, The Firebleeder](https://2e.aonprd.com/Monsters.aspx?ID=491)           | 20  |                              |
+
+
+
+- Tarrasque: (alimentato da Varkhan e Fortunata) -> attivato sotto Absalom
   https://pf2.altervista.org/wiki/Tarrasque
 
-- Xotani: (alimentato da Iomedae e Cayden Cailean)
+- Xotani: (alimentato da Iomedae e Cayden Cailean) -> 
   https://pf2.altervista.org/wiki/Xotani
 
 - ?????: (alimentato da Norgorber e Irori)
+
+
+
+quando tutte e 6 si riuniranno, verrà risvegliato Rovagug
