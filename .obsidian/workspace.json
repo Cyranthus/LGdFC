@@ -6,7 +6,7 @@
       {
         "id": "3c2d6a6f2d582414",
         "type": "tabs",
-        "dimension": 36.72704559650219,
+        "dimension": 48.68362338241856,
         "children": [
           {
             "id": "411c375bb21168c9",
@@ -36,12 +36,13 @@
               "title": "Cercatori dell'Alba"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b72f8e35ba48d1ff",
         "type": "tabs",
-        "dimension": 63.27295440349781,
+        "dimension": 51.31637661758144,
         "children": [
           {
             "id": "8b0b146e65c2fa84",
@@ -154,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -177,7 +178,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora risorse"
             }
           },
           {
@@ -356,23 +357,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "bases:Crea nuova Base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "411c375bb21168c9",
+  "active": "fcb88b7e46ebcd40",
   "lastOpenFiles": [
-    "Sessioni/Parte 4_3/Almas - Dati Sessione.md",
-    "Sessioni/Parte 4_3/Parte 4_3.md",
     "Mondo/Fazioni/Le Corde Dorate - Liberatori Galattici del Fuoco Celeste.md",
+    "Sessioni/Parte 4_3/Parte 4_3.md",
+    "Sessioni/Parte 4_3/Almas - Dati Sessione.md",
     "Mondo/Fazioni/Mondi Fantasma.md",
     "Mondo/NPC/Enemies_npc/Cercatori - giocatori_npc/Comandante Regionale Vossnik.md",
     "Mondo/NPC/Le Corde Dorate_npc/Ziam - Alotta Bang Bang.md",

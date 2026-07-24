@@ -4,7 +4,7 @@ Scopo: gruppo di resistenza che lottò per la libertà dei popoli magici (in pas
 L'unica eredità di questa resistenza sono le attuali Corde Dorate.
 Sono un gruppo segreto di avventurieri addestrati e scelti dagli abitanti dei Mondi Fantasma.
 
-	Solo negli ultimi decenni (dopo la scomparsa di Pharasma che ha permesso la nascita di potenziali anomalie) un gruppo clandestino discendente da quelli che erano una volta i Liberatori Galattici del Fuoco Celeste ha iniziato ad organizzare una sorta di rinascita della resistenza nell'unico pianeta (Golarion) che, in millenni di dominazione, ha recentemente registrato la nascita di anomalie.
+Solo negli ultimi decenni (dopo la scomparsa di Pharasma che ha permesso la nascita di potenziali anomalie) un gruppo clandestino discendente da quelli che erano una volta i Liberatori Galattici del Fuoco Celeste ha iniziato ad organizzare una sorta di rinascita della resistenza nell'unico pianeta (Golarion) che, in millenni di dominazione, ha recentemente registrato la nascita di anomalie.
 
 Le Corde non sono altro che Cercatori "Hackerati" al cui link neurale non viene soppressa la volontà dell'ospite ma anzi hanno accettato di collaborare con gli umani naturali. In alcuni casi sono corpi in cui la coscienza è già stata svuotata, quindi
 
