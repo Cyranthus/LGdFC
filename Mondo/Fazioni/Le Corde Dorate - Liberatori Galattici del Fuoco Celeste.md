@@ -1,12 +1,12 @@
 
-Scopo: gruppo di resistenza che lottò per la libertà dei popoli magici (in passato sparsi su vari pianeti-piantagione, attualmente solo su Golarion); non esiste più alcun gruppo organizzato, le sue forze sono state sconfitte millenni fa.
+Scopo: gruppo di resistenza che lottò per la libertà dei popoli magici (in passato sparsi su vari pianeti-piantagione); non esiste più alcun gruppo organizzato, le sue forze sono state sconfitte millenni fa, i pochi sopravvissuti hanno trovato rifugio in un sistema remoto, ai confini della galassia, chiamato Mondi Fantasma, la stella è chiamata Nys.
 
 L'unica eredità di questa resistenza sono le attuali Corde Dorate.
 Sono un gruppo segreto di avventurieri addestrati e scelti dagli abitanti dei Mondi Fantasma.
 
 Solo negli ultimi decenni (dopo la scomparsa di Pharasma che ha permesso la nascita di potenziali anomalie) un gruppo clandestino discendente da quelli che erano una volta i Liberatori Galattici del Fuoco Celeste ha iniziato ad organizzare una sorta di rinascita della resistenza nell'unico pianeta (Golarion) che, in millenni di dominazione, ha recentemente registrato la nascita di anomalie.
 
-Le Corde non sono altro che Cercatori "Hackerati" al cui link neurale non viene soppressa la volontà dell'ospite ma anzi hanno accettato di collaborare con gli umani naturali. In alcuni casi sono corpi in cui la coscienza è già stata svuotata, quindi
+Le Corde non sono altro che Cercatori "Hackerati" al cui link neurale non viene soppressa la volontà dell'ospite ma anzi hanno accettato di collaborare con gli ospiti esterni. In alcuni casi sono corpi in cui la coscienza è già stata svuotata, quindi
 
 - Le Corde Dorate riescono a collegarsi tramite navi stealth che permettono di collegarsi ai portali tramite la Deriva.
 - Da decenni sono alla ricerca delle anomalie... Alotta e il suo link neurale Ziam, pensano di averne trovata una creatura che spicca tra molte (Viktor).

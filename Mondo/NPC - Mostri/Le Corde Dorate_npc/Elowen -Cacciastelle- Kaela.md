@@ -5,46 +5,40 @@ _Resistete, restate vivi e uniti, e non fatevi scovare dai Cercatori. Vi riconta
 
 ![[elowen.webp]]
 
+## Nome
 Elowen (Kaela)
 
-Conoscenze
-Vedi Mondi Fantasma
-
-
-## Nome
-
-
 ## Ruolo / Fazione
-
+Corde Dorate / Mondi Fantasma (fazione indipendente)
 
 ## Aspetto
 *1-2 tratti memorabili*
 
 
 ## Manierismo / Voce distintiva
-
+affabile e gentile
 
 ## Personalità
-*2-3 aggettivi o un archetipo*
+viscerale e pura, molto trasparaente nei modi e nelle intenzioni
 
 
 ## Obiettivo attuale
-- *Cosa vuole ora?*
-- *Come cerca di ottenerlo*
+- scoprire quali sono i prossimi piani dei Cercatori
+- scoprire il segreto della loro immortalità
+- trovare un modo per fermarli, qualunque cosa stiano facendo
 
 
 ## Legame con la trama / fazione
-
+- Hanno contatti con la SAP, unica organizzazione attualmente nota che si contrappone ai Cercatori
 
 ## Gancio o segreto
-
+Vedi Fazione Le corde dorate
 
 ## Possibile reazione ai PG
 *Alleato, ostacolo, ambiguo?*
 
 
 ## Problema Attivo
-*Definisci il problema/ostacolo per l'NPC. Questo problema esiste a prescindere che gli eroi ci interagiscano o meno.*
-- *Quanta pressione fa questo problema sull'NPC?*
-- *Che succede se gli eroi non fanno nulla?*
-- *Come cambierà la situazione nel tempo?*
+- hanno poco potenziale
+- non conoscono i piani del nemico
+- se gli eroi si rifiutano, riprenderanno la ricerca di altre anomalie e proveranno ad infiltrarsi nel quartier generale dei Cercatori

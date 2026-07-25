@@ -32,17 +32,6 @@ Capitani di Ventura e avventurieri possono essere inconsapevoli o "avatar" di te
 
 6 Progenie sono in attivazione:
 
-| Nome                                                                            | GS  | Location                     |
-| ------------------------------------------------------------------------------- | --- | ---------------------------- |
-| [Kothogaz, Dance Of Disharmony](https://2e.aonprd.com/Monsters.aspx?ID=1730)    | 21  |                              |
-| [Sorvuth-Ka, Collector Of Despair](https://2e.aonprd.com/Monsters.aspx?ID=4560) | 24  |                              |
-| [Tarrasque, The Armageddon Engine](https://2e.aonprd.com/Monsters.aspx?ID=490)  | 25  | nel mare tra Absalom e Almas |
-| [Verex-That-Was](https://2e.aonprd.com/Monsters.aspx?ID=3409)                   | 24  |                              |
-| [Volnagur, The Endsinger](https://2e.aonprd.com/Monsters.aspx?ID=4559)          | 22  |                              |
-| [Xotani, The Firebleeder](https://2e.aonprd.com/Monsters.aspx?ID=491)           | 20  |                              |
-
-
-
 - Tarrasque: (alimentato da Varkhan e Fortunata) -> attivato sotto Absalom
   https://pf2.altervista.org/wiki/Tarrasque
 

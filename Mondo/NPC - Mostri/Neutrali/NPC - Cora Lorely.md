@@ -24,7 +24,8 @@ S'infervora e appassiona se si parla di qualcosa che non sa riguardo ad antichi 
 
 ## Obiettivo attuale
 - Vuole scoprire che fine ha fatto Pharasma/chi l'ha uccisa; vuole scoprire che fine hanno fatto gli altri dei.
-- Ha già provato ad infiltrarsi tra i Cercatori per raccogliere informazioni/depredare possibili oggetti magici/artefatti utili 
+- Ha già provato ad infiltrarsi tra i Cercatori per raccogliere informazioni/depredare possibili oggetti magici/artefatti utili, ma non ha mai scoperto nulla di veramente utile.
+- Sa che le spille dei Cercatori tracciano la posizione dei portatori,
 
 
 ## Legame con la trama / fazione
@@ -33,6 +34,7 @@ neutrale
 ## Gancio o segreto
 E' Korvosiana, ha conosciuto il gruppo di Vickster, ma nel periodo del cataclisma aveva già lasciato la città per una missione richiesta dai suoi superiori (qualche tempo dopo la caduta della regina Ileosa).
 Quando venne a sapere del cataclisma ovviamente la cosa la devastò specialmente perchè, contemporaneamente, perse il contatto con la sua dea... E questa cosa ovviamente l'ha sempre trovata sospetta...
+
 I decenni successivi furono molto duri, la sparizione di Pharasma incrementò di molto l'attività dei non morti, e la loro lotta, privai dei poteri, è stata molto dura...
 tanto che Cora e i suoi compagni vennero sconfitti da un potente vampiro, Lord Valentyr; lei venne risparmiata e tramutata in vampiro a sua volta.
 Ci vollero secoli perchè lei riuscisse a ribellarsi al suo padrone (e ucciderlo).

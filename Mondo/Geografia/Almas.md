@@ -68,7 +68,7 @@ L’Embassy District è considerato **upper class**, ben sorvegliato e con eleva
 
 ---
 
-## **3. Mercantile District (Distretto Mercantile)**
+## **3. Mercantile District (Tra Liberty District e Portside)**
 
 È il **cuore commerciale** di Almas, un dedalo di viuzze affollate e banchi dove si svolge il commercio quotidiano. [pathfinder-rpg.wikidot.com+1](https://pathfinder-rpg.wikidot.com/almas?utm_source=chatgpt.com)
 

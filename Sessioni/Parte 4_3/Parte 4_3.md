@@ -77,12 +77,15 @@ Nella stiva ci sono Doppak e altri 40 schiavi, tutti appartenenti alla tribù di
 
 - **Grotta del tesoro nascosto**
   
-  CR 15: [Somnalu](https://2e.aonprd.com/Monsters.aspx?ID=1737)
+  Sotto il negozio di Marnis Vordane o Selka Vordane, nello scantinato, c'è l'accesso a una caverna sotterranea, un cunicolo lunga circa 50 m, dalla costa verso le colline, accessibile solo durante la bassa marea.
+  in fondo al cunicolo s'intravede una porta scavata nella roccia, al centro c'è l'incavo che combacia con la chiave dei fratelli Vordane.
+  L'ingresso si apre in una stanza molto ampia, colma di oro e pietre preziose.
+  Un oggetto sfavillante attira l'attenzione del gruppo, un tridente, al centro della stanza
   
-  Tesoro:
-  [Greater Trident of the Azarketis](https://2e.aonprd.com/Equipment.aspx?ID=4976) (13)
-	Price 2,700 gp
-	This is a +2 greater striking trident. When you activate the trident to cast hydraulic torrent, the spell is 6th-rank (DC 31).
+  [Somnalu](https://2e.aonprd.com/Monsters.aspx?ID=1737) oppure [Giant Aukashungi](https://2e.aonprd.com/Monsters.aspx?ID=526)
+  
+  - Tesoro 10000 mo
+  - [Tidal Crossbow](https://2e.aonprd.com/Equipment.aspx?ID=3211)
 
 ## Viaggio per Almas
 
@@ -102,30 +105,39 @@ Devono decidere in che modo scoprire quali sono le prossime mosse dei Cercatori.
 
 Ricordare Conoscenze su Progenie di Rovagug, CD 25: La leggenda narra che quando le Progenie si risveglieranno, esse cercheranno di riunirsi; una volta riunitesi, Rovagug verrà finalmente risvegliato ed inghiottirà il mondo. 
 
-- infiltrarsi nel quartier generale dei Cercatori di Almas.
+- infiltrarsi nel quartier generale dei Cercatori di Almas (servirà ottenere spille adeguate/contraffatte dai Ratti dei Rovi).
 - rapire un comandante di alto grado; un comandante regionale, come ad esempio Vossnik (presente ad Almas).
 - infiltrarsi nel quartier generale dei Cercatori ad Absalom (difficilissimo).
 - altre idee?
 
 Se gli eroi parleranno della Nave, Elowen farà fatica a nascondere lo stupore; le navi con la tecnologia di deriva sono molto poche, in possesso dei mondi fantasma. ma soprattutto non hanno modo di costruirne altre.
 E quella nave potrebbe essere la chiave per recuperare il processo costruttivo; bisogna ritrovare M.O.T.H.E.R.
+
 ##### Viale degli Dei
 strada adornata da **statue monumentali delle divinità principali di Andoran** (Abadar, Calistria, ***Cayden Cailean*** rovinata), Desna, Erastil, Gorum, Gozreh, ***Iomedae*** (rovinata), ***Irori*** (rovinata), Nethys, ***Pharasma*** (rovinata), Sarenrae, Shelyn). Luogo di pellegrinaggio e culto aperto. Alcune statue risultano visibilmente più trascurate di altre, senza offerte e omaggi ai piedi di esse (vedi le divinità scomparse).
 - percezione 15: tutte le statue rovinate non hanno offerte o candele sotto di esse, tutti tranne una... una molto rovinata e mezza distrutta; la scritta alla base del piedistallo è quasi illeggibile, si riconoscono le lettere "P H - - A S - -". Ai piedi di questa statua, c'è un piccolo mazzetto di rose nere, senza spine (Ricordare Conoscenze 30: Le rose nere senza spine erano una tipica offerta fatta a Pharasma dai suoi fedeli).
 - raccogliere informazioni: si dice che ogni tanto è stata vista una figura ammantata di una tunica nera lasciare offerte sotto la statua; molto spesso è stata vista di notte.
+
+
+##### Nascondiglio Corde Dorate
+
+In una casa a due piani, abitata da un'anziana signora (Guendaline, è la nonna di Elowen) a sud di East Hill, vicino al porto, c'è il nascondiglio delle Corde Dorate.
+Nel sottosuolo, dalla cantina della casa si accede a un ampio spazio di 4 locali 
 
 #### **Distretto del Teatro**
 
 ##### Teatro del Cigno
 L'ingresso del teatro è magico; a discrezione di Cora (o se si possiede una piccola spilla a forma di rosa nera senza spine), chi varca l'ingresso può entrare nel teatro fatiscente o nel nascondiglio dei Ratti dei Rovi.
 
-//Foto Teatro Fatiscente
+//Foto Teatro Fatiscente//
 
-//Foto Base Ratti dei Rovi
+//Foto Base Ratti dei Rovi//
 
 La vera Base dei Ratti dei Rovi è praticamente una Reggia Meravigliosa permanente con un ingresso accessibile secondo le regole definite da Cora.
 L'aspetto è un teatro riadattato quasi a Cabaret, con un sacco di tavoli e sedie al posto delle fila di poltrone tipiche del teatro.
-La sala è completamente vuota, sul palco una poltrona con una donna seduta su di essa
+La sala è completamente vuota, sul palco una poltrona con una donna seduta su di essa (Cora).
+
+
 #### **Campo della Concordia**
 
 ##### Quartier Generale Regionale dei Cercatori
@@ -138,41 +150,23 @@ edificio composto da:
   - piano -2: portale di evacuazione d'emergenza, celle, armeria
   - piano -3: dormitori, caserma, uffici ufficiali
   - piano -4: laboratori - sezione R&D
-  - piano -5: hangar C-002 (Calamità 002)
+  - piano -5: hangar C-003 (Calamità 003)
   
-Nell'ufficio del direttore della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità
+Nell'ufficio della segreteria del direttore della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità
 
-
-Appunti meeting 17 /06 / 5720
-
-In base ai sondaggi del pubblico, queste sono le location scelte, final target -> Andoran (Almas? da definire)
-
-The WorldWound:
-- Fase 1: Attacco finale delle orde demoniache alla città di Kenabres, attivazione C-002
-	le squadre guadagneranno punti resistendo il più possibile
-- Fase 2: Distruzione della città di Nerosyan
-	Solo intrattenimento passivo; droni dispiegati per riprese live sui vari Cercatori npc
-		(preparare tracce sonore per i momenti più drammatici e NO PUBBLICITA'!)
-
-Andoran:
-- Fase 1: Attivazione di C-003, attacco alla città di Almas
-	  Alcuni VIP hanno richiesto di partecipare, possibile stop minaccia -> arco narrativo di speranza?
-- Fase 2: se viva, C-002 prosegue nella distruzione verso nord
-
-Isger:
-- Fase 1: Attivazione di C-004 ed esercito della Setta, assedio di Elidir
-
-Cheliax
-- Fase 1: Città di Egorian, attivazione C-005
-
-Galt:
-- Fase 1: Attivazione C-006 da Boarwood, primo obiettivo Isarn.
-
-
-C-001: si attenderà la fase finale!
-
-
-
-
+//Vedi Foglio scritto
 
 ##### Quartier Generale Cavalieri dell'Aquila
+
+
+
+
+#### **Mercantile District** 
+
+
+- Mercante di armi lvl 12
+  0.[Pistol of Wonder](https://2e.aonprd.com/Equipment.aspx?ID=1187)
+
+- Mercante di oggetti meravigliosi lvl 12
+ 
+- Mercante magie lvl 12
