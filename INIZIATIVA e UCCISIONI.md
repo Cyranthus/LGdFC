@@ -6,28 +6,15 @@ UCCISIONI
 
 **INIZIATIVA**
 
+47 Mostro                   390
 
-RICOMINCIA DA "QUI"
+Neg 41
 
-37 Doppo  3
+Blu 35
 
-42 Neg
+Aly 29
 
-	39 NANA CHIERICA Darian Marrone      14
+Doppo 25
 
-	36 Aldren Rosa                       
-
-	34 Asha Rosa                         
-
-29 Blu
-
-	28 Rovik Marrone           88   S
-
-28 Dayenne
+Viktor 1
 Feisty
-
-	27 Keldric Marrone         33   S
-
-	24 Seraphine Rosa          44
-
-21 Aly

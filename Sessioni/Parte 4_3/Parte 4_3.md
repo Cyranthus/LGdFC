@@ -7,11 +7,13 @@
 		- [[#Punti d'interesse#**East Hill**|**East Hill**]]
 			- [[#**East Hill**#Fienile di Totter - Incontro con le Corde|Fienile di Totter - Incontro con le Corde]]
 			- [[#**East Hill**#Viale degli Dei|Viale degli Dei]]
+			- [[#**East Hill**#Nascondiglio Corde Dorate|Nascondiglio Corde Dorate]]
 		- [[#Punti d'interesse#**Distretto del Teatro**|**Distretto del Teatro**]]
 			- [[#**Distretto del Teatro**#Teatro del Cigno|Teatro del Cigno]]
 		- [[#Punti d'interesse#**Campo della Concordia**|**Campo della Concordia**]]
 			- [[#**Campo della Concordia**#Quartier Generale Regionale dei Cercatori|Quartier Generale Regionale dei Cercatori]]
 			- [[#**Campo della Concordia**#Quartier Generale Cavalieri dell'Aquila|Quartier Generale Cavalieri dell'Aquila]]
+		- [[#Punti d'interesse#**Mercantile District**|**Mercantile District**]]
 
 
 - Nella prima notte di riposo, Viktor riceve questo messaggio in sogno, da parte di Elowen: *"Daienne, spero stiate tutti bene, abbiamo trovato un collegamento sicuro e stabile, per ora. Incontriamoci al Fienile di Totter, ad Almas. Vi attenderemo lì."*
