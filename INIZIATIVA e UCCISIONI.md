@@ -1,20 +1,12 @@
 
 UCCISIONI
 
+mostro GS 15
+6 GS 8
+1 GS 10
+1 GS 12
 
 ---
 
 **INIZIATIVA**
 
-47 Mostro                   390
-
-Neg 41
-
-Blu 35
-
-Aly 29
-
-Doppo 25
-
-Viktor 1
-Feisty
