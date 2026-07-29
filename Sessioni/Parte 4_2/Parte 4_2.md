@@ -4,7 +4,6 @@
 - [[#Semipiano di Varkhan|Semipiano di Varkhan]]
 - [[#Inferi|Inferi]]
 
-
 ## Korvosa - Criptata
 
 *Appena entrano nella Korvosa criptata, il SAP di Gurnys triggera quella strana sensazione quando un oggetto richiamano le visioni*

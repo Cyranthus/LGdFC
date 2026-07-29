@@ -3,7 +3,7 @@ https://pathfinderwiki.com/wiki/Almas
 
 https://app.demiplane.com/nexus/starfinder2e/settlements/almas-rm
 
-![[01-36-AlmasMap-GM.jpg]]
+![[Almas_Map.jpg]]
 
 **Almas** (_pronunciato “AHL-mes”_) è la **capitale della nazione di Andoran**, una **metropoli democratica e cosmopolita** situata sulla **costa meridionale di Andoran**, dove l’estuario del **fiume Andoshen** sfocia nel **Mare Interno**. La città esemplifica gli ideali andorani di **libertà personale, uguaglianza e multiculturalismo**, ed è uno dei centri politici, economici e sociali più influenti dell’intera regione del Mare Interno. [Pathfinder FR](https://www.pathfinder-fr.org/Wiki/Golarion.Almas.ashx?utm_source=chatgpt.com)
 

@@ -167,7 +167,6 @@ Nell'ufficio della segreteria del direttore della base (piano -1) si trovano var
 
 
 - Mercante di armi lvl 12
-  0.[Pistol of Wonder](https://2e.aonprd.com/Equipment.aspx?ID=1187)
 
 - Mercante di oggetti meravigliosi lvl 12
  
