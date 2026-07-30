@@ -16,4 +16,12 @@ Assieme hanno svolto qualche missione (per lo più per racimolare i soldi che se
 
 
 
+Una volta accettata la missione proposta da Krugol e giunti a Falcon's Hollow, Pruny è caduta in uno strano stato di trance, trasformandosi, in modo del tutto inconsapevole, in qualcosa di assolutamente improbabile: un gonfiabile ripieno di energia negativa.
+
+Ti ritrovi a galleggiare sopra quel mare oscuro, coperto da un profondo cielo stellato, che hai accolto molte volte all'inizio delle tue visioni...
+Noti solo ora, però che la volta celeste è più nitida, le stelle più luminose, il rumore del mare più chiaro.
+Una serie di immagini confuse ti si parano davanti vorticando; vedi immagini del tuo passato e vedi immagini che supponia siano del tuo futuro... O dei tuoi futuri possibili...
+Un mondo freddo
+
+
 Pruny ha una visione del futuro di Doppo, della perdita di suo padre... di ciò che sta per arrivare
