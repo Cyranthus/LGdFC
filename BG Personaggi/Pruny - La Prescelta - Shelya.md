@@ -20,8 +20,18 @@ Una volta accettata la missione proposta da Krugol e giunti a Falcon's Hollow, P
 
 Ti ritrovi a galleggiare sopra quel mare oscuro, coperto da un profondo cielo stellato, che hai accolto molte volte all'inizio delle tue visioni...
 Noti solo ora, però che la volta celeste è più nitida, le stelle più luminose, il rumore del mare più chiaro.
-Una serie di immagini confuse ti si parano davanti vorticando; vedi immagini del tuo passato e vedi immagini che supponia siano del tuo futuro... O dei tuoi futuri possibili...
-Un mondo freddo
+Una serie di immagini confuse ti si parano davanti, vorticando; non ti è mai facile capire quali siano inerenti al passato, quali al presente o al futuro.
+
+
+Un umano che vomita un tentacolo
+Un albero fatto di luci
+Una piramide sotterranea
+Un mondo freddo, forse metallico
+Montagne sotto un cielo stellato con più lune
+4 piume nere
+la morte di Krugol
+
+
 
 
 Pruny ha una visione del futuro di Doppo, della perdita di suo padre... di ciò che sta per arrivare

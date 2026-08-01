@@ -6,7 +6,7 @@
       {
         "id": "3c2d6a6f2d582414",
         "type": "tabs",
-        "dimension": 44.69370146678171,
+        "dimension": 43.422849340009094,
         "children": [
           {
             "id": "eaa29b815a84bf14",
@@ -27,7 +27,7 @@
       {
         "id": "b72f8e35ba48d1ff",
         "type": "tabs",
-        "dimension": 55.30629853321829,
+        "dimension": 56.577150659990906,
         "children": [
           {
             "id": "8b0b146e65c2fa84",
@@ -63,10 +63,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Esplora file"
             }
           },
           {
@@ -75,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "predes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,12 +98,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 318.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -232,10 +233,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
+      "switcher:Apri selettore rapido": false,
+      "daily-notes:Apri nota giornaliera": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "audio-recorder:Avvia/ferma registrazione": false,
@@ -245,15 +246,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8f0c26ef32f6c575",
+  "active": "8b0b146e65c2fa84",
   "lastOpenFiles": [
+    "_Published_/z_Images/varkhan.jpg",
+    "_Published_/z_Images/varkhan 1.jpg",
+    "_Published_/z_Images/Varkhan 2.jpg",
+    "_Published_/z_Images/Valerin.webp",
+    "_Published_/z_Images/V.jpg",
+    "_Published_/z_Images/vv.jpeg",
+    "_Published_/z_Images/Veldenar.png",
+    "_Published_/z_Images/Utrat.jpg",
+    "_Published_/z_Images/ugothogo.png",
+    "_Published_/z_Images/tumblr_238c919aaa7f5846ad18380bf8330146_ab74b486_500.jpg",
+    "_Published_/z_Images/theEmptyThrone.webp",
+    "_Published_/La Storia fin'ora/Riassunto - Parte 1.md",
+    "BG Personaggi/Pruny - La Prescelta - Shelya.md",
     "Sessioni/Parte 4_3/Parte 4_3.md",
     "Sessioni/Parte 4_2/Parte 4_2.md",
-    "BG Personaggi/Pruny - La Prescelta - Shelya.md",
     "TODO.md",
     "INIZIATIVA - NEMICI SCONFITTI.md",
-    "Absalom_Map.png",
-    "Almas_Map.jpg",
     "Mondo/Geografia/Almas.md",
     "Mondo/NPC - Mostri/Enemies_npc/pirati/Capitano Durgan -Catena Rossa- Kreed - CR 11.md",
     "Sessioni/Parte 4_3/Souston.md",
@@ -262,9 +273,7 @@
     "Templates/Location - Template.md",
     "Templates/Faction - Template.md",
     "Templates/Encounters - Template.md",
-    "_Published_/z_Images/Capitano_Durgan.jpg",
     "Mondo/NPC - Mostri/Neutrali/NPC - Doppak -Colui che Non Muore di Sete-.md",
-    "_Published_/z_Images/Doppak.jpg",
     "Mondo/Magia.md",
     "Mondo/NPC - Mostri/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9/Seraphine Human Paladin 10 - CR 9.md",
     "Mondo/NPC - Mostri/Enemies_npc/Cercatori - giocatori_npc/Gruppo 1 - CR 9/Aldren Falcochiaro Gnome Druid 10 - CR 9.md",
@@ -275,17 +284,9 @@
     "Mondo/NPC - Mostri/Neutrali/NPC - Cora Lorely.md",
     "Mondo/NPC - Mostri/Enemies_npc/Cercatori - giocatori_npc/Gruppo 2 - CR 9/Rovik Human Paladin 10 - CR 9.md",
     "Mondo/Fazioni/Mondi Fantasma.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Progenie di Rovagug/Lista Progenie.md",
-    "Mondo/NPC - Mostri/Le Corde Dorate_npc/Elowen -Cacciastelle- Kaela.md",
     "Mondo/NPC - Mostri/Enemies_npc/Progenie di Rovagug",
     "Mondo/NPC - Mostri/Enemies_npc/Space Marines",
-    "_Published_/z_Images/cora.jpg",
-    "_Published_/z_Images/Cora.jpg",
-    "_Published_/z_Images/Pasted image 20260228120419.jpg",
-    "_Published_/z_Images/Pasted image 20260228120345.jpg",
-    "Mutant-Captain.jpg",
     "Senza nome.base",
-    "_Published_/z_Images/Shedu.jpeg",
     "Sessioni/BONUS",
     "Sessioni/Parte 4_3",
     "Templates",

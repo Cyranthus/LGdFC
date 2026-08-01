@@ -56,7 +56,7 @@ Il giorno successivo, gli avventurieri arrivano a Falcon’s Hollow e cercano tr
 
 _Deldrin Baleson_
 
-![embedded image](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc18h3a59Q5GxZbWednidsaZZpWN1bp1pJ6M1OFyA5z6Si8P6fwhgDiGeW76af91eb8Ag0yW7yhcP0mJA4UpyIoERbPWsGngRbAfivR6MnhBR8maqK8TUsg05YFzMpJ-9SQchVwmD9sxqjtGulfyujLmfkNGWGG7XGgKm_cxOOF6vPbha6tne0?key=BEVKEWYA1P9nnpOzn2hqoA "Attachment")
+![[Deldrin.jpg]]
 
 Gli avventurieri si mettono sulle tracce del ranger, ma al suo posto s’imbattono in un docile cagnolone che li conduce davanti a una curiosa tenuta nel mezzo della foresta.
 
@@ -65,7 +65,7 @@ Entrati nella tenuta, i nostri eroi fanno la conoscenza della contessa Deliah Ve
   
 _Deliah Vessen_
 
-![embedded image](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeuYSgqczkA8sYLo10mEo-EguyG0r3-C14ynRmWA5BjUwQ8wUcALU7zRFqZVxh2kpEgfhUUrPI4ckXndYhE5VuYFulXVOynRA8OsW0rvp46JMeNXFmD_oKimeWJivFdBWnXQco8ipTyYHMdGkM5c0tCUkRAD8OPqQ9g6BVbsIGZyvf5A5781FY?key=BEVKEWYA1P9nnpOzn2hqoA "Attachment")
+
 
 Deliah inizialmente tenta di soggiogare e influenzare gli eroi, ma questi ultimi, fermi nella loro integrità morale, non cedono alle lusinghe della non morta e sconfiggono il male ancora una volta...
 
