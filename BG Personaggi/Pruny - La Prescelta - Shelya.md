@@ -18,20 +18,24 @@ Assieme hanno svolto qualche missione (per lo più per racimolare i soldi che se
 
 Una volta accettata la missione proposta da Krugol e giunti a Falcon's Hollow, Pruny è caduta in uno strano stato di trance, trasformandosi, in modo del tutto inconsapevole, in qualcosa di assolutamente improbabile: un gonfiabile ripieno di energia negativa.
 
-Ti ritrovi a galleggiare sopra quel mare oscuro, coperto da un profondo cielo stellato, che hai accolto molte volte all'inizio delle tue visioni...
-Noti solo ora, però che la volta celeste è più nitida, le stelle più luminose, il rumore del mare più chiaro.
-Una serie di immagini confuse ti si parano davanti, vorticando; non ti è mai facile capire quali siano inerenti al passato, quali al presente o al futuro.
+*Ti ritrovi a galleggiare sopra quel mare oscuro, coperto da un profondo cielo stellato, che hai accolto molte volte all'inizio delle tue visioni...*
+*Noti solo ora, però che la volta celeste è più nitida, le stelle più luminose, il rumore del mare più chiaro.*
+*Una serie di immagini confuse ti si parano davanti, vorticando; non ti è mai facile capire quali siano inerenti al passato, quali al presente o al futuro:*
 
+*Una persona che vomita un tentacolo*
+*Un albero fatto di luci*
+*Una piramide sotterranea*
+*Persone benestanti che ballano*
+*Un mondo freddo, forse metallico*
+*Montagne sotto un cielo stellato con più lune*
+*Un anello splendente, sospeso nel cielo*
+*4 piume nere*
+*la morte di Krugol*
 
-Un umano che vomita un tentacolo
-Un albero fatto di luci
-Una piramide sotterranea
-Un mondo freddo, forse metallico
-Montagne sotto un cielo stellato con più lune
-4 piume nere
-la morte di Krugol
+*Ritorni vorticosamente sopra la calma superficie acquatica, qualcosa in lei ti affascina, ti attrae; cerchi di raggiungerla ma la superficie sembra sempre un pò più lontana dalla tua mano.*
 
-
+Ti risvegli, stesa su un letto sconosciuto, in una stanza sconosciuta. Poco dopo, dall'unica porta d'ingresso della stanza, entra un uomo che riconosci quasi subito, Deldrin, lo sceriffo di Falcon's Hollow.
+Deldrin t'informa delle vicende vissute dai tuoi compagni, nelle caverne sotto il monte Droskar e del loro ritorno a Olf Den; hanno deciso di lasciarti qui visto il tuo stato... particolare  di trance.
 
 
 Pruny ha una visione del futuro di Doppo, della perdita di suo padre... di ciò che sta per arrivare
