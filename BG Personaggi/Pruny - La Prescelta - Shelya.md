@@ -30,12 +30,46 @@ Una volta accettata la missione proposta da Krugol e giunti a Falcon's Hollow, P
 *Montagne sotto un cielo stellato con più lune*
 *Un anello splendente, sospeso nel cielo*
 *4 piume nere*
-*la morte di Krugol*
+*Una colonna luminosa cala dal cielo su una città*
 
 *Ritorni vorticosamente sopra la calma superficie acquatica, qualcosa in lei ti affascina, ti attrae; cerchi di raggiungerla ma la superficie sembra sempre un pò più lontana dalla tua mano.*
 
 Ti risvegli, stesa su un letto sconosciuto, in una stanza sconosciuta. Poco dopo, dall'unica porta d'ingresso della stanza, entra un uomo che riconosci quasi subito, Deldrin, lo sceriffo di Falcon's Hollow.
-Deldrin t'informa delle vicende vissute dai tuoi compagni, nelle caverne sotto il monte Droskar e del loro ritorno a Olf Den; hanno deciso di lasciarti qui visto il tuo stato... particolare  di trance.
+Deldrin t'informa delle vicende vissute dai tuoi compagni, nelle caverne sotto il monte Droskar e del loro ritorno a Olf Den; hanno deciso di lasciarti qui visto il tuo stato... particolare  di trance; Deldrin stesso si è offerto di occuparsi di te.
+In realtà, Deldrin ti svelerà la vera ragione dell'aver chiesto la tua custodia; pensa che tu possa essere una persona molto speciale.
+Il giorno dopo, Deldrin ti porta uno strano oggetto luminoso; inizialmente pensi sia magico ma gli incantesimi d'individuazione non rilevano nulla...
 
+Appena lo tocchi, il piccolo oggetto esplode e tutto si fa nero.
+Cadi, cadi dal cielo stellato che ti è tanto familiare, cadi senza fermarti, senza rimanere a mezz'aria, come le altre volte.
+Tocchi l'acqua che non eri mai riuscita a toccare e sprofondi dentro di essa.
+Vieni completamente travolta da suoni, voci, immagini, tutto in frazioni di secondo.
+
+*Il vento ti sferza il viso, novecento metri di vetro e acciaio scorrono veloci sotto le tue mani mentre scendi in corda doppia lungo la parete del grattacielo. Il rombo dei rotori sopra di te si mescola alle urla concitate nell'auricolare.*
+*"Squadra Bravo, il bersaglio supera in altezza l'edificio, ripeto, supera l'edificio! Puntate diretto sul dorso, tra trenta secondi siete a contatto!"*
+
+*Sotto di te vedi solo lei, una massa biologica che si erge oltre la sommità dei palazzi più bassi, la pelle scura e informe che pulsa di una luce interna innaturale
+
+![[istockphoto-1191700464-612x612.jpg]]
+
+*Guardi di sfuggita Ramirez alla tua destra, poi Kowalski un piano più in basso: le corde vibrano all'unisono, tese dal peso di dodici uomini che corrono in verticale lungo la facciata, gli scarponi che rimbalzano sul vetro a ogni falcata, sempre più vicini a quel dorso mostruoso.*
+
+*"Contatto tra dieci secondi! Preparatevi all'impatto!"*
+
+*Tu e la tua squadra puntate a quello che secondo i cervelloni dovrebbe essere il suo unico punto cieco.*
+*Ti stacchi dalla corda con un ultimo balzo e atterri in un rotolamento su una superficie calda, elastica, che pulsa a ogni tuo passo come se respirasse sotto di te. Attorno a te la squadra si dispone a ventaglio sul dorso della creatura, mentre altri operatori atterrano ancora dalle corde alle tue spalle, uno sciame di puntini laser che convergono tutti sulla stessa massa vivente.*
+
+*"Fuoco!"*
+
+*L'aria si riempie di un boato assordante. La pelle si squarcia in decine di punti, un liquido nerastro schizza a fiotti mentre la creatura urla.*
+*Attorno a voi, enormi tentacoli si alzano sferzando l'aria sopra di voi. numerosi occhi si aprono lungo i tentacoli e paiono muoversi lungo la superficie della creatura; ora vi vede.*
+
+*"Continuate a sparare, non mollate!"*
+
+*Numerose ombre si alzano sopra di voi, gli enormi tentacoli cominciano a calare su di voi*
+*"Ramirez, spost-"*
+*Non fai in tempo a finire la frase.* 
+*Buio.*
+
+Ti risvegli ancora una volta 
 
 Pruny ha una visione del futuro di Doppo, della perdita di suo padre... di ciò che sta per arrivare

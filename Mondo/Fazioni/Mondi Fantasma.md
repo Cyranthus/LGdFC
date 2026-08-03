@@ -13,3 +13,9 @@ I popoli dei Mondi Fantasma sanno solamente che i Terrestri sono una razza molto
 
 - I popoli dei Mondi Fantasma non hanno più una flotta vera e propria, hanno pochissime navi e non hanno più il modo per costruirne altre... Per questo hanno bisogno di ritrovare M.O.T.H.E.R., perchè lei ha il segreto per la costruzione della tecnologia di Deriva (e le Anomalie sono fondamentali per la costruzione dei nuclei fatti di Etere Subconscio che alimentano la Deriva).
 - I popoli dei Mondi Fantasma sono molto meno potenti e meno legati alla subcoscienza collettiva; le tecnologie e gli avanzamenti tecnologici hanno limitato e depotenziato il loro legame con esso (infatti nei Mondi Fantasma non nascono anomalie da millenni)
+
+
+
+
+I mondi fantasma erano, in origine, dei mondi provenienti da diversi sistemi solari, colonizzati a suo tempo dagli umani della terra;
+Fu MOTHER che, con un enorme dispendio di energia, salvò questi mondi alterando un sistema solare
