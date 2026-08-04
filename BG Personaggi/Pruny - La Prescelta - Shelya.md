@@ -70,6 +70,57 @@ Vieni completamente travolta da suoni, voci, immagini, tutto in frazioni di seco
 *Non fai in tempo a finire la frase.* 
 *Buio.*
 
-Ti risvegli ancora una volta 
+Ti risvegli, ancora una volta, nella stessa stanza sconosciuta, con accanto Deldrin che ti guarda sorridente; ti dice che da tempo stava cercando una persona come me, un'anomalia. Deldrin appartiene a un gruppo chiamato "Le Corde Dorate" e comincia a raccontarti un sacco di cose che, inizialmente fai molta fatica a comprendere e assimilare; ti parla di mondi lontani, persone vuote usate da altre persone "collegate in remoto" (lui compreso), umani alieni molto simili a quelli del nostro mondo ma che si chiamano Terrestri e vengono da un mondo molto lontano...
+
+Trascorri qualche giorno con lui, finchè non ti chiede di seguirlo; dovete raggiungere Olf Den dove una sua compagna ha già avvicinato il resto dei suoi compagni; forse tutti loro sono come te.
+
+Il viaggio è stato decisamente meno tranquillo del previsto; strani animali e umanoidi di vario tipo, molto aggressivi, sono spuntati un pò dappertutto mentre vi avvicinavate a Olf Den, tutti accomunati da una cosa che ti sembra di aver già visto in una delle tue visioni: un enorme tentacolo che gli esce dalla gola... tentacolo che cercano in ogni modo d'infilare nella vostra, di bocca.
+incrociate due gruppi di cercatori, alcune guardie cittadine e dei volontari di Olf Den; vi unite a loro per scoprire la fonte di questa epidemia di aberrazioni; non molto lontano dalla città, nei pressi di una grande villa quasi completamente incenerita da un grande incendio qualche giorno prima, trovate una grotta dove molte di queste creature, si radunavano.
+vi fate strada tra i mostri che si scagliano contro di voi; solo tu, Deldrin e una delle due squadre di Cercatori arrivate nelle profondità della caverna, dove trovate quella che sembra un enorme ammasso di carne di vario tipo e tentacoli, intenta a secernere un liquido biancastro che si sta raccogliendo in una sorta di pozza, sul fondo della caverna...
+Combattete l'ammasso tentacoloso e quello che sembra il suo controllore, un'umanoide incantatore con dentro un'aberrante parassita a forma di serpente con due arti (uno tsochar). uccidete entrambi e bruciate i corpi, inclusa la pozza di liquido biancastro.
+
+Arrivate ad Olf Den e scoprite che i tuoi ex compagni non sono più qui, hanno probabilmente lasciato la città qualche giorno prima; Deldrin, non sai come, sa che la sua compagna Alotta non è più qui, o almeno non lo è la sua parte di Golarion.
+Deldrin viene a sapere che un suo vecchio amico, Wataxshyl, ha incontrato uno dei tuoi vecchi compagni in taverna.
+Andate quindi fuori città per cercare questo Wataxshyl; Deldrin, a quanto pare, è uno dei pochi a sapere dove si trova il suo nascondiglio...
+
+Arrivate in una radura ben nascosta in mezzo al bosco, a circa un giorno di cammino dalla città... In mezzo alla radura vi è un rudere praticamente distrutto di quella che era molto probabilmente una casetta in muratura.
+Deldrin corre verso il rudere con molta preoccuazione, urlando il nome "Wax".
+Gli vai dietro, arrivi vicino all'ingresso quando qualcosa attira la tua attenzione, anche se questo qualcosa non è in bella vista, bensì sotto ad alcune macerie; una scaglia mezza annerita di drago di rame. La prendi in mano e ti appare una visione:
+
+> Arrivi sulla soglia di casa, ancora piacevolmente alticcio dall'alcool ingerito in taverna, una quantità spropositata nonostante la tua attuale forma umana.  
+> Giri la maniglia, la porta si apre con il solito, familiare cigolio.  
+> Un rumore di passi pesanti, dietro di te. Non ci metti molto a intuire chi possa essere, anche senza voltarti.
+> 
+> Gli dici: *"Vossnik, ma che dispiacere vedervi!"*.  
+> *"Wataxshyl. Il tuo fetore da alcolizzato rimane inconfondibile pure in questa forma".*  
+> Ti giri e vedi Vossnik seguito da altri due energumeni, tutti e tre in armatura potenziata.  
+> *"Abbiamo saputo che ti sei fatto dei nuovi amici giù in città, persone ben poco raccomandabili... mi sto riferendo a un Tiefling di nome Blu e dei suoi compagni. Dove si trovano ora? Di cosa avete parlato?"*  
+> 
+> Sorridi. Non fai nemmeno lo sforzo di sembrare sorpreso: *"Dì un po', mr. comandante di 'sto cazzo, ma dentro quelle scatolette di latta ci pisciate e cagate tutto il giorno? Eh? Da quante ore stai immerso nella tua merda?"*  
+> 
+> *"Wataxshyl, nonostante la tua inutilità, ti è stato permesso di vivere, finora... sai com'è, i draghi non sono mai tanti e gli sceneggiatori sono dei veri lavativi; piuttosto che inventarsi qualcosa di nuovo, riciclano continuamente quello che è già stato usato, inventato..."*  
+> 
+> Queste parole ti terrorizzano e ti fanno infuriare. Non tornerai mai più sotto il loro controllo; gli rispondi: *"Vai a farti fottere, testa di cazzo!"* Nonostante il tuo stato alterato, riesci a controllare la tua trasformazione e ritorni in forma di drago.
+> 
+> Vossnik ti sorride, sinceramente sollevato, ed esclama: "*Oh beh, credo che la soddisfazione che mi leverò ora varrà qualche grattacapo burocratico*". 
+> Il comandante regionale estrae un'enorme spada che pulsa di una luce azzurrognola, che un uomo adulto normale brandirebbe a fatica con due mani; Vossnik la impugna agilmente con una sola mano.
+> 
+> Il silenzio che segue dura un solo battito di ciglia.
+> 
+> Vossnik balza in avanti con una velocità che il peso della sua armatura non dovrebbe permettergli, e la lama incandescente sibila nell'aria.
+> 
+> Il primo colpo ti squarcia il fianco; ruggisci, ribattendo con una serie di artigliate che si infrangono inutilmente contro la corazza.
+> 
+> Il secondo colpo ti trapassa un'ala, inchiodandoti quasi al terreno.  
+> Provi a ritrarti, a guadagnare l'aria, ma non c'è tempo. 
+> 
+> Il terzo colpo è quello decisivo: la lama pulsante ti recide di netto il collo. Per un breve istante, mentre la tua testa rotola sull'erba, hai ancora il tempo di vedere il tuo corpo accasciarsi al suolo senza vita.  
+> Buio.
+
+Appena finita la visione, riapri gli occhi e davanti a te compare una specie di apparizione traslucida di un umano, maschio, con abiti un pò trasandati; ti guarda, ti sorride e poi svanisce.
+
+Deldrin ti chiede se va tutto bene, gli racconti quanto hai visto; la cosa lo stupisce parecchio. Lo vedi cercare tracce attorno al rudere, dopo poco in effetti trova tracce evidenti di tre umanoidi molto pesanti e orme di un rettile molto grande, quasi quanto un drago adulto.
+
+
 
 Pruny ha una visione del futuro di Doppo, della perdita di suo padre... di ciò che sta per arrivare
