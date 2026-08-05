@@ -116,15 +116,13 @@ Se gli eroi parleranno della Nave, Elowen farà fatica a nascondere lo stupore; 
 E quella nave potrebbe essere la chiave per recuperare il processo costruttivo; bisogna ritrovare M.O.T.H.E.R.
 
 ##### Viale degli Dei
-strada adornata da **statue monumentali delle divinità principali di Andoran** (Abadar, Calistria, ***Cayden Cailean*** rovinata), Desna, Erastil, Gorum, Gozreh, ***Iomedae*** (rovinata), ***Irori*** (rovinata), Nethys, ***Pharasma*** (rovinata), Sarenrae, Shelyn). Luogo di pellegrinaggio e culto aperto. Alcune statue risultano visibilmente più trascurate di altre, senza offerte e omaggi ai piedi di esse (vedi le divinità scomparse).
+strada adornata da **statue monumentali delle divinità principali di Andoran** {Abadar, Calistria, ***Cayden Cailean*** (rovinata), Desna, Erastil, Gorum, Gozreh, ***Iomedae*** (rovinata), ***Irori*** (rovinata), Nethys, ***Pharasma*** (rovinata), Sarenrae, Shelyn}. Luogo di pellegrinaggio e culto aperto. Alcune statue risultano visibilmente più trascurate di altre, senza offerte e omaggi ai piedi di esse (vedi le divinità scomparse).
 - percezione 15: tutte le statue rovinate non hanno offerte o candele sotto di esse, tutti tranne una... una molto rovinata e mezza distrutta; la scritta alla base del piedistallo è quasi illeggibile, si riconoscono le lettere "P H - - A S - -". Ai piedi di questa statua, c'è un piccolo mazzetto di rose nere, senza spine (Ricordare Conoscenze 30: Le rose nere senza spine erano una tipica offerta fatta a Pharasma dai suoi fedeli).
 - raccogliere informazioni: si dice che ogni tanto è stata vista una figura ammantata di una tunica nera lasciare offerte sotto la statua; molto spesso è stata vista di notte.
 
-
 ##### Nascondiglio Corde Dorate
-
 In una casa a due piani, abitata da un'anziana signora (Guendaline, è la nonna di Elowen) a sud di East Hill, vicino al porto, c'è il nascondiglio delle Corde Dorate.
-Nel sottosuolo, dalla cantina della casa si accede a un ampio spazio di 4 locali 
+Nel sottosuolo, dalla cantina della casa si accede a un ampio spazio a più locali (vedi mappa cartacea).
 
 #### **Distretto del Teatro**
 
@@ -138,7 +136,6 @@ L'ingresso del teatro è magico; a discrezione di Cora (o se si possiede una pic
 La vera Base dei Ratti dei Rovi è praticamente una Reggia Meravigliosa permanente con un ingresso accessibile secondo le regole definite da Cora.
 L'aspetto è un teatro riadattato quasi a Cabaret, con un sacco di tavoli e sedie al posto delle fila di poltrone tipiche del teatro.
 La sala è completamente vuota, sul palco una poltrona con una donna seduta su di essa (Cora).
-
 
 #### **Campo della Concordia**
 
@@ -159,7 +156,6 @@ Nell'ufficio della segreteria del direttore della base (piano -1) si trovano var
 //Vedi Foglio scritto
 
 ##### Quartier Generale Cavalieri dell'Aquila
-
 
 
 

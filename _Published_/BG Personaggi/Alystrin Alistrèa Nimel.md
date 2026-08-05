@@ -110,7 +110,7 @@ Servono alcuni giorni per riprendersi e digerire il tutto. In questo periodo, El
 
 La loro base segreta momentanea è un edificio abbandonato nella periferia di Almas. Per il momento ad Aly è stato vietato l’uscire all'esterno, d'altronde in città qualcuno potrebbe conoscerla e i Cercatori hanno già dato notizia della sua morte a suo padre… e sicuramente tutti i suoi conoscenti oramai ne sono al corrente.
 
-Aly rimase una settimana da sola con Elowen, in quanto pare che sia Alotta che Deldrin avessero individuato alcune potenziali anomalie "dormienti"; Alotta era particolarmente sicuro di un individuo chiamato Viktor.
+Aly rimase per un certo periodo da sola con Elowen, in quanto pare che sia Alotta che Deldrin avessero individuato alcune potenziali anomalie "dormienti"; Alotta era particolarmente sicura di un individuo chiamato Viktor.
 
 Dopo qualche tempo, ha saputo da Elowen che Alotta è morta mentre cercava di proteggere il gruppo di potenziali Anomalie.
 
