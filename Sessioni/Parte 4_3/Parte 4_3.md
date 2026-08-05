@@ -75,8 +75,6 @@
 
 Nella stiva ci sono Doppak e altri 40 schiavi, tutti appartenenti alla tribù di Doppo.
 
-
-
 - **Grotta del tesoro nascosto**
   
   Sotto il negozio di Marnis Vordane o Selka Vordane, nello scantinato, c'è l'accesso a una caverna sotterranea, un cunicolo lunga circa 50 m, dalla costa verso le colline, accessibile solo durante la bassa marea.
@@ -89,11 +87,13 @@ Nella stiva ci sono Doppak e altri 40 schiavi, tutti appartenenti alla tribù di
   - Tesoro 10000 mo
   - [Tidal Crossbow](https://2e.aonprd.com/Equipment.aspx?ID=3211)
 
+
 ## Viaggio per Almas
 
 il viaggio dura 3 giorni a piedi
 
 (probabili incontri causali, forse anche altri Cercatori di rinforzo)
+
 
 ## Almas
 
@@ -104,16 +104,16 @@ il viaggio dura 3 giorni a piedi
 ##### Fienile di Totter - Incontro con le Corde
 (Vedi Fazione e Elower)
 Devono decidere in che modo scoprire quali sono le prossime mosse dei Cercatori.
-
-Ricordare Conoscenze su Progenie di Rovagug, CD 25: La leggenda narra che quando le Progenie si risveglieranno, esse cercheranno di riunirsi; una volta riunitesi, Rovagug verrà finalmente risvegliato ed inghiottirà il mondo. 
+inoltre Elowen risponderà a loro dubbi e domande (vedi conoscenze).
+Ricordare Conoscenze su Progenie di Rovagug, CD 25: La leggenda narra che quando le Progenie si risveglieranno, esse cercheranno di riunirsi; una volta riunitesi, Rovagug verrà finalmente risvegliato ed inghiottirà il mondo.
 
 - infiltrarsi nel quartier generale dei Cercatori di Almas (servirà ottenere spille adeguate/contraffatte dai Ratti dei Rovi).
 - rapire un comandante di alto grado; un comandante regionale, come ad esempio Vossnik (presente ad Almas).
 - infiltrarsi nel quartier generale dei Cercatori ad Absalom (difficilissimo).
 - altre idee?
 
-Se gli eroi parleranno della Nave, Elowen farà fatica a nascondere lo stupore; le navi con la tecnologia di deriva sono molto poche, in possesso dei mondi fantasma. ma soprattutto non hanno modo di costruirne altre.
-E quella nave potrebbe essere la chiave per recuperare il processo costruttivo; bisogna ritrovare M.O.T.H.E.R.
+Se gli eroi parleranno della Nave, Elowen farà fatica a nascondere lo stupore; quella nave, così vecchia, deve avere per forza la tecnologia di deriva, sono rarissime le navi in possesso dei mondi fantasma che la posseggono (una di queste è quella di Elowen). Ma soprattutto non hanno modo di costruirne altre.
+E quella nave potrebbe essere la chiave per recuperare il processo costruttivo; bisogna ritrovare le coordinate di deriva per trovare M.O.T.H.E.R.
 
 ##### Viale degli Dei
 strada adornata da **statue monumentali delle divinità principali di Andoran** {Abadar, Calistria, ***Cayden Cailean*** (rovinata), Desna, Erastil, Gorum, Gozreh, ***Iomedae*** (rovinata), ***Irori*** (rovinata), Nethys, ***Pharasma*** (rovinata), Sarenrae, Shelyn}. Luogo di pellegrinaggio e culto aperto. Alcune statue risultano visibilmente più trascurate di altre, senza offerte e omaggi ai piedi di esse (vedi le divinità scomparse).

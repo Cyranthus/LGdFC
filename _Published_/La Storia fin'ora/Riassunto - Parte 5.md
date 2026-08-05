@@ -264,3 +264,21 @@ Durante il sonno, Viktor riceve la visita di Elowen “Cacciastelle”, la Corda
 
 *"Daienne, spero stiate tutti bene, abbiamo trovato un collegamento sicuro e stabile, per ora. Incontriamoci al Fienile di Totter, ad Almas. Vi attenderemo lì."*
 
+
+## Il ritorno in superficie
+
+
+## La quest
+
+
+## La notte
+
+
+## Un'alba movimentata
+
+
+## A volte ritornano (in questo caso no)
+
+
+## Il Tesoro del pirata Souston
+
