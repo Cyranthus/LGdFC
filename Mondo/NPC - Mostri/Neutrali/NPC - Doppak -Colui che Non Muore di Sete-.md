@@ -32,12 +32,11 @@ Questions to answer:
 - Se Kreed riesce a fuggire con la sua nave, Doppak e la sua gente saranno venduti come schiavi nel Kheliax.
 
 
-- Drenna: madre di Doppo, morta durante il parto di Runna
+- Drenna: madre di Doppo, morta durante l'attacco del capitano Kreed
 - Fratelli/sorelle di Doppo
 
 Doppo II       Morto
-Doppo III
+Doppo III      Affogato
 Korik             Morto
-Korika
-Korik II
-Runna
+Korik II          Affogato
+Runna           Affogata
