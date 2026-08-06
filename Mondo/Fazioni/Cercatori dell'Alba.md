@@ -30,7 +30,7 @@ Capitani di Ventura e avventurieri possono essere inconsapevoli o "avatar" di te
 - Le azioni degli eroi hanno spinto il Decemvirato ad accelerare la preparazione dell'evento apocalittico programmato, chiamato "il risveglio della Progenie di Rovagug".
 - La SAP (definita dai cercatori come Setta Anarchica della Progenie) viene indicata come principale minaccia e fautrice del tentativo di risveglio della progenie; anche gli eroi sono dei ricercati come membri della SAP, vivi o morti.
 
-6 Progenie sono in attivazione:
+5 Progenie sono in attivazione:
 
 - Tarrasque: (alimentato da Varkhan e Fortunata) -> attivato sotto Absalom
   https://pf2.altervista.org/wiki/Tarrasque

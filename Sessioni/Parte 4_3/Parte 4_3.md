@@ -151,10 +151,11 @@ edificio composto da:
   - piano -4: laboratori - sezione R&D
   - piano -5: hangar C-003 (Calamità 003)
   
-Nell'ufficio della segreteria del direttore della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità
+Nell'ufficio della segreteria della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità:
 
-//Vedi Foglio scritto
+![[note.png|600]]
 
+Oppure addosso a Vossnik
 ##### Quartier Generale Cavalieri dell'Aquila
 
 
