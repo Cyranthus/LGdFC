@@ -49,26 +49,5 @@ Sta ancora cercando risposte riguardo a Pharasma
 - gli eroi hanno le risposte
 
 
-Occult Conduit
-Rapid Focus Shift
-Strong Implement Link
+## SCHEDA PERSONAGGIO
 
-Catalizzatori
-- Abiurazione
-- Divinazione
-- Ammaliamento
-- Evocazione
-- Negromanzia
-- Trasmutazione
-- Invocazione
-
-1 Potere Focus: **Discordia Mentale (Mag)**
-3 Potere Focus: **Visione Pericolosa (Mag)**
-5 Potere Focus: **Maledizione Parapsichica (Mag)**
-7 Potere Focus: **Scudo di Energia (Mag)**
-9 Potere Focus: **Bestia d'Ombra (Mag)**
-11 Potere Focus: **Globo di Negazione (Mag)**
-13 Potere Focus: **Rapidità (Mag)**
-15 Potere Focus: **Mente Batte Gravità (Mag)**
-17 Potere Focus: **Interdizione di Energia (Mag)**
-19 Potere Focus: **Defilarsi (Mag)**
