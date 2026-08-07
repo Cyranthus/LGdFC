@@ -87,13 +87,17 @@ Nella stiva ci sono Doppak e altri 40 schiavi, tutti appartenenti alla tribù di
   - Tesoro 10000 mo
   - [Tidal Crossbow](https://2e.aonprd.com/Equipment.aspx?ID=3211)
 
+- In giornata Pruny arriva a Souston
+
+- diversi pescatori/barcaioli stanno cercando di recuperare i corpi dei morti
+- recuperare a nuoto i corpi: Nuotare cd 18
+- oggetti di valore e tesoro recuperabile: 14000 mo
+
 
 ## Viaggio per Almas
 
 il viaggio dura 3 giorni a piedi
-
-(probabili incontri causali, forse anche altri Cercatori di rinforzo)
-
+(probabili incontri causali, forse anche altri Cercatori di rinforzo?)
 
 ## Almas
 
@@ -106,14 +110,15 @@ il viaggio dura 3 giorni a piedi
 Devono decidere in che modo scoprire quali sono le prossime mosse dei Cercatori.
 inoltre Elowen risponderà a loro dubbi e domande (vedi conoscenze).
 Ricordare Conoscenze su Progenie di Rovagug, CD 25: La leggenda narra che quando le Progenie si risveglieranno, esse cercheranno di riunirsi; una volta riunitesi, Rovagug verrà finalmente risvegliato ed inghiottirà il mondo.
+I Cercatori incolpano la SAP (Setta Anarchica della Progenie) di stare causando il risveglio delle Progenie di Rovagug.
 
 - infiltrarsi nel quartier generale dei Cercatori di Almas (servirà ottenere spille adeguate/contraffatte dai Ratti dei Rovi).
 - rapire un comandante di alto grado; un comandante regionale, come ad esempio Vossnik (presente ad Almas).
-- infiltrarsi nel quartier generale dei Cercatori ad Absalom (difficilissimo).
 - altre idee?
 
 Se gli eroi parleranno della Nave, Elowen farà fatica a nascondere lo stupore; quella nave, così vecchia, deve avere per forza la tecnologia di deriva, sono rarissime le navi in possesso dei mondi fantasma che la posseggono (una di queste è quella di Elowen). Ma soprattutto non hanno modo di costruirne altre.
 E quella nave potrebbe essere la chiave per recuperare il processo costruttivo; bisogna ritrovare le coordinate di deriva per trovare M.O.T.H.E.R.
+
 
 ##### Viale degli Dei
 strada adornata da **statue monumentali delle divinità principali di Andoran** {Abadar, Calistria, ***Cayden Cailean*** (rovinata), Desna, Erastil, Gorum, Gozreh, ***Iomedae*** (rovinata), ***Irori*** (rovinata), Nethys, ***Pharasma*** (rovinata), Sarenrae, Shelyn}. Luogo di pellegrinaggio e culto aperto. Alcune statue risultano visibilmente più trascurate di altre, senza offerte e omaggi ai piedi di esse (vedi le divinità scomparse).
@@ -162,8 +167,13 @@ Oppure addosso a Vossnik
 
 #### **Mercantile District** 
 
+Tutti i mercanti sono parecchio indaffarati; nei loro negozi è molto comune trovarvi dei cercatori.
 
 - Mercante di armi lvl 12
+  La virtù del soldato
+  (Edlowe, un Halfling e il suo amico nano Yuri)
+  
+  
 
 - Mercante di oggetti meravigliosi lvl 12
  

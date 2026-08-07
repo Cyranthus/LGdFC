@@ -32,14 +32,11 @@ Capitani di Ventura e avventurieri possono essere inconsapevoli o "avatar" di te
 
 5 Progenie sono in attivazione:
 
-- Tarrasque: (alimentato da Varkhan e Fortunata) -> attivato sotto Absalom
-  https://pf2.altervista.org/wiki/Tarrasque
+- Giorno 1 (3 giorni dopo l'incontro e discussione con Corde Dorate):
+  Vossnik va al Palazzo del Consiglio del Popolo per parlare con Andira Marusek, l'attuale Reggente Eletto dell'Andoran.
 
-- Xotani: (alimentato da Iomedae e Cayden Cailean) -> 
-  https://pf2.altervista.org/wiki/Xotani
+- Giorno 2: viene comunicato che tra 2 giorni verrà indetto un discorso nella grande piazza centrale di Almas (davanti al Palazzo del Consiglio del Popolo)
 
-- ?????: (alimentato da Norgorber e Irori)
+- Giorno 3: discorso in piazza per tranquillizzare la cittadinanza sulle voci che girano, la situazione è sotto controllo, i migliori membri dei Cercatori sono già sulle loro tracce
 
-
-
-quando tutte e 6 si riuniranno, verrà risvegliato Rovagug
+- Giorno 4: 

@@ -1,39 +1,8 @@
-# La Custode dei Sette Reliquiari
-### Umana Vampira, Occultista 20 — Personaggio Giocante, Pathfinder 1a Edizione
-
-> Aggiornata su richiesta: ora è un PG (ricchezza e corredo magico secondo la tabella "Character Wealth by Level", ~880.000 mo a 20° livello), con i catalizzatori, i poteri focus e i talenti indicati.
-> **Nota sugli oggetti magici**: nella versione precedente due nomi ("Diadema della Mente Superiore", "Cintura del Vigore Ombroso") erano inventati, non oggetti ufficiali. Sostituiti con oggetti reali (Headband of Mental Prowess, Belt of Physical Might, Mirror of Mental Prowess, Metamagic Rod Quicken, ecc.), ognuno verificato singolarmente su aonprd.com/d20pfsrd con prezzo di mercato ufficiale — vedi tabella corredo in fondo al documento.
-
----
-
-## ⚠️ Due incongruenze di regolamento da segnalarti
-
-Prima della scheda, due punti dove le tue richieste non collimano perfettamente col regolamento scritto — te li segnalo così decidi tu come gestirli al tavolo, invece di correggerli di nascosto:
-
-1. **Bestia d'Ombra (Shadow Beast)** è un potere focus della scuola **Illusione**, che però non è tra le 7 scuole/catalizzatori che hai indicato (hai scelto Invocazione al suo posto). L'ho comunque inserita nella build come **eccezione concessa dal master** — puoi lasciarla così (home rule: magari il suo "specchio" di Invocazione funge anche da tramite per l'illusione, narrativamente), oppure sostituirla con un altro potere di Abiurazione/Divinazione/Ammaliamento/Evocazione/Negromanzia/Trasmutazione/Invocazione se preferisci restare RAW puro.
-2. **Occult Conduit** ha come prerequisito testuale la razza **wyrwood** (un costrutto di Occult Adventures), oltre a "Caster level 5th, implements, mental focus". Un'umana non lo qualificherebbe per regolamento. L'ho incluso comunque (è tematicamente perfetto: il suo stesso corpo non-morto diventa un catalizzatore), ma segnalo che è un'eccezione — puoi trattarla come un talento "concesso" dalla sua trasformazione vampirica.
-
-Se preferisci restare stretto al regolamento, dimmi e sistemo entrambe le cose.
-
----
-
-## Concept
-
-Non più un'antagonista di passaggio: la Custode è ora un personaggio giocante, una studiosa immortale che ha continuato a raccogliere reliquie psichiche ben oltre la propria morte, fino a trasformare il proprio corpo in un ottavo catalizzatore.
-
----
-
-## Blocco Statistiche
-
-**Personaggio Giocante di 20° livello** — Umana Vampira Occultista 20
-**Allineamento** a scelta del giocatore (compatibile con "malvagio" da template; se il tavolo lo consente, valuta una variante meno rigida — parlane col master)
-
-> Sotto trovi i valori **con l'equipaggiamento completo indossato** (è un PG, quindi è lo stato "normale"). I punteggi di caratteristica "nudi" (senza oggetti) sono nella tabella poco più in basso.
 
 **Iniziativa** +11 (+7 Des, +4 Iniziativa Migliorata) · **Sensi** scurovisione 60 ft., Percezione +35
 
 ### CA
-**CA 40**, contatto 20, a sorpresa 35 *(10 +9 armatura [camicia di maglia in mithral +5] +4 Des [bonus Des limitato a +4 dalla camicia di maglia, il modificatore reale è +7] +11 naturale [+6 template, +5 amuleto] +5 deflessione [anello] +1 schivare)*
+**CA 44**, contatto 33, a sorpresa 35 *(10 +10 armatura [Carbon Skin, Nanotube](https://www.aonsrd.com/ArmorDisplay.aspx?ItemName=Nanotube&Family=Carbon%20Skin)] +7 Des +11 naturale [+6 template, +5 amuleto] +5 deflessione [anello] +1 schivare)*
 
 ### PF
 **pf 250** (20d8+140 [Car. +7]; +20 Vigore) — **guarigione rapida 5**
@@ -174,24 +143,24 @@ I sette catalizzatori sono ora anche veri oggetti magici, oltre a mantenere il l
 
 Tutti gli oggetti sotto sono **reali**, presi da *Ultimate Equipment* / *Core Rulebook* e verificati su aonprd.com (prezzo di mercato ufficiale, non il "costo di creazione" che è la metà). Dove un catalizzatore diventa anche oggetto magico vero e proprio, lo segnalo.
 
-| Slot | Oggetto (nome ufficiale) | Effetto | Prezzo (mo) | Fonte |
-|---|---|---|---|---|
-| Armatura | Camicia di maglia in mithral +5 | armatura leggera in mithral, potenziamento +5 | 26.100 | Core Rulebook |
-| Anello 1 | Anello di Protezione +5 | +5 deflessione alla CA | 50.000 | Core Rulebook |
-| Anello 2 | Anello di Libertà di Movimento | come *libertà di movimento* continua | 40.000 | Core Rulebook |
-| Collo *(= catalizzatore Ammaliamento, la Collana)* | Amuleto di Armatura Naturale +5 | +5 armatura naturale, oltre al potere di risonanza | 50.000 | Core Rulebook |
-| Testa | **Diadema del Vigore Mentale** (Headband of Mental Prowess) +6 | +6 a due caratteristiche mentali a scelta (Int e Car) | 90.000 | Ultimate Equipment |
-| Vita | **Cintura del Vigore Fisico** (Belt of Physical Might) +6 | +6 a due caratteristiche fisiche a scelta (For e Des) | 90.000 | Ultimate Equipment |
-| Spalle | Mantello di Resistenza +5 | +5 a tutti i TS | 25.000 | Core Rulebook |
-| Piedi | Stivali della Velocità | come *rapidità*, 10 round/giorno (azione gratuita) | 12.000 | Core Rulebook |
-| Occhi | Occhiali dell'Aquila (Eyes of the Eagle) | +5 competenza Percezione | 2.500 | Core Rulebook |
-| Oggetto tenuto *(= catalizzatore Evocazione, il Bastone)* | Verga della Metamagia, Rapido (Metamagic Rod, Quicken) | 3 incantesimi/giorno lanciati come se avessero il talento Incantesimo Rapido (fino al 6° liv., coerente coi suoi incantesimi massimi) | 75.500 | Ultimate Equipment |
-| Arma *(= catalizzatore Trasmutazione, il Pugnale)* | Pugnale +5 | potenziamento standard | 50.302 | Core Rulebook |
-| Oggetto tenuto *(= catalizzatore Invocazione, lo Specchio)* | **Specchio della Prodezza Mentale** (Mirror of Mental Prowess) | legge il pensiero di chi vi si riflette, funge da chiaroveggenza, e può essere usato come portale verso luoghi già scrutati | 175.000 | Ultimate Equipment |
-| Oggetto tenuto *(= catalizzatore Negromanzia, il Teschio)* | Teschio del Primo Amante | nessun bonus meccanico, solo valore storico/RP | — | — |
-| Contenitore | Borsa di Conservazione, tipo IV | 500 lb / 2.000 piedi cubi di capacità | 10.000 | Core Rulebook |
-| Varie | Bacchette, pergamene, pozioni, riserva liquida (oro, gemme, oggetti d'arte) | | ~183.600 | — |
-| **Totale** | | | **~880.000** | |
+| Slot                                                        | Oggetto (nome ufficiale)                                                    | Effetto                                                                                                                               | Prezzo (mo)  | Fonte              |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------ |
+| Armatura                                                    | Camicia di maglia in mithral +5                                             | armatura leggera in mithral, potenziamento +5                                                                                         | 26.100       | Core Rulebook      |
+| Anello 1                                                    | Anello di Protezione +5                                                     | +5 deflessione alla CA                                                                                                                | 50.000       | Core Rulebook      |
+| Anello 2                                                    | Anello di Libertà di Movimento                                              | come *libertà di movimento* continua                                                                                                  | 40.000       | Core Rulebook      |
+| Collo *(= catalizzatore Ammaliamento, la Collana)*          | Amuleto di Armatura Naturale +5                                             | +5 armatura naturale, oltre al potere di risonanza                                                                                    | 50.000       | Core Rulebook      |
+| Testa                                                       | **Diadema del Vigore Mentale** (Headband of Mental Prowess) +6              | +6 a due caratteristiche mentali a scelta (Int e Car)                                                                                 | 90.000       | Ultimate Equipment |
+| Vita                                                        | **Cintura del Vigore Fisico** (Belt of Physical Might) +6                   | +6 a due caratteristiche fisiche a scelta (For e Des)                                                                                 | 90.000       | Ultimate Equipment |
+| Spalle                                                      | Mantello di Resistenza +5                                                   | +5 a tutti i TS                                                                                                                       | 25.000       | Core Rulebook      |
+| Piedi                                                       | Stivali della Velocità                                                      | come *rapidità*, 10 round/giorno (azione gratuita)                                                                                    | 12.000       | Core Rulebook      |
+| Occhi                                                       | Occhiali dell'Aquila (Eyes of the Eagle)                                    | +5 competenza Percezione                                                                                                              | 2.500        | Core Rulebook      |
+| Oggetto tenuto *(= catalizzatore Evocazione, il Bastone)*   | Verga della Metamagia, Rapido (Metamagic Rod, Quicken)                      | 3 incantesimi/giorno lanciati come se avessero il talento Incantesimo Rapido (fino al 6° liv., coerente coi suoi incantesimi massimi) | 75.500       | Ultimate Equipment |
+| Arma *(= catalizzatore Trasmutazione, il Pugnale)*          | Pugnale +5                                                                  | potenziamento standard                                                                                                                | 50.302       | Core Rulebook      |
+| Oggetto tenuto *(= catalizzatore Invocazione, lo Specchio)* | **Specchio della Prodezza Mentale** (Mirror of Mental Prowess)              | legge il pensiero di chi vi si riflette, funge da chiaroveggenza, e può essere usato come portale verso luoghi già scrutati           | 175.000      | Ultimate Equipment |
+| Oggetto tenuto *(= catalizzatore Negromanzia, il Teschio)*  | Teschio del Primo Amante                                                    | nessun bonus meccanico, solo valore storico/RP                                                                                        | —            | —                  |
+| Contenitore                                                 | Borsa di Conservazione, tipo IV                                             | 500 lb / 2.000 piedi cubi di capacità                                                                                                 | 10.000       | Core Rulebook      |
+| Varie                                                       | Bacchette, pergamene, pozioni, riserva liquida (oro, gemme, oggetti d'arte) |                                                                                                                                       | ~183.600     | —                  |
+| **Totale**                                                  |                                                                             |                                                                                                                                       | **~880.000** |                    |
 
 *(Occhiali e Diadema condividono lo slot "testa/fascia" in modo diverso — occhiali usano lo slot **occhi**, il diadema lo slot **fascia/testa**: non c'è conflitto. Se il tuo tavolo applica la regola opzionale del costo maggiorato per oggetti con più poteri sullo stesso slot, il Collo/Amuleto potrebbe costare di più se in futuro vuoi aggiungergli altre proprietà oltre all'armatura naturale.)*
 

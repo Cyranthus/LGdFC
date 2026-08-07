@@ -15,9 +15,9 @@ LN Medium humanoid (human)
 *   **Speed** 40 ft.
 *   4 attacchi
 *   **Melee**
-    *   [**Disposal Blade, Ultrathin**](https://aonsrd.com/WeaponDisplay.aspx?ItemName=Ultrathin&Family=Disposal%20Blade) +25/+20/+15/+10 (4d6+19 S; critical sever wounds)
+    *   [**Disposal Blade, Ultrathin**](https://aonsrd.com/WeaponDisplay.aspx?ItemName=Ultrathin&Family=Disposal%20Blade) +25/+20/+15/+10 (2d6+19 S; critical sever wounds)
 *   **Ranged**
-    *   Advanced Plasma pistol +25 (3d8+15 E & F; critical burn 2d8)
+    *   Advanced Plasma pistol +25 (1d8+15 E & F; critical burn 1d8)
 
 ### **Statistics**
 
