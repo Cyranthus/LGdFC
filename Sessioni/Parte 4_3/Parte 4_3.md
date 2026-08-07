@@ -169,12 +169,79 @@ Oppure addosso a Vossnik
 
 Tutti i mercanti sono parecchio indaffarati; nei loro negozi è molto comune trovarvi dei cercatori.
 
-- Mercante di armi lvl 12
+##### Mercante di armi lvl 12
+
   La virtù del soldato
   (Edlowe, un Halfling e il suo amico nano Yuri)
-  
-  
 
-- Mercante di oggetti meravigliosi lvl 12
+|Oggetto|Prezzo|
+|---|---|
+|[Boulderhead bock](https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Boulderhead+bock)|25 gp|
+|[Firearm bullet, silver](https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Firearm+bullet%2C+silver)|25 gp|
+|[Blasting jelly](https://www.aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Blasting+jelly)|45 gp|
+|[Alchemical candle wax](https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemical+candle+wax)|150 gp|
+|[Necrosalt](https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Necrosalt)|150 gp|
+|[Frost ward gel](https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Frost+ward+gel)|150 gp|
+|[Night stalker's tonic](https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Night+stalker's+tonic)|200 gp|
+|[Numerian Resistance Plate](https://aonprd.com/MagicArmorDisplay.aspx?ItemName=Numerian+Resistance+Plate)|16.350 gp|
+|[Shieldmarshal's Ward](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Shieldmarshal's+Ward)|17.155 gp|
+|[Guard of Man](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Guard+of+Man)|17.180 gp|
+|[Zul](https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Zul)|18.395 gp|
+|[Quarterstaff of Vaulting](https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Quarterstaff+of+Vaulting)|19.100 gp|
+|[Lyrune-Quah Klar](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Lyrune-Quah+Klar)|19.912 gp|
+|[Stalwart Breastplate](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Stalwart+Breastplate)|22.350 gp|
+|[Sword of Tempests](https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Sword+of+Tempests)|23.315 gp|
+|[Aldori Dueling Armor](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Aldori+Dueling+Armor)|24.200 gp|
+|[Vibrant Frog Hide](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Vibrant+Frog+Hide)|28.165 gp|
+|[Devil Catcher](https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Devil+Catcher)|30.320 gp|
+|[Murderer's Machete](https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Murderer's+Machete)|32.870 gp|
+|[Snailplate](https://aonprd.com/MagicArmorDisplay.aspx?ItemName=Snailplate)|36.000 gp|
+|[Chaos Hammer](https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Chaos+Hammer)|38.312 gp|
+|[Storval's Fang](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Storval%27s+Fang)|38.312 gp|
+|[Heartswood Spear](https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Heartswood+Spear)|50.302 gp|
+|[Thorn Bow](https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Thorn+Bow)|59.700 gp|
+|[Ebon Thorn](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Ebon+Thorn)|60.500 gp|
+|[Scimitar of the Spellthief](https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Scimitar+of+the+Spellthief)|75.815 gp|
+|[Trident of the Storm Captain](https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Trident+of+the+Storm+Captain)|109.665 gp|
+|[Gelugon Armor](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Gelugon+Armor)|117.650 gp|
+
+##### Mercante di oggetti meravigliosi lvl 12
  
-- Mercante magie lvl 12
+##### Mercante magie lvl 12
+
+
+
+#### **Liberty District**
+
+##### Cittadella del Reggente
+
+3 piani + 1 con camminate delle guardie + una torre di guardia
+(tipo Palazzo Vecchio di Firenze)
+Palazzo dove risiede il Reggente Eletto, protetto da circa 50 Falchi d'Acciaio.
+
+![[eagleKnight.jpg]]
+
+
+![[SteelFalcon.jpg]]
+
+
+
+
+## Eventi ad Almas
+
+
+- **Giorno 1**: (Potrebbe passare anche una settimana dalla discussione con Corde Dorate):
+  Il Reggente Eletto ha indetto una festa tra 2 giorni nel suo palazzo, la Cittadella del Reggente, con i più facoltosi cittadini dell'Andoran; l'evento è una raccolta fondi di beneficienza, Vossnik e diversi Cercatori (una ventina?) di alto profilo sono invitati.
+  Ci saranno anche 2 membri del **Decemvirato** dei Cercatori.
+  
+- **Giorno 3**: Evento alla Cittadella del Reggente
+
+- **Giorno 4-5**: viene comunicato che tra 2 giorni verrà indetto un discorso nella grande piazza centrale di Almas (davanti al Palazzo del Consiglio del Popolo)
+  oppure
+  La Nave avverte che sono state rilevate scosse sismiche anomale in diversi punti del continente.
+  Parte una sorta di guerra civile tra cercatori e soldati dell'Andoran -> si trigghera la calamità
+
+- **Giorno 3**: discorso in piazza per tranquillizzare la cittadinanza sulle voci che girano, la situazione è sotto controllo, i migliori membri dei Cercatori sono già sulle loro tracce
+
+- **Giorno 4 o 5**: si sentono allarmi in tutta la città; partono gli eventi con le calamità
+  (la base di Almas sarà svuotata)

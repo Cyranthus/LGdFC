@@ -32,11 +32,12 @@ Capitani di Ventura e avventurieri possono essere inconsapevoli o "avatar" di te
 
 5 Progenie sono in attivazione:
 
-- Giorno 1 (3 giorni dopo l'incontro e discussione con Corde Dorate):
+- **Giorno 1**: (3 giorni dopo l'incontro e discussione con Corde Dorate):
   Vossnik va al Palazzo del Consiglio del Popolo per parlare con Andira Marusek, l'attuale Reggente Eletto dell'Andoran.
 
-- Giorno 2: viene comunicato che tra 2 giorni verrà indetto un discorso nella grande piazza centrale di Almas (davanti al Palazzo del Consiglio del Popolo)
+- **Giorno 2**: viene comunicato che tra 2 giorni verrà indetto un discorso nella grande piazza centrale di Almas (davanti al Palazzo del Consiglio del Popolo)
 
-- Giorno 3: discorso in piazza per tranquillizzare la cittadinanza sulle voci che girano, la situazione è sotto controllo, i migliori membri dei Cercatori sono già sulle loro tracce
+- **Giorno 3**: discorso in piazza per tranquillizzare la cittadinanza sulle voci che girano, la situazione è sotto controllo, i migliori membri dei Cercatori sono già sulle loro tracce
 
-- Giorno 4: 
+- **Giorno 4 o 5**: si sentono allarmi in tutta la città; partono gli eventi con le calamità
+  (la base di Almas sarà svuotata)

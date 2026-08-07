@@ -6,7 +6,7 @@
       {
         "id": "3c2d6a6f2d582414",
         "type": "tabs",
-        "dimension": 63.37142857142857,
+        "dimension": 51.33991537376586,
         "children": [
           {
             "id": "1b25dd7e875e1e74",
@@ -37,6 +37,18 @@
             }
           },
           {
+            "id": "1091f8eee0ddfdfd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Published_/z_Images/Almas_Map.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Almas_Map"
+            }
+          },
+          {
             "id": "8b687577d4df3169",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
       {
         "id": "5d3a9ff5fbd436a9",
         "type": "tabs",
-        "dimension": 36.628571428571426,
+        "dimension": 48.66008462623414,
         "children": [
           {
             "id": "fbfd3a7385a54e0c",
@@ -331,10 +343,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e67ba2e6bf244fe3",
+  "active": "edbf894279946a7e",
   "lastOpenFiles": [
+    "_Published_/z_Images/eagleKnight.jpg",
     "Sessioni/Parte 4_3/Parte 4_3.md",
+    "_Published_/z_Images/SteelFalcon.jpg",
+    "_Published_/z_Images/Almas_Map.jpg",
     "Mondo/Fazioni/Cercatori dell'Alba.md",
+    "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
     "INIZIATIVA - NEMICI SCONFITTI.md",
     "Mondo/NPC - Mostri/Neutrali/PG - Vampira Occultista Lv20.md",
     "Mondo/NPC - Mostri/Enemies_npc/Space Marines/Comandante Regionale Vossnik - CR 15.md",
@@ -346,7 +362,6 @@
     "Mondo/NPC - Mostri/Enemies_npc/Progenie di Rovagug/Lista Progenie.md",
     "Mondo/NPC - Mostri/Neutrali/NPC - Cora Lorely - Boss dei Ratti dei Rovi -.md",
     "Mondo/NPC - Mostri/Neutrali/NPC - Doppak -Colui che Non Muore di Sete-.md",
-    "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
     "_Published_/z_Images/note.png",
     "Mondo/NPC - Mostri/Enemies_npc/Space Marines/Space Marine Base - CR 12.md",
     "Mondo/Fazioni/Fazione - Ratti dei Rovi.md",
@@ -361,19 +376,15 @@
     "_Published_/Mondo/Apparizioni/Scaglia di drago di rame (Wataxshyl)/Descrizione e Visione.md",
     "[una scaglia mezza annerita.md",
     "_Published_/BG Personaggi/Alystrin Alistrèa Nimel.md",
-    "_Published_/z_Images/Almas_Map.jpg",
     "una scaglia mezza annerita.md",
     "[_Published_/Mondo/Apparizioni/Scaglia di drago di rame (Wataxshyl)",
     "[_Published_/Mondo/Apparizioni",
     "[_Published_/Mondo",
     "[_Published_",
     "scaglia mezza annerita.md",
-    "_Published_/Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
     "_Published_/z_Images/Mutant-Captain.jpg",
     "_Published_/z_Images/istockphoto-1191700464-612x612.jpg",
-    "_Published_/z_Images/copperDragon.png",
     "_Published_/Mondo/Apparizioni/Scaglia di drago di rame (Wataxshyl)",
-    "_Published_/z_Images/varkhan.jpg",
     "Mondo/NPC - Mostri/Enemies_npc/Progenie di Rovagug",
     "Mondo/NPC - Mostri/Enemies_npc/Space Marines",
     "Senza nome.base",
