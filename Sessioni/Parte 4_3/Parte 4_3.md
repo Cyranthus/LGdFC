@@ -218,20 +218,24 @@ Tutti i mercanti sono parecchio indaffarati; nei loro negozi è molto comune tro
 3 piani + 1 con camminate delle guardie + una torre di guardia
 (tipo Palazzo Vecchio di Firenze)
 Palazzo dove risiede il Reggente Eletto, protetto da circa 50 Falchi d'Acciaio.
+Vossnik sarà accompagnato da 20 cercatori
 
 ![[eagleKnight.jpg]]
 
 
 ![[SteelFalcon.jpg]]
 
+Gran ballo di beneficenza
+- ingresso durante il ballo in corso
+- dopo un po' verrà richiamata l'attenzione dal Reggente Eletto che ringrazierà i partecipanti di essere intervenuti così numerosi, ricorderà per chi dovesse ancora donare di rivolgersi al tesoriere di stato (indicando a lato della sala), chiederà un minuto di silenzio per Piren's Bluff. Dopo comunicherà che ha convocato i Cercatori proprio per chiarire le dinamiche dell'attacco e discutere le prossime mosse. Il Reggente giura che farà tutto quello che è un suo potere per vendicare Piren's Bluff, fermare la SAP e scongiurare ulteriori attacchi del genere. Ringrazia di nuovo tutti e da il buon proseguimento di serata.
 
-
+- dopo un po' il Reggente di ritirerà con al seguito una decina di 
 
 ## Eventi ad Almas
 
 
 - **Giorno 1**: (Potrebbe passare anche una settimana dalla discussione con Corde Dorate):
-  Il Reggente Eletto ha indetto una festa tra 2 giorni nel suo palazzo, la Cittadella del Reggente, con i più facoltosi cittadini dell'Andoran; l'evento è una raccolta fondi di beneficienza, Vossnik e diversi Cercatori (una ventina?) di alto profilo sono invitati.
+  Il Reggente Eletto ha indetto una festa tra 2 giorni nel suo palazzo, la Cittadella del Reggente, con i più facoltosi cittadini dell'Andoran; l'evento è una raccolta fondi di beneficienza per la ricostruzione di Piren's Bluff. Vossnik e diversi Cercatori (una ventina?) di alto profilo sono invitati.
   Ci saranno anche 2 membri del **Decemvirato** dei Cercatori.
   
 - **Giorno 3**: Evento alla Cittadella del Reggente
