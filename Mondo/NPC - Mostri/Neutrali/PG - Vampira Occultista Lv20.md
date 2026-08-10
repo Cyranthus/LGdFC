@@ -17,14 +17,13 @@
 
 ### Attacco
 **Mischia** artiglio (schianto) +21/+16/+11 (1d4+6 più assorbimento di energia — *nota: niente più Attacco Naturale Migliorato in questa build, quindi il dado resta 1d4, non 1d6*)
-**Mischia con Pugnale +5** (catalizzatore Trasmutazione) +26/+21/+16 (1d4+11)
+**Mischia con Pugnale +5 Vorpal** (catalizzatore Trasmutazione) +26/+21/+16 (1d4+11)
 **CBA/CMD** +21 / 44
 
 ### Attacchi Speciali (invariati dal template Vampiro; CD Dominare ricalcolata sotto)
 Assorbimento di Sangue, Figli della Notte (1/giorno), Creare Progenie, Dominare (CD 27), Assorbimento di Energia (2 livelli negativi), Cambiaforma (pipistrello/lupo), Nessun'ombra
 
 ---
-
 ## Punteggi di Caratteristica
 
 **Nudi** (template Vampiro applicato, nessun oggetto):
@@ -48,7 +47,6 @@ Raggirare +38 (+8 razziale), Diplomazia +30, Rendersi Irriconoscibile +30, Volar
 **Lingue** Comune, più numerose altre grazie a Linguistica (consigliate: Antico, Draconico, Abissale, Infernale, Celestiale, Elfico)
 
 ---
-
 ## Talenti
 
 **Bonus del Vampiro (invariati)**: Attento, Riflessi in Combattimento, Schivare, Iniziativa Migliorata, Riflessi Fulminei, Vigore
@@ -69,7 +67,6 @@ Raggirare +38 (+8 razziale), Diplomazia +30, Rendersi Irriconoscibile +30, Volar
 | 11 (19°) | **Conduttore Occulto** *(eccezione, vedi nota sopra)* | può investire focus mentale nel proprio corpo, trattato come implemento di una qualsiasi scuola conosciuta |
 
 ---
-
 ## Classe: Occultista 20 — Riepilogo Meccaniche
 
 - **CBA** +15/+10/+5 · **TS base** Tempra +12 / Riflessi +6 / Volontà +12 (prima dei mod. di caratteristica; con caratteristiche e Mantello di Resistenza inclusi vedi Blocco Statistiche sopra)
@@ -83,7 +80,6 @@ Raggirare +38 (+8 razziale), Diplomazia +30, Rendersi Irriconoscibile +30, Volar
 - Incantesimi: 10 + livello + 11 (Int); Necromanzia +2 → es. incantesimo 6° liv. necromantico CD **29**
 
 ---
-
 ## I Sette Catalizzatori
 
 | Scuola | Oggetto | Storia in breve |
@@ -99,7 +95,6 @@ Raggirare +38 (+8 razziale), Diplomazia +30, Rendersi Irriconoscibile +30, Volar
 **Poteri di risonanza base**: Talismano di Protezione (Abi.), Terzo Occhio (Div.), Presenza Gloriosa (Amm.), Focus Intenso (Evo.), Focus Necromantico (Necro.), Potenziamento Fisico (Trasm.), Focus del Lancio (Invo.).
 
 ---
-
 ## Poteri Focus (7 base + 10 scelti)
 
 **Poteri base automatici** (uno per scuola): Barriera Mentale (Abi.), Intuizione Improvvisa (Div.), Offuscare la Mente (Amm.), Raggio d'Energia (Evo.), Paura Mentale (Necro.), Arma della Tradizione (Trasm.), Servitore (Invo.)
@@ -119,7 +114,6 @@ Raggirare +38 (+8 razziale), Diplomazia +30, Rendersi Irriconoscibile +30, Volar
 | 10 | Defilarsi | Invocazione | 1 focus (azione di movimento) | 7° |
 
 ---
-
 ## Incantesimi Conosciuti (uno per livello per scuola)
 
 **Trucchetti** *(a volontà)*: resistenza (Abi.), individuazione magia (Div.), daze (Amm.), scintilla (Evo.), tocco dell'affaticamento (Necro.), mano magica (Trasm.), stabilizzare (Invo.)

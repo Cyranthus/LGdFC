@@ -6,24 +6,10 @@
       {
         "id": "3c2d6a6f2d582414",
         "type": "tabs",
-        "dimension": 51.33991537376586,
+        "dimension": 55.61762880198634,
         "children": [
           {
-            "id": "1b25dd7e875e1e74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Riassunto - Parte 5"
-            }
-          },
-          {
-            "id": "edbf894279946a7e",
+            "id": "ace841587a296dcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,19 +23,35 @@
             }
           },
           {
-            "id": "1091f8eee0ddfdfd",
+            "id": "c40e6b524a5ebb71",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_Published_/z_Images/Almas_Map.jpg"
+                "file": "Mondo/NPC - Mostri/Neutrali/NPC - Cora Lorely - Boss dei Ratti dei Rovi -.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Almas_Map"
+              "icon": "lucide-file",
+              "title": "NPC - Cora Lorely - Boss dei Ratti dei Rovi -"
             }
           },
           {
-            "id": "8b687577d4df3169",
+            "id": "8ce0e26a9cff1df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regolamento Energia Ciusca"
+            }
+          },
+          {
+            "id": "7c2eca6725df058d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,27 +63,109 @@
               "icon": "lucide-file",
               "title": "PG - Vampira Occultista Lv20"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5d3a9ff5fbd436a9",
-        "type": "tabs",
-        "dimension": 48.66008462623414,
-        "children": [
+          },
           {
-            "id": "fbfd3a7385a54e0c",
+            "id": "4f45362a627b36cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Mondo/Fazioni/Fazione - Ratti dei Rovi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Fazione - Ratti dei Rovi"
+            }
+          },
+          {
+            "id": "0dff3756508b7887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/NPC - Mostri/Le Corde Dorate_npc/Elowen -Cacciastelle- Kaela.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elowen -Cacciastelle- Kaela"
+            }
+          },
+          {
+            "id": "df8f509c8ec5e87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Fazioni/Le Corde Dorate - Liberatori Galattici del Fuoco Celeste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Le Corde Dorate - Liberatori Galattici del Fuoco Celeste"
+            }
+          },
+          {
+            "id": "50a8491ec894006b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Riassunto - Parte 5"
+            }
+          },
+          {
+            "id": "146745237193bba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Fazioni/Mondi Fantasma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mondi Fantasma"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5d3a9ff5fbd436a9",
+        "type": "tabs",
+        "dimension": 44.38237119801365,
+        "children": [
+          {
+            "id": "a8f98426c2d87c79",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Published_/z_Images/Almas_Map.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Almas_Map"
+            }
+          },
+          {
+            "id": "c32b20e08456bf89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regolamento Energia Ciusca"
             }
           },
           {
@@ -99,20 +183,6 @@
             }
           },
           {
-            "id": "aefc714675b2e517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mondo/NPC - Mostri/Enemies_npc/Space Marines/Comandante Regionale Vossnik - CR 15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Comandante Regionale Vossnik - CR 15"
-            }
-          },
-          {
             "id": "e5e3aa494553d039",
             "type": "leaf",
             "state": {
@@ -127,21 +197,20 @@
             }
           },
           {
-            "id": "1568a37a64c37801",
+            "id": "685d74b63b1198c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INIZIATIVA - NEMICI SCONFITTI.md",
+                "file": "Sessioni/Parte 4_3/Souston.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INIZIATIVA - NEMICI SCONFITTI"
+              "title": "Souston"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +244,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mann",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.16668701171875
+    "width": 393.5
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -343,47 +412,47 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "edbf894279946a7e",
+  "active": "8ce0e26a9cff1df5",
   "lastOpenFiles": [
-    "_Published_/z_Images/eagleKnight.jpg",
-    "Sessioni/Parte 4_3/Parte 4_3.md",
-    "_Published_/z_Images/SteelFalcon.jpg",
-    "_Published_/z_Images/Almas_Map.jpg",
-    "Mondo/Fazioni/Cercatori dell'Alba.md",
-    "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
-    "INIZIATIVA - NEMICI SCONFITTI.md",
+    "Mondo/NPC - Mostri/Neutrali/NPC - Cora Lorely - Boss dei Ratti dei Rovi -.md",
     "Mondo/NPC - Mostri/Neutrali/PG - Vampira Occultista Lv20.md",
+    "_Published_/z_Images/cora.jpg",
+    "Mondo/Fazioni/Fazione - Ratti dei Rovi.md",
+    "Sessioni/Parte 4_3/Parte 4_3.md",
+    "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
+    "Mondo/Fazioni/Le Corde Dorate - Liberatori Galattici del Fuoco Celeste.md",
+    "Mondo/NPC - Mostri/Le Corde Dorate_npc/Elowen -Cacciastelle- Kaela.md",
+    "_Published_/z_Images/Almas_Map.jpg",
+    "Mondo/Fazioni/Mondi Fantasma.md",
+    "Mondo/NPC - Mostri/Neutrali/NPC - Doppak -Colui che Non Muore di Sete-.md",
+    "_Published_/Mondo/Apparizioni/Scaglia di drago di rame (Wataxshyl)/Descrizione e Visione.md",
+    "_Published_/z_Images/copperDragon.png",
+    "_Published_/Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione.md",
+    "Sessioni/Parte 4_3/Souston.md",
     "Mondo/NPC - Mostri/Enemies_npc/Space Marines/Comandante Regionale Vossnik - CR 15.md",
+    "Mondo/NPC - Mostri/Enemies_npc/Space Marines/Space Marine Base - CR 13.md",
+    "Mondo/Fazioni/Cercatori dell'Alba.md",
+    "Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
+    "Mondo/NPC - Mostri/Enemies_npc/Progenie di Rovagug/Lista Progenie.md",
+    "INIZIATIVA - NEMICI SCONFITTI.md",
+    "TODO.md",
+    "Sessioni/Parte 4_1/Parte 4_1.md",
+    "_Published_/z_Images/eagleKnight.jpg",
+    "_Published_/z_Images/SteelFalcon.jpg",
     "Mondo/NPC - Mostri/Neutrali/Andira Marusek - Reggente Eletta Andoran.md",
     "_Published_/z_Images/Andira Marusek_Almas.jpg",
     "_Published_/BG Personaggi/Neg Cornetto Rothfus.md",
-    "Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
-    "Sessioni/Parte 4_1/Parte 4_1.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Progenie di Rovagug/Lista Progenie.md",
-    "Mondo/NPC - Mostri/Neutrali/NPC - Cora Lorely - Boss dei Ratti dei Rovi -.md",
-    "Mondo/NPC - Mostri/Neutrali/NPC - Doppak -Colui che Non Muore di Sete-.md",
     "_Published_/z_Images/note.png",
-    "Mondo/NPC - Mostri/Enemies_npc/Space Marines/Space Marine Base - CR 12.md",
-    "Mondo/Fazioni/Fazione - Ratti dei Rovi.md",
     "_Published_/z_Images/fortunata2.jpg",
     "_Published_/z_Images/fortunata_1.jpg",
     "_Published_/z_Images/F.jpg",
-    "TODO.md",
     "_Published_/BG Personaggi/Pruny - La Prescelta - Shelya.md",
     "Sessioni/Parte 4_3/Almas - Dati Sessione.md",
     "_Published_/La Storia fin'ora/Riassunto - Parte 4.md",
-    "[_Published_/Mondo/Apparizioni/Scaglia di drago di rame (Wataxshyl)/Descrizione e Visione.md",
-    "_Published_/Mondo/Apparizioni/Scaglia di drago di rame (Wataxshyl)/Descrizione e Visione.md",
-    "[una scaglia mezza annerita.md",
-    "_Published_/BG Personaggi/Alystrin Alistrèa Nimel.md",
-    "una scaglia mezza annerita.md",
     "[_Published_/Mondo/Apparizioni/Scaglia di drago di rame (Wataxshyl)",
     "[_Published_/Mondo/Apparizioni",
     "[_Published_/Mondo",
     "[_Published_",
-    "scaglia mezza annerita.md",
-    "_Published_/z_Images/Mutant-Captain.jpg",
-    "_Published_/z_Images/istockphoto-1191700464-612x612.jpg",
     "_Published_/Mondo/Apparizioni/Scaglia di drago di rame (Wataxshyl)",
     "Mondo/NPC - Mostri/Enemies_npc/Progenie di Rovagug",
     "Mondo/NPC - Mostri/Enemies_npc/Space Marines",

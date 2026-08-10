@@ -39,5 +39,7 @@ Esistono due tipi di sfruttamento della magia dei popoli magici:
 
 ### Trasparenza Pathfinder 1e <-> Starfinder 1e
 
-- Armi Tek: considerare il livello del personaggio / 2
-- Armature Tek: considerare i valori di KAC / 2 e EAC / 2
+- Armi Tek: dadi di danno dell'arma / 2
+- Armature Tek: considerare:
+  - KAC = KAC -  (livello oggetto / 2)
+  - EAC = EAC - livello oggetto / 2)

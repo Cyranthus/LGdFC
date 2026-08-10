@@ -14,6 +14,13 @@
 			- [[#**Campo della Concordia**#Quartier Generale Regionale dei Cercatori|Quartier Generale Regionale dei Cercatori]]
 			- [[#**Campo della Concordia**#Quartier Generale Cavalieri dell'Aquila|Quartier Generale Cavalieri dell'Aquila]]
 		- [[#Punti d'interesse#**Mercantile District**|**Mercantile District**]]
+			- [[#**Mercantile District**#Mercante di armi lvl 12|Mercante di armi lvl 12]]
+			- [[#**Mercantile District**#Mercante di oggetti meravigliosi lvl 12|Mercante di oggetti meravigliosi lvl 12]]
+			- [[#**Mercantile District**#Mercante magie lvl 12|Mercante magie lvl 12]]
+		- [[#Punti d'interesse#**Liberty District**|**Liberty District**]]
+			- [[#**Liberty District**#Cittadella del Reggente|Cittadella del Reggente]]
+- [[#Eventi ad Almas|Eventi ad Almas]]
+			- [[#**Liberty District**#Gran ballo di beneficenza|Gran ballo di beneficenza]]
 
 
 - Nella prima notte di riposo, Viktor riceve questo messaggio in sogno, da parte di Elowen: *"Daienne, spero stiate tutti bene, abbiamo trovato un collegamento sicuro e stabile, per ora. Incontriamoci al Fienile di Totter, ad Almas. Vi attenderemo lì."*
@@ -168,6 +175,7 @@ Oppure addosso a Vossnik
 #### **Mercantile District** 
 
 Tutti i mercanti sono parecchio indaffarati; nei loro negozi è molto comune trovarvi dei cercatori.
+Alcuni articoli non sono attualmente acquistabili se non si è Cercatori.
 
 ##### Mercante di armi lvl 12
 
@@ -206,7 +214,8 @@ Tutti i mercanti sono parecchio indaffarati; nei loro negozi è molto comune tro
 |[Gelugon Armor](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Gelugon+Armor)|117.650 gp|
 
 ##### Mercante di oggetti meravigliosi lvl 12
- 
+
+
 ##### Mercante magie lvl 12
 
 
@@ -225,11 +234,6 @@ Vossnik sarà accompagnato da 20 cercatori
 
 ![[SteelFalcon.jpg]]
 
-Gran ballo di beneficenza
-- ingresso durante il ballo in corso
-- dopo un po' verrà richiamata l'attenzione dal Reggente Eletto che ringrazierà i partecipanti di essere intervenuti così numerosi, ricorderà per chi dovesse ancora donare di rivolgersi al tesoriere di stato (indicando a lato della sala), chiederà un minuto di silenzio per Piren's Bluff. Dopo comunicherà che ha convocato i Cercatori proprio per chiarire le dinamiche dell'attacco e discutere le prossime mosse. Il Reggente giura che farà tutto quello che è un suo potere per vendicare Piren's Bluff, fermare la SAP e scongiurare ulteriori attacchi del genere. Ringrazia di nuovo tutti e da il buon proseguimento di serata.
-
-- dopo un po' il Reggente di ritirerà con al seguito una decina di 
 
 ## Eventi ad Almas
 
@@ -238,7 +242,36 @@ Gran ballo di beneficenza
   Il Reggente Eletto ha indetto una festa tra 2 giorni nel suo palazzo, la Cittadella del Reggente, con i più facoltosi cittadini dell'Andoran; l'evento è una raccolta fondi di beneficienza per la ricostruzione di Piren's Bluff. Vossnik e diversi Cercatori (una ventina?) di alto profilo sono invitati.
   Ci saranno anche 2 membri del **Decemvirato** dei Cercatori.
   
-- **Giorno 3**: Evento alla Cittadella del Reggente
+- **Giorno 3**: 
+##### Gran ballo di beneficenza
+- ingresso durante il ballo in corso
+- dopo un po' verrà richiamata l'attenzione dal Reggente Eletto che ringrazierà i partecipanti di essere intervenuti così numerosi, ricorderà per chi dovesse ancora donare di rivolgersi al tesoriere di stato (indicando a lato della sala), chiederà un minuto di silenzio per Piren's Bluff. Dopo comunicherà che ha convocato i Cercatori proprio per chiarire le dinamiche dell'attacco e discutere le prossime mosse. Il Reggente giura che farà tutto quello che è un suo potere per vendicare Piren's Bluff, fermare la SAP e scongiurare ulteriori attacchi del genere. Ringrazia di nuovo tutti e da il buon proseguimento di serata.
+
+- dopo un po' il Reggente si ritirerà con al seguito una decina di falchi d'acciaio, Vossnik e altri 10 cercatori ai piani superiori nello studio del Reggente.
+  Fuori dallo studio ci saranno 2 guardie che sorveglieranno la porta.
+  - se gli eroi irromperanno dentro, Vossnik e i Cercatori estrarranno le armi verso gli eroi accusandoli di essere della SAP. Il Reggente comanderà a tutti di fermarsi immediatamente, non vuole spargimenti di sangue nella casa del popolo.
+  - se il Reggente crede agli eroi, Vossnik si spazientirà e attaccherà il Reggente e gli eroi (combat)
+    
+    - **10 cercatori + Vossnik**
+       **2 CR 13**
+       1x [Monaco](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-13/android-ascetic-android-monk-14/)
+       1x [Stregone](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-13/ice-mage-half-elf-sorcerer-14/) Ha già magic armor castata, ha icy prison, appena inizia combat si lancia forma elementale 3
+       
+       **8 CR 12**
+       2x [Combattente](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Brutal%20Warlord)
+       2x [Furtivo](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Guildmaster)
+       2x [Curatore](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Profane%20General)
+       2x [Caster](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Pyromaniac%20Mage) Ha già magic armor castata
+       Vossnik, CR 15
+       
+    - **10 Falchi d'acciaio + Reggente**
+      **10 CR 10**
+      10x [guerrieri](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Scheming%20Fencer)
+      [Andira Marusek](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Dragon%20Smiter), CR 12
+    
+    lungo la fuga, se fanno a piedi, ci saranno Cercatori che combattono con i falchi 
+    d'acciaio.
+
 
 - **Giorno 4-5**: viene comunicato che tra 2 giorni verrà indetto un discorso nella grande piazza centrale di Almas (davanti al Palazzo del Consiglio del Popolo)
   oppure
@@ -249,3 +282,4 @@ Gran ballo di beneficenza
 
 - **Giorno 4 o 5**: si sentono allarmi in tutta la città; partono gli eventi con le calamità
   (la base di Almas sarà svuotata)
+

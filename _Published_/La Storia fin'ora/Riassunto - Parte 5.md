@@ -282,3 +282,12 @@ Durante il sonno, Viktor riceve la visita di Elowen “Cacciastelle”, la Corda
 
 ## Il Tesoro del pirata Souston
 
+recupero corpi
+
+ritrovo con Pruny
+
+sepoltura e riesumazione
+
+Un barbaro a Tal'sindarra
+
+

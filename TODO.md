@@ -10,8 +10,6 @@
 
 - I Cercatori (terrestri) copriranno l'esplosione di Piren's Bluff diffondendo la notizia che la città è stata attaccata da una delle scaglie di Rovagug, il quale è un indiscusso segno dell'avvicinarsi dell'Apocalisse
 
-- Se vanno a Falcon's hollow o s'informano a riguardo, sapranno che si vocifera di disordini provocati da dei mannari (il ripetersi degli eventi iniziali)
-
 - Le corde dorate li contatteranno per incontrarsi ad Almas (tramite sogno): Durante il dialogo, gli comunicheranno che i terrestri stanno organizzando qualcosa di grosso, bisogna scoprire cosa.
   possibili modi:
   - rapire un terrestre (un comandante regionale o uno degli umani all'interno di una base)
