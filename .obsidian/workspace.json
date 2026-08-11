@@ -6,7 +6,7 @@
       {
         "id": "3c2d6a6f2d582414",
         "type": "tabs",
-        "dimension": 51.60226201696513,
+        "dimension": 51.60226201696512,
         "children": [
           {
             "id": "ace841587a296dcd",
@@ -135,12 +135,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "5d3a9ff5fbd436a9",
         "type": "tabs",
-        "dimension": 48.39773798303487,
+        "dimension": 48.39773798303488,
         "children": [
           {
             "id": "a8f98426c2d87c79",
@@ -412,7 +412,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8ce0e26a9cff1df5",
+  "active": "7c2eca6725df058d",
   "lastOpenFiles": [
     "Mondo/NPC - Mostri/Neutrali/NPC - Cora Lorely - Boss dei Ratti dei Rovi -.md",
     "Mondo/NPC - Mostri/Neutrali/PG - Vampira Occultista Lv20.md",
