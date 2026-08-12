@@ -267,9 +267,17 @@ Durante il sonno, Viktor riceve la visita di Elowen “Cacciastelle”, la Corda
 
 ## Il ritorno in superficie
 
+Dopo un'attenta preparazione e una buona notte di riposo, i nostri eroi utilizzano la piattaforma di teletrasporto per l'unica destinazione attualmente attiva per la superficie: Souston.
+Dall'altra parte del portale, una giovane quanto inquietante ragazza accoglie i nostri impavidi; si fa chiamare Alystrin ed è una Corda Dorata.
+
+![[aly.jpg|500]]
+
+Alystrin rivela che Elowen l'ha mandata ad accoglierli e ad accompagnarli ad Almas. Inoltre rivela al gruppo la sua peculiare condizione; è un'anomalia come il resto del gruppo e inoltre ha un chip impiantato che permette la connessione remota di un altro dei compagni di Elowen / Kaela e Deldrin / Reed.
+Il gruppo lascia il seminterrato in cui è nascosto il teletrasporto, escono dall'edificio fatiscente e si ritrovano in un piccolo boschetto sul crinale di una collina, in lontananza si vede il mare e un placido e tranquillo villaggio di pescatori.
 
 ## La quest
 
+alcuni membri del gruppo, entusiasti di ritrovarsi di nuovo all'aria aperta, decidono di rilassarsi un pò sulla spiaggia poco fuori la cittadina di pescatori, mentre altri entrano in città alla ricerca di qualche informazione e di una taverna.
 
 ## La notte
 
