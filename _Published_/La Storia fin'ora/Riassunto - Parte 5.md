@@ -278,7 +278,7 @@ Il gruppo lascia il seminterrato in cui è nascosto il teletrasporto, escono dal
 ## La quest
 
 alcuni membri del gruppo, entusiasti di ritrovarsi di nuovo all'aria aperta, decidono di rilassarsi un pò sulla spiaggia poco fuori la cittadina di pescatori, mentre altri entrano in città alla ricerca di qualche informazione e di una taverna.
-
+Non passa molto tempo che la quiete del momento viene incrinata dall'arrivo in città di ben due gruppi di Cercatori desiderosi di aiutare il prossimo (fare ounti)
 ## La notte
 
 
