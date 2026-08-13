@@ -29,3 +29,5 @@ Capitani di Ventura e avventurieri possono essere inconsapevoli o "avatar" di te
 - La SAP (definita dai cercatori come Setta Anarchica della Progenie) viene indicata come principale minaccia e fautrice del tentativo di risveglio della progenie; anche gli eroi sono dei ricercati come membri della SAP, vivi o morti.
 
 5 Progenie sono in attivazione
+
+2 gruppi di campioni sono stati scelti per combattere la progenie

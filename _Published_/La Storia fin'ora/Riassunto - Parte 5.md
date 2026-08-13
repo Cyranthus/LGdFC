@@ -345,10 +345,18 @@ Il gruppo saluta il gentile mercante con una strana sensazione di vuotezza e sen
 
 ## Arrivo ad Almas
 
+Dopo un paio di giorni di viaggio tranquillo e senza violenza, gli intrepidi arrivano finalmente alle porte di Almas, la grande capitale dell'Andoran.
 
+![[Almas_view.jpg]]
 
+L'enorme città costiera accoglie il gruppo che i suoi mille rumori, odori di spezie e numerosi gruppi di Cercatori intenti a fare compere, riscuotere ricompense, e cercare nuove missioni.
+La stessa guardia all'ingresso rivela ai nostri insospettabili amici che ultimamente c'è molto fermento tra i Cercatori, specialmente dopo la distruzione di Piren's Bluff.
+Non appena superato l'ingresso, con rinnovata furbizia, decide di alterare il proprio aspetto e connotati, cosa assai semplice grazie all'incredibili abilità da trasformista di Viktor.
+Il gruppo, guidato da Alystrin, procede lungo una delle vie principali della città, il Viale degli Dei, un lungo viale alberato che attraversa tutta East Hill dove nella parte centrale del viale sono presenti numerose statue di divinità con molti omaggi e doni lasciati ai loro piedi. Particolare che non passa inosservato ai nostri amici sono le statue parecchio trascurate e mezze distrutte delle divinità scomparse, nessuna di queste inoltre presenta offerte sotto di essa, nessuna tranne una, quella di Pharasma, la quale, ai suoi piedi, è stato lasciato un mazzetto di rose nere senza spine.
+Questo particolare rimane abbastanza impresso a Neg; in effetti, chi potrebbe mai venerare ancora una divinità scomparsa praticamente mille anni fa?
 ## Pranzo con Elowen
 
+Il gruppo raggiunge finalmente il Fienile di Totter, rinomata locanda proprio sul Viale degli Dei, famosa per le sue tagliate di manzo, oltre che il posto in cui Elowen sta aspettando i nostri eroi sotto mentite spoglie
 
 ## Il nascondiglio delle Corde Dorate
 
@@ -360,7 +368,7 @@ Il gruppo saluta il gentile mercante con una strana sensazione di vuotezza e sen
 
 
 
-
+![[cora.jpg|500]]
 
 
 
