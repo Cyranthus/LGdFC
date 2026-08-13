@@ -278,24 +278,92 @@ Il gruppo lascia il seminterrato in cui è nascosto il teletrasporto, escono dal
 ## La quest
 
 alcuni membri del gruppo, entusiasti di ritrovarsi di nuovo all'aria aperta, decidono di rilassarsi un pò sulla spiaggia poco fuori la cittadina di pescatori, mentre altri entrano in città alla ricerca di qualche informazione e di una taverna.
-Non passa molto tempo che la quiete del momento viene incrinata dall'arrivo in città di ben due gruppi di Cercatori desiderosi di aiutare il prossimo (fare ounti)
+Non passa molto tempo che la quiete del momento viene incrinata dall'arrivo in città di ben due gruppi di Cercatori desiderosi di aiutare il prossimo. Il gruppo decide di dividersi e di tenerli d'occhio, facendosi passare per degli avventurieri indipendenti, quasi dei possibili aiutanti dei cercatori.
+I due gruppi sembrano interessati al ritrovamento del tesoro di un antico pirata di nome Souston (colui che fondò il villaggio, si dice) e alla difesa del villaggio dalle minacce del pericolo pirata e schiavista Durgan "catena rossa" Kreed; quest'ultimo ha richiesto la consegna del tesoro entro l'alba del giorno dopo o la cittadina sarebbe stata rasa al suolo.
+I due gruppi trovano particolamenre sospetti due mercanti in competizione tra loro, i fratelli Mordane; sotto gli attenti occhi dei nostri impavidi, i Cercatori cercano di strappare qualche informazione sul tesoro ma non riescono ad ottenere nulla di utile.
+
 ## La notte
 
+La giornata scorre veloce mentre s'indaga e l'appetito si fa sentire; sul far della sera, i Cercatori si dirigono verso la taverna per pasteggiare e riposarsi. I nostri scaltri eroi decidono di attuare il loro piano s.t.e.a.l.t.h. (Sterminio Totale Esplosivo Attirando Lontano i Tiranni Hitleriani); per evitare di dar fuoco all'intera taverna, con una scusa i nostri incontenibili avventurieri attirano uno dei due gruppi di Cercatori all'esterno della taverna, portandoli sul molo del porto.
+Qui utilizzano un'approccio molto diretto e altamente rumoroso, facendo esplodere palle di fuoco e diversi incantesimi suoi poveri Cercatori.
+Un feroce combattimento si sviluppa tra i moli del porto; la situazione sembra peggiorare quando il secondo gruppo si unisce alla pugna. Ma i nostri sterminatori preferiti riescono comunque ad avere la meglio su entrambi i gruppi, massacrandoli tutti, davanti alla piccola e attonita folla di cittadini radunatasi fuori la taverna, attirati dal trambusto dei combattimenti.
+Le capacità persuasive di Viktor (e una buona dose di "non ho visto nulla/non voglio problemi/se non mi muovo forse non mi vedono") riescono fortunatamente a calmare gli spaventati cittadini e lo sconvolto taverniere.
+Dopo aver appagato la loro sete di sangue, i nostri guerrafondai amici decidono di riposarsi preparandosi all'arrivo del temibile capitano Kreed.
 
 ## Un'alba movimentata
 
+Come promesso, all'alba il capitano Kreed si presenta sorridente sul molo della cittadina, ma neanche il tempo d'intavolare una discussione che i nostri implacabili eroi scatenano sulla scialuppa una pioggia di palle di fuoco, sfasciandola in un istante.
+I combattimento incalza e i pirati vengono decimati uno dopo l'altro.
+Nel frattempo, Neg risponde colpo su colpo alla nave del pirata che ha cominciato a cannoneggiare il villaggio, provocando gravissimi danni con la sua temibile testa di ballista.
+In pochi istanti, i pirati sono eliminati e la nave è in procinto di affondare; all'ultimo secondo, il vile capitano Kreed si teletrasporta sulla sua nave e cerca di fuggire mentre Neg sferra un ultimo colpo che fa definitivamente affondare l'imbarcazione.
+L'esultanza però dura poco perchè ben presto viene alla luce un'amara verità... e molti cadaveri; la nave del pirata schiavista era piena di schiavi... schiavi che si rivelano ben presto essere quel che rimaneva della tribù di Doppo, inclusi suo padre, 2 fratelli e una sorella.
 
 ## A volte ritornano (in questo caso no)
 
+La rivelazione prende i gruppo parecchio di sorpresa, specialmente Doppo, il quale  reagisce quasi con rifiuto. Tramite l'incantesimo parlare con i morti, Doppo viene a sapere da suo padre che sua madre è morta e che 3 suoi fratelli erano sulla nave; nonostante questo, decide di seppellire suo padre, assieme al suo passato.
 
 ## Il Tesoro del pirata Souston
 
-recupero corpi
+Nel frattempo Alystrin, in poco tempo e con un pò di sana corruzione, riesce a trovare la chiave e l'accesso a una grotta sotterranea che contiene il tesoro di Souston... nonchè il suo guardiano.
+Dopo una serata decisamente alcolica e piena di sensi di colpa, i nostri eroi si risvegliano di buon'ora e scendono nella cantina di uno dei negozi dei fratelli Mordane, dove si trova l'accesso a un'inquietante cunicolo sottterraneo.
+Grazie alla chiave, i nostri intrepidi riescono ad accedere a un'ampia caverna sotterranea, stracolma di oro, oggetti preziosi e una balestra di straordinaria fattura...
+Il tutto sorvegliato da un'amabile aberrazione:
 
-ritrovo con Pruny
+![[Somnalu.png]]
 
-sepoltura e riesumazione
+I nostri esperti combattenti sfogano tutta la loro frustrazione contro lo schifo dai molti occhi, nonostante le notevoli capacità dell'avversario, Il gruppo pone fine alla vita di quest'orrore, figlio della perversione di Dagon e recupera balestra e tesoro.
 
-Un barbaro a Tal'sindarra
+## Recupero e sepoltura dei corpi
+
+Il feroce combattimento (e il tesoro recuperato) pare abbia fatto molto bene al gruppo; i nervi sono più distesi, gli attriti ridotti, gli angoli smussati. Gli allegri compagni decidono di aiutare la popolazione di Souston nel recupero dei corpi di pirati e schiavi (e ne ritrovamento di altro oro).
+
+## Il ritorno di Pruny
+
+Nel frattempo, dopo varie vicissitudini (vedi background) Pruny raggiunge i suoi vecchi compagni a Souston, prioprio mentre stanno riportando a riva i corpi.
+Tutto il gruppo è ben felice di vederla sana e salva e non più in forma di gonfiabile ripiena di energia negativa.
+Viktor e Aly si dirigono a Tal'Sindarra per vendere gli oggetti trafugati dai Cercatori e comprare più diamanti possibili, dove rivedono anche Topper che ha aperto un negozio con il suo asettico figlio lich Doppler: "Tecnoculo Scoreggiatomico di Topper & Figlio".
+
+## E invece ritornano davvero!
+
+Il gruppo e diversi popolani impiegano praticamente tutta la giornata nel radunare i cadaveri e nel portarli fuori città, sulle colline, dove verrà fatta una fossa comune.
+Doppo nel frattempo ripensa alle parole di suo padre e, dopo un'accesa e filosofica discussione osservando il volgo seppelire i cadaveri, alla fine decide di riportarlo in vita.
+
+## Un barbaro a Tal'Sindarra
+
+Doppak riapre gli occhi, un misto di stupore, rabbia e basta perchè per lui sono già troppe robe tutte in una volta, lo travolge mentre rivede suo figlio, vivo, forte e tutto intero davanti a lui.
+La discussione tra i due appare strana, ma è evidente a tutti quanto, sotto, sotto, sotto, sotto, entrambi sono felici di vedere l'altro vivo e vegeto.
+Con l'aiuto di Doppak altri 7 membri dei Figli delle Sabbie Urlanti vengono riportati in vita, inclusi Doppo III, Korik II e Runna.
+Il gruppo di inteneriti eroi, decidono di affidare gli spaesati barbari alle cure della città di Tal'Sindarra e alla SAP.
+
+## Paranoia e carri scadenti
+
+Una volta di ritorno a Souston, il gruppo decide di riprendere il cammino verso Almas promettendosi però di voltare pagina, di cambiare vita, diventare le versioni migliori di loro stessi: Evitare di usare la violenza come prima (e unica) risposta a ogni problema o difficoltà.
+Il placido mercante Barnaby Betus non sa quanto è stato fortunato, quella mattina, nell'incontrare il nostro gruppo di neo-pacifisti eroi; nonostante l'irrefrenabile impulso di trovare qualsiasi pretesto per saltargli alla gola, i nostri eroi, quasi delusi, non trovano nulla di sbagliato o di fuori posto...
+A parte Blu che, non solo ha migliorato la ruota del carro inventando inconsapevolmente il primo prototipo di ammortizzatore per ruote (cosa che farà la fortuna di Barnaby), ma ha anche scoperto di trovare incredibilmente fastidioso lasciare i lavori a metà e le cose poco perfezionate dove sa che potrebbe migliorarle.
+Il gruppo saluta il gentile mercante con una strana sensazione di vuotezza e senza sangue innocente sulle mani.
+
+
+## Arrivo ad Almas
+
+
+
+## Pranzo con Elowen
+
+
+## Il nascondiglio delle Corde Dorate
+
+
+## Appostamenti notturni
+
+
+## Incontro con il passato
+
+
+
+
+
+
+
+
 
 

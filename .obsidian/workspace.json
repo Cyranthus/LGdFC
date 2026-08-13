@@ -6,6 +6,7 @@
       {
         "id": "3c2d6a6f2d582414",
         "type": "tabs",
+        "dimension": 63.68613138686131,
         "children": [
           {
             "id": "50a8491ec894006b",
@@ -21,6 +22,41 @@
               "title": "Riassunto - Parte 5"
             }
           },
+          {
+            "id": "8b7ee8ba624839f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/NPC - Mostri/Neutrali/NPC - Doppak -Colui che Non Muore di Sete-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NPC - Doppak -Colui che Non Muore di Sete-"
+            }
+          },
+          {
+            "id": "5a5011b95c09fc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessioni/Parte 4_3/Parte 4_3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parte 4_3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "910190852f8428e4",
+        "type": "tabs",
+        "dimension": 36.31386861313868,
+        "children": [
           {
             "id": "27d0293c98601b68",
             "type": "leaf",
@@ -94,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.8333435058594
+    "width": 384.70001220703125
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -239,13 +275,15 @@
   },
   "active": "50a8491ec894006b",
   "lastOpenFiles": [
-    "_Published_/BG Personaggi/Alystrin Alistrèa Nimel.md",
+    "Sessioni/Parte 4_3/Parte 4_3.md",
     "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
+    "Mondo/NPC - Mostri/Neutrali/NPC - Doppak -Colui che Non Muore di Sete-.md",
+    "Somnalu.png",
+    "_Published_/BG Personaggi/Alystrin Alistrèa Nimel.md",
     "aly.jpg",
     "Mondo/NPC - Mostri/Neutrali/PG - Vampira Occultista Lv20.md",
     "Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
     "Mondo/NPC - Mostri/Neutrali/NPC - Cora Lorely - Boss dei Ratti dei Rovi -.md",
-    "Sessioni/Parte 4_3/Parte 4_3.md",
     "Mondo/Fazioni/Mondi Fantasma.md",
     "Mondo/Fazioni/Le Corde Dorate - Liberatori Galattici del Fuoco Celeste.md",
     "Mondo/NPC - Mostri/Le Corde Dorate_npc/Elowen -Cacciastelle- Kaela.md",
@@ -253,7 +291,6 @@
     "_Published_/Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione.md",
     "_Published_/z_Images/cora.jpg",
     "_Published_/z_Images/Almas_Map.jpg",
-    "Mondo/NPC - Mostri/Neutrali/NPC - Doppak -Colui che Non Muore di Sete-.md",
     "_Published_/Mondo/Apparizioni/Scaglia di drago di rame (Wataxshyl)/Descrizione e Visione.md",
     "_Published_/z_Images/copperDragon.png",
     "Sessioni/Parte 4_3/Souston.md",
@@ -271,7 +308,6 @@
     "_Published_/BG Personaggi/Neg Cornetto Rothfus.md",
     "_Published_/z_Images/note.png",
     "_Published_/z_Images/fortunata2.jpg",
-    "_Published_/z_Images/fortunata_1.jpg",
     "_Published_/BG Personaggi/Pruny - La Prescelta - Shelya.md",
     "Sessioni/Parte 4_3/Almas - Dati Sessione.md",
     "[_Published_/Mondo/Apparizioni/Scaglia di drago di rame (Wataxshyl)",

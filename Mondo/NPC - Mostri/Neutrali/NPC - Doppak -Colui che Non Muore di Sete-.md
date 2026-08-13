@@ -36,7 +36,7 @@ Questions to answer:
 - Fratelli/sorelle di Doppo
 
 Doppo II       Morto
-Doppo III      Affogato
+Doppo III      VIVO
 Korik             Morto
-Korik II          Affogato
-Runna           Affogata
+Korik II          VIVO
+Runna           VIVO
