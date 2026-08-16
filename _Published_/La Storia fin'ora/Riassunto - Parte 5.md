@@ -354,30 +354,53 @@ La stessa guardia all'ingresso rivela ai nostri insospettabili amici che ultimam
 Non appena superato l'ingresso, con rinnovata furbizia, decide di alterare il proprio aspetto e connotati, cosa assai semplice grazie all'incredibili abilità da trasformista di Viktor.
 Il gruppo, guidato da Alystrin, procede lungo una delle vie principali della città, il Viale degli Dei, un lungo viale alberato che attraversa tutta East Hill dove nella parte centrale del viale sono presenti numerose statue di divinità con molti omaggi e doni lasciati ai loro piedi. Particolare che non passa inosservato ai nostri amici sono le statue parecchio trascurate e mezze distrutte delle divinità scomparse, nessuna di queste inoltre presenta offerte sotto di essa, nessuna tranne una, quella di Pharasma, la quale, ai suoi piedi, è stato lasciato un mazzetto di rose nere senza spine.
 Questo particolare rimane abbastanza impresso a Neg; in effetti, chi potrebbe mai venerare ancora una divinità scomparsa praticamente mille anni fa?
-## Pranzo con Elowen
+
+## Il nascondiglio delle Corde Dorate
 
 Il gruppo raggiunge finalmente il Fienile di Totter, rinomata locanda proprio sul Viale degli Dei, famosa per le sue tagliate di manzo, oltre che il posto prefissato per l'incontro con Elowen, la quale accoglie con gioia i nostri amici in incognito.
 Il gruppo ha un breve scambio poi, dopo il pasto, vengono portati nel nascondiglio vero e proprio delle Corde Dorate; il sotterraneo della cara e dolce nonnina di Elowen, mrs Guendaline.
 Qui gli eroi quasi assalgono Elowen con domande e cambi di argomento continuo, ma le informazioni discusse sono più o meno queste:
 - Elowen e i suoi compagni fanno parte dell'equipaggio di una nave dalla quale si collegano alla rete dei terrestri tramite un segnale "pirata".
 - Le Corde Dorate non sanno la natura dell'immortalità dei Terrestri, né hanno mai rischiato di ucciderne uno per paura di essere scoperti; d'altronde le loro forze sono molto esigue (letteralmente 3 persone: Elowen, Deldrin e Alystrin).
-- Le Corde Dorate sono attualmente all'oscuro dei piani dei Cercatori e dei Terrestri; è però ovvio che la distruzione di Piren's Bluff ha portato a dei cambiamenti; bisogna scoprire quali saranno le prossime mosse dei Cercatori e che intenzioni hanno.
-- 
+- Le Corde Dorate sono attualmente all'oscuro dei piani dei Cercatori e dei Terrestri. Pare che la distruzione di Piren's Bluff ha portato a dei cambiamenti; bisogna scoprire quali saranno le prossime mosse dei Cercatori e che intenzioni hanno.
+- In orbita attorno al pianeta, è presente un enorme portale che permette il viaggio istantaneo delle astronavi in ogni parte del dominio Terrestre. Inoltre, Essi permettono anche la comunicazione e connessione istantanea dei Terrestri ai Cercatori "avatar".
+- I nostri eroi parlano del ritrovamento di una "stranave", nel sottosuolo, con all'interno alcuni esseri come Feisty; Elowen, che inizialmente non aveva realizzato le vere fattezze di Feisty, appare decisamente stupita e parecchio colta alla sprovvista di questa scoperta: la "stranave" infatti ha in sè ha una tecnologia il cui metodo costruttivo, pare sia oramai sconosciuto; il motore a Deriva. Tale tecnologia permette di coprire enormi distanze nello spazio in minor tempo, grazie al passaggio attraverso a un piano di esistenza chiamato appunto Deriva. Tra i Mondi Fantasma, pochissime navi hanno ancora quel sistema di navigazione, quella di Elowen e dei suoi compagni è una di quelle.
+- I Mondi Fantasma sono pianeti appartenenti a un sistema planetario creato artificialmente da un'antica entità chiamata M.O.T.H.E.R.; M.O.T.H.E.R. ha letteralmente spostato pianeti interi andando a formare questo sistema ai margini estremi della galassia, attualmente parecchio al di fuori dell'influenza dei Terrestri.
+- Il pianeta da cui proviene Elowen, nonchè uno dei più popolosi tra i mondi fantasma, si chiama Talmeris.
+- La scoperta dell'esistenza di una nave ancora funzionante dell'era della Resistenza è per Elowen importantissima; è fondamentale riuscire a recuperarla e farla uscire dal sistema sana e salva, inoltre forse in essa sono ancora presenti indizi o coordinate per trovare M.O.T.H.E.R.
+- Elowen inoltre suggerisce agli eroi di rintracciare un gruppo chiamato i "ratti dei rovi", famigerati ricettatori che possono aiutarli nel procurarsi spille dei Cercatori contraffatte.
 
 
-## Il nascondiglio delle Corde Dorate
+## Un nuovo approccio (si ma quanto durerà?)
+
+Dopo la discussione con Elowen, il gruppo decide di passare un pò di tempo per raccogliere informazioni sui Cercatori, sui loro movimenti, su Vossnik (che a quanto pare è in città), ecc.
+Già nella prima giornata, Viktor decide di frequentare le zone limitrofe la sede dei Cercatori, tenendo le orecchie ben tese; oltre ad avere conferma di un discreto via vai di Cercatori, Viktor sente tra le persone molta preoccupazione per la distruzione di Piren's Bluff e le dicerie sulla minaccia di un ritorno della Progenie di Rovagug. Inoltre pare che la Reggente Eletta, Andira Marusek, sia intenzionata ad organizzare un evento o una raccolta fondi per finanziare la ricostruzione di Piren's Bluff.
+Blu decide di concentrarsi nei suoi studi sui ciuschi e sul costruirne di nuovi; Elowen, in tal senso gli da una grossa mano, riuscendo a rispondere ad alcune domande e dubbi che fin'ora per lui erano un mistero.
+Neg, nel frattempo, torna a tenere d'occhio la statua in rovina di Pharasma...
 
 
 ## Appostamenti notturni
 
+...e la tiene d'occhio davvero per tanto tempo, fino a notte inoltrata, quando una figura incappucciata si avvicina alla statua e lascia un nuovo mazzo di rose e poi si allontana.
+Neg segue la losca figura fino al distretto del teatro, dove la vede entrare in quello che sembra un vecchio teatro abbandonato.
+Neg si avvicina all'ingresso ma decide di tornare dal gruppo e tornare qui con gli altri.
+
 
 ## Incontro con il passato
 
+Il giorno dopo, Neg, Viktor, Feisty e Blu decidono di controllare l'edificio in cui Neg ha visto entrare la losca figura. 
+I nostri curiosi eroi varcano la soglia e si ritrovano in uno splendido teatro, una via di mezzo tra un cabaret, con più piani sopraelevati, con tavolini e sedute e un palco molto ampio, dove sopra di esso, illuminata da un cono di luce, s'intravede una figura adombrata, seduta su una sedia che giochicchia con una collana di perle e un vistoso cuore di rubino.
+Ben presto il gruppo si rende conto che la figura sul palco non è l'unica nella stanza; negli spalti superiori, anche se non visibili e completamente al buio, si sentono rumori e fruscii... nonchè numerose auree di non morti, la più potente delle quali si trova proprio sul palco.
+I rumori provenienti dai piani superiori smettono immediatamente non appena la figura comincia a parlare con i nostri incauti eroi, una voce femminile, calma, e gelida.
 
+La donna si rivela presto essere colei che viene chiamata il Bocciolo Eterno, la boss dei Ratti dei Rovi.
+Fin da subito la discussione verte su un argomento che, a quanto pare, sta molto a cuore alla donna in nero; Pharasma. D'altronde, oggi giorno, sono molte poche le persone che ancora si ricordano di lei, o che sanno il suo nome.
+Non è chiaro se sia l'aria innaturale che si respira in presenza della donna o la sensazione di essere in trappola che fanno sciogliere la lingua ai nostri impressionabili eroi, ma quest'ultimi rivelano di aver visto Pharasma, o per meglio dire la cosa che forse si spacciava per essa, cosa che oramai è distrutta.
+La donna si avvicina in modo fulmineo al gruppo, rivelando le sue fattezze:
 
 ![[cora.jpg|500]]
 
-
+In modo molto diretto chiede ai nostri viventi eroi di rivelare la posizione di Pharasma e di portarla da lei. Il gruppo comprende pienamente la reale natura della donna, ovvero una potente vampira
 
 
 
