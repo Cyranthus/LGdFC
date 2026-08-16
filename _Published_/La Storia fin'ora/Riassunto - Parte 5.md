@@ -356,7 +356,14 @@ Il gruppo, guidato da Alystrin, procede lungo una delle vie principali della cit
 Questo particolare rimane abbastanza impresso a Neg; in effetti, chi potrebbe mai venerare ancora una divinità scomparsa praticamente mille anni fa?
 ## Pranzo con Elowen
 
-Il gruppo raggiunge finalmente il Fienile di Totter, rinomata locanda proprio sul Viale degli Dei, famosa per le sue tagliate di manzo, oltre che il posto in cui Elowen sta aspettando i nostri eroi sotto mentite spoglie
+Il gruppo raggiunge finalmente il Fienile di Totter, rinomata locanda proprio sul Viale degli Dei, famosa per le sue tagliate di manzo, oltre che il posto prefissato per l'incontro con Elowen, la quale accoglie con gioia i nostri amici in incognito.
+Il gruppo ha un breve scambio poi, dopo il pasto, vengono portati nel nascondiglio vero e proprio delle Corde Dorate; il sotterraneo della cara e dolce nonnina di Elowen, mrs Guendaline.
+Qui gli eroi quasi assalgono Elowen con domande e cambi di argomento continuo, ma le informazioni discusse sono più o meno queste:
+- Elowen e i suoi compagni fanno parte dell'equipaggio di una nave dalla quale si collegano alla rete dei terrestri tramite un segnale "pirata".
+- Le Corde Dorate non sanno la natura dell'immortalità dei Terrestri, né hanno mai rischiato di ucciderne uno per paura di essere scoperti; d'altronde le loro forze sono molto esigue (letteralmente 3 persone: Elowen, Deldrin e Alystrin).
+- Le Corde Dorate sono attualmente all'oscuro dei piani dei Cercatori e dei Terrestri; è però ovvio che la distruzione di Piren's Bluff ha portato a dei cambiamenti; bisogna scoprire quali saranno le prossime mosse dei Cercatori e che intenzioni hanno.
+- 
+
 
 ## Il nascondiglio delle Corde Dorate
 

@@ -20,6 +20,62 @@
               "icon": "lucide-file",
               "title": "Riassunto - Parte 5"
             }
+          },
+          {
+            "id": "a086cadb4e275a16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/NPC - Mostri/Le Corde Dorate_npc/Elowen -Cacciastelle- Kaela.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elowen -Cacciastelle- Kaela"
+            }
+          },
+          {
+            "id": "d7b7b7ca8a7fc739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Fazioni/Le Corde Dorate - Liberatori Galattici del Fuoco Celeste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Le Corde Dorate - Liberatori Galattici del Fuoco Celeste"
+            }
+          },
+          {
+            "id": "2c07e0f6a82c83b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Fazioni/Mondi Fantasma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mondi Fantasma"
+            }
+          },
+          {
+            "id": "c8bb182cfb02d429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Fazioni/M.O.T.H.E.R..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M.O.T.H.E.R."
+            }
           }
         ]
       }
@@ -180,8 +236,12 @@
   },
   "active": "164d61b435fbe259",
   "lastOpenFiles": [
-    "Sessioni/Parte 4_3/Parte 4_3.md",
+    "Mondo/Fazioni/Le Corde Dorate - Liberatori Galattici del Fuoco Celeste.md",
+    "Mondo/Fazioni/M.O.T.H.E.R..md",
     "Mondo/Fazioni/Mondi Fantasma.md",
+    "Mondo/NPC - Mostri/Le Corde Dorate_npc/Elowen -Cacciastelle- Kaela.md",
+    "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
+    "Sessioni/Parte 4_3/Parte 4_3.md",
     "Mondo/Fazioni/Le Corde Dorate.md",
     "Mondo/NPC/Le Corde Dorate_npc/Elowen -Cacciastelle- Kaela.md",
     "TODO.md",
