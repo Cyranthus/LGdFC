@@ -36,7 +36,8 @@
               "title": "TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "910190852f8428e4",
@@ -287,7 +288,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "50a8491ec894006b",
+  "active": "092bdbd0bc037a1e",
   "lastOpenFiles": [
     "Mondo/NPC - Mostri/Neutrali/NPC - Cora Lorely - Boss dei Ratti dei Rovi -.md",
     "_Published_/La Storia fin'ora/Riassunto - Parte 5.md",
