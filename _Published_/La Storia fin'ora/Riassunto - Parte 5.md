@@ -272,75 +272,88 @@ Dall'altra parte del portale, una giovane quanto inquietante ragazza accoglie i 
 
 ![[aly.jpg|500]]
 
-Alystrin rivela che Elowen l'ha mandata ad accoglierli e ad accompagnarli ad Almas. Inoltre rivela al gruppo la sua peculiare condizione; è un'anomalia come il resto del gruppo e inoltre ha un chip impiantato che permette la connessione remota di un altro dei compagni di Elowen / Kaela e Deldrin / Reed.
-Il gruppo lascia il seminterrato in cui è nascosto il teletrasporto, escono dall'edificio fatiscente e si ritrovano in un piccolo boschetto sul crinale di una collina, in lontananza si vede il mare e un placido e tranquillo villaggio di pescatori.
+Alystrin rivela che Elowen l'ha mandata ad accoglierli e ad accompagnarli ad Almas. Inoltre rivela al gruppo la sua peculiare condizione: è un'anomalia come il resto del gruppo e, oltre a ciò, ha un chip impiantato che permette la connessione remota con un altro dei compagni di Elowen/Kaela e Deldrin/Reed.
+Il gruppo lascia il seminterrato in cui è nascosto il teletrasporto, esce dall'edificio fatiscente e si ritrova in un piccolo boschetto sul crinale di una collina. In lontananza si vede il mare e un placido e tranquillo villaggio di pescatori.
+
 
 ## La quest
 
-alcuni membri del gruppo, entusiasti di ritrovarsi di nuovo all'aria aperta, decidono di rilassarsi un pò sulla spiaggia poco fuori la cittadina di pescatori, mentre altri entrano in città alla ricerca di qualche informazione e di una taverna.
-Non passa molto tempo che la quiete del momento viene incrinata dall'arrivo in città di ben due gruppi di Cercatori desiderosi di aiutare il prossimo. Il gruppo decide di dividersi e di tenerli d'occhio, facendosi passare per degli avventurieri indipendenti, quasi dei possibili aiutanti dei cercatori.
-I due gruppi sembrano interessati al ritrovamento del tesoro di un antico pirata di nome Souston (colui che fondò il villaggio, si dice) e alla difesa del villaggio dalle minacce del pericolo pirata e schiavista Durgan "catena rossa" Kreed; quest'ultimo ha richiesto la consegna del tesoro entro l'alba del giorno dopo o la cittadina sarebbe stata rasa al suolo.
-I due gruppi trovano particolamenre sospetti due mercanti in competizione tra loro, i fratelli Mordane; sotto gli attenti occhi dei nostri impavidi, i Cercatori cercano di strappare qualche informazione sul tesoro ma non riescono ad ottenere nulla di utile.
+Alcuni membri del gruppo, entusiasti di ritrovarsi di nuovo all'aria aperta, decidono di rilassarsi un po' sulla spiaggia poco fuori la cittadina di pescatori, mentre altri entrano in città alla ricerca di qualche informazione e di una taverna.
+Non passa molto tempo che la quiete del momento viene incrinata dall'arrivo in città di ben due gruppi di Cercatori desiderosi di aiutare il prossimo. Il gruppo decide di dividersi e di tenerli d'occhio, facendosi passare per avventurieri indipendenti, quasi dei possibili aiutanti dei Cercatori.
+I due gruppi sembrano interessati al ritrovamento del tesoro di un antico pirata di nome Souston (colui che fondò il villaggio, si dice) e alla difesa del villaggio dalla minaccia del pericoloso pirata e schiavista Durgan "Catena Rossa" Kreed; quest'ultimo ha richiesto la consegna del tesoro entro l'alba del giorno dopo, o la cittadina sarebbe stata rasa al suolo.
+I due gruppi trovano particolarmente sospetti due mercanti in competizione tra loro, i fratelli Mordane; sotto gli attenti occhi dei nostri impavidi eroi, i Cercatori cercano di strappare qualche informazione sul tesoro, ma non riescono a ottenere nulla di utile.
+
 
 ## La notte
 
-La giornata scorre veloce mentre s'indaga e l'appetito si fa sentire; sul far della sera, i Cercatori si dirigono verso la taverna per pasteggiare e riposarsi. I nostri scaltri eroi decidono di attuare il loro piano s.t.e.a.l.t.h. (Sterminio Totale Esplosivo Attirando Lontano i Tiranni Hitleriani); per evitare di dar fuoco all'intera taverna, con una scusa i nostri incontenibili avventurieri attirano uno dei due gruppi di Cercatori all'esterno della taverna, portandoli sul molo del porto.
-Qui utilizzano un'approccio molto diretto e altamente rumoroso, facendo esplodere palle di fuoco e diversi incantesimi suoi poveri Cercatori.
-Un feroce combattimento si sviluppa tra i moli del porto; la situazione sembra peggiorare quando il secondo gruppo si unisce alla pugna. Ma i nostri sterminatori preferiti riescono comunque ad avere la meglio su entrambi i gruppi, massacrandoli tutti, davanti alla piccola e attonita folla di cittadini radunatasi fuori la taverna, attirati dal trambusto dei combattimenti.
+La giornata scorre veloce mentre s'indaga e l'appetito si fa sentire; sul far della sera, i Cercatori si dirigono verso la taverna per pasteggiare e riposarsi. I nostri scaltri eroi decidono di attuare il loro piano S.T.E.A.L.T.H. (Sterminio Totale Esplosivo Attirando Lontano i Tiranni Hitleriani); per evitare di dar fuoco all'intera taverna, con una scusa i nostri incontenibili avventurieri attirano uno dei due gruppi di Cercatori all'esterno della taverna, portandolo sul molo del porto.
+
+Qui utilizzano un approccio molto diretto e altamente rumoroso, facendo esplodere palle di fuoco e diversi incantesimi sui poveri Cercatori.
+Un feroce combattimento si sviluppa tra i moli del porto; la situazione sembra peggiorare quando il secondo gruppo si unisce alla pugna. Ma i nostri sterminatori preferiti riescono comunque ad avere la meglio su entrambi i gruppi, massacrandoli tutti, davanti alla piccola e attonita folla di cittadini radunatasi fuori dalla taverna, attirata dal trambusto dei combattimenti.
+
 Le capacità persuasive di Viktor (e una buona dose di "non ho visto nulla/non voglio problemi/se non mi muovo forse non mi vedono") riescono fortunatamente a calmare gli spaventati cittadini e lo sconvolto taverniere.
 Dopo aver appagato la loro sete di sangue, i nostri guerrafondai amici decidono di riposarsi preparandosi all'arrivo del temibile capitano Kreed.
 
+
 ## Un'alba movimentata
 
-Come promesso, all'alba il capitano Kreed si presenta sorridente sul molo della cittadina, ma neanche il tempo d'intavolare una discussione che i nostri implacabili eroi scatenano sulla scialuppa una pioggia di palle di fuoco, sfasciandola in un istante.
-I combattimento incalza e i pirati vengono decimati uno dopo l'altro.
+Come promesso, all'alba il capitano Kreed si presenta sorridente sul molo della cittadina, ma non c'è neanche il tempo d'intavolare una discussione che i nostri implacabili eroi scatenano sulla scialuppa una pioggia di palle di fuoco, sfasciandola in un istante.
+Il combattimento incalza e i pirati vengono decimati uno dopo l'altro.
 Nel frattempo, Neg risponde colpo su colpo alla nave del pirata che ha cominciato a cannoneggiare il villaggio, provocando gravissimi danni con la sua temibile testa di ballista.
-In pochi istanti, i pirati sono eliminati e la nave è in procinto di affondare; all'ultimo secondo, il vile capitano Kreed si teletrasporta sulla sua nave e cerca di fuggire mentre Neg sferra un ultimo colpo che fa definitivamente affondare l'imbarcazione.
-L'esultanza però dura poco perchè ben presto viene alla luce un'amara verità... e molti cadaveri; la nave del pirata schiavista era piena di schiavi... schiavi che si rivelano ben presto essere quel che rimaneva della tribù di Doppo, inclusi suo padre, 2 fratelli e una sorella.
+
+In pochi istanti, i pirati sono eliminati e la nave è in procinto di affondare; all'ultimo secondo, il vile capitano Kreed si teletrasporta sulla sua nave e cerca di fuggire, mentre Neg sferra un ultimo colpo che fa definitivamente affondare l'imbarcazione.
+L'esultanza però dura poco, perché ben presto viene alla luce un'amara verità... e molti cadaveri; la nave del pirata schiavista era piena di schiavi... schiavi che si rivelano ben presto essere quel che rimaneva della tribù di Doppo, inclusi suo padre, due fratelli e una sorella.
+
 
 ## A volte ritornano (in questo caso no)
 
-La rivelazione prende i gruppo parecchio di sorpresa, specialmente Doppo, il quale  reagisce quasi con rifiuto. Tramite l'incantesimo parlare con i morti, Doppo viene a sapere da suo padre che sua madre è morta e che 3 suoi fratelli erano sulla nave; nonostante questo, decide di seppellire suo padre, assieme al suo passato.
+La rivelazione prende il gruppo parecchio di sorpresa, specialmente Doppo, il quale reagisce quasi con rifiuto. Tramite l'incantesimo _parlare con i morti_, Doppo viene a sapere da suo padre che sua madre è morta e che tre suoi fratelli erano sulla nave; nonostante questo, decide di seppellire suo padre, assieme al suo passato.
+
 
 ## Il Tesoro del pirata Souston
 
-Nel frattempo Alystrin, in poco tempo e con un pò di sana corruzione, riesce a trovare la chiave e l'accesso a una grotta sotterranea che contiene il tesoro di Souston... nonchè il suo guardiano.
-Dopo una serata decisamente alcolica e piena di sensi di colpa, i nostri eroi si risvegliano di buon'ora e scendono nella cantina di uno dei negozi dei fratelli Mordane, dove si trova l'accesso a un'inquietante cunicolo sottterraneo.
-Grazie alla chiave, i nostri intrepidi riescono ad accedere a un'ampia caverna sotterranea, stracolma di oro, oggetti preziosi e una balestra di straordinaria fattura...
+Nel frattempo Alystrin, in poco tempo e con un po' di sana corruzione, riesce a trovare la chiave e l'accesso a una grotta sotterranea che contiene il tesoro di Souston... nonché il suo guardiano.
+Dopo una serata decisamente alcolica e piena di sensi di colpa, i nostri eroi si risvegliano di buon'ora e scendono nella cantina di uno dei negozi dei fratelli Mordane, dove si trova l'accesso a un inquietante cunicolo sotterraneo.
+Grazie alla chiave, i nostri intrepidi eroi riescono ad accedere a un'ampia caverna sotterranea, stracolma di oro, oggetti preziosi e una balestra di straordinaria fattura...
 Il tutto sorvegliato da un'amabile aberrazione:
 
 ![[Somnalu.png]]
 
-I nostri esperti combattenti sfogano tutta la loro frustrazione contro lo schifo dai molti occhi, nonostante le notevoli capacità dell'avversario, Il gruppo pone fine alla vita di quest'orrore, figlio della perversione di Dagon e recupera balestra e tesoro.
+I nostri esperti combattenti sfogano tutta la loro frustrazione contro lo schifo dai molti occhi; nonostante le notevoli capacità dell'avversario, Il gruppo pone fine alla vita di quest'orrore, figlio della perversione di Dagon e recupera balestra e tesoro.
+
 
 ## Recupero e sepoltura dei corpi
 
-Il feroce combattimento (e il tesoro recuperato) pare abbia fatto molto bene al gruppo; i nervi sono più distesi, gli attriti ridotti, gli angoli smussati. Gli allegri compagni decidono di aiutare la popolazione di Souston nel recupero dei corpi di pirati e schiavi (e ne ritrovamento di altro oro).
+Il feroce combattimento (e il tesoro recuperato) pare abbia fatto molto bene al gruppo; i nervi sono più distesi, gli attriti ridotti, gli angoli smussati. Gli allegri compagni decidono di aiutare la popolazione di Souston nel recupero dei corpi di pirati e schiavi (e nel ritrovamento di altro oro).
+
 
 ## Il ritorno di Pruny
 
-Nel frattempo, dopo varie vicissitudini (vedi background) Pruny raggiunge i suoi vecchi compagni a Souston, prioprio mentre stanno riportando a riva i corpi.
-Tutto il gruppo è ben felice di vederla sana e salva e non più in forma di gonfiabile ripiena di energia negativa.
-Viktor e Aly si dirigono a Tal'Sindarra per vendere gli oggetti trafugati dai Cercatori e comprare più diamanti possibili, dove rivedono anche Topper che ha aperto un negozio con il suo asettico figlio lich Doppler: "Tecnoculo Scoreggiatomico di Topper & Figlio".
+Nel frattempo, dopo varie vicissitudini (vedi background) Pruny raggiunge i suoi vecchi compagni a Souston, proprio mentre stanno riportando a riva i corpi.
+Tutto il gruppo è ben felice di vederla sana e salva e non più in forma di gonfiabile ripieno di energia negativa.
+Viktor e Aly si dirigono a Tal'Sindarra per vendere gli oggetti trafugati dai Cercatori e comprare quanti più diamanti possibile, dove rivedono anche Topper, che ha aperto un negozio con il suo asettico figlio lich Doppler: "Tecnoculo Scoreggiatomico di Topper & Figlio".
+
 
 ## E invece ritornano davvero!
 
 Il gruppo e diversi popolani impiegano praticamente tutta la giornata nel radunare i cadaveri e nel portarli fuori città, sulle colline, dove verrà fatta una fossa comune.
-Doppo nel frattempo ripensa alle parole di suo padre e, dopo un'accesa e filosofica discussione osservando il volgo seppelire i cadaveri, alla fine decide di riportarlo in vita.
+Doppo, nel frattempo, ripensa alle parole di suo padre e, dopo un'accesa e filosofica discussione, osservando il volgo seppellire i cadaveri, alla fine decide di riportarlo in vita.
+
 
 ## Un barbaro a Tal'Sindarra
 
-Doppak riapre gli occhi, un misto di stupore, rabbia e basta perchè per lui sono già troppe robe tutte in una volta, lo travolge mentre rivede suo figlio, vivo, forte e tutto intero davanti a lui.
-La discussione tra i due appare strana, ma è evidente a tutti quanto, sotto, sotto, sotto, sotto, entrambi sono felici di vedere l'altro vivo e vegeto.
-Con l'aiuto di Doppak altri 7 membri dei Figli delle Sabbie Urlanti vengono riportati in vita, inclusi Doppo III, Korik II e Runna.
-Il gruppo di inteneriti eroi, decidono di affidare gli spaesati barbari alle cure della città di Tal'Sindarra e alla SAP.
+Doppak riapre gli occhi; un misto di stupore, rabbia (e basta, perché per lui sono già troppe robe tutte in una volta) lo travolge mentre rivede suo figlio, vivo, forte e tutto intero davanti a lui.
+La discussione tra i due appare strana, ma è evidente a tutti quanto, sotto sotto sotto sotto, entrambi siano felici di vedere l'altro vivo e vegeto.
+Con l'aiuto di Doppak, altri sette membri dei Figli delle Sabbie Urlanti vengono riportati in vita, inclusi Doppo III, Korik II e Runna.
+Il gruppo di inteneriti eroi decide di affidare gli spaesati barbari alle cure della città di Tal'Sindarra e alla SAP.
+
 
 ## Paranoia e carri scadenti
 
-Una volta di ritorno a Souston, il gruppo decide di riprendere il cammino verso Almas promettendosi però di voltare pagina, di cambiare vita, diventare le versioni migliori di loro stessi: Evitare di usare la violenza come prima (e unica) risposta a ogni problema o difficoltà.
-Il placido mercante Barnaby Betus non sa quanto è stato fortunato, quella mattina, nell'incontrare il nostro gruppo di neo-pacifisti eroi; nonostante l'irrefrenabile impulso di trovare qualsiasi pretesto per saltargli alla gola, i nostri eroi, quasi delusi, non trovano nulla di sbagliato o di fuori posto...
-A parte Blu che, non solo ha migliorato la ruota del carro inventando inconsapevolmente il primo prototipo di ammortizzatore per ruote (cosa che farà la fortuna di Barnaby), ma ha anche scoperto di trovare incredibilmente fastidioso lasciare i lavori a metà e le cose poco perfezionate dove sa che potrebbe migliorarle.
-Il gruppo saluta il gentile mercante con una strana sensazione di vuotezza e senza sangue innocente sulle mani.
+Una volta di ritorno a Souston, il gruppo decide di riprendere il cammino verso Almas, promettendosi però di voltare pagina, di cambiare vita, di diventare le versioni migliori di loro stessi: evitare di usare la violenza come prima (e unica) risposta a ogni problema o difficoltà.
+Il placido mercante Barnaby Betus non sa quanto sia stato fortunato, quella mattina, nell'incontrare il nostro gruppo di neo-pacifisti eroi; nonostante l'irrefrenabile impulso di trovare qualsiasi pretesto per saltargli alla gola, i nostri eroi, quasi delusi, non trovano nulla di sbagliato o di fuori posto...
+A parte Blu che non solo ha migliorato la ruota del carro, inventando inconsapevolmente il primo prototipo di ammortizzatore per ruote (cosa che farà la fortuna di Barnaby), ma ha anche scoperto di trovare incredibilmente fastidioso lasciare i lavori a metà e le cose poco perfezionate, dove sa che potrebbe migliorarle.
+Il gruppo saluta il gentile mercante con una strana sensazione di vuoto e senza sangue innocente(?) sulle mani.
 
 
 ## Arrivo ad Almas
@@ -349,59 +362,72 @@ Dopo un paio di giorni di viaggio tranquillo e senza violenza, gli intrepidi arr
 
 ![[Almas_view.jpg]]
 
-L'enorme città costiera accoglie il gruppo che i suoi mille rumori, odori di spezie e numerosi gruppi di Cercatori intenti a fare compere, riscuotere ricompense, e cercare nuove missioni.
+L'enorme città costiera accoglie il gruppo con i suoi mille rumori, gli odori di spezie e i numerosi gruppi di Cercatori intenti a fare compere, riscuotere ricompense e cercare nuove missioni.
 La stessa guardia all'ingresso rivela ai nostri insospettabili amici che ultimamente c'è molto fermento tra i Cercatori, specialmente dopo la distruzione di Piren's Bluff.
-Non appena superato l'ingresso, con rinnovata furbizia, decide di alterare il proprio aspetto e connotati, cosa assai semplice grazie all'incredibili abilità da trasformista di Viktor.
-Il gruppo, guidato da Alystrin, procede lungo una delle vie principali della città, il Viale degli Dei, un lungo viale alberato che attraversa tutta East Hill dove nella parte centrale del viale sono presenti numerose statue di divinità con molti omaggi e doni lasciati ai loro piedi. Particolare che non passa inosservato ai nostri amici sono le statue parecchio trascurate e mezze distrutte delle divinità scomparse, nessuna di queste inoltre presenta offerte sotto di essa, nessuna tranne una, quella di Pharasma, la quale, ai suoi piedi, è stato lasciato un mazzetto di rose nere senza spine.
+Non appena superato l'ingresso, con rinnovata furbizia, il nostro audace gruppo di eroi decide di alterare il proprio aspetto e i propri connotati, cosa assai semplice grazie alle incredibili abilità da trasformista di Viktor.
+Il gruppo, guidato da Alystrin, procede lungo una delle vie principali della città, il Viale degli Dei, un lungo viale alberato che attraversa tutta East Hill. Nella parte centrale del viale sono presenti numerose statue di divinità, con molti omaggi e doni lasciati ai loro piedi.
+Un particolare che non passa inosservato ai nostri amici sono le statue parecchio trascurate e mezzo distrutte delle divinità scomparse: nessuna di queste presenta offerte ai propri piedi, nessuna tranne una, quella di Pharasma, ai piedi della quale è stato lasciato un mazzetto di rose nere senza spine.
 Questo particolare rimane abbastanza impresso a Neg; in effetti, chi potrebbe mai venerare ancora una divinità scomparsa praticamente mille anni fa?
+
 
 ## Il nascondiglio delle Corde Dorate
 
 Il gruppo raggiunge finalmente il Fienile di Totter, rinomata locanda proprio sul Viale degli Dei, famosa per le sue tagliate di manzo, oltre che il posto prefissato per l'incontro con Elowen, la quale accoglie con gioia i nostri amici in incognito.
-Il gruppo ha un breve scambio poi, dopo il pasto, vengono portati nel nascondiglio vero e proprio delle Corde Dorate; il sotterraneo della cara e dolce nonnina di Elowen, mrs Guendaline.
-Qui gli eroi quasi assalgono Elowen con domande e cambi di argomento continuo, ma le informazioni discusse sono più o meno queste:
-- Elowen e i suoi compagni fanno parte dell'equipaggio di una nave dalla quale si collegano alla rete dei terrestri tramite un segnale "pirata".
-- Le Corde Dorate non sanno la natura dell'immortalità dei Terrestri, né hanno mai rischiato di ucciderne uno per paura di essere scoperti; d'altronde le loro forze sono molto esigue (letteralmente 3 persone: Elowen, Deldrin e Alystrin).
-- Le Corde Dorate sono attualmente all'oscuro dei piani dei Cercatori e dei Terrestri. Pare che la distruzione di Piren's Bluff ha portato a dei cambiamenti; bisogna scoprire quali saranno le prossime mosse dei Cercatori e che intenzioni hanno.
-- In orbita attorno al pianeta, è presente un enorme portale che permette il viaggio istantaneo delle astronavi in ogni parte del dominio Terrestre. Inoltre, Essi permettono anche la comunicazione e connessione istantanea dei Terrestri ai Cercatori "avatar".
-- I nostri eroi parlano del ritrovamento di una "stranave", nel sottosuolo, con all'interno alcuni esseri come Feisty; Elowen, che inizialmente non aveva realizzato le vere fattezze di Feisty, appare decisamente stupita e parecchio colta alla sprovvista di questa scoperta: la "stranave" infatti ha in sè ha una tecnologia il cui metodo costruttivo, pare sia oramai sconosciuto; il motore a Deriva. Tale tecnologia permette di coprire enormi distanze nello spazio in minor tempo, grazie al passaggio attraverso a un piano di esistenza chiamato appunto Deriva. Tra i Mondi Fantasma, pochissime navi hanno ancora quel sistema di navigazione, quella di Elowen e dei suoi compagni è una di quelle.
-- I Mondi Fantasma sono pianeti appartenenti a un sistema planetario creato artificialmente da un'antica entità chiamata M.O.T.H.E.R.; M.O.T.H.E.R. ha letteralmente spostato pianeti interi andando a formare questo sistema ai margini estremi della galassia, attualmente parecchio al di fuori dell'influenza dei Terrestri.
-- Il pianeta da cui proviene Elowen, nonchè uno dei più popolosi tra i mondi fantasma, si chiama Talmeris.
-- La scoperta dell'esistenza di una nave ancora funzionante dell'era della Resistenza è per Elowen importantissima; è fondamentale riuscire a recuperarla e farla uscire dal sistema sana e salva, inoltre forse in essa sono ancora presenti indizi o coordinate per trovare M.O.T.H.E.R.
-- Elowen inoltre suggerisce agli eroi di rintracciare un gruppo chiamato i "ratti dei rovi", famigerati ricettatori che possono aiutarli nel procurarsi spille dei Cercatori contraffatte.
+Il gruppo ha un breve scambio, poi, dopo il pasto, viene portato nel nascondiglio vero e proprio delle Corde Dorate: il sotterraneo della cara e dolce nonnina di Elowen, Mrs. Guendaline.
+Qui gli eroi quasi assalgono Elowen con domande e continui cambi di argomento, ma le informazioni discusse sono più o meno queste:
+
+- Elowen e i suoi compagni fanno parte dell'equipaggio di una nave dalla quale si collegano alla rete dei Terrestri tramite un segnale "pirata".
+- Le Corde Dorate non conoscono la natura dell'immortalità dei Terrestri, né hanno mai rischiato di ucciderne uno per paura di essere scoperte; d'altronde le loro forze sono molto esigue (letteralmente tre persone: Elowen, Deldrin e Alystrin).
+- Le Corde Dorate sono attualmente all'oscuro dei piani dei Cercatori e dei Terrestri. Pare che la distruzione di Piren's Bluff abbia portato a dei cambiamenti; bisogna scoprire quali saranno le prossime mosse dei Cercatori e che intenzioni abbiano.
+- In orbita attorno al pianeta è presente un enorme portale che permette il viaggio istantaneo delle astronavi in ogni parte del dominio Terrestre. Inoltre, esso permette anche la comunicazione e la connessione istantanea dei Terrestri ai Cercatori "avatar".
+- I nostri eroi parlano del ritrovamento di una "stranave", nel sottosuolo, con all'interno alcuni esseri come Feisty; Elowen, che inizialmente non aveva realizzato le vere fattezze di Feisty, appare decisamente stupita e parecchio colta alla sprovvista da questa scoperta: la "stranave" infatti ha in sé una tecnologia il cui metodo costruttivo pare sia ormai sconosciuto: il motore a Deriva. Tale tecnologia permette di coprire enormi distanze nello spazio in minor tempo, grazie al passaggio attraverso un piano di esistenza chiamato appunto Deriva. Tra i Mondi Fantasma, pochissime navi hanno ancora quel sistema di navigazione: quella di Elowen e dei suoi compagni è una di quelle.
+- I Mondi Fantasma sono pianeti appartenenti a un sistema planetario creato artificialmente da un'antica entità chiamata M.O.T.H.E.R.; M.O.T.H.E.R. ha letteralmente spostato pianeti interi, andando a formare questo sistema ai margini estremi della galassia, attualmente parecchio al di fuori dell'influenza dei Terrestri.
+- Il pianeta da cui proviene Elowen, nonché uno dei più popolosi tra i Mondi Fantasma, si chiama Talmeris.
+- La scoperta dell'esistenza di una nave ancora funzionante dell'era della Resistenza è per Elowen importantissima: è fondamentale riuscire a recuperarla e farla uscire dal sistema sana e salva; inoltre, forse al suo interno sono ancora presenti indizi o coordinate per trovare M.O.T.H.E.R.
+- Elowen inoltre suggerisce agli eroi di rintracciare un gruppo chiamato i "Ratti dei Rovi", sfuggenti ricettatori che possono aiutarli a procurarsi spille dei Cercatori contraffatte.
 
 
 ## Un nuovo approccio (si ma quanto durerà?)
 
-Dopo la discussione con Elowen, il gruppo decide di passare un pò di tempo per raccogliere informazioni sui Cercatori, sui loro movimenti, su Vossnik (che a quanto pare è in città), ecc.
-Già nella prima giornata, Viktor decide di frequentare le zone limitrofe la sede dei Cercatori, tenendo le orecchie ben tese; oltre ad avere conferma di un discreto via vai di Cercatori, Viktor sente tra le persone molta preoccupazione per la distruzione di Piren's Bluff e le dicerie sulla minaccia di un ritorno della Progenie di Rovagug. Inoltre pare che la Reggente Eletta, Andira Marusek, sia intenzionata ad organizzare un evento o una raccolta fondi per finanziare la ricostruzione di Piren's Bluff.
-Blu decide di concentrarsi nei suoi studi sui ciuschi e sul costruirne di nuovi; Elowen, in tal senso gli da una grossa mano, riuscendo a rispondere ad alcune domande e dubbi che fin'ora per lui erano un mistero.
+Dopo la discussione con Elowen, il gruppo decide di passare un po' di tempo a raccogliere informazioni sui Cercatori, sui loro movimenti, su Vossnik (che a quanto pare è in città), ecc.
+Già nella prima giornata, Viktor decide di frequentare le zone limitrofe alla sede dei Cercatori, tenendo le orecchie ben tese; oltre ad avere conferma di un discreto via vai di Cercatori, Viktor sente tra le persone molta preoccupazione per la distruzione di Piren's Bluff e le dicerie sulla minaccia di un ritorno della Progenie di Rovagug. Inoltre, pare che la Reggente Eletta, Andira Marusek, sia intenzionata a organizzare un evento o una raccolta fondi per finanziare la ricostruzione di Piren's Bluff.
+Blu decide di concentrarsi negli studi sui ciuschi e sul costruirne di nuovi; Elowen, in tal senso, gli dà una grossa mano, riuscendo a rispondere ad alcune domande e ad alcuni dubbi che finora per lui erano un mistero.
 Neg, nel frattempo, torna a tenere d'occhio la statua in rovina di Pharasma...
 
 
 ## Appostamenti notturni
 
-...e la tiene d'occhio davvero per tanto tempo, fino a notte inoltrata, quando una figura incappucciata si avvicina alla statua e lascia un nuovo mazzo di rose e poi si allontana.
+...e la tiene d'occhio davvero per tanto tempo, fino a notte inoltrata, quando una figura incappucciata si avvicina alla statua, lascia un nuovo mazzo di rose e poi si allontana.
 Neg segue la losca figura fino al distretto del teatro, dove la vede entrare in quello che sembra un vecchio teatro abbandonato.
-Neg si avvicina all'ingresso ma decide di tornare dal gruppo e tornare qui con gli altri.
+Neg si avvicina all'ingresso, ma l'avveduto halfling balestrantopo decide di ritirarsi e di tornare qui con il resto del gruppo.
 
 
 ## Incontro con il passato
 
-Il giorno dopo, Neg, Viktor, Feisty e Blu decidono di controllare l'edificio in cui Neg ha visto entrare la losca figura. 
-I nostri curiosi eroi varcano la soglia e si ritrovano in uno splendido teatro, una via di mezzo tra un cabaret, con più piani sopraelevati, con tavolini e sedute e un palco molto ampio, dove sopra di esso, illuminata da un cono di luce, s'intravede una figura adombrata, seduta su una sedia che giochicchia con una collana di perle e un vistoso cuore di rubino.
-Ben presto il gruppo si rende conto che la figura sul palco non è l'unica nella stanza; negli spalti superiori, anche se non visibili e completamente al buio, si sentono rumori e fruscii... nonchè numerose auree di non morti, la più potente delle quali si trova proprio sul palco.
-I rumori provenienti dai piani superiori smettono immediatamente non appena la figura comincia a parlare con i nostri incauti eroi, una voce femminile, calma, e gelida.
-
+Il giorno dopo, Neg, Viktor, Feisty e Blu decidono di controllare l'edificio in cui Neg ha visto entrare la losca figura.
+I nostri curiosi eroi varcano la soglia e si ritrovano in uno splendido teatro, una via di mezzo tra un cabaret, con più piani sopraelevati, con tavolini e sedute, e un palco molto ampio, sopra il quale, illuminata da un cono di luce, s'intravede una figura adombrata, seduta su una sedia, che giochicchia con una collana di perle e un vistoso cuore di rubino.
+Ben presto il gruppo si rende conto che la figura sul palco non è l'unica nella stanza; negli spalti superiori, anche se non visibili e completamente al buio, si sentono rumori e fruscii... nonché numerose aure di non morti, la più potente delle quali si trova proprio sul palco.
+I rumori provenienti dai piani superiori smettono immediatamente non appena la figura comincia a parlare con i nostri incauti eroi, con una voce femminile, calma e gelida.
 La donna si rivela presto essere colei che viene chiamata il Bocciolo Eterno, la boss dei Ratti dei Rovi.
-Fin da subito la discussione verte su un argomento che, a quanto pare, sta molto a cuore alla donna in nero; Pharasma. D'altronde, oggi giorno, sono molte poche le persone che ancora si ricordano di lei, o che sanno il suo nome.
-Non è chiaro se sia l'aria innaturale che si respira in presenza della donna o la sensazione di essere in trappola che fanno sciogliere la lingua ai nostri impressionabili eroi, ma quest'ultimi rivelano di aver visto Pharasma, o per meglio dire la cosa che forse si spacciava per essa, cosa che oramai è distrutta.
+Fin da subito la discussione verte su un argomento che, a quanto pare, sta molto a cuore alla donna in nero: Pharasma. D'altronde, al giorno d'oggi, sono ben poche le persone che ancora si ricordano di lei, o che sanno il suo nome.
+Non è chiaro se sia l'aria innaturale che si respira in presenza della donna, o la sensazione di essere in trappola, a far sciogliere la lingua ai nostri impressionabili eroi, ma questi ultimi rivelano di aver visto Pharasma, o per meglio dire la cosa che forse si spacciava per essa, cosa che ormai è distrutta.
+
 La donna si avvicina in modo fulmineo al gruppo, rivelando le sue fattezze:
 
 ![[cora.jpg|500]]
 
-In modo molto diretto chiede ai nostri viventi eroi di rivelare la posizione di Pharasma e di portarla da lei. Il gruppo comprende pienamente la reale natura della donna, ovvero una potente vampira
+In modo molto diretto chiede ai nostri eroi dal sangue caldo di rivelare la posizione di Pharasma e di portarla da lei. Il gruppo comprende pienamente la reale natura della donna: una potente vampira.
+Per un momento i toni si accendono, ma la donna non sembra avere intenzioni ostili (per ora?); anzi, rivela il suo vero nome, Cora Lorely, e qualche informazione sul suo passato e sul suo presente:
 
+- È una korvosiana, ha vissuto gli eventi della caduta della regina Ileosa e l'insediamento della sua successora, la regina Cressida Kroft.
+- Ha conosciuto Fortunata, Varkhan, Davhorn, Gurnys e Vickster e per qualche tempo ha anche collaborato con loro.
+- Era una chierica di Pharasma; dopo la caduta della regina Ileosa, i suoi superiori la riassegnarono alla regione dell'Ustalav.
+- Quando Pharasma sparì, lei e i suoi compagni stavano affrontando un pericoloso vampiro e i suoi seguaci; la perdita dei poteri portò alla sconfitta di Cora e del suo gruppo. Divenne una progenie vampirica, schiava del lord vampiro che cercò di uccidere. Dopo centinaia di anni di schiavitù, riuscì a liberarsi e a uccidere il suo padrone. Cora racconta agli eroi che detesta la sua attuale condizione, ma che decise di sfruttare questa sua immortalità per scoprire la verità, scoprire quale destino abbia subito Pharasma, salvarla se possibile, vendicarla se necessario.
+- Anche lei non vede di buon occhio i Cercatori; inoltre, sospetta che c'entrino qualcosa con il cataclisma che ha colpito Korvosa e l'impero Varisiano circa mille anni fa.
+- Può fornire aiuto al gruppo di eroi, ma prima vuole vedere la cosa che loro hanno chiamato Pharasma.
+
+Dopo questo scambio vivace, gli eroi le dicono che attualmente non possono portarla da Pharasma e che, in ogni caso, devono prima parlarne con i loro compagni.
+Cora acconsente a lasciarli uscire e fa riapparire l'accesso verso l'esterno, ma avvisa i nostri intrepidi che li terrà d'occhio...
 
 
 
