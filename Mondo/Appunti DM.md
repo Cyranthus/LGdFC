@@ -9,13 +9,6 @@ Acronimi
     Squadra Agenti Pericolosissimi  
     Specialisti Armati Prontamente)
     
-
-*   La Nave Rebellion si trova nelle Midnight Mountains
-    
-
-*   Una volta alimentata la Rebellion, Feisty
-    
-
 *   Numeria è stata distrutta dai Cercatori, ma pochissimi sanno dell'attuale stato del paese (sempre per via dell'isolazionismo creatosi durante l'ondata di non morte post distruzione Pharasma)
     
 

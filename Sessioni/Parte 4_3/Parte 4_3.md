@@ -165,7 +165,8 @@ edificio composto da:
   
 Nell'ufficio della segreteria della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità:
 
-![[note.png|600]]
+![[foglioAppunti.png]]
+
 
 Oppure addosso a Vossnik
 ##### Quartier Generale Cavalieri dell'Aquila

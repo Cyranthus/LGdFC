@@ -53,6 +53,8 @@ Divinità
 *   Aroden (nel passato): fu l'ultimo essere dell'era di Golarion, oltre a Varkhan, a vedere (e soccombere) per mano dei marine della terra in quanto stava pericolosamente sfidando.
     
 *   **Asmodus**: ucciso dagli eroi di Korvosa
+
+-   **Pharasma**: uccisa da Vickster e Gurnys
     
 *   **Norgorber**: assorbito per la creazione di [Kothogaz, Dance Of Disharmony](https://2e.aonprd.com/Monsters.aspx?ID=1730)
     

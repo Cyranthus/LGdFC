@@ -41,6 +41,8 @@ Continuamente tormentata dal disprezzo verso la sua natura e la paura di morire,
 
 Si stabilì nell'Andoran, in quanto è attualmente il paese più stabile e popoloso (Cora sa che i grandi paesi del mare interno sono molto più isolati tra loro, un pò per tensioni interne, un pò per diffidenza post-piaga dei morti).
 
+Sa che anche Numeria ha subito un attacco da parte dei Cercatori, circa 500 anni fa, ma in modo meno "evidente" rispetto alla Varisia.
+
 ## Possibile reazione ai PG
 Potrebbe diventare una potente alleata 
 
