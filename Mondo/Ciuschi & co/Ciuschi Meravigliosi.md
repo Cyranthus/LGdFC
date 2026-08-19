@@ -59,7 +59,7 @@ Per quanto riguarda la copia di incantesimi, a Toner vanno forniti 1 punto energ
 
 Secret
 
-**Chip Background**
+## Chip Background
 
 questi chip sottocutanei, permettono di alterare la coscienza, i ricordi e la volontà di un individuo, in base a quello che è memorizzato nel chip.  
 Permette quindi una sorta di riprogrammazione dell'individuo.  

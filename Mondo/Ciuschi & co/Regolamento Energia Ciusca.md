@@ -22,18 +22,16 @@ Utilizzi conosciuti con le Apparizioni
     Coscienza, pf ed equip rimangono cmq quelle del personaggio.
 
 
-Secret
+## Secret
 
 *   12 punti: l'utilizzatore padroneggia talmente tanto il suo legame con il flusso Ark che riesce ad evocare, temporaneamente (1 round x lvl) l'apparizione che agirà indipendentemente dal personaggio, usando tutte le capacità di classe/razza/talenti/ecc.
 
-
-Secret
 
 Esistono due tipi di sfruttamento della magia dei popoli magici:
 
 *   flusso Ark: -> tramite l'energia primordiale della magia si può ricaricare i dispositivi tecnologici.
 
-*   morte dell'essere vivente: -> tramite la veicolazione delle anime creata dagli stessi popoli magici, è possibile raccogliere una gran quantità di energia.
+*   morte dell'essere vivente: -> tramite la veicolazione delle anime creata dagli stessi popoli magici, è possibile raccogliere una gran quantità di energia subcosciente.
 
 
 
