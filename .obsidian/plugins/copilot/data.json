@@ -536,7 +536,7 @@
       "info": {
         "id": "default",
         "displayName": "Default (recommended)",
-        "description": "Sonnet 5 · Efficient for routine tasks"
+        "description": "Use the default model (currently Opus 5 (1M context)) · $5/$25 per Mtok"
       },
       "configuredModelId": "a2fd12a7-1159-4b88-a3cd-15e2233b02b8",
       "configuredAt": 1787132503847
@@ -546,7 +546,7 @@
       "info": {
         "id": "sonnet",
         "displayName": "Sonnet",
-        "description": "Sonnet 5 · Efficient for routine tasks"
+        "description": "Sonnet 5 · Efficient for routine tasks · $3/$15 per Mtok"
       },
       "configuredModelId": "96fa53c9-cddb-4ad1-aab3-c567cf294670",
       "configuredAt": 1787132503848
@@ -554,32 +554,22 @@
     {
       "providerId": "1097d458-0a0b-4a18-9406-d474b127b102",
       "info": {
-        "id": "claude-fable-5[1m]",
-        "displayName": "Fable",
-        "description": "Fable 5 · Most capable for your hardest and longest-running tasks · Requires usage credits"
-      },
-      "configuredModelId": "64863ae2-7d08-42a5-9e8b-af2c11f6a269",
-      "configuredAt": 1787132503849
-    },
-    {
-      "providerId": "1097d458-0a0b-4a18-9406-d474b127b102",
-      "info": {
-        "id": "opus",
-        "displayName": "Opus",
-        "description": "Opus 5 · Best for everyday, complex tasks · ~2× usage vs Sonnet"
-      },
-      "configuredModelId": "adb07539-04d0-42b4-ab49-4e04c0fa1d73",
-      "configuredAt": 1787132503849
-    },
-    {
-      "providerId": "1097d458-0a0b-4a18-9406-d474b127b102",
-      "info": {
         "id": "haiku",
         "displayName": "Haiku",
-        "description": "Haiku 4.5 · Fastest for quick answers"
+        "description": "Haiku 4.5 · Fastest for quick answers · $1/$5 per Mtok"
       },
       "configuredModelId": "d2897050-3582-4151-9737-57553ed62277",
       "configuredAt": 1787132503850
+    },
+    {
+      "providerId": "1097d458-0a0b-4a18-9406-d474b127b102",
+      "info": {
+        "id": "opus[1m]",
+        "displayName": "Opus (1M context)",
+        "description": "Opus 5 with 1M context · Best for everyday, complex tasks · $5/$25 per Mtok"
+      },
+      "configuredModelId": "74e335e2-8607-4c0c-9e54-4a1c37e5c82f",
+      "configuredAt": 1787213473434
     }
   ],
   "backends": {
@@ -587,8 +577,6 @@
       "enabledModels": [
         "a2fd12a7-1159-4b88-a3cd-15e2233b02b8",
         "96fa53c9-cddb-4ad1-aab3-c567cf294670",
-        "64863ae2-7d08-42a5-9e8b-af2c11f6a269",
-        "adb07539-04d0-42b4-ab49-4e04c0fa1d73",
         "d2897050-3582-4151-9737-57553ed62277"
       ]
     }

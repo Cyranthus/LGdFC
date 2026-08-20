@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora file"
             }
           },
           {
@@ -89,7 +89,7 @@
       {
         "id": "60ef2942eb3b3cfc",
         "type": "tabs",
-        "dimension": 74.91319444444444,
+        "dimension": 66.88218390804597,
         "children": [
           {
             "id": "fd316f39bb5dd3a0",
@@ -155,16 +155,6 @@
             }
           },
           {
-            "id": "7fcc35d2659be6c7",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
             "id": "8c8e40bc8b035144",
             "type": "leaf",
             "state": {
@@ -172,11 +162,7 @@
               "state": {
                 "calendar": "ID_bb8bd91a5a69",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 21,
-                    "month": 5,
-                    "year": 5720
-                  },
+                  "viewing": null,
                   "viewState": 0,
                   "displaying": {
                     "day": 17,
@@ -193,16 +179,6 @@
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
-            }
-          },
-          {
-            "id": "e57e6494e9498916",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
             }
           },
           {
@@ -226,44 +202,50 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       },
       {
         "id": "b97657caae851253",
         "type": "tabs",
-        "dimension": 25.086805555555557,
+        "dimension": 33.11781609195402,
         "children": [
           {
-            "id": "e69122f1c5676bc2",
+            "id": "7fcc35d2659be6c7",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_bb8bd91a5a69",
-                "id": "ID_ca489bcaebb9",
-                "parent": "ID_daaaba68ab18"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "e57e6494e9498916",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 728.5,
-    "collapsed": true
+    "width": 760.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
+      "switcher:Apri selettore rapido": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "bases:Crea nuova Base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-git:Open Git source control": false,
@@ -271,7 +253,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bf038da81ca60e03",
+  "active": "4d30426c4025c4c5",
   "lastOpenFiles": [
     "Mondo/NPC - Mostri/Neutrali/PG - Vampira Occultista Lv20.md",
     "Mondo/NPC - Mostri/Neutrali/NPC - Cora Lorely - Boss dei Ratti dei Rovi -.md",
