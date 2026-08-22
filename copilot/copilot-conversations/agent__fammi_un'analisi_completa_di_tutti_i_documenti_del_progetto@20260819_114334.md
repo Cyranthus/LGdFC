@@ -21,8 +21,8 @@ Ho fatto analizzare in parallelo tre aree del vault (Sessioni, Mondo/lore, PG-NP
 ### 🔴 Incongruenze meccaniche/regolamento (le più concrete da correggere)
 
 **Formula di ricarica batterie Korvosiane — 3 versioni diverse e incompatibili nel vault:**
-- [[Ciuschi Meravigliosi]] (Mondo/Ciuschi & co): "lvl spell × 2 cariche"
-- [[Regolamento Tecnologia Korvosiana]] (bozza): "1 lvl = 1 carica"
+- [[Mondo/House Rules/Ciuschi Meravigliosi]] (Mondo/Ciuschi & co): "lvl spell × 2 cariche"
+- [[Mondo/House Rules/Regolamento Tecnologia Korvosiana]] (bozza): "1 lvl = 1 carica"
 - [[S.A.P.]]: "lvl²  = cariche" (esponenziale)
 
 Inoltre bozza vs pubblicato di **Regolamento Tecnologia Korvosiana** hanno numeri di batteria/potenziamento completamente diversi (R.A.M. 12 vs 10 cariche, AR.P./A.M.P. +5 vs +3, Verga Planare con nodi nominati vs nodi generici colorati). Se questo regolamento è ancora in uso al tavolo, vale la pena decidere quale versione è quella "vera" e disallineare l'altra o cancellarla.

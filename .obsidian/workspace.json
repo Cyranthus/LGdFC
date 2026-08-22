@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mondo/NPC - Mostri/Neutrali/NPC - Cora Lorely - Boss dei Ratti dei Rovi -.md",
+                "file": "_Published_/Mondo/House Rules/Adattamento Armature Starfinder in Patfinder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPC - Cora Lorely - Boss dei Ratti dei Rovi -"
+              "title": "Adattamento Armature Starfinder in Patfinder"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.5
+    "width": 348.16668701171875
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -234,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 760.833251953125
+    "width": 507.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,14 +254,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4d30426c4025c4c5",
+  "active": "bf038da81ca60e03",
   "lastOpenFiles": [
-    "Mondo/NPC - Mostri/Neutrali/PG - Vampira Occultista Lv20.md",
+    "_Published_/Mondo/House Rules/Adattamento Armi Starfinder in Patfinder.md",
+    "_Published_/Mondo/House Rules/Adattamento Armature Starfinder in Patfinder.md",
+    "Mondo/House Rules/Ciuschi Meravigliosi.md",
     "Mondo/NPC - Mostri/Neutrali/NPC - Cora Lorely - Boss dei Ratti dei Rovi -.md",
-    "Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
-    "_Published_/Mondo/Ciuschi & co/Regolamento Energia Ciusca.md",
-    "Mondo/Ciuschi & co/Ciuschi Meravigliosi.md",
-    "_Published_/Mondo/Ciuschi & co/Ciuschi Meravigliosi.md",
+    "Mondo/NPC - Mostri/Neutrali/PG - Vampira Occultista Lv20.md",
+    "Mondo/House Rules/Regolamento Energia Ciusca.md",
+    "_Published_/Mondo/House Rules/Regolamento Energia Ciusca.md",
+    "_Published_/Mondo/House Rules/Ciuschi Meravigliosi.md",
     "Mondo/Apparizioni/_Main_.md",
     "_Published_/Mondo/Apparizioni/_Main_.md",
     "TODO.md",
@@ -289,8 +292,6 @@
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
     "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
     "copilot/skills/symposium-publish/SKILL.md",
-    "copilot/skills/copilot-fetch-x/SKILL.md",
-    "copilot/skills/copilot-youtube-transcript/SKILL.md",
     "_Published_/z_Images/foglioAppunti.png",
     "_Published_/z_Images/Almas_view.jpg",
     "_Published_/z_Images/aly.jpg",
