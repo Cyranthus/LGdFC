@@ -32,12 +32,3 @@ Esistono due tipi di sfruttamento della magia dei popoli magici:
 *   flusso Ark: -> tramite l'energia primordiale della magia si può ricaricare i dispositivi tecnologici.
 
 *   morte dell'essere vivente: -> tramite la veicolazione delle anime creata dagli stessi popoli magici, è possibile raccogliere una gran quantità di energia subcosciente.
-
-
-
-### Trasparenza Pathfinder 1e <-> Starfinder 1e
-
-- Armi Tek: dadi di danno dell'arma / 2
-- Armature Tek: considerare:
-  - KAC = KAC -  (livello oggetto / 2)
-  - EAC = EAC - livello oggetto / 2)
