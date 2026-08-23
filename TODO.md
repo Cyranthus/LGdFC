@@ -1,5 +1,3 @@
-- Creare le tabelle di adattamento Starfinder -> Pathfinder
-  armi, armature
 
 - Creare evento, mappe, incontri "Gran Ballo di Beneficenza"
 

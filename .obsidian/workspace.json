@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessioni/Parte 4_3/Parte 4_3.md",
+                "file": "_Published_/Mondo/House Rules/Adattamento Starfinder in Patfinder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parte 4_3"
+              "title": "Adattamento Starfinder in Patfinder"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.16668701171875
+    "width": 488.70001220703125
   },
   "right": {
     "id": "3ad3b54b94dd3ed9",
@@ -256,10 +256,12 @@
   },
   "active": "0810d1a22f1555f6",
   "lastOpenFiles": [
-    "_Published_/Mondo/House Rules/Adattamento Armi Starfinder in Patfinder.md",
+    "_Published_/Mondo/House Rules/Adattamento Armature Starfinder in Patfinder.md",
+    "_Published_/Mondo/House Rules/Adattamento Starfinder in Patfinder.md",
+    "TODO.md",
+    "Sessioni/Parte 4_3/Parte 4_3.md",
     "Mondo/House Rules/Regolamento Tecnologia Korvosiana.md",
     "Mondo/House Rules/Regolamento Energia Ciusca.md",
-    "_Published_/Mondo/House Rules/Adattamento Armature Starfinder in Patfinder.md",
     "Mondo/House Rules/Ciuschi Meravigliosi.md",
     "_Published_/Mondo/House Rules/Regolamento Tecnologia Korvosiana.md",
     "_Published_/Mondo/House Rules/Regolamento Energia Ciusca.md",
@@ -268,8 +270,6 @@
     "Mondo/NPC - Mostri/Neutrali/PG - Vampira Occultista Lv20.md",
     "Mondo/Apparizioni/_Main_.md",
     "_Published_/Mondo/Apparizioni/_Main_.md",
-    "TODO.md",
-    "Sessioni/Parte 4_3/Parte 4_3.md",
     "Mondo/NPC - Mostri/Enemies_npc/Progenie di Rovagug/Lista Progenie.md",
     "Templates/NPC - Template Variante.md",
     "copilot/copilot-conversations/agent__fammi_un'analisi_completa_di_tutti_i_documenti_del_progetto@20260819_114334.md",

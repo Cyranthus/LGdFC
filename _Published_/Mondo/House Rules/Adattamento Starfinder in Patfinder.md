@@ -4,6 +4,8 @@
 - [[#Armi Leggere|Armi Leggere]]
 - [[#Fucili / Armi da Cecchino|Fucili / Armi da Cecchino]]
 - [[#Armi Pesanti|Armi Pesanti]]
+- [[#Armature|Armature]]
+- [[#Fabbricazione Granate|Fabbricazione Granate]]
 
 
 Come costi di potenziamento delle armi, si considerano i costi per il potenziamento magico di Pathfinder (https://golarion.altervista.org/wiki/Armi_Magiche)
@@ -60,3 +62,16 @@ Come costi di potenziamento delle armi, si considerano i costi per il potenziame
 | III (9–12)               | 2d6          | +3    |
 | IV (13–16)               | 2d8          | +4    |
 | V (17–20)                | 2d10 (tetto) | +5    |
+
+### Armature
+
+Ricalcolo KAC e EAC
+  - KAC = KAC -  (livello oggetto / 2)
+  - EAC = EAC - livello oggetto / 2)
+
+
+### Fabbricazione Granate
+
+- Costo di vendita = 30 mo * livello granata (incantesimo) * livello del costruttore
+- Costo di Creazione = 15 mo * livello granata (incantesimo) * livello del costruttore
+- Tempo di creazione = 1 giornata ogni 1000 mo, minimo 1 giornata.
