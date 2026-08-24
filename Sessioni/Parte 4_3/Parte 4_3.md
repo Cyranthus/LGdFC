@@ -106,6 +106,9 @@ Nella stiva ci sono Doppak e altri 40 schiavi, tutti appartenenti alla tribù di
 il viaggio dura 3 giorni a piedi
 (probabili incontri causali, forse anche altri Cercatori di rinforzo?)
 
+
+
+
 ## Almas
 
 ### Punti d'interesse
@@ -141,9 +144,6 @@ Nel sottosuolo, dalla cantina della casa si accede a un ampio spazio a più loca
 ##### Teatro del Cigno
 L'ingresso del teatro è magico; a discrezione di Cora (o se si possiede una piccola spilla a forma di rosa nera senza spine), chi varca l'ingresso può entrare nel teatro fatiscente o nel nascondiglio dei Ratti dei Rovi.
 
-//Foto Teatro Fatiscente//
-
-//Foto Base Ratti dei Rovi//
 
 La vera Base dei Ratti dei Rovi è praticamente una Reggia Meravigliosa permanente con un ingresso accessibile secondo le regole definite da Cora.
 L'aspetto è un teatro riadattato quasi a Cabaret, con un sacco di tavoli e sedie al posto delle fila di poltrone tipiche del teatro.
@@ -153,14 +153,19 @@ La sala è completamente vuota, sul palco una poltrona con una donna seduta su d
 
 ##### Quartier Generale Regionale dei Cercatori
 
+Informazioni che si possono raccogliere
+- presenze attuali: una trentina di persone
+- c'è un garzone, Ned Barcof, che lavora per "La virtù del soldato" che spesso fa consegne riguardo a ordini, materiali, munizioni ecc per i Cercatori
+
+
 edificio composto da:
 - 3 piani sopra la superficie
 - 1 piano sotterraneo (prigioni e accesso alla base segreta)
 - base sotterranea:
   - piano -1: uffici, lettini di collegamento giocatori
-  - piano -2: portale di evacuazione d'emergenza, celle, armeria
-  - piano -3: dormitori, caserma, uffici ufficiali
-  - piano -4: laboratori - sezione R&D
+  - piano -2: portale di evacuazione d'emergenza, dormitori
+  - piano -3: celle, caserma, uffici ufficiali, armeria
+  - piano -4: laboratori - sezione R&D e messa a punto calamità
   - piano -5: hangar C-003 (Calamità 003)
   
 Nell'ufficio della segreteria della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità:

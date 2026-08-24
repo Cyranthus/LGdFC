@@ -43,6 +43,8 @@ Si stabilì nell'Andoran, in quanto è attualmente il paese più stabile e popol
 
 Sa che anche Numeria ha subito un attacco da parte dei Cercatori, circa 500 anni fa, ma in modo meno "evidente" rispetto alla Varisia.
 
+- Ha un Cercatore corrotto all'interno della sede dei Cercatori: Derek Welsinar (Gnomo Ranger, CR 10 https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/giant-killer-gnome-ranger-11/)
+
 ## Possibile reazione ai PG
 Potrebbe diventare una potente alleata 
 
