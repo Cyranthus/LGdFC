@@ -4,7 +4,6 @@ Umana
 Fighter 9 / Ranger 3
 Legale Buona
 
-
 ![[Andira Marusek_Almas.jpg]]
 
 
@@ -35,7 +34,11 @@ Volontà +7 (+9 contro paura)
 
 **STATISTICHE**
 
-**For** 20, **Des** 14, **Cos** 16, **Int** 10, **Sag** 12, **Car** 15 **Att. Base** +12; **CMB** +17; **CMD** 31 (33 contro disarmare/spezzare se impugna un'arma da taglio pesante) **Talenti** Attacco Poderoso, Colpo Critico Migliorato (spada lunga), Concentrazione sul Combattimento, Fendente, Focus nell'Arma (spada lunga), Focus nell'Arma Superiore (spada lunga), Iniziativa Migliorata, Volontà di Ferro, Punto Debole (Sfoggio Abbagliante), Infrangere le Difese, Scagliare in Rapidità, Specializzazione nell'Arma (spada lunga), Tiro in Prossimità, Resistenza **Abilità** Diplomazia +14, Intimidire +14, Percezione +16, Cavalcare +8, Sopravvivenza +10, Sapienza (nobiltà) +3, Intuizione +7 **Linguaggi** Comune, Elfico **QS** addestramento con l'armatura 2, addestramento con le armi +2 (armi da taglio pesante), Coraggio +2, esperto in animali (empatia selvatica) +5, stile di combattimento (arcieria), terreno favorito (urbano +2), traccia +1
+**For** 20, **Des** 14, **Cos** 16, **Int** 10, **Sag** 12, **Car** 15 **Att. Base** +12; **CMB** +17; **CMD** 31 (33 contro disarmare/spezzare se impugna un'arma da taglio pesante)
+**Talenti** Attacco Poderoso, Colpo Critico Migliorato (spada lunga), Concentrazione sul Combattimento, Fendente, Focus nell'Arma (spada lunga), Focus nell'Arma Superiore (spada lunga), Iniziativa Migliorata, Volontà di Ferro, Punto Debole (Sfoggio Abbagliante), Infrangere le Difese, Scagliare in Rapidità, Specializzazione nell'Arma (spada lunga), Tiro in Prossimità, Resistenza
+**Abilità** Diplomazia +14, Intimidire +14, Percezione +16, Cavalcare +8, Sopravvivenza +10, Sapienza (nobiltà) +3, Intuizione +7
+**Linguaggi** Comune, Elfico
+**QS** addestramento con l'armatura 2, addestramento con le armi +2 (armi da taglio pesante), Coraggio +2, esperto in animali (empatia selvatica) +5, stile di combattimento (arcieria), terreno favorito (urbano +2), traccia +1
 
 **ECOLOGIA**
 
