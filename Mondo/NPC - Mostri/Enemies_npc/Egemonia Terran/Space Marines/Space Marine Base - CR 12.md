@@ -1,59 +1,31 @@
 
-_Medio umanoide — Large mentre indossa l'armatura potenziata (portata 10 ft)_
+##### Difesa
 
-**Iniziativa** +6 (+2 Des, +4 Improved Initiative); **Percezione** +1
+- **PF 200** _(12d10 media+max 1°=71; CON +7×12=84; Robustezza +12; PFC umano +12)_
+- **CA** 30, contatto 25, colto alla sprovvista 27 (10 + 17 KAC / 12 EAC + 3 Des)
+- **Tempra** +15 _(+8 base + CON 7)_
+- **Riflessi** +7 _(+4 base + Des 3)_
+- **Volontà** +5 _(+4 base + Sag 1)_, **+8** contro effetti che alterano la mente
+- **CMD** 35
 
----
-#### DIFESA
+##### Offesa
+- **Iniziativa** +7 · **BAB** +12 · **CMB** +22
 
-**KAC** 30; **EAC** 25
-_(10 + 17 Imbracatura del Comandante + 2 Des [entro il cap +3] + 1 Armor Savant vesk)_
-_(10 + 11 Imbracatura del Comandante + 2 Des [entro il cap +3] + 1 Armor Savant vesk)_
+**Mischia** — Spada a Catena (+3 Mischia Avanzata)
+- Completo (3 attacchi): **+24/+19/+14** — **1d10+14** T; ×2, Sanguinamento 1d8
+- Con Attacco Poderoso: **+21/+16/+11** — **1d10+20** T
 
-Force Field: 20 HP , regen 5, capacity 5
+**Bolter, pistola** (+3 Armi Leggere)
+- Completo (3 attacchi): **+19/+14/+9** — **1d8+1d6+4** P _(bonus Sparo Ravvicinato incluso, valido entro 30 ft)_
+- Con Tiro Rapido (4° attacco dal talento, tutti −2): **+17/+17/+12/+7**
 
-**PF** 253 
+**Bolter a Due Mani** (+3 Fucili/Cecchino, ingombrante — **un solo attacco a round**)
+- **+17** — **1d10+1d6+3** E e F _(+1/+1 aggiuntivi se bersaglio entro 30 ft, non inclusi sopra)_
 
-**TS** Tempra +13, Riflessi +6, Volontà +9  
-**Resistenze** RD 3/— _(Kinetic Resistance, stile Guard 13°)_
+##### Statistiche
 
----
-#### ATTACCO
+**STR** 22 (+6) → **28 (+9)** in armatura · **DEX** 16 (+3) · **CON** 24 (+7) · **INT** 8 (−1) · **WIS** 12 (+1) · **CHA** 8 (−1)
 
-**Velocità** 30 ft (Imbracatura del Comandante)
-
-**A distanza** Machine Gun, Medium **+16/12/6** (BAB +13, Des +2, Weapon Focus +1) — 2d10 P + 10 (6 liv. + 4 Bullet Barrage) — 60 ft, automatic, capacità 60 colpi
-Pistola Bolter **+16/12/6**, 2d6 + 10
-
-**Mischia** Colpo senza armi (potenziata) **+19/14/9** (BAB +13, Str +6) — 2d8 B + 6
-Coltello da combattimento **+19/14/9**  3d4+6
-
-**Spazio** 10 ft; **Portata** 10 ft (armatura Large)
-
-**Abilità offensive** Heavy Onslaught (le armi pesanti ignorano 5 punti di RD del bersaglio), Guard's Protection (reazione: dividi il danno con un alleato adiacente)
-
----
-#### STATISTICHE
-
-**Str** 22 (+6), **Dex** 14 (+2), **Con** 20 (+5), **Int** 8 (-1), **Wis** 12 (+1), **Cha** 10 (+0)
-
-**Competenze** armatura leggera, pesante, potenziata; armi da mischia base/avanzate, small arms, longarms, armi pesanti, armi da cecchino, granate
-
-**Talenti** (13 totali — 7 generali ai liv. dispari + 6 bonus da classe ai liv. pari)  
-_Generali_: Toughness, Improved Initiative, Great Fortitude, Iron Will, Diehard, Skill Focus (Intimidate), Additional Resolve  
-_Bonus da classe_: Weapon Focus (Heavy Weapons), Deadly Aim, Coordinated Shot, Improved Combat Maneuver (Bull Rush), Penetrating Attack, Shot on the Run
-
-**Abilità** 39 ranghi disponibili (3/livello) tra: Acrobatics, Athletics, Engineering, Intimidate, Medicine, Piloting, Profession, Survival
-
-**Linguaggi** Comune, 
-
-**Altre abilità speciali** Armor Training (-1 check penalty, +1 Dex max armatura), Rapid Recovery (spende PD per sopprimere condizioni), tecniche di stile secondario (9° e 13° livello — da definire in base allo stile scelto)
-
----
-#### EQUIPAGGIAMENTO
-
-**Imbracatura del Comandante** _(Commander's Harness, liv. 15, 122.500 cr)_ — EAC +12, KAC +17, Dex max +3, check -3, Forza 28 (+9), danno mani nude 2d8 B, 3 slot arma, 2 slot upgrade
-
-**Machine Gun, Medium** _(liv. 11, 23.100 cr)_ — 3d10 P, 60 ft, 60 colpi, due mani, analog/automatic
-
-Small arm di riserva; coltello da combattimento; kit standard da fanteria
+**Talenti normali (1/3/5/7/9/11 — qualsiasi tipo):** Robustezza*, Iniziativa Migliorata*, + 4 di Combattimento a scelta tra quelli sotto  
+**Talenti bonus Guerriero (2/4/6/8/10/12 — solo Combattimento):** Attacco Poderoso, Focus dell'Arma (Mischia Avanzata), Specializzazione nell'Arma (Mischia Avanzata), Falciare, Grande Falciata, Sparo Ravvicinato, Sparo Preciso, Tiro Rapido, Focus dell'Arma (Armi Leggere), Prontezza in Combattimento  
+_(distribuzione esatta tra i 6 normali e i 6 bonus da assestare in scheda, ma il conteggio totale — 16 — resta invariato)
