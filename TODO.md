@@ -4,5 +4,6 @@
 - Creare mappe, incontri base segreta quartier generale Cercatori, 2 varianti principali:
   - numero normale Cercatori
   - numero ridotto di Cercatori perchè richiamati all'esterno della sede (il gran ballo? altri diversivi?)
+- Vicecomandante, va spesso a teatro
 
  - Definire il trigger della calamità di Almas

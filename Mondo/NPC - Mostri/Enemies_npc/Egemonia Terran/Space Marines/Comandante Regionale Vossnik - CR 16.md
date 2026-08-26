@@ -22,12 +22,12 @@
 - **BAB** +16/+11/+6/+1 · **CMB** +26
 
 **Mischia — Spada al Plasma** _(base: Plasma Sword, Yellow Star; Mischia Avanzata +4)_
-- Completo: **+29/+24/+19/+14** — Danno **2d6+15** E e F; Critico ×2
-- Con Attacco Poderoso: **+25/+20/+15/+10** — Danno **2d6+23** E e F
+- Completo: **+30/+25/+20/+15** — Danno **2d6+15** E e F; Critico ×2
+- Con Attacco Poderoso: **+25/+20/+15/+10** — Danno **2d6+25** E e F
 
 **A distanza — Pistola al Plasma** _(base: Laser Pistol, Parallax; Armi Leggere +4)_
-- Completo: **+24/+19/+14/+9** — Danno **1d10+5** F; gittata 90 ft.
-- Con Tiro Rapido (5° attacco dal talento): **+22/+22/+17/+12/+7**
+- Completo: **+25/+20/+15/+10** — Danno **1d10+7 F; gittata 90 ft.
+- Con Tiro Rapido (5° attacco dal talento): **+23/+23/+18/+13/+8**
 
 ---
 ## Statistiche
@@ -36,12 +36,12 @@
 |---|---|---|---|---|---|
 |22 (+6) → **28 (+9)** in armatura|16 (+3)|22 (+6)|12 (+1)|10 (+0)|18 (+4)|
 
-**Talenti (16):** Robustezza, Iniziativa Migliorata, Volontà di Ferro, Schivare, Mobilità, Attacco Estemporaneo _(normali, qualsiasi tipo)_ Attacco Poderoso, Falciare, Grande Falciata, Focus dell'Arma (Mischia Avanzata), Specializzazione nell'Arma (Mischia Avanzata), Focus dell'Arma (Armi Leggere), Sparo Ravvicinato, Sparo Preciso, Tiro Rapido, Prontezza in Combattimento _(bonus Guerriero, solo Combattimento)_
+**Talenti (16):** Robustezza, Iniziativa Migliorata, Volontà di Ferro, Schivare, Mobilità, Attacco Poderoso, **Incalzare**, **Incalzare Potenziato** (az, strd, un attacco a tutti i nemici a portata, finchè colpisco), Arma Focalizzata (Mischia Avanzata), Arma Specializzata (Mischia Avanzata), Arma Focalizzata (Armi Leggere), Arma Specializzata (Armi Leggere), Tiro Ravvicinato, Tiro Preciso, Tiro Rapido, Riflessi in Combattimento
 
 **Abilità speciali (Comandante Navigato):**
 
 - **Discorso Ispiratore** (3/giorno, azione rapida, durata 20 round): Ispira Coraggio +2 a tutti gli alleati che sentono / Ispira Grandezza (fino a 4 alleati bersaglio: +2d10 PF temp, +2 attacco, +1 Tempra) / Ispira Eroismo (1 alleato: +4 salvezze, +4 CA)
-- **Tattico / Tattico Superiore** (talenti di squadra, azione rapida, durata 11 round, 9 m): Fiancheggiare, Fuoco Coordinato
+- **Tattico / Tattico Superiore** (talenti di squadra, azione rapida, durata 11 round, 9 m): [Grande Fiancheggiatore](https://golarion.altervista.org/wiki/Grande_Fiancheggiatore), [Bersaglio di Opportunità](https://golarion.altervista.org/wiki/Bersaglio_di_Opportunit%C3%A0)
 - **Addestramento Armatura 2**: +1 Des max, −1 penalità armatura _(unico Addestramento Armatura rimasto — 1/3/4 sostituiti dall'archetipo)_
 - Nessun Addestramento Arma (tutti e 3 gli slot raggiunti sostituiti dall'archetipo)
 - Competenze perse per RAW: armatura pesante, scudi torre _(non applicato — Powered Armor trattata come categoria separata per convenzione di campagna)_

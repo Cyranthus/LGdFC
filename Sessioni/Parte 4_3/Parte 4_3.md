@@ -232,8 +232,8 @@ Alcuni articoli non sono attualmente acquistabili se non si è Cercatori.
 
 3 piani + 1 con camminate delle guardie + una torre di guardia
 (tipo Palazzo Vecchio di Firenze)
-Palazzo dove risiede il Reggente Eletto, protetto da circa 50 Falchi d'Acciaio.
-Vossnik sarà accompagnato da 20 cercatori
+Palazzo dove risiede il Reggente Eletto, protetto da circa 30 [Falchi d'Acciaio](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/scheming-fencer-human-fighter-11/)
+Vossnik sarà accompagnato da 16 cercatori (livello 10) e il suo Vice
 
 ![[eagleKnight.jpg]]
 
