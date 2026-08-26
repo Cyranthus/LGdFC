@@ -1,3 +1,94 @@
+**Umano Guerriero (Comandante Navigato) 16° livello** **CR** 16 · **XP** 76.800 · LN _Taglia Grande (portata 10 ft.) mentre indossa il Commander's Harness_
+
+---
+
+## Difesa
+
+**PF** 250
+**CA** 33, contatto 29, colto alla sprovvista 30 _(10 + 20 KAC  / 16 EAC  + 3 Des)
+
+**RD** 3/- (Guard, Kinetic Resistance)
+**Force Field**: 20 HP , regen 5, capacity 5
+**Adaptive Defense mk2**: (Res 10, x 10 minutes, cambia tipo di energia quando la si subisce)
+
+**Tempra** +16 _(+10 base + CON 6)_
+**Riflessi** +8 _(+5 base + Des 3)_
+**Volontà** +13 _(+5 base + Sag 0) 
+**CMD** 39
+
+---
+## Offesa
+- **Velocità** 30 ft.
+- **BAB** +16/+11/+6/+1 · **CMB** +26
+
+**Mischia — Spada al Plasma** _(base: Plasma Sword, Yellow Star; Mischia Avanzata +4)_
+- Completo: **+29/+24/+19/+14** — Danno **2d6+15** E e F; Critico ×2
+- Con Attacco Poderoso: **+25/+20/+15/+10** — Danno **2d6+23** E e F
+
+**A distanza — Pistola al Plasma** _(base: Laser Pistol, Parallax; Armi Leggere +4)_
+- Completo: **+24/+19/+14/+9** — Danno **1d10+5** F; gittata 90 ft.
+- Con Tiro Rapido (5° attacco dal talento): **+22/+22/+17/+12/+7**
+
+---
+## Statistiche
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|22 (+6) → **28 (+9)** in armatura|16 (+3)|22 (+6)|12 (+1)|10 (+0)|18 (+4)|
+
+**Talenti (16):** Robustezza, Iniziativa Migliorata, Volontà di Ferro, Schivare, Mobilità, Attacco Estemporaneo _(normali, qualsiasi tipo)_ Attacco Poderoso, Falciare, Grande Falciata, Focus dell'Arma (Mischia Avanzata), Specializzazione nell'Arma (Mischia Avanzata), Focus dell'Arma (Armi Leggere), Sparo Ravvicinato, Sparo Preciso, Tiro Rapido, Prontezza in Combattimento _(bonus Guerriero, solo Combattimento)_
+
+**Abilità speciali (Comandante Navigato):**
+
+- **Discorso Ispiratore** (3/giorno, azione rapida, durata 20 round): Ispira Coraggio +2 a tutti gli alleati che sentono / Ispira Grandezza (fino a 4 alleati bersaglio: +2d10 PF temp, +2 attacco, +1 Tempra) / Ispira Eroismo (1 alleato: +4 salvezze, +4 CA)
+- **Tattico / Tattico Superiore** (talenti di squadra, azione rapida, durata 11 round, 9 m): Fiancheggiare, Fuoco Coordinato
+- **Addestramento Armatura 2**: +1 Des max, −1 penalità armatura _(unico Addestramento Armatura rimasto — 1/3/4 sostituiti dall'archetipo)_
+- Nessun Addestramento Arma (tutti e 3 gli slot raggiunti sostituiti dall'archetipo)
+- Competenze perse per RAW: armatura pesante, scudi torre _(non applicato — Powered Armor trattata come categoria separata per convenzione di campagna)_
+
+**Abilità** (96 ranghi — 4+INT+1 umano=6/livello): Diplomazia +23, Intimidire +23, Percepire Motivazioni +19, Conoscenze (nobiltà) +20, Conoscenze (geografia) +12, Sopravvivenza +19 **Linguaggi:** Comune
+
+---
+## Equipaggiamento (Starfinder 1e)
+
+|Oggetto|Fonte|Effetto|Prezzo|
+|---|---|---|---|
+|Commander's Harness|Starfinder Armory|KAC 24→17, EAC 19→12, FOR 28 se superiore|122.500 cr|
+|Force Field, Gray (upgrade)|Core Rulebook|20 PF temp, rigen. 5|40.000 cr|
+|Spada al Plasma → base _Plasma Sword, Yellow Star_ +4 Mischia Avanzata|Core Rulebook|2d6 E e F, Ferita Grave|127.000 + 32.000|
+|Pistola al Plasma → base _Laser Pistol, Parallax_ +4 Armi Leggere|Core Rulebook|1d10 F _(nessuna "Plasma Pistol" ufficiale — approssimazione dichiarata)_|82.000 + 32.000|
+|Acceleratore Sinaptico mk3, FOR +6|Core Rulebook pg.212|+6 FOR (rilevante da disarmato)|75.000|
+|Acceleratore Sinaptico mk2, CON +4|Core Rulebook pg.212|+4 CON|6.500|
+|Acceleratore Sinaptico mk1, DEX +2|Core Rulebook pg.212|+2 DEX|1.400|
+|**Totale**|||**518.400 cr**|
+
+_(gli Acceleratori Sinaptici sono già inclusi nelle caratteristiche finali sopra riportate, non sommarli di nuovo)_
+
+---
+
+## Note tecniche di conversione
+
+- **Archetipo**: Comandante Navigato (Seasoned Commander, _Villain Codex_ pg. 164) — sostituisce il talento bonus di 1° livello e la competenza con armatura pesante/scudi torre con 4+INT ranghi abilità/livello e nuove abilità di classe (Diplomazia, Conoscenze [geografia/nobiltà], Linguistica, Percepire Motivazioni). Sostituisce Addestramento Armatura 1/3/4 con Tattico/Tattico Superiore/Ispira Eroismo, e Addestramento Arma 1/2/3 con Discorso Ispiratore/Ispira Grandezza.
+- **BAB e attacchi multipli**: verificato su tabella ufficiale del Guerriero — il 4° attacco scatta a BAB +16 (non +15), quindi esattamente a questo livello.
+- **Armatura**: Commander's Harness (Starfinder Armory, liv. oggetto 15, EAC 19/KAC 24, FOR 28, Taglia Grande, portata 10 ft.). Conversione casa: KAC = 24 − (15/2 arrotondato per difetto = 7) = 17; EAC = 19 − 7 = 12.
+- **Armi**: dado e bonus presi dalla tabella "Mischia Avanzata" e "Armi Leggere" del progetto per fascia di potenziamento IV (13°–16° livello). Nessuna "Plasma Pistol" ufficiale esiste in Starfinder 1e — usata la famiglia Laser Pistol (Parallax) come base meccanica più vicina, segnalato esplicitamente.
+- **Innesti**: Acceleratori Sinaptici (Technology), massimo 3 contemporanei (uno per modello mk1/mk2/mk3), usati al posto di oggetti magici di potenziamento caratteristiche.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Umano Soldato 15**  
 LN Medium umanoide (umano) — _diventa di Taglia Grande (portata 10 ft.) mentre indossa l'Imbracatura del Comandante_

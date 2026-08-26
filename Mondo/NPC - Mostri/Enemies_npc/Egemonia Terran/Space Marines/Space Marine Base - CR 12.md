@@ -1,11 +1,16 @@
 
 ##### Difesa
 
-- **PF 200** _(12d10 media+max 1°=71; CON +7×12=84; Robustezza +12; PFC umano +12)_
+- **PF** 200
 - **CA** 30, contatto 25, colto alla sprovvista 27 (10 + 17 KAC / 12 EAC + 3 Des)
+
+- **RD** 3/— (Guard, Kinetic Resistance)
+- Force Field: 20 HP , regen 5, capacity 5
+- Adaptive Defense mk2: (Res 10, x 10 minutes, cambia tipo di energia quando la si subisce)
+
 - **Tempra** +15 _(+8 base + CON 7)_
 - **Riflessi** +7 _(+4 base + Des 3)_
-- **Volontà** +5 _(+4 base + Sag 1)_, **+8** contro effetti che alterano la mente
+- **Volontà** +13 _(+4 base + Sag 1)_, **+8** contro effetti che alterano la mente
 - **CMD** 35
 
 ##### Offesa
