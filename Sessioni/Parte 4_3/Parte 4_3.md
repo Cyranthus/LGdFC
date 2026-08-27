@@ -230,25 +230,26 @@ Alcuni articoli non sono attualmente acquistabili se non si è Cercatori.
 
 ##### Cittadella del Reggente
 
-3 piani + 1 con camminate delle guardie + una torre di guardia
+2 piani + 1 con camminate delle guardie + una torre di guardia
 (tipo Palazzo Vecchio di Firenze)
 Palazzo dove risiede il Reggente Eletto, protetto da circa 30 [Falchi d'Acciaio](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/scheming-fencer-human-fighter-11/)
-Vossnik sarà accompagnato da 16 cercatori (livello 10) e il suo Vice
 
 ![[eagleKnight.jpg]]
 
 
-![[SteelFalcon.jpg]]
+
+Informazioni
+
+- Vossnik andrà alla festa di beneficenza indetta dal Reggente Eletto
+
+
 
 
 ## Eventi ad Almas
 
 
-- **Giorno 1**: (Potrebbe passare anche una settimana dalla discussione con Corde Dorate):
-  Il Reggente Eletto ha indetto una festa tra 2 giorni nel suo palazzo, la Cittadella del Reggente, con i più facoltosi cittadini dell'Andoran; l'evento è una raccolta fondi di beneficienza per la ricostruzione di Piren's Bluff. Vossnik e diversi Cercatori (una ventina?) di alto profilo sono invitati.
-  Ci saranno anche 2 membri del **Decemvirato** dei Cercatori.
+  Il Reggente Eletto ha indetto una festa tra 10 giorni nel suo palazzo, la Cittadella del Reggente, con i più facoltosi cittadini dell'Andoran; l'evento è una raccolta fondi di beneficienza per la ricostruzione di Piren's Bluff.
   
-- **Giorno 3**: 
 ##### Gran ballo di beneficenza
 - ingresso durante il ballo in corso
 - dopo un po' verrà richiamata l'attenzione dal Reggente Eletto che ringrazierà i partecipanti di essere intervenuti così numerosi, ricorderà per chi dovesse ancora donare di rivolgersi al tesoriere di stato (indicando a lato della sala), chiederà un minuto di silenzio per Piren's Bluff. Dopo comunicherà che ha convocato i Cercatori proprio per chiarire le dinamiche dell'attacco e discutere le prossime mosse. Il Reggente giura che farà tutto quello che è un suo potere per vendicare Piren's Bluff, fermare la SAP e scongiurare ulteriori attacchi del genere. Ringrazia di nuovo tutti e da il buon proseguimento di serata.

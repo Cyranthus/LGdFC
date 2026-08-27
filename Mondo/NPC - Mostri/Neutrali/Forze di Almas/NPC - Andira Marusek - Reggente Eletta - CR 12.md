@@ -45,51 +45,68 @@ Potrebbe diventare alleata o nemica
 - scoprire chi sono i SAP, trovare la loro base e fermarli
 
 
+**CR 12 — XP 19.200**
+Umana cavaliere 13
+LG Medium umanoide (umano)
+**Init** +6; 
+**Sensi** Percezione +11 (+13 in terreno urbano) 
 
-**CR 11 — XP 12.800**
-Umana guerriera 9/ranger 3
-LG
-Medium umanoide (umano)
-**Init** +6 (+8 in terreno urbano);
-**Senses** Percezione +16 (+18 in terreno urbano)
+**DIFESA** **CA** 26, contatto 15, colta alla sprovvista 24 *(10 +9 armatura [Corazza di mitral +3] +2 Des +3 deviazione [anello] +2 naturale [amuleto])* — **+4 CA schivare aggiuntiva contro il bersaglio della Sfida** (Ordine del Leone) 
 
-**DIFESA**
+**pf** 111 (13d10+39 [Cos +3], media) 
 
-**CA** 23, contatto 14, colta alla sprovvista 21 (+8 armatura, +2 Des, +2 deviazione, +1 naturale) **pf** 101 (12d10+36) 
 **Tempra** +14
-Riflessi +10
-Volontà +7 (+9 contro paura)
+**Riflessi** +9
+**Volontà** +8 (+10 contro paura) *(base classe +8/+4/+4, poi Cos/Des/Sag, Mantello di Resistenza +3 e Volontà di Ferro contro paura già inclusi)*
 
 **ATTACCO**
-
 **Velocità** 9 m
-**Mischia** spada lunga +1 _dragon bane_ +22/+17/+12 (1d8+8/19–20) o +24/+19/+14 (1d8+8 più 2d6 contro i draghi/19–20)
-**Distanza** arco composito mvo (For +5) +16/+11/+6 (1d8+6/×3) entro 9 m, altrimenti +15/+10/+5 (1d8+5/×3)
-**Attacchi speciali** stile di combattimento (arcieria), nemico prescelto (draghi +2)
+**Mischia** spada lunga +2 sacra +21/+16/+11 (1d8+8 più 2d6 se il bersaglio è malvagio) o, contro il bersaglio della Sfida, +21/+16/+11 (1d8+21 più 2d6 se malvagio) *(include +13 danni da Sfida)*
 
-**TATTICA**
+**Distanza** arco composito mvo (For +5) +1 +16/+11/+6 (1d8+6/×3)
 
-**Prima del combattimento** Se ha tempo, Andira usa Sfoggio Abbagliante (Dazzling Display) roteando la lama per intimidire tutti i nemici entro 9 m che possono vederla. **Durante il combattimento** Sfrutta Infrangere le Difese (Shatter Defenses): chiunque sia spaventato/scosso da lei diventa colto alla sprovvista contro i suoi attacchi in mischia finché dura la paura. Contro bersagli deboli in Tempra preferisce impugnare la spada a due mani per il bonus di Attacco Poderoso 1,5×; contro i draghi punta sempre al colpo mortale con la lama _dragon bane_. **Morale** Come Reggente Eletta, non fugge mai davanti ai suoi cittadini, ma si ritira per riorganizzare le truppe se scende sotto 1/4 dei pf.
+**Attacchi speciali** Sfida 5/giorno, Ordine del Leone (Sfida: +4 CA schivare contro il bersaglio), Tattico 2/giorno (talenti di squadra condivisi con gli alleati entro 9 m), Stendardo (alleati entro 18 m: +2 TS paura, +1 attacco in carica) 
 
-**STATISTICHE**
+**TATTICA** **Prima del combattimento** Se ha tempo, usa Sfoggio Abbagliante roteando la lama per intimidire i nemici entro 9 m che possono vederla.
 
-**For** 20, **Des** 14, **Cos** 16, **Int** 10, **Sag** 12, **Car** 15 **Att. Base** +12; **CMB** +17; **CMD** 31 (33 contro disarmare/spezzare se impugna un'arma da taglio pesante)
-**Talenti** Attacco Poderoso, Colpo Critico Migliorato (spada lunga), Concentrazione sul Combattimento, Fendente, Focus nell'Arma (spada lunga), Focus nell'Arma Superiore (spada lunga), Iniziativa Migliorata, Volontà di Ferro, Punto Debole (Sfoggio Abbagliante), Infrangere le Difese, Scagliare in Rapidità, Specializzazione nell'Arma (spada lunga), Tiro in Prossimità, Resistenza
-**Abilità** Diplomazia +14, Intimidire +14, Percezione +16, Cavalcare +8, Sopravvivenza +10, Sapienza (nobiltà) +3, Intuizione +7
-**Linguaggi** Comune, Elfico
-**QS** addestramento con l'armatura 2, addestramento con le armi +2 (armi da taglio pesante), Coraggio +2, esperto in animali (empatia selvatica) +5, stile di combattimento (arcieria), terreno favorito (urbano +2), traccia +1
+**Durante il combattimento** Dichiara la Sfida sul nemico più pericoloso, poi sfrutta Infrangere le Difese: chi è spaventato/scosso da lei diventa colto alla sprovvista contro i suoi attacchi in mischia finché dura la paura. Contro bersagli deboli in Tempra impugna la spada a due mani per il bonus di Attacco Poderoso; contro nemici malvagi punta sempre al colpo con la lama sacra. Usa Tattico per condividere Sopravvento o Coordinare la Carica con la sua scorta (ora meccanicamente i suoi Aiutanti di Campo).
+**Morale** Come Reggente Eletta, non fugge mai davanti ai suoi cittadini, ma si ritira per riorganizzare le truppe se scende sotto 1/4 dei pf.
 
-**ECOLOGIA**
+**STATISTICHE** **For** 22, **Des** 14, **Cos** 16, **Int** 10, **Sag** 12, **Car** 15
+**Att. Base** +13; **CMB** +19; **CMD** 34 
 
-**Ambiente** qualsiasi (Andoran, in particolare Almas) **Organizzazione** unica (spesso scortata da 2–8 Falchi d'Acciaio o Corsari Grigi) **Tesoro** standard PNG (spada lunga +1 _dragon bane_, corazza a scaglie di mithral +2, anello di protezione +2, amuleto di armatura naturale +1, mantello di resistenza +2, arco composito mvo [For +5] con 20 frecce, sigillo da Reggente Eletta, abiti da cerimonia raffinati)
+**Talenti** Focus nell'Arma (spada lunga) [bonus umana, 1°], Attacco Poderoso (3°), Iniziativa Migliorata (5°), Sfoggio Abbagliante (7°), Colpo Critico Migliorato (spada lunga) (9°), Infrangere le Difese (11°), Volontà di Ferro (13°), Fendente 
 
----
+**Talenti di squadra** (concessi da Tattico/Tattico Superiore, condivisibili con gli alleati per alcuni round): Sopravvento (Outflank), Coordinare la Carica (Coordinated Charge) 
 
-### Note tecniche sulla costruzione (RAW)
+**Abilità** Diplomazia +14, Intimidire +14, Percezione +11 (+13 in terreno urbano), Cavalcare +8, Sopravvivenza +8, Conoscenze (nobiltà) +14 (utilizzabile anche senza gradi, per l'Ordine del Leone), Conoscenze (locale) +11, Intuizione +7 
 
-- **BAB** +12 (guerriero e ranger sono entrambi classi BAB pieno, quindi BAB = livello personaggio).
-- **CR 11** segue la regola standard "PNG con soli livelli di classe → CR = livello personaggio – 1" (12 – 1 = 11), la stessa logica per cui il Dragon Smiter (Paladino 13, riferimento citato nel file di sessione Parte 4_3) è CR 12.
-- **Ordine di progressione**: ranger 1–3, poi guerriero 4–12 — narrativamente coerente con la sua carriera (giovane esploratrice/cacciatrice, poi comandante militare dei Falchi d'Acciaio).
-- **Nemico prescelto: draghi** e la lama _dragon bane_ sono una scelta tematica legata al soprannome "Dragon Smiter" citato nel file di sessione — non è copiato dal blocco ufficiale (classe diversa), ma ne raccoglie il riferimento narrativo.
-- **Ricchezza**: l'equipaggiamento (~41.000 mo) è ben sotto la piena ricchezza da PG di livello 12 (108.000 mo secondo la Table: Character Wealth by Level), quindi non fa scattare la regola "PNG con ricchezza da PG = CR+1". È più ricco della tabella NPC Gear ridotta standard, il che è esplicitamente permesso per PNG ricorrenti/importanti come una Reggente Eletta.
-- **Verifica comparativa**: statistiche confrontate con la Table: Monster Statistics by CR (CR 11) e con due PNG ufficiali analoghi — General (Umano guerriero 11, CR 10, GameMastery Guide) e Bounty Hunter (Umano ranger 12, CR 11, NPC Codex). Tutto in linea, **tranne il bonus di attacco in mischia (+22), circa +3 sopra la media attesa per CR 11** (~+19), dovuto all'accumulo di Focus nell'Arma + Focus nell'Arma Superiore + Addestramento con le Armi + incantamento sulla stessa arma. Scelta mantenuta intenzionalmente più "calda" della media, su richiesta.
+**Linguaggi** Comune, Elfico 
+
+**QS** - **Ordine del Leone**: Sfida (+1 CA schivare/4 liv. contro il bersaglio, al 13°: +4); *Rallegrare le Truppe* (2°, azione standard, alleati entro 18 m ottengono TS contro paura +Car e +1 competenza ad attacco per round pari al livello); *Per il Re* (8°, 1/combattimento, azione rapida, alleati entro 9 m ottengono +Car ad attacco e danno per 1 round); Conoscenze (locale)/(nobiltà) come abilità di classe. - 
+
+**Cavalcatura**: destriero, come compagno animale di druido con liv. cavaliere come liv. effettivo. 
+- **Carica del Cavaliere** (3°): +4 anziché +2 in carica a cavallo, nessuna penalità CA dopo la carica. 
+- **Addestratore Esperto** (4°);
+- **Stendardo** (5°: +2 TS paura/+1 attacco in carica, alleati entro 18 m); 
+- **Tattico Superiore** (9°: un secondo talento di squadra condivisibile); 
+- **Carica Poderosa** (11°). 
+
+**Generale Ardito** (archetipo):
+- **Aiutanti di Campo** (6°, sostituisce i talenti bonus di classe di 6°/12°/18°: Leadership modificata — i seguaci possono avere solo livelli da Guerriero, le coorti solo classi a BAB pieno e devono essere almeno 4 livelli sotto Andira); 
+- **Sfida Condivisa** (12°, sostituisce Sfida Esigente: alleati e coorti entro 9 m ottengono +4 morale ad attacco contro il bersaglio quando lei dichiara la Sfida). 
+
+**Tesoro** 
+| Slot | Oggetto | Effetto | Prezzo (mo) | Fonte |
+| Arma | **Spada lunga +2 sacra** | +2 potenziamento; **sacra**: arma allineata al bene (supera RD/bene), +2d6 danni contro creature malvagie, impone un livello negativo permanente a chi malvagio la impugni (non rimovibile mentre è in mano) | 32.315 | Core Rulebook |
+| Armatura | Corazza di mitral +3 | +9 CA totale (base +6, mitral, nessuna penalità di prova aggiuntiva) | 13.350 | Core Rulebook |
+| Anello | Anello di Protezione +3 | +3 deviazione alla CA | 18.000 | Core Rulebook |
+| Collo | Amuleto di Armatura Naturale +2 | +2 naturale alla CA | 8.000 | Core Rulebook |
+| Spalle | Mantello di Resistenza +3 | +3 a tutti i TS | 9.000 | Core Rulebook |
+| Vita | Cintura del Vigore Fisico +2 (For) | +2 For | 4.000 | Ultimate Equipment |
+| Distanza | Arco composito mvo (For +5) +1 | arma a distanza secondaria | 2.900 | Core Rulebook |
+| Munizioni | 20 frecce +1 | | 800 | Core Rulebook |
+| Oggetto tenuto | Stendardo dell'Ordine del Leone | oggetto Piccolo o superiore, non magico, necessario per Stendardo | ~50 | — |
+| Varie | Sigillo da Reggente Eletta, abiti da cerimonia raffinati, pozioni di cura ferite gravi (×4), pergamene minori, riserva liquida (oro, gemme, oggetti d'arte) |
+| ~19.585 | — | 
+**Totale** |  **~110.000** |
