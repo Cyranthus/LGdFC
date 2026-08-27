@@ -28,6 +28,7 @@
 **A distanza — Pistola al Plasma** _(base: Laser Pistol, Parallax; Armi Leggere +4)_
 - Completo: **+25/+20/+15/+10** — Danno **1d10+7 F; gittata 90 ft.
 - Con Tiro Rapido (5° attacco dal talento): **+23/+23/+18/+13/+8**
+- Linea: quest'arma spara un proiettile in una linea retta che penetra più creature od ostacoli. Quando si attacca con quest'arma, si effettua un singolo [Tiro per Colpire](https://starfinder.altervista.org/wiki/Tiro_per_Colpire "Tiro per Colpire") e lo si paragona alla [Classe Armatura](https://starfinder.altervista.org/wiki/Classe_Armatura "Classe Armatura") appropriata di tutte le creature e gli oggetti in una linea che si estende fino all'[Incremento di Gittata](https://starfinder.altervista.org/wiki/Effetti_Caratteristici#Incremento_di_Gittata "Effetti Caratteristici") indicato per l'arma. I [Danni](https://starfinder.altervista.org/wiki/Danno "Danno") si tirano una sola volta. L'arma colpisce tutti i bersagli con una [CA](https://starfinder.altervista.org/wiki/CA "CA") pari o inferiore al [Tiro per Colpire](https://starfinder.altervista.org/wiki/Tiro_per_Colpire "Tiro per Colpire"); tuttavia, se un attacco non riesce a danneggiare una creatura o un ostacolo presenti sulla linea (di solito per la durezza o la riduzione del danno), il proiettile si blocca e l'attacco non danneggia le creature più lontane.
 
 ---
 ## Statistiche

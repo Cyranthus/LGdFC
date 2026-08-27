@@ -46,7 +46,9 @@ Sa che anche Numeria ha subito un attacco da parte dei Cercatori, circa 500 anni
 - Ha un Cercatore corrotto all'interno della sede dei Cercatori: Derek Welsinar (Gnomo Ranger, CR 10 https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/giant-killer-gnome-ranger-11/)
 
 ## Possibile reazione ai PG
-Potrebbe diventare una potente alleata 
+Potrebbe diventare una potente alleata
+- può fornire spille contraffatte per la base dei Cercatori
+- ha un Cercatore (NPC) corrotto all'interno (che gli fornisce le spille), Annika Galfrey, possono provare a contattarlo
 
 ## Problema Attivo
 Sta ancora cercando risposte riguardo a Pharasma
@@ -158,7 +160,6 @@ Raggirare +38 (+8 razziale), Diplomazia +30, Rendersi Irriconoscibile +30, Volar
 
 **10 poteri selezionati (come richiesto):**
 | # | Potere | Scuola | Costo | Prereq. liv. |
-|---|---|---|---|---|
 | 1 | Discordia Mentale | Ammaliamento | 1 focus | — |
 | 2 | Visione Pericolosa | Divinazione | 1 focus (immediata) | 3° |
 | 3 | Maledizione Parapsichica | Negromanzia | 1 focus | 5° |
