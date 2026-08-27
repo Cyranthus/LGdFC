@@ -6,6 +6,45 @@ Legale Buona
 
 ![[Andira Marusek_Almas.jpg]]
 
+## Storia
+Nasce come ufficiale della marina andoriana (ex corsari grigi), ha combattuto per diversi anni nel mare interno, contro le navi schiaviste Cheliaxiane e contro gli eserciti della Cittadella di Krane e delle città stato di Ostenso e Laekastel (sempre Cheliaxiane).
+Dopo qualche anno da ammiraglio, lascia la marina e si candida alle politiche nel partito dei Liberti, diventando molto rapidamente capo partito ed infine Reggente Eletto, già al suo secondo mandato.
+## Ruolo / Fazione
+Segretaria del Partito dei Liberti, attuale capo del governo.
+## Aspetto
+Donna di bell'aspetto, con tutte le tracce delle battaglie che ha vissuto; carnagione abbronzata, da donna di mare.
+## Manierismo / Voce distintiva
+voce tonante e ferma, atteggiamento marziale dovuto agli anni di servizio militare.
+## Personalità
+E' molto risoluta e diretta; si sa mettere in discussione ed è molto rispettata, specialmente dai militari.
+#### Passioni
+il mare, le manca solcare i mari con la sua nave
+#### Avversioni
+odia i bugiardi e chi la prende in giro
+#### Punti di Forza
+determinata, carismatica
+#### Punti di Debolezza
+poco paziente con i bugiardi e i viscidi
+## Obiettivi a Breve Termine
+- ricostruire Piren's Bluff, vuole la verità su Piren's Bluff
+  - organizza la cena proprio per questi)
+- Evitare l'attacco di altre Progenie
+- fermare la Setta Anarchica della Progenie
+  - ha creato un'unità speciale mista di componenti dalla Legione Dorata, Falchi d'Acciaio e Artigli del Crepuscolo, per investigare e scovare i membri della SAP
+  - richiede aggiornamenti settimanali sui progressi dei Cercatori riguardo la SAP e Piren's Bluff
+## Obiettivi a Lungo Termine
+- Migliorare il paese, rendere sempre più solido il consenso dei Liberti
+- Finire il suo mandato e riprendere il mare
+## Legame con la trama / fazione
+E' a capo del governo dell'Andoran
+## Ganci e/o segreti
+
+## Relazione con i PG
+Potrebbe diventare alleata o nemica
+## Problema Attivo / Quest
+- scoprire chi sono i SAP, trovare la loro base e fermarli
+
+
 
 **CR 11 — XP 12.800**
 Umana guerriera 9/ranger 3

@@ -23,8 +23,8 @@ S'infervora e appassiona se si parla di qualcosa che non sa riguardo ad antichi 
 
 ## Obiettivo attuale
 - Vuole scoprire che fine ha fatto Pharasma/chi l'ha uccisa; vuole scoprire che fine hanno fatto gli altri dei.
-- Ha già provato ad infiltrarsi tra i Cercatori per raccogliere informazioni/depredare possibili oggetti magici/artefatti utili, ma non ha mai scoperto nulla di veramente utile.
-- Sa che le spille dei Cercatori tracciano la posizione dei portatori,
+- Ha già provato ad infiltrarsi tra i Cercatori per raccogliere informazioni/depredare possibili oggetti magici/artefatti utili, ha un contatto all'interno.
+- Sa che le spille dei Cercatori tracciano la posizione dei portatori
 
 ## Legame con la trama / fazione
 neutrale
@@ -61,13 +61,16 @@ Sfera intrappolante (monouso): contiene un [Balor](https://golarion.altervista.o
 **Iniziativa** +11 (+7 Des, +4 Iniziativa Migliorata) · **Sensi** scurovisione 60 ft., Percezione +35
 
 ### CA
-**CA 44**, contatto 33, a sorpresa 35 *(10 +10 armatura [Carbon Skin, Nanotube](https://www.aonsrd.com/ArmorDisplay.aspx?ItemName=Nanotube&Family=Carbon%20Skin)] +7 Des +11 naturale [+6 template, +5 amuleto] +5 deflessione [anello] +1 schivare)*
+**CA 47**, contatto 45, a sorpresa 39 *(10 +13 KAC / 11 EAC armatura [Carbon Skin, Nanotube](https://www.aonsrd.com/ArmorDisplay.aspx?ItemName=Nanotube&Family=Carbon%20Skin)] +7 Des +11 naturale [+6 template, +5 amuleto] +5 deflessione [anello] +1 schivare)*
 
 ### PF
 **pf 250** (20d8+140 [Car. +7]; +20 Vigore) — **guarigione rapida 5**
 
 ### Tiri Salvezza
-**TS** Tempra +17, Riflessi +20, Volontà +19 *(basi di classe +12/+6/+12, poi mod. caratteristica, Riflessi Fulminei e Mantello di Resistenza +5 già inclusi)*
+**TS** Tempra +17
+Riflessi +20
+Volontà +21
+*(basi di classe +12/+6/+12, poi mod. caratteristica, Riflessi Fulminei e Mantello di Resistenza +5 già inclusi)*
 **Resistenza al Channeling** +4 · **Immunità** tratti dei non morti (incl. effetti-mente, veleno, sonno, paralisi, stordimento, malattia, effetti di morte, assorbimento di livello/energia) · **Resistenza** freddo 10, elettricità 10 · **RD** 10/magico e argento
 **Debolezze** debolezze vampiriche (aglio, specchi, simboli sacri; acqua corrente; luce diretta del sole; paletto di legno nel cuore; non può entrare in un'abitazione privata senza invito)
 
@@ -164,7 +167,7 @@ Raggirare +38 (+8 razziale), Diplomazia +30, Rendersi Irriconoscibile +30, Volar
 | 2 | Visione Pericolosa | Divinazione | 1 focus (immediata) | 3° |
 | 3 | Maledizione Parapsichica | Negromanzia | 1 focus | 5° |
 | 4 | Scudo di Energia | Abiurazione | 1 focus (2 se immediata) | 3° |
-| 5 | **Bestia d'Ombra** ⚠️ | *Illusione (vedi nota)* | 1 focus | 9° |
+| 5 | **Bestia d'Ombra** | *Illusione (vedi nota)* | 1 focus | 9° |
 | 6 | Globo di Negazione | Abiurazione | 3 focus | 11° |
 | 7 | Rapidità | Trasmutazione | 1 focus | 5° |
 | 8 | Mente Batte Gravità | Trasmutazione | 1 focus | 7° |
@@ -176,14 +179,14 @@ Raggirare +38 (+8 razziale), Diplomazia +30, Rendersi Irriconoscibile +30, Volar
 
 **Trucchetti** *(a volontà)*: resistenza (Abi.), individuazione magia (Div.), daze (Amm.), scintilla (Evo.), tocco dell'affaticamento (Necro.), mano magica (Trasm.), stabilizzare (Invo.)
 
-| Liv. | Abiurazione | Divinazione | Ammaliamento | Evocazione | Negromanzia | Trasmutazione | Invocazione |
-|---|---|---|---|---|---|---|---|
-| 1° | protezione dagli incantesimi | anticipare il pericolo | ammaliare persona | tocco elettrico | causare paura | ritirata precipitosa | servitore invisibile |
-| 2° | resistere all'energia | vedere l'invisibile | rendere ottuso | oscurità | falsa vita | scalata ragnesca | polvere scintillante |
-| 3° | dissolvi magie | vista arcana | tenere persona | palla di fuoco | animare morti | rapidità (haste) | destriero fantasma |
-| 4° | ancora dimensionale | localizzare creatura | ammaliare mostro | muro di fuoco | paura | camminare nell'aria | porta dimensionale |
-| 5° | dissolvi magie superiore | vedere il vero | dominare persona | cono di freddo | soffocamento | telecinesi | teletrasporto |
-| 6° | campo anti-magia | scrutare superiore | ammaliare mostro (di massa) | catena di fulmini | mano crudele (harm) | disintegrare | via di fuga (getaway) |
+| Liv. | Abiurazione              | Divinazione            | Ammaliamento                | Evocazione        | Negromanzia                                                                                                                                  | Trasmutazione                                                                                                                 | Invocazione           |
+| ---- | ------------------------ | ---------------------- | --------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| 1°   | Scudo                    | anticipare il pericolo | ammaliare persona           | tocco elettrico   | [Infliggi Ferite Leggere](https://golarion.altervista.org/wiki/Incantesimi/Infliggi_Ferite_Leggere "Incantesimi/Infliggi Ferite Leggere")    | [Lame di Piombo](https://golarion.altervista.org/wiki/Incantesimi/Lame_di_Piombo "Incantesimi/Lame di Piombo")                | servitore invisibile  |
+| 2°   | resistere all'energia    | vedere l'invisibile    | rendere ottuso              | oscurità          | vita falsata                                                                                                                                 | [Scassinare](https://golarion.altervista.org/wiki/Incantesimi/Scassinare "Incantesimi/Scassinare")                            | polvere scintillante  |
+| 3°   | dissolvi magie           | vista arcana           | tenere persona              | palla di fuoco    | animare morti                                                                                                                                | velocità                                                                                                                      | destriero fantasma    |
+| 4°   | ancora dimensionale      | localizzare creatura   | ammaliare mostro            | muro di fuoco     | [Infliggi Ferite Critiche](https://golarion.altervista.org/wiki/Incantesimi/Infliggi_Ferite_Critiche "Incantesimi/Infliggi Ferite Critiche") | [Sciame di Pergamene](https://golarion.altervista.org/wiki/Incantesimi/Sciame_di_Pergamene "Incantesimi/Sciame di Pergamene") | porta dimensionale    |
+| 5°   | dissolvi magie superiore | vedere il vero         | dominare persona            | cono di freddo    | [Asfissia](https://golarion.altervista.org/wiki/Incantesimi/Asfissia "Incantesimi/Asfissia")                                                 | volo giornaliero                                                                                                              | teletrasporto         |
+| 6°   | campo anti-magia         | scrutare superiore     | ammaliare mostro (di massa) | catena di fulmini | [Possessione Superiore](https://golarion.altervista.org/wiki/Incantesimi/Possessione_Superiore "Incantesimi/Possessione Superiore")          | disintegrare                                                                                                                  | via di fuga (getaway) |
 
 *Incantesimi/giorno indicativi (bonus da Int inclusi): 1°–8, 2°–8, 3°–7, 4°–7, 5°–7, 6°–6 al giorno; il master può affinare con la tabella ufficiale.*
 
