@@ -520,7 +520,7 @@
       "info": {
         "id": "default",
         "displayName": "Default (recommended)",
-        "description": "Sonnet 5 · Efficient for routine tasks"
+        "description": "Use the default model (currently Opus 5 (1M context)) · $5/$25 per Mtok"
       },
       "configuredModelId": "a2fd12a7-1159-4b88-a3cd-15e2233b02b8",
       "configuredAt": 1787132503847
@@ -530,7 +530,7 @@
       "info": {
         "id": "sonnet",
         "displayName": "Sonnet",
-        "description": "Sonnet 5 · Efficient for routine tasks"
+        "description": "Sonnet 5 · Efficient for routine tasks · $2/$10 per Mtok"
       },
       "configuredModelId": "96fa53c9-cddb-4ad1-aab3-c567cf294670",
       "configuredAt": 1787132503848
@@ -540,7 +540,7 @@
       "info": {
         "id": "haiku",
         "displayName": "Haiku",
-        "description": "Haiku 4.5 · Fastest for quick answers"
+        "description": "Haiku 4.5 · Fastest for quick answers · $1/$5 per Mtok"
       },
       "configuredModelId": "d2897050-3582-4151-9737-57553ed62277",
       "configuredAt": 1787132503850
@@ -548,22 +548,12 @@
     {
       "providerId": "1097d458-0a0b-4a18-9406-d474b127b102",
       "info": {
-        "id": "claude-fable-5[1m]",
-        "displayName": "Fable",
-        "description": "Fable 5 · Most capable for your hardest and longest-running tasks · Requires usage credits"
+        "id": "opus[1m]",
+        "displayName": "Opus (1M context)",
+        "description": "Opus 5 with 1M context · Best for everyday, complex tasks · $5/$25 per Mtok"
       },
-      "configuredModelId": "cda2103a-6908-44c0-92ec-1cca686495ab",
-      "configuredAt": 1787817577093
-    },
-    {
-      "providerId": "1097d458-0a0b-4a18-9406-d474b127b102",
-      "info": {
-        "id": "opus",
-        "displayName": "Opus",
-        "description": "Opus 5 · Best for everyday, complex tasks · ~2× usage vs Sonnet"
-      },
-      "configuredModelId": "41dd8c48-edae-49e3-a69b-2efdb0a88d03",
-      "configuredAt": 1787817577093
+      "configuredModelId": "d2aaaf1c-e301-4a3e-94b7-65cb0f5f2e1f",
+      "configuredAt": 1787872034214
     }
   ],
   "backends": {

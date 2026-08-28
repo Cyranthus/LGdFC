@@ -159,7 +159,7 @@ Informazioni che si possono raccogliere
 
 
 edificio composto da:
-- 3 piani sopra la superficie
+- 2 piani sopra la superficie
 - 1 piano sotterraneo (prigioni e accesso alla base segreta)
 - base sotterranea:
   - piano -1: uffici, lettini di collegamento giocatori
@@ -168,7 +168,7 @@ edificio composto da:
   - piano -4: laboratori - sezione R&D e messa a punto calamità
   - piano -5: hangar C-003 (Calamità 003)
   
-Nell'ufficio della segreteria della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità:
+- Nell'ufficio della segreteria della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità:
 
 ![[foglioAppunti.png]]
 
