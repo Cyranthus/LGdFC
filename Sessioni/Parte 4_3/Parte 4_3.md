@@ -144,38 +144,9 @@ Nel sottosuolo, dalla cantina della casa si accede a un ampio spazio a più loca
 ##### Teatro del Cigno
 L'ingresso del teatro è magico; a discrezione di Cora (o se si possiede una piccola spilla a forma di rosa nera senza spine), chi varca l'ingresso può entrare nel teatro fatiscente o nel nascondiglio dei Ratti dei Rovi.
 
-
 La vera Base dei Ratti dei Rovi è praticamente una Reggia Meravigliosa permanente con un ingresso accessibile secondo le regole definite da Cora.
 L'aspetto è un teatro riadattato quasi a Cabaret, con un sacco di tavoli e sedie al posto delle fila di poltrone tipiche del teatro.
 La sala è completamente vuota, sul palco una poltrona con una donna seduta su di essa (Cora).
-
-#### **Campo della Concordia**
-
-##### Quartier Generale Regionale dei Cercatori
-
-Informazioni che si possono raccogliere
-- presenze attuali: una trentina di persone
-- c'è un garzone, Ned Barcof, che lavora per "La virtù del soldato" che spesso fa consegne riguardo a ordini, materiali, munizioni ecc per i Cercatori
-
-
-edificio composto da:
-- 3 piani sopra la superficie
-- 1 piano sotterraneo (prigioni e accesso alla base segreta)
-- base sotterranea:
-  - piano -1: uffici, lettini di collegamento giocatori
-  - piano -2: portale di evacuazione d'emergenza, dormitori
-  - piano -3: celle, caserma, uffici ufficiali, armeria
-  - piano -4: laboratori - sezione R&D e messa a punto calamità
-  - piano -5: hangar C-003 (Calamità 003)
-  
-Nell'ufficio della segreteria della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità:
-
-![[foglioAppunti.png]]
-
-
-Oppure addosso a Vossnik
-##### Quartier Generale Cavalieri dell'Aquila
-
 
 
 #### **Mercantile District** 
@@ -225,6 +196,44 @@ Alcuni articoli non sono attualmente acquistabili se non si è Cercatori.
 ##### Mercante magie lvl 12
 
 
+### **Informazioni che si possono raccogliere**
+- presenze attuali quartier generale Cercatori: una trentina di persone (GS da 8 a 15 e 8 GS 17)
+- c'è un garzone, Ned Barcof, che lavora per "La virtù del soldato" che spesso fa consegne riguardo a ordini, materiali, munizioni ecc per i Cercatori
+- ci sono 3 prese d'aria sul tetto, nascoste da invisibilità
+- il vice comandante Ricken spesso, di sera, va a vedere spettacoli teatrali
+- tra 2 giorni va in scena la prima dell'ultimo spettacolo della Compagnia dei Comici Erranti: **"Sette Notti a Daggermark"** — commedia scanzonata, farsesca, piena di equivoci e travestimenti in una città chiamata Daggermark, città-stato dei Regni dei Fiumi confinante con l'Andoran, nota proprio per essere governata da gilde di ladri e assassini.
+- Il Reggente Eletto ha indetto una festa tra 10 giorni nel suo palazzo, la Cittadella del Reggente, con i più facoltosi cittadini dell'Andoran; l'evento è una raccolta fondi di beneficienza per la ricostruzione di Piren's Bluff.
+- Vossnik andrà alla festa di beneficenza indetta dal Reggente Eletto
+
+
+#### **Campo della Concordia**
+
+##### Quartier Generale Regionale dei Cercatori
+
+**Dettagli mappe**
+- piano terra: 4) guardie d'ingresso 8) cortile addestramento con armi a distanza 17-20) sala allenamenti 14) sala pranzo 15) pranzo ufficiali 11-13) orto, dispensa e cucine 21-22) uffici biblioteca e studi privati 24) biblioteca 23-27-28-29) alloggi servitù 
+
+- piano primo: 34-41, 49) alloggi cercatori 42) sala eventi/riunioni 43-45) stanze del comandante 46-48) stanze del vicecomandante  
+
+- piano sotterraneo: 70) ascensore base segreta (l'ingresso in pietra si apre solo se Cercatori con spille di alto grado -o contraffatte da Cora-) 57-63) zona guardie 52-56, 64-68) prigioni
+
+- base sotterranea:
+  - piano -1: uffici, lettini di collegamento giocatori
+  - piano -2: portale di evacuazione d'emergenza, dormitori
+  - piano -3: celle, caserma, uffici ufficiali, armeria
+  - piano -4: laboratori - sezione R&D e messa a punto calamità
+    1) 2 cilindri contengono 2 corpi, entrambi parecchio consumati. 2 schermi sono accesi davanti a loro, ci sono diversi parametri mostrato e una sorta di orologio che va avanti da decenni. il dispositivo sta misurando la durata del corpo e nel frattempo sta richiamando energia da essa
+  - piano -5: hangar C-003 (Calamità 003)
+  
+Nell'ufficio della segreteria della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità:
+
+![[appunti.png]]
+
+Oppure addosso a Vossnik o al vicecomandante
+
+
+##### Quartier Generale Cavalieri dell'Aquila
+
 
 #### **Liberty District**
 
@@ -235,13 +244,6 @@ Alcuni articoli non sono attualmente acquistabili se non si è Cercatori.
 Palazzo dove risiede il Reggente Eletto, protetto da circa 30 [Falchi d'Acciaio](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-10/scheming-fencer-human-fighter-11/)
 
 ![[eagleKnight.jpg]]
-
-
-
-Informazioni
-
-- Vossnik andrà alla festa di beneficenza indetta dal Reggente Eletto
-
 
 
 
