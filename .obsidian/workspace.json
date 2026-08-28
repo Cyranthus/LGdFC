@@ -1,50 +1,14 @@
 {
   "main": {
-    "id": "a20664dc35427cef",
+    "id": "5395880671f55dc4",
     "type": "split",
     "children": [
       {
-        "id": "c7fb193cb4f78622",
+        "id": "fd9f01e23e46d852",
         "type": "tabs",
-        "dimension": 47.066326530612244,
         "children": [
           {
-            "id": "973afd4bee66c71c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessioni/Parte 4_3/Parte 4_3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parte 4_3"
-            }
-          }
-        ]
-      },
-      {
-        "id": "42c396f761d33b89",
-        "type": "tabs",
-        "dimension": 52.933673469387756,
-        "children": [
-          {
-            "id": "7c2c057e13a83c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mondo/NPC - Mostri/Neutrali/Forze di Almas/NPC - Andira Marusek - Reggente Eletta - CR 12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NPC - Andira Marusek - Reggente Eletta - CR 12"
-            }
-          },
-          {
-            "id": "395c02b8a2f0a5c1",
+            "id": "415df2de4c13417b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Vice comandante Ricken Garland - CR 12"
             }
-          },
-          {
-            "id": "857f62d66489c7a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mondo/NPC - Mostri/Neutrali/Ratti dei Rovi/NPC - Annika Galfrey - CR 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NPC - Annika Galfrey - CR 8"
-            }
           }
         ]
       }
@@ -77,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "984e890ddda24a30",
+    "id": "fdbc86c413205245",
     "type": "split",
     "children": [
       {
-        "id": "f66424ae081c8ec1",
+        "id": "ec3ed1302d46b3e5",
         "type": "tabs",
         "children": [
           {
-            "id": "37f0ea15dbea55b2",
+            "id": "d85854d8597bd2d9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -100,7 +50,7 @@
             }
           },
           {
-            "id": "8f0c26ef32f6c575",
+            "id": "d39f2930734b22c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -113,42 +63,44 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Ricerca"
             }
           },
           {
-            "id": "8134bb5d0dcf4fd9",
+            "id": "8473c810acf0d6b2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Segnalibri"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 300
   },
   "right": {
-    "id": "3ad3b54b94dd3ed9",
+    "id": "f79921a494472dc7",
     "type": "split",
     "children": [
       {
-        "id": "60ef2942eb3b3cfc",
+        "id": "e94e490bbf91d6d0",
         "type": "tabs",
-        "dimension": 52.34375,
         "children": [
           {
-            "id": "fd316f39bb5dd3a0",
+            "id": "baf41bda4fa38ddc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mondo/NPC/Le Corde Dorate_Maleducate/Elowen -Cacciastelle- Kaela.md",
-                "collapseAll": true,
+                "file": "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Vice comandante Ricken Garland - CR 12.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -157,25 +109,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Elowen -Cacciastelle- Kaela"
+              "title": "Riferimenti"
             }
           },
           {
-            "id": "43d0f5a7d902b02a",
+            "id": "649c628038c0391e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mondo/NPC/Le Corde Dorate_Maleducate/Elowen -Cacciastelle- Kaela.md",
+                "file": "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Vice comandante Ricken Garland - CR 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Elowen -Cacciastelle- Kaela"
+              "title": "Collegamenti in uscita"
             }
           },
           {
-            "id": "5fc9f0418dfa478f",
+            "id": "8510981bcaf2aa99",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -186,71 +138,26 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etichette"
             }
           },
           {
-            "id": "8bd446ce578c2fff",
+            "id": "8c5f143f7d5fe652",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mondo/NPC - Mostri/Neutrali/Ratti dei Rovi/NPC - Cora Lorely - Boss dei Ratti dei Rovi - CR 22.md",
+                "file": "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Vice comandante Ricken Garland - CR 12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Struttura"
             }
           },
           {
-            "id": "8c8e40bc8b035144",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_bb8bd91a5a69",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 0,
-                  "displaying": {
-                    "day": 17,
-                    "month": 5,
-                    "year": 5720
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_daaaba68ab18"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "4d30426c4025c4c5",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-agent-chat-view",
-              "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent"
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "b97657caae851253",
-        "type": "tabs",
-        "dimension": 47.65625,
-        "children": [
-          {
-            "id": "7fcc35d2659be6c7",
+            "id": "799f5dd5e67d5bca",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -260,7 +167,7 @@
             }
           },
           {
-            "id": "e57e6494e9498916",
+            "id": "a0e3c405118b8b3b",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -270,12 +177,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,52 +199,6 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "973afd4bee66c71c",
-  "lastOpenFiles": [
-    "Mondo/NPC - Mostri/Neutrali/Forze di Almas/NPC - Andira Marusek - Reggente Eletta - CR 12.md",
-    "Sessioni/Parte 4_3/Parte 4_3.md",
-    "_Published_/z_Images/pianoPrimoCercatori.webp",
-    "_Published_/z_Images/pianoTerraCercatori.webp",
-    "_Published_/z_Images/piano sotterraneo.webp",
-    "_Published_/z_Images/piano 1.webp",
-    "_Published_/z_Images/piano T.webp",
-    "Starfinder Rules/Wound.md",
-    "Templates/NPC - Template.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Vice comandante Ricken Garland - CR 12.md",
-    "Mondo/NPC - Mostri/Neutrali/NPC - Sarya Velynnor (Drow Chierica 12).md",
-    "Templates/NPC - Template Variante.md",
-    "Mondo/NPC - Mostri/Neutrali/Ratti dei Rovi/NPC - Cora Lorely - Boss dei Ratti dei Rovi - CR 22.md",
-    "Mondo/NPC - Mostri/Neutrali/Ratti dei Rovi/NPC - Annika Galfrey - CR 8.md",
-    "Mondo/NPC - Mostri/SAP_npc/Yavanna Sunleaf - Oracolo (6).md",
-    "Mondo/NPC - Mostri/SAP_npc/Guerriero Rowan Greymark (6).md",
-    "Mondo/NPC - Mostri/SAP_npc/Magus Emric Hawkstone (6).md",
-    "Mondo/NPC - Mostri/SAP_npc/Pistolero Cailynn Farrow (6).md",
-    "Mondo/NPC - Mostri/SAP_npc/Rhaevan Varconis.md",
-    "TODO.md",
-    "_Published_/z_Images/Ambrus_Valsin.webp",
-    "_Published_/z_Images/annika.webp",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Comandante Regionale Vossnik - CR 16.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Space Marine Base - CR 12.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Cercatori_npc/Gruppo Vetarano 2 - CR 17/Pistolero - Milo -Sei Colpi- Tarrocchio.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Cercatori_npc/Gruppo Vetarano 2 - CR 17/Witch - Ondrelle Nottescura.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Cercatori_npc/Gruppo Vetarano 2 - CR 17/Oracolo - Padre Corin Salvestrelli.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Cercatori_npc/Gruppo 1 - CR 9/Aldren Falcochiaro Gnome Druid 10 - CR 9.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Cercatori_npc/Gruppo 2 - CR 9/Untitled",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Cercatori_npc/Gruppo Vetarano 2 - CR 17/Barbaro - Vareska Sangue di Ferro.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Cercatori_npc/Gruppo Vetarano 1 - CR 17/Mago - Magister Ilyana Vespernera.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Cercatori_npc/Gruppo Vetarano 1 - CR 17/Ranger - Fenwick Ramoscello.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Cercatori_npc/Gruppo Vetarano 1 - CR 17/Chierico - Sorella Aemera Colombosole.md",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Cercatori_npc/Gruppo Vetarano 2 - CR 17",
-    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Cercatori_npc/Gruppo Vetarano 1 - CR 17",
-    "_Published_/z_Images/Chemnosit.jpg",
-    "Mondo/NPC - Mostri/Neutrali/Ratti dei Rovi",
-    "Mondo/NPC - Mostri/Neutrali/Forze di Almas",
-    "copilot/copilot-conversations",
-    "copilot/skills/obsidian-cli/LICENSE",
-    "copilot/skills/obsidian-cli",
-    "copilot/skills/json-canvas/LICENSE",
-    "copilot/skills/json-canvas/references",
-    "_Published_/z_Images/foglioAppunti.png",
-    "_Published_/z_Images/Almas_view.jpg"
-  ]
+  "active": "415df2de4c13417b",
+  "lastOpenFiles": []
 }
