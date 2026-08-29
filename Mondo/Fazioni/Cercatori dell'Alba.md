@@ -1,4 +1,7 @@
 
+Nome nave attorno al pianeta: **Martello Silente**
+Capitano della Martello Silente: **Cassian Thane**
+
 #### Scopi Pubblici
 - estirpare il male
 - ricerca di antichi artefatti

@@ -5,6 +5,8 @@ https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-12/brutal-warlord-half-orc-fight
 ![[Ambrus_Valsin.webp]]
 
 
+Mondo di origine: Feran Tahl
+
 Arma a distanza:
 **Pistola al Plasma** _(base: Laser Pistol, Parallax; Armi Leggere +4)_
 - Completo: **19/+14/+9 ** — Danno **1d10+4 F; gittata 90 ft.

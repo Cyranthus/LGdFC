@@ -10,6 +10,7 @@ Cora Lorely / Bocciolo Eterno (Boss dei Ratti dei Rovi)
 Vampira Occultista - lvl 20
 Il suo nascondiglio è a North End, nel Distretto del Teatro, all'interno di un vecchio teatro in rovina.
 
+Jander / Valerius
 ## Aspetto
 Capelli biondi lucenti
 Occhi azzurro ghiaccio
@@ -115,7 +116,6 @@ Raggirare +38 (+8 razziale), Diplomazia +30, Rendersi Irriconoscibile +30, Volar
 
 **Talenti da PG (11 totali: 10 da livello + 1 bonus umana)**
 | # | Talento | Effetto in breve |
-|---|---|---|
 | 1 (bonus umana, 1°) | Concentrazione in Combattimento | +4 su prove di concentrazione mentre subisce danno lanciando incantesimi |
 | 2 (1°) | Focalizzazione sugli Incantesimi (Necromanzia) | +1 CD incantesimi di Negromanzia |
 | 3 (3°) | **Focus Mentale Extra** | +2 punti focus mentale |

@@ -13,12 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Vice comandante Ricken Garland - CR 12.md",
+                "file": "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Vice comandante Vlosnik Garland - CR 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vice comandante Ricken Garland - CR 12"
+              "title": "Vice comandante Vlosnik Garland - CR 12"
+            }
+          },
+          {
+            "id": "ec1a176868da8404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Space Marine Base - CR 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Space Marine Base - CR 12"
+            }
+          },
+          {
+            "id": "5bdd9ae689707596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Published_/Mondo/House Rules/Ciuschi Meravigliosi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ciuschi Meravigliosi"
+            }
+          },
+          {
+            "id": "2513e7c4a55c6342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Published_/Mondo/House Rules/Regolamento Tecnologia Korvosiana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regolamento Tecnologia Korvosiana"
+            }
+          },
+          {
+            "id": "ccfbcd75494d7946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Fazioni/Egemonia Terran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Egemonia Terran"
+            }
+          },
+          {
+            "id": "7b2985e7bca0cda6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Fazioni/Cercatori dell'Alba.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cercatori dell'Alba"
+            }
+          },
+          {
+            "id": "e415b02429aea6bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/NPC - Mostri/Neutrali/Ratti dei Rovi/NPC - Cora Lorely - Boss dei Ratti dei Rovi - CR 22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NPC - Cora Lorely - Boss dei Ratti dei Rovi - CR 22"
             }
           }
         ]
@@ -83,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 426.3000183105469
   },
   "right": {
     "id": "f79921a494472dc7",
@@ -181,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370.2999267578125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,5 +285,24 @@
     }
   },
   "active": "415df2de4c13417b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Space Marine Base - CR 12.md",
+    "_Published_/z_Images/Almas_Map.jpg",
+    "Sessioni/Parte 4_3/Parte 4_3.md",
+    "_Published_/z_Images/piano sotterraneo.webp",
+    "_Published_/z_Images/piano T.webp",
+    "_Published_/z_Images/piano 1.webp",
+    "_Published_/Mondo/House Rules/Ciuschi Meravigliosi.md",
+    "_Published_/Mondo/House Rules/Regolamento Tecnologia Korvosiana.md",
+    "Mondo/NPC - Mostri/Neutrali/Ratti dei Rovi/NPC - Cora Lorely - Boss dei Ratti dei Rovi - CR 22.md",
+    "Mondo/Fazioni/Egemonia Terran.md",
+    "Mondo/Fazioni/Cercatori dell'Alba.md",
+    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Vice comandante Vlosnik Garland - CR 12.md",
+    "_Published_/z_Images/appunti.png",
+    "_Published_/z_Images/Ambrus_Valsin.webp",
+    "_Published_/Mondo/Apparizioni/Sap di Gurnys (Gurnys)/Descrizione e Visione.md",
+    "Mondo/NPC - Mostri/Le Corde Dorate_npc/Elowen -Cacciastelle- Kaela.md",
+    "Mondo/NPC - Mostri/Le Corde Dorate_npc/Reed - Deldrin Baleson.md",
+    "_Published_/z_Images/Almas_view.jpg"
+  ]
 }

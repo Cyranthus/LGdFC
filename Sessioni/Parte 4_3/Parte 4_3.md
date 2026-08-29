@@ -148,7 +148,7 @@ La vera Base dei Ratti dei Rovi è praticamente una Reggia Meravigliosa permanen
 L'aspetto è un teatro riadattato quasi a Cabaret, con un sacco di tavoli e sedie al posto delle fila di poltrone tipiche del teatro.
 La sala è completamente vuota, sul palco una poltrona con una donna seduta su di essa (Cora).
 
-<<<<<<< HEAD
+
 #### **Campo della Concordia**
 
 ##### Quartier Generale Regionale dei Cercatori
@@ -170,15 +170,11 @@ edificio composto da:
   
 - Nell'ufficio della segreteria della base (piano -1) si trovano varie scartoffie con il programma calendarizzato delle prossime calamità:
 
-![[foglioAppunti.png]]
 
 
 Oppure addosso a Vossnik
 ##### Quartier Generale Cavalieri dell'Aquila
 
-
-=======
->>>>>>> fe8f5997d137f79a73f0072426fbdd4dcc168530
 
 #### **Mercantile District** 
 
@@ -221,6 +217,7 @@ Alcuni articoli non sono attualmente acquistabili se non si è Cercatori.
 |[Trident of the Storm Captain](https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Trident+of+the+Storm+Captain)|109.665 gp|
 |[Gelugon Armor](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Gelugon+Armor)|117.650 gp|
 
+
 ##### Mercante di oggetti meravigliosi lvl 12
 
 
@@ -232,7 +229,7 @@ Alcuni articoli non sono attualmente acquistabili se non si è Cercatori.
 - c'è un garzone, Ned Barcof, che lavora per "La virtù del soldato" che spesso fa consegne riguardo a ordini, materiali, munizioni ecc per i Cercatori
 - ci sono 3 prese d'aria sul tetto, nascoste da invisibilità
 - il vice comandante Ricken spesso, di sera, va a vedere spettacoli teatrali
-- tra 2 giorni va in scena la prima dell'ultimo spettacolo della Compagnia dei Comici Erranti: **"Sette Notti a Daggermark"** — commedia scanzonata, farsesca, piena di equivoci e travestimenti in una città chiamata Daggermark, città-stato dei Regni dei Fiumi confinante con l'Andoran, nota proprio per essere governata da gilde di ladri e assassini.
+- tra 2 giorni nel teatro **La Maschera d'Avorio** va in scena la prima dell'ultimo spettacolo della Compagnia dei Comici Erranti: **"Sette Notti a Daggermark"** — commedia scanzonata, farsesca, piena di equivoci e travestimenti in una città chiamata Daggermark, città-stato dei Regni dei Fiumi confinante con l'Andoran, nota proprio per essere governata da gilde di ladri e assassini.
 - Il Reggente Eletto ha indetto una festa tra 10 giorni nel suo palazzo, la Cittadella del Reggente, con i più facoltosi cittadini dell'Andoran; l'evento è una raccolta fondi di beneficienza per la ricostruzione di Piren's Bluff.
 - Vossnik andrà alla festa di beneficenza indetta dal Reggente Eletto
 
