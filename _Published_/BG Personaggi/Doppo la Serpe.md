@@ -17,3 +17,16 @@ Finita la copulata, dove palesemente Topper resta incinta, i due si separano, co
 Il figlio nato dall'unione, Dopper, da grande diventa ossessionato da Dajenne e nella sua follia brucia la casa della performer, uccidendo sua moglie e sua figlia.
 
 Sono passati tanti anni e Topper è stato cacciato dalla famiglia per le sue malefatte... così, decide di trovare Doppo e farsi dare gli alimenti...
+
+
+
+
+**Pugilato diplomatico dei veri Gentlemen**
+
+Prerequisiti: diplomazia 5, colpo senz’armi migliorato
+
+Quando si esegue attacchi senz’armi non letali, si può aggiungere danni diplomatici ai propri attacchi se si usano frasi riguardanti l’andamento del mercato/il capitalismo/frasi motivazionali/frasi persuasive riguardanti le proprie ragioni e/o l’importanza di essere sempre la miglior versione di se stessi!
+Se gli attacchi vanno a segno, si aggiunge al danno di ogni attacco il proprio grado di diplomazia / 3 (arrotondato per difetto).
+Se l’avversario viene messo KO con un attacco diplomatico, il suo atteggiamento farà un passo verso l’amichevole rispetto all’atteggiamento di partenza (se inizialmente l’atteggiamento era ostile, a fine… discussione il suo atteggiamento sarà maldisposto; se era indifferente sarà amichevole), come per una prova di diplomazia riuscita.  
+Questa tecnica può essere usata per esaurire una disputa o chiarire una discussione tra gentlemen; il primo che manda KO l’altro ha ragione, punto.
+Il bersaglio dev’essere in grado di comprendere il pg.
