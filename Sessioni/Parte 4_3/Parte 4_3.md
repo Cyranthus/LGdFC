@@ -230,7 +230,7 @@ Alcuni articoli non sono attualmente acquistabili se non si è Cercatori.
 - ci sono 3 prese d'aria sul tetto, nascoste da invisibilità
 - il vice comandante Ricken spesso, di sera, va a vedere spettacoli teatrali
 - tra 2 giorni nel teatro **La Maschera d'Avorio** va in scena la prima dell'ultimo spettacolo della Compagnia dei Comici Erranti: **"Sette Notti a Daggermark"** — commedia scanzonata, farsesca, piena di equivoci e travestimenti in una città chiamata Daggermark, città-stato dei Regni dei Fiumi confinante con l'Andoran, nota proprio per essere governata da gilde di ladri e assassini.
-- Il Reggente Eletto ha indetto una festa tra 10 giorni nel suo palazzo, la Cittadella del Reggente, con i più facoltosi cittadini dell'Andoran; l'evento è una raccolta fondi di beneficienza per la ricostruzione di Piren's Bluff.
+- Il Reggente Eletto ha indetto una festa tra 7 giorni nel suo palazzo, la Cittadella del Reggente, con i più facoltosi cittadini dell'Andoran; l'evento è una raccolta fondi di beneficienza per la ricostruzione di Piren's Bluff.
 - Vossnik andrà alla festa di beneficenza indetta dal Reggente Eletto
 
 
