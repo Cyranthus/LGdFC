@@ -95,7 +95,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora file"
             }
           },
           {
@@ -235,26 +235,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
+      "switcher:Apri selettore rapido": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "bases:Crea nuova Base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "copilot:Open Copilot Agent Chat": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2f570c39387e9aeb",
+  "active": "7de6ac463eac30bd",
   "lastOpenFiles": [
+    "_Published_/z_Images/doppoPruny.png",
+    "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Comandante Regionale Vossnik - CR 16.md",
     "Mondo/NPC - Mostri/Enemies_npc/Egemonia Terran/Space Marines/Vice comandante Vlosnik Garland - CR 12.md",
     "Sessioni/Parte 4_3/Parte 4_3.md",
     "_Published_/La Storia fin'ora/Riassunto - Parte 6.md",
-    "doppoPruny.png",
     "_Published_/z_Images/Doppo-1.webp",
     "_Published_/z_Images/Doppo_3.jpg",
     "_Published_/z_Images/Doppo_2.jpg",

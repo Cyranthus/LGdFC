@@ -25,11 +25,10 @@ Una volta ritornati sul piano materiale, Cora ringrazia in modo abbastanza... as
 ## Prove indiscrete ed elaborazione piani
 ---
 
-I nostri oramai pacifici avventurieri, continuano a raccogliere informazioni sui Cercatori, sui loro movimenti, facendo appostamenti e ascoltando le chiacchiere cittadine.
-Oltre al già citato gala di beneficienza che si terrà alla Cittadella del Reggente tra una settimana, un informazione attira particolarmente l'attenzione del gruppo: il vice comandante Vlosnik Garland
-è un grande appassionato di spettacoli teatrali e proprio tra 2 giorni, nel teatro  La Maschera d'Avorio, andrà in scena la prima dell'ultimo spettacolo della Compagnia dei Comici Erranti: **"Sette Notti a Daggermark"**, commedia scanzonata, farsesca, piena di equivoci e travestimenti in una città chiamata Daggermark (famosa città-stato dei Regni dei Fiumi confinante con l'Andoran, nota proprio per essere governata da gilde di ladri e assassini).
+I nostri ormai pacifici avventurieri continuano a raccogliere informazioni sui Cercatori e sui loro movimenti, facendo appostamenti e ascoltando le chiacchiere cittadine.
+Oltre al già citato gala di beneficenza che si terrà alla Cittadella del Reggente tra una settimana, un’informazione attira particolarmente l’attenzione del gruppo: il vicecomandante Vlosnik Garland è un grande appassionato di spettacoli teatrali e proprio tra due giorni, nel teatro La Maschera d’Avorio, andrà in scena la prima dell’ultimo spettacolo della Compagnia dei Comici Erranti: **“Sette Notti a Daggermark”**, una commedia scanzonata e farsesca, piena di equivoci e travestimenti, ambientata in una città chiamata Daggermark (famosa città-stato dei Regni dei Fiumi confinante con l’Andoran, nota proprio per essere governata da gilde di ladri e assassini).
 
-La nostra squadra altamente specializzata di spie, pianifica un piano di rapimento nei minimi dettagli, considerando ogni possibile scenario, creando piani alternativi per ogni evenienza...
+La nostra squadra altamente specializzata di spie pianifica un rapimento nei minimi dettagli, considerando ogni possibile scenario e creando piani alternativi per ogni evenienza...
 
 
 ## Il rapimento
@@ -38,21 +37,20 @@ La nostra squadra altamente specializzata di spie, pianifica un piano di rapimen
 ![[Ambrus_Valsin.webp|300]]
 *il bersaglio*
 
-... E il rapimento va incredibilmente bene, tutto fila liscio come l'olio; il vice comandante Vlosnik viene fatto sparire senza destare il minimo sospetto nelle due guardie che lo scortavano: i nostri eroi riescono ad eseguire un rapimento con sostituzione di persona in maniera impeccabile.
+...e il sequestro di persona va incredibilmente bene, tutto fila liscio come l’olio; il vicecomandante Vlosnik viene fatto sparire senza destare il minimo sospetto nelle due guardie che lo scortavano: i nostri eroi riescono a eseguire un rapimento con sostituzione di persona in maniera impeccabile.
 
 ![[doppoPruny.png]]
 *Doppo e Pruny perfettamente immedesimati nel loro ruolo*
 
-
-La nostra Pruny, colei che sostituisce Vlosnik, si ritrova scortata direttamente dentro il quartier generale regionale dei Cercatori, riuscendo ad arrivare alle sue stanze.
-Ad un tratto, una potente entità s'insinua tra i pensieri di Pruny; il pericolosissimo demone Greedy-Balla, che, nel giro di pochi secondi, ha rischiato di mandare a donne di facili costumi l'intera operazione...
-Ripreso pienamente il controllo di sè Pruny e i suoi compagni portano la loro vittima nel posto più sicuro che conoscono: il semipiano di Vickster.
+La nostra Pruny, colei che sostituisce Vlosnik, si ritrova scortata direttamente dentro il quartier generale regionale dei Cercatori, riuscendo ad arrivare alle sue stanze.  
+A un tratto, una potente entità s’insinua tra i pensieri di Pruny: il pericolosissimo demone Greedy-Balla, che, nel giro di pochi secondi, ha rischiato di mandare a donne di facili costumi l’intera operazione...  
+Ripreso pienamente il controllo di sé, Pruny e i suoi compagni portano la loro vittima nel posto più sicuro che conoscono: il semipiano di Vickster.
 
 
 ## L'interrogatorio
 ---
 
-I nostri carcerieri etici, usano parecchi risorse sul resistente Vice-comandante e i loro sforzi vengono ripagati con diverse informazioni (e nuove domande):
+I nostri carcerieri etici usano parecchie risorse sul resistente vicecomandante e i loro sforzi vengono ripagati con diverse informazioni (e nuove domande):
 
 - L'Immortalità è l'ottavo Sacramento concesso dalla Chiesa Unificata a tutti i Terrestri (durante il battesimo).
 - Il sacramento dell'Immortalità è concesso tramite il Cruciforme.
@@ -69,3 +67,4 @@ I nostri carcerieri etici, usano parecchi risorse sul resistente Vice-comandante
 Inoltre, i nostri eroi recuperano questo documento dagli oggetti personali di Vlosnik:
 
 ![[appunti.png]]
+
